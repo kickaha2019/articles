@@ -1,0 +1,37 @@
+Title:
+	Issues on OSX 10.10 (Yosemite)
+
+Text:
+	[https://support.apple.com/mail Apple Mail] frequently
+	hangs for minutes, fails to save account changes, autonomously modifies
+	your settings. Too clever by half, feels like they only tested it for
+	Cloud based mail.
+
+	Moved ~/Library/Containers/com.apple.mail to backup directory.
+
+Code:
+	Moved to using [https://www.postbox-inc.com/ Postbox] which may not be sexy but is solid (what I want
+	in a Mail client). I then moved to using my iPad for mail instead.
+
+Text:
+	X11 needs to be installed for applications like ImageMagick.
+
+Code:
+	[https://support.apple.com/en-gb/HT201341 Apple Support] guides one to [https://www.xquartz.org/ XQuartz].
+
+Text:
+	SSH failed to my website after domain moved to new server, complaining about possible spoofing.
+
+Code:
+	Simplest answer is to remove the ''known_hosts'' file in the user's .ssh folder.
+
+Text:
+	AppStore always gives "This item is temporarily unavailable. Try again later." messages.
+
+Code:
+	See threads like [https://discussions.apple.com/thread/6622317 Xcode 6.1 unavailable].
+	Cleaning the Darwin user cache for the AppStore by:
+
+	rm -rf "$(getconf DARWIN_USER_CACHE_DIR)/com.apple.appstore"
+
+	may help. Multiple causes.

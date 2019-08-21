@@ -1,0 +1,16 @@
+Title:
+	Card 2013
+
+Date:
+	December 15th 2013
+
+Centre:
+  Card2013.jpg
+
+Text:
+	"Card 2013" is a Christmas card for 2013 masquerading as a sequence of
+	hidden object puzzles, or perhaps it's the other way
+	around.
+
+	The game is playable in most modern browsers, but doesn't 
+	have sound.

@@ -1,0 +1,40 @@
+Title:
+	About this website and me
+
+Right:
+	mugshot.JPG
+	
+Text:
+	This is the personal website of
+	Peter Rootham-Smith (Peter is fine.)  Welcome!
+
+	I drive a Kia, and my favourite colour is blue.
+	My interest include [../TV/index.html TV],
+	[../Music/index.html music], [../Games/index.html computer games], [../Go/index.html Go],
+	and [../Computing/index.html software].
+
+	I'm currently watching [A Korean Odyssey] and [Beyond],
+	and playing [Torment: Tides of Numenera].
+
+	I'm married to Virginia who has made some [../Cakes/index.html cakes].
+	We like [../Dining_out/index.html eating out].  Virginia likes yoghurt and rhubarb,
+	I prefer peanut butter.  We have a couple of lovely
+	cats, Tabitha and Amelia.  We belong at
+	[Girton Baptist Church].
+
+	There's a [../Diary/index.html diary] on this website of notable events,
+	assorted [../Links/index.html links], and how to [../contact/index.html contact me].
+
+	I like [../Books/index.html books]. To look at a page in a book is like falling into a river -
+	a river which can bear one along for many a full stop and semi-colon.
+	By magic the letters and spaces become worlds and people which are as real
+	and familiar as the world containing what is read and the reader.
+
+	I like sampling the world's cuisine. Virginia and I dine out once a week
+	usually, often on a Friday as we both don't work that day. It ensures we get some quality
+	time together, and someone else does the cooking and washing up!
+
+	I like going to the cinema and seeing [../Films/index.html films].
+	This is still something magical to me - the lights go down,
+	the curtains draw apart, and another world appears.
+

@@ -1,0 +1,151 @@
+Title:
+  How my website is implemented
+
+Text:
+  Each of the pages in my website under the "Articles" folder is
+  generated from a text file in a source directory structure
+  which mirrors the structure in the website itself.  After
+  editing the article source text files I run a Ruby script
+  which converts the source text files into a corresponding
+  directory structure of HTML files.  This directory structure
+  is generated into a local copy of the website on my computer.
+
+  The source directory structure includes various kinds of files.
+
+  The article files are text files with a filename ending in
+  ".txt".  They are converted to a HTML page matching the
+  filename.
+
+  The resources top-level directory contains images and CSS files used
+  by the templates.
+
+  The templates top-level directory contains tempate files for parts of
+  the generated web pages.
+
+  The code for the website generation is in a
+  [https://github.com/kickaha2019/website Github repository].
+
+Heading:
+	Parameter files
+
+Text:
+	Parameter files (files with the name "parameters.txt") contain settings
+	which control how the article pages look in the website. The settings in a parameter file
+	are applied to articles in that directory and below
+	(unless overriden by a lower-level parameter file.)
+	
+	An example "parameters.txt":
+	
+Code:
+	ORDER=Name
+	TITLE=Peter's Pages
+	CENTRE_WIDTH=360
+	CENTRE_HEIGHT=270
+	FLOAT_WIDTH=204
+	FLOAT_HEIGHT=153
+	IMAGE_MAX_WIDTH=800
+	IMAGE_MAX_HEIGHT=600
+	TABLE_CLASS=table
+	URL=http://www.alofmethbin.com/
+
+Text:
+  The settings in one "parameters.txt" file apply to the current directory
+  and sub-directories unless overriden by a lower-level "parameters.txt" file.
+
+  ''CENTRE_WIDTH'' and ''CENTRE_HEIGHT'' control the display size of images 
+  for the ''Centre'' declaration.
+
+  ''FLOAT_WIDTH'' and ''FLOAT_HEIGHT'' control the display size of images 
+  for the ''Left'' and ''Right'' declarations.	
+
+  ''GALLERY_HEIGHT'' and ''GALLERY_WIDTH'' control the display size of images 
+  for the ''Gallery'' declarations.
+
+  ''INDEX'' if set to "image" specifies that images are used
+  for index entries rather than text.
+
+  ''INDEX_CHILDREN'' if set to "true" specifies that child pages
+  are indexed.
+
+  ''INDEX_WIDTH'' and ''INDEX_HEIGHT'' control the display size of images
+  used for images as indexes.
+
+  ''IMAGE_MAX_WIDTH'' and ''IMAGE_MAX_HEIGHT'' limit the size of images
+  copied or scaled into the website from the articles.
+
+  ''ORDER'' gives the order that the children are to be displayed in.
+  Options are ''Name'' (alphabetical order), ''Date'' (date order),
+  and ''Person'' (surname order.)
+
+  ''URL'' gives the URL for the root page of the website.
+
+  ''TITLE'' gives a default title for the article webpage.
+
+  ''TRANSPARENCY'' gives the path to a transparent image file.
+
+  ''TABLE_CLASS'' controls the CSS classes for the ''Table''
+  declarations.
+
+Heading:
+	Handling images
+	
+Text:
+	The ''Centre'', ''Gallery'', ''Left'', and
+	''Right'' declarations add images to the article page.
+	The images can either be files inside the directory for the
+	target website, or files relative to the file for the article page.
+
+	If the image is relative to the article then it will be copied
+	to the website directory, scaling it if necessary so it is
+	no larger than the dimensions given by parameters
+	"IMAGE_MAX_WIDTH" and "IMAGE_MAX_HEIGHT".
+
+	The image is
+	generated inside a link which can be clicked to display the full
+	image using [https://www.lokeshdhakar.com/projects/lightbox2/ Lightbox2].
+	There's a helpful IBM [https://www.ibm.com/developerworks/web/library/wa-ltbox/ article] on using [Lightbox2].
+
+	I modified ''lightbox.css'' (full web URLs for the previous and
+	next images) ''screen.css'' (full web URL for the ''bg-checker.png''
+	image) and ''lightbox.js'' (full URLs for ''loading.gif''
+	''close.png'' images).  With these changes different directories
+	seem able to use the same lightbox installation. 
+
+Heading:
+	End of lines
+	
+Text:
+	Rather like ''Text Encodings'' the end of lines
+	can be represented differently in text files from different 
+	sources.
+
+	So one source may use "\n", another "\r", and yet
+	another "\r\n", and others a mixture of all of those.
+
+	The Ruby code which reads the source files for the articles
+	explicitly looks for "\r" characters in the source lines
+	got by ''IO.readlines()''.
+
+Heading:
+	Text encodings
+	
+Text:
+	The text for my website comes from a number of sources.
+	Some of it I enter in text editors, some of it is pasted
+	from other programs like [https://support.apple.com/kb/PH5291 iWeb].  As such the text can
+	contain special characters in a variety of text encodings.
+	
+	The downside of this, unless I took corrective action, 
+	would be funny looking characters where a " or ' should
+	appear on a webpage.  Only ASCII standard characters are
+	safe to appear on a webpage, anything else you need to use
+	HTML entity codes.  Such as &amp;pound; for &pound; for example.
+	
+	The Ruby code which compiles the website source checks
+	that the source files are just ASCII and moans if there's
+	strange characters in there.
+
+	A final check is made that the generated HTML only contains
+	ASCII characters.
+	
+

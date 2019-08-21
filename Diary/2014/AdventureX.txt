@@ -1,0 +1,16 @@
+Icon:
+	/Users/peter/Website/Articles/Games/dragon.jpg
+	
+Title:
+	AdventureX convention
+
+Date:
+	December 6th 2014
+
+Text:
+	I went up to London for the day to see some of the fourth
+	[http://adventurexpo.org/welcome-to-adventurex/ AdventureX] computer games convention.
+	There's a writeup on [http://www.gameboomers.com/Editorial/2014AdventureX/2014AdventureX.htm GameBoomers].
+
+	I had the luck to interview [http://www.gameboomers.com/interviews/TheodorWaern/TalkwithTheodorWaern.htm Theodor Waern],
+	and [http://www.gameboomers.com/interviews/DaveGilbert/DaveGilbert.htm Dave Gilbert].

@@ -1,0 +1,33 @@
+Title:
+  Europe
+
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  You may need to scroll down for some maps.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+    <div id="map" style="width: 950px; height: 950px;">
+  <div id="p0" class="place" style="top: 90px; left: 457px"><span id="l0" class="label"><a href="Top_End/index.html">Top_End</a></span></div>
+  <div id="p1" class="place" style="top: 352px; left: 477px"><span id="l1" class="label"><a href="Red_Centre/index.html">Red_Centre</a></span></div>
+  <div id="p2" class="place" style="top: 155px; left: 711px"><span id="l2" class="label"><a href="Far_North_Queensland/index.html">Far_North_Queensland</a></span></div>
+  <div id="p3" class="place" style="top: 564px; left: 66px"><span id="l3" class="label"><a href="Perth/index.html">Perth</a></span></div>
+  <div id="p4" class="place" style="top: 455px; left: 33px"><span id="l4" class="label"><a href="Kalbarri/index.html">Kalbarri</a></span></div>
+  <div id="p5" class="place" style="top: 406px; left: 15px"><span id="l5" class="label"><a href="Shark_Bay/index.html">Shark_Bay</a></span></div>
+  </div>
+  <script>
+    var map = L.map('map').setView([-28.226970038918328, 133.46191406250003], 5);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>

@@ -1,0 +1,44 @@
+Title:
+	Backups - what I'm doing to backup my files
+
+Icon:
+	time_machine.jpg
+	
+Date:
+	September 13th 2017
+	
+Title:
+	Backups
+
+Text:
+	If you've got anything on a computer it needs to be backed up.
+	There's a lot of accidents waiting to happen from disk problems
+	(and SSD disks can lose data worse than hard drives) through
+	human error to viruses and even theft. There's a lot of options
+	and for the record I'm going to list what I do.
+
+	Everynight I use Apple's [https://support.apple.com/en-us/HT201250 Time Machine]
+	to backup the files on the iMac to an external hard drive.
+	[Time Machine] keeps old versions of files which has been
+	very useful in the past. It's not necessarily perfect - I have
+	seen it confused by files changing path not timestamp. I also
+	currently use [Time Machine] to backup to external hard drives
+	I keep offsite.
+
+	I've started using [https://bombich.com/ Carbon Copy Cloner] to
+	maintain a bootable backup. I went for [Carbon Copy Cloner]
+	because I've used it in the past. I've no reason to think other
+	products like [https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html Super Duper] would not serve as well for my needs.
+
+	I'm going to regularly make encrypted DMG images of areas of the file system
+	and upload them periodically using [https://cyberduck.io/?l=en Cyberduck] to
+	[https://aws.amazon.com/s3/ Amazon S3]. I did investigate
+	using products like [https://www.arqbackup.com/ ARQBackup] and [Chronosync]
+	to backup my filesystem to the cloud. I also tried using
+	[https://www.google.com/drive/ Google Drive] as a way of maintaining cloud backups of files.
+	These look like good products but both the speed of my Internet
+	connection, and the numbers of small files involved meant it
+	was infeasible to sync the file system as-is to the cloud. 
+
+	Photographs and other Apple documents are synched to the cloud
+	using Apple's [https://support.apple.com/en-gb/HT207428 iCloud] storage.

@@ -1,0 +1,8 @@
+LOGO=/Users/peter/Sites/Games/Journeys/resources/logo.jpg
+ICON=/Users/peter/Website/Articles/Games/my_games/Journeys/Journeys.jpg
+TITLE=Journeys
+STYLESHEET=/Users/peter/Sites/resources/journeys.css
+GALLERY_WIDTH=120
+GALLERY_HEIGHT=48
+GALLERY_COLUMNS=4
+TAG=Journeys

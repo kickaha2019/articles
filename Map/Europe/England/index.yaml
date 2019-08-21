@@ -1,0 +1,40 @@
+---
+template: country_map.erb
+title: England
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 7
+places:
+- id: Derbyshire
+  lat: 53.250201
+  lon: -1.925167
+  y: 450
+  x: 473
+- id: Allesley Hotel
+  lat: 52.422824
+  lon: -1.560066
+  y: 575
+  x: 506
+- id: Herstmonceux Observatory
+  lat: 50.870252
+  lon: 0.345626
+  y: 803
+  x: 679
+- id: Eastbourne
+  lat: 50.770843
+  lon: 0.290368
+  y: 817
+  x: 674
+- id: Dunwich Heath
+  lat: 52.2588998
+  lon: 1.626713
+  y: 599
+  x: 796
+- id: Sutton Hoo
+  lat: 52.094496
+  lon: 1.340798
+  y: 624
+  x: 770
+lat: 53.08742621937263
+lon: -1.9006347656250002

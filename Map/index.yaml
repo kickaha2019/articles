@@ -1,0 +1,35 @@
+---
+template: world_map.erb
+title: Where we've been
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 515
+height: 345
+zoom: 1
+places:
+- id: Europe
+  lat: 47.040182144806664
+  lon: 1.40625
+  x: 246
+  y: 159
+- id: America
+  lat: 38.82259097617713
+  lon: -100.54687500000001
+  x: 105
+  y: 180
+- id: Singapore
+  lat: 1.422411
+  lon: 103.85371
+  y: 236
+  x: 390
+- id: Australia
+  lat: -24.830871
+  lon: 134.46562
+  y: 277
+  x: 434
+- id: Scandinavia
+  lat: 57.040182144806664
+  lon: 10.40625
+  x: 271
+  y: 118
+lat: 43.32517767999296
+lon: 10.898437500000002

@@ -1,0 +1,4 @@
+LOGO=/Users/peter/Sites/Games/Card2013/resources/logo.jpg
+ICON=/Users/peter/Website/Articles/Games/my_games/Card2013/Card2013.jpg
+TITLE=Card 2013
+TAG=Card 2013

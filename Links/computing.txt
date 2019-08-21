@@ -1,0 +1,43 @@
+Text:
+	[https://1password.com/ 1Password] is password
+	management software which works on both the Mac and iPad.
+
+  [https://affinity.serif.com/en-gb/photo/ Affinity Photo] is image
+  editing software.
+
+	[https://www.alienskin.com/ Alien Skin] are a
+	Photoshop plugin company - I use some of their filters.
+		
+	[https://www.apple.com/ Apple] make the computers I use.
+		
+	[https://sourceforge.net/projects/audacity/ Audacity] is a
+	free sound editing program.
+		
+	[https://cucumber.io/ Cucumber] BDD testing framework.
+		
+	[https://www.nuance.co.uk/for-individuals/by-product/dragon-for-pc/index.htm Dragon] voice to text utility.
+
+	[http://www.imagemagick.org/ ImageMagick] is a 
+	command-line image editing utility library.
+		
+	[https://www.mysql.com/ MySQL] is
+	the server-side database I use.
+		
+	[https://netbeans.org/ Netbeans] is the Java IDE I currently use.
+		
+	[https://www.parallels.com/ Parallels] - use this to run
+	Windows on our iMac.
+
+	[https://www.adobe.com/uk/products/photoshop-elements.html Photoshop Elements]
+	is image editing software.
+		
+	[http://php.net/ PHP] is server-side scripting language I use.
+
+	[https://www.postbox-inc.com/ Postbox] is my current email client.
+
+	[https://www.ruby-lang.org/en/ Ruby] is
+	a scripting language I use for small and not so small programming jobs.
+
+	[http://sqlitebrowser.org SQLite Browser] I use for maintaining SQLite databases.
+
+	[https://validator.w3.org/ W3Schools] for validating web pages.

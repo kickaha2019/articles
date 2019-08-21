@@ -1,0 +1,45 @@
+<%=
+  if title
+    "Title:\n  #{title}\n"
+  end
+%>
+<%=
+  if icon
+    "Icon:\n  #{icon}\n"
+  end
+%>
+Table:
+  Place|Links
+<%=
+  places.sort_by {|p| p['name']}.collect do |place|
+    name,lat,lon,url = place['name'],place['lat'],place['lon'],place['url']
+    aname = place.has_key?('apple') ? place['apple'] : name
+    gname = place.has_key?('google') ? place['google'] : name
+    (url ? "  [#{url} " : '  ') + name + (url ? "]|" : '|') +
+    (aname ? "[http://maps.apple.com/?q=#{e(aname)}&sll=#{lat},#{lon} Apple] " : '') +
+    (gname ? "[https://www.google.com/maps/search/?api=1&query=#{e(gname)} Google]" : '')
+  end.join("\n");
+%>
+
+Heading:
+  <%=
+  html = []
+  html << "  [https://bing.com/maps/default.aspx?cp="
+  html << (places.inject(0) {|s,e| s+e['lat']} / places.size).to_s
+  html << '~'
+  html << (places.inject(0) {|s,e| s+e['lon']} / places.size).to_s
+  html << '&lvl='
+  html << zoom.to_s
+  separ = '&sp=point.'
+  places.each do |place|
+    html << separ
+    html << place['lat'].to_s
+    html << '_'
+    html << place['lon'].to_s
+    html << '_'
+    html << place['name'].gsub(' ','%20').gsub('&','%24').gsub(':','%3B').gsub('/','%2F')
+    separ = '~point.'
+  end
+  html << ' Bing map]'
+  html.join('');
+%>

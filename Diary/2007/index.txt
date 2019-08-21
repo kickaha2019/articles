@@ -1,0 +1,2 @@
+Icon:
+	Norway/artemis_at_flam.JPG

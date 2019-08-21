@@ -1,0 +1,9 @@
+Text:
+	''Mission Control'' offers a quick graphical view of what's running
+	under ''Mountain Lion''.  
+
+	The other thing it offers to me is a replacement for ''Spaces'',
+	enabling the use of multiple screenworths of applications.  Even
+	with a large display having multiple pages available is very
+	useful.
+

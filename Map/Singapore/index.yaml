@@ -1,0 +1,15 @@
+---
+template: country_map.erb
+title: Singapore
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 12
+places:
+- id: Raffles Hotel
+  lat: 1.295011
+  lon: 103.854559
+  y: 635
+  x: 601
+lat: 1.3498201887565244
+lon: 103.81118774414062

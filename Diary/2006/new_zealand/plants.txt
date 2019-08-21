@@ -1,0 +1,69 @@
+Title:
+	Pictures of plants
+
+Gallery:
+	plants/bull_kelp.jpg
+	Bull kelp at Nugget Point
+
+	plants/nugget_head_bush.jpg
+	Bush at Nugget Point
+
+	plants/catlins_ferns.jpg
+	Ferns in the Catlins
+
+	plants/catlins_tree_growths.jpg
+	Tree growths in the Catlins
+
+	plants/petrified_tree.jpg
+	Petrified tree at Curio Bay
+
+	plants/ulva_forest1.jpg
+	Forest on Ulva Island
+
+	plants/ulva_forest2.jpg
+	Forest on Ulva Island
+
+	plants/umbrella_ferns.jpg
+	Umbrella ferns on Ulva Island
+
+	plants/ulva_fern.jpg
+	Fern on Ulva Island
+
+	plants/lancewood.jpg
+	Lancewood on Ulva Island
+
+	plants/ulva_fern2.jpg
+	Fern on Ulva Island
+
+	plants/hen_chick_fern.jpg
+	Hen and chick fern on Ulva Island
+
+	plants/rata_tree.jpg
+	Rata tree taking over host tree on Ulva Island
+
+	plants/hen_chick_fern2.jpg
+	Hen and chick fern on Ulva Island
+
+	plants/hen_chick_fern_closeup.jpg
+	Hen and chick fern closeup on Ulva Island
+
+	plants/cascade_creek1.jpg
+	Cascade Creek 'beech' forest
+
+	plants/cascade_creek2.jpg
+	Cascade Creek 'beech' forest
+
+	plants/cascade_creek3.jpg
+	Cascade Creek 'beech' forest
+
+	plants/cascade_creek4.jpg
+	Cascade Creek 'beech' forest
+
+	plants/the_chasm.jpg
+	The Chasm (on way to Milford Sound)
+
+	plants/the_chasm2.jpg
+	The Chasm (on way to Milford Sound)
+
+	plants/punakaiki_kelp.jpg
+	Bull kelp at Punakaiki

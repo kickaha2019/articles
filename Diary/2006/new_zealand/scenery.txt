@@ -1,0 +1,99 @@
+Title:
+	Pictures of scenery
+
+Gallery:
+	scenery/otago_peninsula1.jpg
+	Otago peninsula scenery
+
+	scenery/otago_peninsula2.jpg
+	Otago peninsula scenery
+
+	scenery/taiaroa_head.jpg
+	Taiaroa Head
+
+	scenery/nugget_head.jpg
+	Nugget Point
+
+	scenery/catlins_coast.jpg
+	Catlins coast
+
+	scenery/curio_bay.jpg
+	Petrified forest at Curio Bay in the Catlins
+
+	scenery/iona_island.jpg
+	Iona Island
+
+	scenery/ulva_island.jpg
+	Ulva Island
+
+	scenery/ulva_island2.jpg
+	Ulva Island
+
+	scenery/te_anau_lakes.jpg
+	Lake near Te Anau
+
+	scenery/mirror_lakes1.jpg
+	Mirror Lakes on way to Milford Sound
+
+	scenery/mirror_lakes2.jpg
+	Mirror Lakes on way to Milford Sound
+
+	scenery/mirror_lakes3.jpg
+	Mirror Lakes on way to Milford Sound
+
+	scenery/milford_sound_road1.jpg
+	Road towards Milford Sound
+
+	scenery/milford_sound_road2.jpg
+	Road towards Milford Sound
+
+	scenery/milford_sound1.jpg
+	Milford Sound
+
+	scenery/milford_sound_boat.jpg
+	Milford Sound
+
+	scenery/milford_sound_waterfall.jpg
+	Milford Sound
+
+	scenery/milford_sound_rainbow.jpg
+	Milford Sound
+
+	scenery/milford_sound_distance.jpg
+	Milford Sound
+
+	scenery/lake_wakatipu.jpg
+	Lake Wakatipu
+
+	scenery/cadrona_pass.jpg
+	Cadrona Pass
+
+	scenery/lake_wanaka.jpg
+	Lake Wanaka
+
+	scenery/haast_pass.jpg
+	Haast Pass
+
+	scenery/ship_creek.jpg
+	Ship Creek
+
+	scenery/ship_creek2.jpg
+	Ship Creek
+
+	scenery/ship_creek3.jpg
+	Ship Creek
+
+	scenery/knight_point.jpg
+	Knight Point
+
+	scenery/punakaiki1.jpg
+	Punakaiki Pancake Rocks
+
+	scenery/punakaiki2.jpg
+	Punakaiki Pancake Rocks
+
+	scenery/lewis_pass.jpg
+	Lewis Pass
+
+	scenery/arthurs_pass.jpg
+	Arthur's Pass

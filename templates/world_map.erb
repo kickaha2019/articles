@@ -1,0 +1,49 @@
+<%=
+  if title
+    "Title:\n  #{title}\n"
+  end
+%>
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  A geographical index to this website, as a way of listing places
+  I (and Virginia) have been. The maps herein use data from
+  [https://www.openstreetmap.org/ OpenStreetMap], realised using the
+  [https://leafletjs.com/ Leaflet.js] Javascript library.
+
+  To navigate into this index hover over the stars on the map to
+  show a tooltip describing the location, click on the tooltip
+  to descend further.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+  <%=
+    html = []
+    html << "  <div id=\"map\" style=\"width: #{width}px; height: #{height}px;\">"
+    i = 0
+    places.each do |place|
+      popup = place['id']
+      if links[place['id']]
+        popup = "<a href=\"#{links[place['id']][0]}\">#{place['id'].gsub(' ','&nbsp;')}</a>"
+      end
+      html << "  <div id=\"p#{i}\" class=\"place\" style=\"top: #{place['y']-8}px; left: #{place['x']-8}px\"><span id=\"l#{i}\" class=\"label\">#{popup}</span></div>"
+      i += 1
+    end
+    html << '  </div>'
+    html.join("\n")
+  %>
+  <script>
+    var map = L.map('map').setView([<%= lat %>, <%= lon %>], <%= zoom %>);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( <%= "'#{tiles}'" %>, {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>

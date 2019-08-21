@@ -1,0 +1,46 @@
+Text:
+	The "Gallery" declaration adds a table of images to the article 
+	page.
+	
+	Example:
+	
+Code:
+	Gallery:
+		coventry_cobweb.JPG
+		Cobweb in Coventry
+	
+		pooles_cavern_1.JPG
+		Poole's Cavern
+
+		pooles_cavern_2.JPG
+		Poole's Cavern
+	
+		crich_1.JPG
+		Crich Tramway Museum
+
+		crich_2.JPG
+		Crich Tramway Museum
+		
+Text:
+	Which gives:
+	
+Gallery:
+	coventry_cobweb.JPG
+	Cobweb in Coventry
+	
+	pooles_cavern_1.JPG
+	Poole's Cavern
+
+	pooles_cavern_2.JPG
+	Poole's Cavern
+	
+	crich_1.JPG
+	Crich Tramway Museum
+
+	crich_2.JPG
+	Crich Tramway Museum
+	
+Text:
+	The dimensions of the images in the gallery are controlled by parameters
+	"GALLERY_HEIGHT" and "GALLERY_WIDTH".  The images are scaled to fit into these
+	dimensions while preserving the aspect ratio.

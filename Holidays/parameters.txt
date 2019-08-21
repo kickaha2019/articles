@@ -1,0 +1,2 @@
+ICON=/Users/peter/Website/Articles/Diary/2009/longleat/stonehenge2.JPG
+TAG=Holidays

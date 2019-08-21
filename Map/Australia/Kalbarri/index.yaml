@@ -1,0 +1,30 @@
+---
+template: country_map.erb
+title: Europe
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 9
+places:
+- id: Geraldton
+  lat: -28.779642
+  lon: 114.613659
+  y: 612
+  x: 526
+- id: Greengables Lodge
+  lat: -28.705952
+  lon: 114.666286
+  y: 581
+  x: 545
+- id: Hutt Lagoon
+  lat: -28.149813
+  lon: 114.239604
+  y: 351
+  x: 389
+- id: Kalbarri National Park
+  lat: -27.755279
+  lon: 114.37334
+  y: 189
+  x: 438
+lat: -28.44937385955666
+lon: 114.47479248046876

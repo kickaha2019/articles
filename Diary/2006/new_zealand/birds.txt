@@ -1,0 +1,69 @@
+Title:
+	Pictures of birds
+
+Gallery:
+	birds/black_swan.jpg
+	Black swan (imported from Australia) near Dunedin
+
+	birds/spoonbills_shelducks.jpg
+	Spoonbills and shelducks near Dunedin
+
+	birds/pukekos.jpg
+	Pukekos near Dunedin
+
+	birds/variable_oyster_catcher.jpg
+	Variable Oyster-catcher? near Dunedin
+
+	birds/penguin_colony.jpg
+	Yellow eyed penguin colony at Otago Peninsula
+
+	birds/penguin_juvenile.jpg
+	Juvenile yellow eyed penguin at Otago Peninsula
+
+	birds/penguin_juvenile2.jpg
+	Juvenile yellow eyed penguin at Otago Peninsula
+
+	birds/penguin_moulting.jpg
+	Yellow eyed penguin moulting at Otago Peninsula
+
+	birds/penguin_colony2.jpg
+	Yellow eyed penguin colony at Otago Peninsula
+
+	birds/penguin_in_from_sea.jpg
+	Yellow eyed penguin coming in from feeding at sea at Otago Peninsula
+
+	birds/nz_robin.jpg
+	New Zealand robin on Ulva Island
+
+	birds/weka1.jpg
+	Weka on beach at Ulva Island
+
+	birds/weka2.jpg
+	Weka on Ulva Island
+
+	birds/nz_robin2.jpg
+	New Zealand robin on Ulva Island
+
+	birds/kea.jpg
+	Kea at Cascade Creek on road to Milford Sound - keas (a mountain parrot) are supposedly the most intelligent animal
+
+	birds/black_billed_gulls.jpg
+	Black-billed gulls at Wanaka
+
+	birds/greymouth_pukeko.jpg
+	Pukeko at Greymouth - white tail ruff is warning sign
+
+	birds/shags.jpg
+	Shags south of Kaikoura
+
+	birds/shag.jpg
+	Shag south of Kaikoura
+
+	birds/moa_bones.jpg
+	Bones of Moa in Waitomo cave
+
+	birds/gannets1.jpg
+	Gannets at Murawai
+
+	birds/gannets2.jpg
+	Gannets at Murawai

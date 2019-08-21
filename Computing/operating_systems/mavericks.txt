@@ -1,0 +1,20 @@
+Title:
+	Issues on OSX 10.9 (Mavericks)
+
+Text:
+	[Wasteland 2] failed to
+	start, ''syspolicyd'' demon went to 40% CPU busy continuously,
+	message about verifying.
+
+Code:
+	Issue with Gatekeeper verifying the application. Manually
+	unquarantining [Wasteland 2] with ''xattr -d -r com.apple.quarantine''
+	got the application to start.
+
+Text:
+	''Apple Mail'' suddenly lost the ''Drafts'', ''Junk'', and
+	''Trash'' mailboxes in the list of mailboxes.
+
+Code:
+	Restarting the Mac got them back.
+

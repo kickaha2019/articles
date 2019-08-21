@@ -1,0 +1,30 @@
+Title:
+  Utah
+
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  You may need to scroll down for some maps.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+    <div id="map" style="width: 950px; height: 1200px;">
+  <div id="p0" class="place" style="top: 818px; left: 407px"><span id="l0" class="label"><a href="../../../Diary/2001/Utah/index.html">Bryce&nbsp;Canyon</a></span></div>
+  <div id="p1" class="place" style="top: 850px; left: 331px"><span id="l1" class="label">Zion&nbsp;National&nbsp;Park</span></div>
+  <div id="p2" class="place" style="top: 813px; left: 348px"><span id="l2" class="label"><a href="../../../Diary/2001/Utah/index.html">Cedar&nbsp;Breaks</a></span></div>
+  </div>
+  <script>
+    var map = L.map('map').setView([39.53370327008705, -111.53320312500001], 8);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>

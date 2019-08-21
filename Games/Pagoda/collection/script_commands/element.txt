@@ -1,0 +1,17 @@
+Text:
+	The ''element'' command sets a variable to the tag name for the current
+	element in the HTML page.  So the script lines:
+	
+Code:
+	next B
+	element TagName
+	log TagName
+		
+Text:
+	would log
+
+Code:
+	B
+	
+Text:
+	to the console.

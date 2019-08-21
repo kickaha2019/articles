@@ -1,0 +1,39 @@
+Link:
+	2006/isle_of_wight
+	2006 Isle of Wight
+
+Link:
+	2007/Derbyshire
+	2007 Derbyshire
+
+Link:
+	2008/gloucestershire
+	2008 Gloucestershire
+
+Link:
+	2010/devon
+	2010 Devon
+
+Link:
+	2013/broads
+	2013 The Broads
+
+Link:
+	2014/LakeDistrict
+	2014 Lake District
+
+Link:
+	2016/Hampshire
+	2016 Hampshire
+
+Link:
+	2017/Kent
+	2017 Kent
+
+Link:
+	2018/Yorkshire
+	2018 Yorkshire
+
+Link:
+  2019/Dorset
+  2019 Dorset

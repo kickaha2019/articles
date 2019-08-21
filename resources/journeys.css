@@ -1,0 +1,14 @@
+center, div, td, th, span, dt, dd {color: #222222}
+a {color: #0000FF}
+a:hover {color: black}
+
+div.page {background: #00FFFF}
+
+td.vert_sep {background: black}
+td.vert_space_sep {border-color: black}
+
+span.index {color: #444444}
+
+li.child {color: #444400}
+
+div.code {color: #444444; background: #00FFFF}

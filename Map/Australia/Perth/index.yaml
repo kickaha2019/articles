@@ -1,0 +1,25 @@
+---
+template: country_map.erb
+title: Europe
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 9
+places:
+- id: Perth
+  lat: -31.920886
+  lon: 115.856921
+  y: 371
+  x: 375
+- id: Rottnest Island
+  lat: -32.006246
+  lon: 115.511896
+  y: 407
+  x: 250
+- id: Fremantle
+  lat: -32.051675
+  lon: 115.754855
+  y: 427
+  x: 338
+lat: -32.16398792824024
+lon: 116.13098144531251

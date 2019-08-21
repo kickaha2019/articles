@@ -1,0 +1,15 @@
+---
+template: country_map.erb
+title: Scandinavia
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 5
+places:
+- id: Denmark
+  lat: 57.648358
+  lon: 10.405912
+  y: 869
+  x: 197
+lat: 63.99523519297698
+lon: 22.543945312500004

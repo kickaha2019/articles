@@ -1,0 +1,127 @@
+Text:
+	I've backed a number of Kickstarters mainly for games.
+
+Heading:
+	2012
+	
+Text:
+	[https://www.kickstarter.com/projects/781768800/school-for-adventurers-a-high-fantasy-high-school School for Adventurers] - book.
+
+	[https://www.kickstarter.com/projects/zojoi/shadowgate Shadowgate] - Adventure game.
+
+	[https://www.kickstarter.com/projects/1878147873/hero-u-rogue-to-redemption Hero-U] - RPG game.
+
+	[https://www.kickstarter.com/projects/165500047/broken-sword-the-serpents-curse-adventure Broken Sword 5] - Adventure game.
+
+	[https://www.kickstarter.com/projects/warbirdgames/jack-houston-and-the-necronauts Jack Houston and the Necronauts] - Adventure game.
+
+	[https://www.kickstarter.com/projects/516151670/lilly-looking-through-an-animated-adventure-game Lilly looking through] - Adventure game.
+
+	[https://www.kickstarter.com/projects/borbely/hexit-point-and-click-sci-fi-adventure-game Hexit] - Adventure game.
+
+	[https://www.kickstarter.com/projects/1992695780/quest-for-infamy-an-adventure-game-by-infamous-que Quest for Infamy] - RPG game.
+
+	[https://www.kickstarter.com/projects/1005365109/jane-jensens-pinkerton-road-2012-2013-csg Moebius] - Adventure game.
+
+	[https://www.kickstarter.com/projects/doublefine/double-fine-adventure Broken Age] - Adventure game.
+
+Heading:
+	2013
+
+Text:
+	[https://www.kickstarter.com/projects/timmillwood/sinatra-cookbook-recipes-for-the-ruby-framework Sinatra cookbook] - book.
+
+	[https://www.kickstarter.com/projects/roblanderos/the-7th-guest-3-the-collector 7th Guest 3] - Adventure game.
+
+	[https://www.kickstarter.com/projects/cyaninc Obduction] - Adventure game.
+
+	[https://www.kickstarter.com/projects/1596638143/cosmic-star-heroine-sci-fi-spy-rpg-for-pc-mac-ps4 Cosmic Star Heroine] - RPG game.
+
+	[https://www.kickstarter.com/projects/438269196/mysterious-cities-of-gold-the-video-game Mysterious Cities of Gold] - Adventure game.
+
+	[https://www.kickstarter.com/projects/1403226937/widdershins-vanishing-act Widdershins] - book.
+
+	[https://www.kickstarter.com/projects/217993880/publish-lawrence-watt-evans-vikas-avenger Vika's Avenger] - book.
+
+	[https://www.kickstarter.com/projects/pyrodactyl/unrest-an-unconventional-rpg-set-in-ancient-india Unrest] - game.
+
+	[https://www.kickstarter.com/projects/armikrog/armikrog Armikrog] - Adventure game.
+
+	[https://www.kickstarter.com/projects/larianstudios/divinity-original-sin Divine Divinity: Original Sin] - RPG game.
+
+	[http://www.juliathegame.com/ J.U.L.I.A.] - Adventure game.
+
+	[https://www.kickstarter.com/projects/inxile/torment-tides-of-numenera Torment: Tides of Numenera] - RPG game.
+
+	<iframe frameborder="0" height="420" scrolling="no" src="https://www.kickstarter.com/projects/bumblebee/days-of-dawn-discover-the-magic/widget/card.html" width="220"></iframe>
+
+	[https://www.kickstarter.com/projects/redthread/dreamfall-chapters-the-longest-journey Dreamfall Chapters] - Adventure game.
+
+	[https://www.kickstarter.com/projects/agustincordes/asylum-kickstart-the-horror Asylum] - Adventure game.
+
+Heading:
+	2014
+
+Text:
+	[https://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv Thimbleweed Park] - Adventure game.
+
+	[https://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game Jenny Leclue] - Adventure game.
+
+	[https://www.kickstarter.com/projects/1993213058/subject-13-by-paul-cuisset Subject 13] - Adventure game.
+
+	[https://www.kickstarter.com/projects/420370544/polychrome-an-oz-based-novel Polychrome] - book.
+
+	[https://www.kickstarter.com/projects/kingartgames/the-book-of-unwritten-tales-2 The book of unwritten Tales 2] - Adventure game.
+
+	[https://www.kickstarter.com/projects/kungfury/kung-fury Kung Fury] - film.
+
+Heading:
+	2015
+
+Text:
+	[https://www.kickstarter.com/projects/1548028600/battle-chasers-nightwar battle-chasers-nightwar]
+
+	[https://www.kickstarter.com/projects/larianstudios/divinity-original-sin-2 divinity-original-sin-2]
+
+	[https://www.kickstarter.com/projects/inxile/the-bards-tale-iv the-bards-tale-iv]
+
+	[https://www.kickstarter.com/projects/visionaire-studio/oak-island-some-treasures-are-best-left-buried oak-island-some-treasures-are-best-left-buried]
+
+	[https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game hero-u-adventure-role-playing-game]
+
+	[https://www.kickstarter.com/projects/438269196/goetia goetia]
+
+	[https://www.kickstarter.com/projects/webeharebrained/shadowrun-hong-kong shadowrun-hong-kong]
+
+Heading:
+	2016
+
+Text:
+	[https://www.kickstarter.com/projects/13978330/masquerada-songs-and-shadows masquerada-songs-and-shadows]
+
+	[https://www.kickstarter.com/projects/nectargamestudios/project-resurgence project-resurgence]
+
+	[https://www.fig.co/campaigns/wasteland-3 Wasteland 3]
+
+Heading:
+	2017
+
+Text:
+	[https://www.kickstarter.com/projects/owlcatgames/pathfinder-kingmaker Pathfinder: Kingmaker]
+	
+	[https://www.fig.co/campaigns/deadfire Pillars of Eternity II]
+
+	[https://www.kickstarter.com/projects/111416884/shakes-and-fidget-the-adventure Shakes and Fidget - The Adventure]
+
+Heading:
+	2018
+
+Text:
+	[https://www.kickstarter.com/projects/1252280491/myst-25th-anniversary-collection Myst 25th Anniversary]
+
+Heading:
+  2019
+
+Text:
+  [https://www.kickstarter.com/projects/1252280491/firmament Firmament]
+

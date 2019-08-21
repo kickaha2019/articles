@@ -1,0 +1,166 @@
+Title:
+  The soft toys
+
+Text:
+  I keep forgetting their names so here is a page about the soft toys that
+  Virginia and I have, and a short biography for each. The soft toys are
+  part of our household, taking part in [../Diary/2005/christmas/index.html Christmas] and
+  starring in [../Games/my_games/Card2013/index.html one] of my gamelets.
+
+Heading:
+  Beatrix
+
+Right:
+  Beatrix.JPG
+
+Text:
+  Beatrix was got as a present for my mother on our
+  [../Diary/2011/black_watch/index.html cruise] to the Baltics with Dad in
+  2011. After she died in 2012 we gave Beatrice a home. As Beatrice is dressed
+  for sea voyages we have taken her with us on later cruises.
+
+Heading:
+  Benjamin
+
+Left:
+  Benjamin.jpg
+
+Text:
+  Virginia got this smaller version of Sebastian from a Post Office.
+
+Heading:
+  Daisy
+
+Right:
+  Daisy.jpg
+
+Text:
+  Virginia has had several [https://www.chocolate-parties.com Chocoholics] parties
+  at our house, apart from chocolates one of the items on sale was Daisy. She's a soft toy
+  containing a bag you can heat up in a microwave, then snuggle up to in bed.
+
+Heading:
+  Figment
+
+Left:
+  Figment.jpg
+
+Text:
+  Figment was my mother's souvenir of seeing the magical original
+  ''Journey into the Imagination'' at [https://disneyworld.disney.go.com/en_GB/destinations/epcot/ EPCOT]. Over time Disney changed the rides to be rollercoasters.
+
+Heading:
+  Fleur
+
+Right:
+  Fleur.JPG
+
+Text:
+  Fleur we got from a Butlins shop on one visit to [https://www.springharvest.org/ Spring Harvest].
+
+Heading:
+  Hamilton
+
+Left:
+  Hamilton.jpg
+
+Text:
+  Decades ago Virginia's mother worked at the Central News Agency department store
+  in Durban South
+  Africa. One Christmas promotion involved the Bentley bears, available for a lot less
+  if you spent a certain amount. Virginia's mother levered this promotion to
+  give her daughters each a bear. Hamilton
+  was originally called Bentley but that name wasn't really suitable. So Hamilton
+  he became. Hamilton has been through the washing machine once because he got dirty,
+  and still suffers trauma as a result.
+
+Heading:
+  Helena
+
+Right:
+  helena.JPG
+
+Text:
+  A gift from Virginia's sister Justine.
+
+Heading:
+  Horton
+
+Left:
+  Horton.jpg
+
+Text:
+  Horton came out of a box of tea bags as a promotion for
+  [https://www.imdb.com/title/tt0451079/ Horton Hears a Who!].
+
+Heading:
+  Katie
+
+Right:
+  Katie.JPG
+
+Text:
+  Katie is a kiwi I brought back from a trip to New Zealand.
+
+Heading:
+  Keeley
+
+Left:
+  Keeley.jpg
+
+Text:
+  Keeley is a koala I brought back from an antipodean trip. She spent
+  her formative years sealed in a tin can, but harbours no
+  resentment for it.
+
+Heading:
+  Oswald
+
+Right:
+  Oswald.jpg
+
+Text:
+  At my work one team I was on each got given a puffin soft toy as
+  part of a team building exercise.
+
+Heading:
+  Peter Junior
+
+Left:
+  PeterJr.jpg
+
+Text:
+  Peter Junior was toynapped from a hotel Virginia and I stayed at.
+  He was in our room to start with, so we took him as a souvenir.
+  The hotel probably thought he got lost somewhere.
+
+Heading:
+  Rachel
+
+Right:
+  Rachel.jpg
+
+Text:
+  A gift from Virginia's sister Justine.
+
+Heading:
+  Rhys
+
+Left:
+  Rhys.jpg
+
+Text:
+  Rhys we got as a result of buying a copy of
+  [https://www.imdb.com/title/tt0397892/?ref_=nv_sr_1?ref_=nv_sr_1 Bolt].
+
+Heading:
+  Sebastian
+
+Right:
+  Sebastian.jpg
+
+Text:
+  Virginia used to work at Careforce in Waterbeach. People used to come round
+  Careforce regulary trying to sell books. One time not only was it books on
+  offer but also large soft toy tigers. So Sebastian joined the household.
+  He reminds me of a [../Diary/2005/triumph/index.html jigsaw] Virginia did.

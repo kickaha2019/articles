@@ -1,0 +1,28 @@
+Title:
+  Places to see in New Zealand 2020
+
+Icon:
+  /Users/peter/Website/Articles/Holidays/map.jpg
+
+Table:
+  Place|Links
+  Amora Hotel Wellington|[http://maps.apple.com/?q=Amora+Hotel+Wellington&sll=-41.290737,174.778961 Apple] [https://www.google.com/maps/search/?api=1&query=Amora+Hotel+Wellington Google]
+  [https://www.boltonhotel.co.nz/ Bolton Hotel Wellington]|[http://maps.apple.com/?q=Bolton+Hotel+Wellington&sll=-41.279387,174.77467 Apple] [https://www.google.com/maps/search/?api=1&query=Bolton+Hotel+Wellington Google]
+  [https://www.hobbitontours.com/en/the-shires-rest/ Matamata Shire's Rest]|[http://maps.apple.com/?q=Matamata+Shire%27s+Rest&sll=-37.872014,175.682911 Apple] [https://www.google.com/maps/search/?api=1&query=Matamata+Shire%27s+Rest Google]
+  [https://mitai.co.nz/ Mitai Maori Village]|[http://maps.apple.com/?q=Mitai+Maori+Village&sll=-38.106404,176.221325 Apple] [https://www.google.com/maps/search/?api=1&query=Mitai+Maori+Village Google]
+  [https://regentrotorua.co.nz/ Regent of Rotorua]|[http://maps.apple.com/?q=Regent+of+Rotorua&sll=-38.133474,176.25069 Apple] [https://www.google.com/maps/search/?api=1&query=Regent+of+Rotorua Google]
+  [http://www.rotorua-airport.co.nz/ Rotorua Airport]|[http://maps.apple.com/?q=Rotorua+Regional+Airport+Owhata&sll=-38.109102,176.317816 Apple] [https://www.google.com/maps/search/?api=1&query=Rotorua+Airport Google]
+  [https://www.skyline.co.nz/en/rotorua/ Skyline Rotorua]|[http://maps.apple.com/?q=Skyline+Rotorua&sll=-38.109777,176.221969 Apple] [https://www.google.com/maps/search/?api=1&query=Skyline+Rotorua Google]
+  [https://www.tepapa.govt.nz/ Te Papa Tongarewa]|[http://maps.apple.com/?q=Te+Papa+Tongarewa&sll=-41.290206,174.782089 Apple] [https://www.google.com/maps/search/?api=1&query=Te+Papa+Tongarewa Google]
+  [http://treechurch.co.nz/ Tree Church]|[http://maps.apple.com/?q=tree+church+ohaupo&sll=-37.907927,175.330418 Apple] [https://www.google.com/maps/search/?api=1&query=Tree+Church+West+Road%2C+Ohaupo%2C+New+Zealand Google]
+  [https://www.waiotapu.co.nz/ Wai-O-Tapu Geothermal Wonderland]|[http://maps.apple.com/?q=Wai-O-Tapu+Geothermal+Wonderland&sll=-38.358012,176.368984 Apple] [https://www.google.com/maps/search/?api=1&query=Wai-O-Tapu+Geothermal+Wonderland Google]
+  [https://www.waitomocavesguestlodge.co.nz/ Waitomo Caves Guest Lodge]|[http://maps.apple.com/?q=Waitomo+Caves+Guest+Lodge&sll=-38.260346,175.110866 Apple] [https://www.google.com/maps/search/?api=1&query=Waitomo+Caves+Guest+Lodge Google]
+  [https://www.waitomo.com/ Waitomo Glowworm Caves visitor centre]|[http://maps.apple.com/?q=Waitomo+Glowworm+Caves+visitor+centre&sll=-38.2606,175.103497 Apple] [https://www.google.com/maps/search/?api=1&query=Waitomo+Glowworm+Caves+visitor+centre Google]
+  [https://www.newzealand.com/uk/plan/business/waitomo-i-site-visitor-information-centre/ Waitomo i-SITE Visitor Centre]|[http://maps.apple.com/?q=Waitomo+i-SITE+Visitor+Centre&sll=-38.260751,175.109242 Apple] [https://www.google.com/maps/search/?api=1&query=Waitomo+i-SITE+Visitor+Centre Google]
+  Wellington Cable Car|[http://maps.apple.com/?q=Wellington+Cable+Car+280+lambton+quay&sll=-41.284223,174.775153 Apple] [https://www.google.com/maps/search/?api=1&query=Wellington+Cable+Car Google]
+  [https://www.wellingtonnz.com/discover/plan-trip-to-wellington/i-site-visitor-centre/ Wellington i-SITE Visitor Centre]|[http://maps.apple.com/?q=Wellington+i-SITE+Visitor+Centre&sll=-41.289851,174.775103 Apple] [https://www.google.com/maps/search/?api=1&query=Wellington+i-SITE+Visitor+Centre Google]
+  [https://www.wingspan.co.nz/ Wingspan National Bird of Prey Centre]|[http://maps.apple.com/?q=Wingspan+National+Bird+of+Prey+Centre&sll=-38.090062,176.195763 Apple] [https://www.google.com/maps/search/?api=1&query=Wingspan+National+Bird+of+Prey+Centre Google]
+  [https://www.visitzealandia.com/ Zealandia Ecosanctuary]|[http://maps.apple.com/?q=Zealandia+Ecosanctuary&sll=-41.29071,174.753435 Apple] [https://www.google.com/maps/search/?api=1&query=Zealandia+Ecosanctuary Google]
+
+Heading:
+    [https://bing.com/maps/default.aspx?cp=-39.246681352941174~175.4442877647059&lvl=7&sp=point.-37.907927_175.330418_Tree%20Church~point.-38.260346_175.110866_Waitomo%20Caves%20Guest%20Lodge~point.-38.2606_175.103497_Waitomo%20Glowworm%20Caves%20visitor%20centre~point.-38.260751_175.109242_Waitomo%20i-SITE%20Visitor%20Centre~point.-37.872014_175.682911_Matamata%20Shire's%20Rest~point.-38.133474_176.25069_Regent%20of%20Rotorua~point.-38.358012_176.368984_Wai-O-Tapu%20Geothermal%20Wonderland~point.-38.109102_176.317816_Rotorua%20Airport~point.-41.279387_174.77467_Bolton%20Hotel%20Wellington~point.-41.289851_174.775103_Wellington%20i-SITE%20Visitor%20Centre~point.-41.290737_174.778961_Amora%20Hotel%20Wellington~point.-41.284223_174.775153_Wellington%20Cable%20Car~point.-41.290206_174.782089_Te%20Papa%20Tongarewa~point.-41.29071_174.753435_Zealandia%20Ecosanctuary~point.-38.090062_176.195763_Wingspan%20National%20Bird%20of%20Prey%20Centre~point.-38.109777_176.221969_Skyline%20Rotorua~point.-38.106404_176.221325_Mitai%20Maori%20Village Bing map]

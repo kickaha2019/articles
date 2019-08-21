@@ -1,0 +1,30 @@
+---
+template: country_map.erb
+title: Daintree
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 12
+places:
+- id: Daintree River Cruise
+  lat: -16.258267
+  lon: 145.340847
+  y: 401
+  x: 284
+- id: Daintree Heritage Lodge
+  lat: -16.166332
+  lon: 145.412184
+  y: 122
+  x: 492
+- id: Cooper Creek Wilderness
+  lat: -16.171607
+  lon: 145.419148
+  y: 138
+  x: 512
+- id: Thornton Beach
+  lat: -16.173611
+  lon: 145.441525
+  y: 144
+  x: 577
+lat: -16.28257409249122
+lon: 145.40645599365237

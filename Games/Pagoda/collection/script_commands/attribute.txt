@@ -1,0 +1,11 @@
+Text:
+	The ''attribute'' command gets the value of a specified HTML
+	attribute for the current HTML element on a page.  So the
+	script line:
+	
+Code:
+	attribute href Link
+
+Text:
+	gets the ''href'' attribute for the current HTML element, and
+	saves it into script variable ''Link''.

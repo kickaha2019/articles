@@ -1,0 +1,42 @@
+Title:
+	Pictures of animals
+
+Gallery:
+	animals/sea_anemones.jpg
+	Sea anemones (out of water so closed)
+
+	animals/sea_lions_curio1.jpg
+	Sea lions at Curio Point
+
+	animals/sea_lions_curio2.jpg
+	Sea lions closeup at Curio Point
+
+	animals/sea_lions_curio3.jpg
+	Sea lion closeup at Curio Point
+
+	animals/sea_lions_curio4.jpg
+	Sea lion at Curio Point
+
+	animals/tuatara1.jpg
+	Tuatara at Invercargill museum
+
+	animals/tuatara2.jpg
+	Henry - Tuatara born in the 1880s in Invercargill museum
+
+	animals/elephant_seal.jpg
+	Elephant seal on Ulva Island
+
+	animals/elephant_seal_spot.jpg
+	Elephant seal's spot on Ulva Island
+
+	animals/butterfly.jpg
+	Butterfly at Homer Tunnel entrance
+
+	animals/milford_seals.jpg
+	Seals in Milford Sound
+
+	animals/glow_worms.jpg
+	Glow-worms in Waitomo caves
+
+	animals/cave_weta.jpg
+	Cave weta in Waitomo caves

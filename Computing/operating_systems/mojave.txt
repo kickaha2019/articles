@@ -1,0 +1,11 @@
+Title:
+	Issues on OSX 10.14 (Mojave)
+
+Text:
+	Open With menu doesn't correctly report the default application.
+  For me .txt files always claim to open inside TextEdit by default
+  though in practice I have them opening inside XCode.
+
+Text:
+	Apple have tightened up access to files underneath ~/Library. For instance
+ from the command line you can't see files underneath ~/Library/Mail.

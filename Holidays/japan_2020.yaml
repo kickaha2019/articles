@@ -1,0 +1,108 @@
+template: maps.erb
+title:    Places to see in Japan 2020
+zoom:     9
+icon:     /Users/peter/Website/Articles/Holidays/map.jpg
+places:
+  - name:   Giant Ghibli Clock
+    lat:    35.664219
+    lon:    139.759927
+    apple:  Hayao Miyazaki's Nippon Television Giant Clock
+  - name:   Godzilla Statue
+    lat:    35.673979
+    lon:    139.760276
+  - name:   Tokyo Metropolitan Government Building
+    lat:    35.689896
+    lon:    139.692111
+  - name:   Shinjuku Omoide Yokocho
+    lat:    35.693343
+    lon:    139.699547
+    apple:  Omoide Yokocho Shinjuku
+  - name:   Takashimaya Shinjuku
+    lat:    35.687951
+    lon:    139.702266
+    url:    https://www.takashimaya.co.jp/shinjuku/timessquare/
+    apple:  
+  - name:   Alternative Theatre
+    lat:    35.673892
+    lon:    139.763430
+    google: Alternative Theatre, 2 Chome-5-１ Yurakucho, Chiyoda City, Tokyo, Japan
+    url:    https://www.alternative-theatre.jp/en/about/
+  - name:   Rakuu-tei Tea House
+    lat:    35.686077
+    lon:    139.707072
+    apple:  
+    url:    http://www.washokulovers.com/blog/shinjuku-gyoen-rakuutei-tea-house/
+  - name:   Shinjuku Gyoen
+    lat:    35.688501
+    lon:    139.709495
+    google: Shinjuku Gyoen Shinjuku Gate
+    apple:  Shinjuku Gyoen Information Centre
+    url:    https://www.env.go.jp/garden/shinjukugyoen/english/
+  - name:   Donguri Garden
+    lat:    35.729124
+    lon:    139.719374
+    google: どんぐり共和国 池袋店 Donguri Kyouwakoku MOE Garden Ikebukuro
+  - name:   Tokyo Toy Museum
+    lat:    35.690026
+    lon:    139.718071
+    url:    http://goodtoy.org/ttm/pdf/ttm_pamphlet_e.pdf
+    apple:  Tokyo Toy Museum Shinjuku
+  - name:   Robot Restaurant
+    lat:    35.694606
+    lon:    139.702483
+    url:    https://shinjuku-robot.com/sp/
+    apple:  Robot Restaurant Tokyo
+  - name:   Nihon Kiin
+    lat:    35.690556
+    lon:    139.7364534
+    google: Nihon Ki-in Tokyo HQ
+    apple:  Nihon Kiin Ichigaya Honin
+    url:    https://www.nihonkiin.or.jp/english/
+  - name:   Sanrio Puroland
+    lat:    35.624879
+    lon:    139.429383
+    url:    https://en.puroland.jp
+  - name:   Edo Tokyo Museum
+    lat:    35.696885
+    lon:    139.795766
+    google: Edo-Tokyo Museum
+    apple:  Edo Tokyo Museum 4-1 yokoami
+    url:    https://www.edo-tokyo-museum.or.jp/en/
+  - name:   Tokyo Skytree
+    lat:    35.710246
+    lon:    139.810722
+    url:    http://www.tokyo-skytree.jp/en/
+  - name:   Hotel Gracery Shinjuku
+    lat:    35.696404
+    lon:    139.702032
+    url:    https://shinjuku.gracery.com/
+  - name:   Numazuko - Shinzuku-Honten
+    lat:    35.691485
+    lon:    139.703208
+  - name:   TOTO Tokyo Center Show Room
+    lat:    35.686596
+    lon:    139.699594
+    apple:
+    url:    http://showroom.toto.jp/showroom.aspx?sr=028
+  - name:   Kawaii Monster Cafe
+    lat:    35.67030
+    lon:    139.706129
+    url:    http://kawaiimonster.jp/
+  - name:   Tokyo Mode Gakuen
+    lat:    35.692780
+    lon:    139.696883
+  - name:   Shimbashi Station
+    lat:    35.666675
+    lon:    139.758318
+    google: JR Shimbashi Station
+    apple:  JR Shimbashi Station
+  - name:   Shinjuku Station
+    lat:    35.690154
+    lon:    139.700416
+    google: JR Shinjuku Station
+    apple:  JR Shinjuku Station
+  - name:   Ichigaya Station
+    lat:    35.691300
+    lon:    139.735546
+    google: JR Ichigaya Station
+    apple:  JR Ichigaya Station

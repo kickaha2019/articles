@@ -1,0 +1,3 @@
+Text:
+	I use Apple's [https://www.apple.com/safari/ Safari]
+	as my standard web browser.  

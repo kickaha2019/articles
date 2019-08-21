@@ -1,0 +1,30 @@
+Date:
+	19th October 2001
+
+Title:
+	The Peak District
+
+Anchor:
+	Poole's Cavern 53.250201,-1.925167
+	Crich Tramway Museum 53.090531,-1.486727
+
+Text:
+  A break with my sister's family in the Peak District.
+  We saw [https://poolescavern.co.uk/ Poole's Cavern] and the [https://www.tramway.co.uk/ Crich Tramway Museum]
+  among other places.
+
+Gallery:
+	coventry_cobweb.JPG
+	Cobweb in Coventry
+	
+	pooles_cavern_1.JPG
+	Poole's Cavern
+
+	pooles_cavern_2.JPG
+	Poole's Cavern
+	
+	crich_1.JPG
+	Crich Tramway Museum
+
+	crich_2.JPG
+	Crich Tramway Museum

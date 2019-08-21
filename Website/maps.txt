@@ -1,0 +1,51 @@
+Text:
+	It's useful to display some information on a map. On my website
+	for instance the places Virginia and I want to see are listed
+	at [Holidays/wish_list_map Wish List Map]. Previously this was implemented
+	using a free account with Google's Javascript API, but Google
+	announced they would only support billable accounts in the
+	future. Google are a business, it was kind of them to make this
+	API available free for so long, but time for a change.
+	Inspired by a [https://bost.ocks.org/mike/map/ page] I found
+	surfing the web I decided to try another more primitive
+	approach.
+
+Heading:
+	Data sources
+
+Text:
+	To display maps you need base data for where cities or roads or
+	coastlines and the like are. Happily there's a lot of free stuff
+	out there. I'm currently using data from [http://www.naturalearthdata.com/ Natural Earth],
+	[https://www.opendatani.gov.uk/ OpenDataNI], and
+	[https://www.ordnancesurvey.co.uk/business-and-government/products/opendata.html Ordnance Survey].
+	Base data is available in a number of formats including [ESRI] shapefiles and
+	[GeoJSON].
+
+	Particularly to create test data [http://geojson.io/ geojson.io] is
+	a useful site.
+
+Heading:
+	Transforming the base data
+
+Text:
+	There's a number of transformations which can be applied to the
+	base data before displaying it on a map. The coordinate reference
+	systems need to be changed to the one to use for display, otherwise
+	things will be in the wrong place. It's useful to clip the data
+	to the area to be displayed. It's also useful to simplify the data
+	to the resolution needed, and to reduce the data if it contains
+	items not be displayed.
+
+	To achieve the coordinate transformations I used the
+	[https://www.gdal.org/index.html GDAL toolkit], in
+	particular the [https://www.gdal.org/ogr2ogr.html ogr2ogr] utility.
+	I did try this for clipping and simplification, but for me
+	it behaved oddly.
+
+Heading:
+	Generating SVG for display
+
+Text:
+	Still working on this. The idea is to convert [GeoJSON] into
+	[SVG], and include that [SVG] into the webpages.

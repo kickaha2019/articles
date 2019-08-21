@@ -1,0 +1,3 @@
+SITE_INDEX_DEPTH=2
+TAG=Games
+ICON=/Users/peter/Website/Articles/Games/favourites/RPG/Avernum.jpg

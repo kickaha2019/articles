@@ -1,0 +1,31 @@
+Title:
+  Europe
+
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  You may need to scroll down for some maps.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+    <div id="map" style="width: 950px; height: 950px;">
+  <div id="p0" class="place" style="top: 604px; left: 518px"><span id="l0" class="label"><a href="../../../Diary/2003/Kalbarri/index.html">Geraldton</a></span></div>
+  <div id="p1" class="place" style="top: 573px; left: 537px"><span id="l1" class="label"><a href="../../../Diary/2003/Kalbarri/index.html">Greengables&nbsp;Lodge</a></span></div>
+  <div id="p2" class="place" style="top: 343px; left: 381px"><span id="l2" class="label"><a href="../../../Diary/2003/Kalbarri/index.html">Hutt&nbsp;Lagoon</a></span></div>
+  <div id="p3" class="place" style="top: 181px; left: 430px"><span id="l3" class="label"><a href="../../../Diary/2003/Kalbarri/index.html">Kalbarri&nbsp;National&nbsp;Park</a></span></div>
+  </div>
+  <script>
+    var map = L.map('map').setView([-28.44937385955666, 114.47479248046876], 9);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>

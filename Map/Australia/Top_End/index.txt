@@ -1,0 +1,33 @@
+Title:
+  Europe
+
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  You may need to scroll down for some maps.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+    <div id="map" style="width: 950px; height: 950px;">
+  <div id="p0" class="place" style="top: 325px; left: 207px"><span id="l0" class="label"><a href="../../../Diary/2002/kakadu/index.html">Darwin</a></span></div>
+  <div id="p1" class="place" style="top: 399px; left: 565px"><span id="l1" class="label"><a href="../../../Diary/2002/kakadu/index.html">Nourlangie</a></span></div>
+  <div id="p2" class="place" style="top: 317px; left: 592px"><span id="l2" class="label"><a href="../../../Diary/2002/kakadu/index.html">Ubirr</a></span></div>
+  <div id="p3" class="place" style="top: 406px; left: 511px"><span id="l3" class="label"><a href="../../../Diary/2002/yellow_waters/index.html">Yellow&nbsp;Waters</a></span></div>
+  <div id="p4" class="place" style="top: 673px; left: 493px"><span id="l4" class="label"><a href="../../../Diary/2002/yellow_waters/index.html">Nitmiluk&nbsp;Gorge</a></span></div>
+  <div id="p5" class="place" style="top: 254px; left: 572px"><span id="l5" class="label"><a href="../../../Diary/2002/arnhemland/index.html">Mount&nbsp;Borradaile</a></span></div>
+  </div>
+  <script>
+    var map = L.map('map').setView([-13.223903512667826, 132.27539062500003], 8);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>

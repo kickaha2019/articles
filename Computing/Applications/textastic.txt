@@ -1,0 +1,26 @@
+Title:
+	Textastic (iOS)
+
+Text:
+	I'm using 
+	[https://www.textasticapp.com/ Textastic] for editing files on my ''iPad''.  So when
+	I'm away on holiday for instance I can type onto the ''iPad''
+	an entry for the holiday there and then.  Or I can edit stuff
+	while lap-sitting Tabitha.
+
+	I have used the 
+	[Dropbox] integration in [Textastic] for moving files being
+	edited between the ''iPad'' and the ''Mac''.  Sometimes 
+	synching large numbers of files failed.  I'm probably going to
+	move over to using the
+	[https://www.textasticapp.com/v4/manual/lessons/Connecting_to_Textastic_with_Finder.html WebDAV]
+	integration in [Textastic] which is more reliable and
+	free of worries about data privacy in the clouds.
+
+	The cursor wheel in [Textastic] is very useful, making it easy 
+	to position the cursor for editing and selecting.  The
+	extended keyboard in [Textastic] saves having to swap keyboards
+	when you need special characters.
+
+	Perfect?  No, of course not.  But at the moment it
+	does nicely.

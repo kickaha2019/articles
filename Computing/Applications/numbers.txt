@@ -1,0 +1,7 @@
+Text:
+	I use Apple's 
+	[Numbers] for some spreadsheets on the
+	computer.  To get scatter charts to work inside [Numbers] for some
+	reason it is necessary to set ''Table / Header columns'' to ''00''
+	from the top menu. Logarithmic scaling rather than linear is good too.
+	

@@ -1,0 +1,120 @@
+Gallery:
+	heathrow.JPG
+	Bear at Heathrow to wish me Bon Voyage
+
+	tiri_lighthouse.JPG
+	Lighthouse on Tiritiri Matangi island
+
+	tiri_oystercatcher.JPG
+	Variable oystercatcher on Tiritiri Matangi island 
+
+	tiri_pigeon.JPG
+	NZ pigeon on Tiritiri Matangi island 
+
+	tiri_stitchbird.JPG
+	Stitchbird on Tiritiri Matangi island 
+
+	tiri_robin.JPG
+	NZ robin on Tiritiri Matangi island 
+
+	tiri_tui.JPG
+	Tui on Tiritiri Matangi island 
+
+	tiri_takahe.JPG
+	Takahe on Tiritiri Matangi island 
+
+	tong_lodge.JPG
+	Discovery Lodge in Tongariro National Park 
+
+	tong_start.JPG
+	Start of Tongariro Alpine Crossing
+	
+	tong_dawn.JPG
+	Dawn comes on the Tongariro Alpine Crossing
+
+	tong_ngau.JPG
+	Mount Ngauhuroe
+
+	tong_scrater.JPG
+	South Crater on the Tongariro Alpine Crossing
+
+	tong_scrater2.JPG
+	South Crater on the Tongariro Alpine Crossing
+
+	tong_ngau2.JPG
+	Mount Ngauhuroe
+
+	tong_central1.JPG
+	Nearing Central Crater on the Tongariro Alpine Crossing
+	
+	tong_emer.JPG
+	Emerald Lakes on the Tongariro Alpine Crossing
+
+	tong_emer2.JPG
+	Emerald Lakes on the Tongariro Alpine Crossing
+
+	tong_central2.JPG
+	Central crater on the Tongariro Alpine Crossing
+
+	tong_central3.JPG
+	Central crater on the Tongariro Alpine Crossing
+
+	tong_descent.JPG
+	Descending from Ketetahi on the Tongariro Alpine Crossing
+
+	tong_kete2.JPG
+	Descending from Ketetahi on the Tongariro Alpine Crossing
+
+	tong_end.JPG
+	Nearing the end on the Tongariro Alpine Crossing
+
+	wai_inf1.JPG
+	Inferno Crater at Waimangu Volcanic Valley
+
+	wai_inf2.JPG
+	Inferno Crater at Waimangu Volcanic Valley
+
+	wai_val1.JPG
+	Waimangu Volcanic Valley
+
+	wai_val2.JPG
+	Waimangu Volcanic Valley
+
+	wai_terr1.JPG
+	Terrace at Waimangu Volcanic Valley
+
+	wai_terr2.JPG
+	Terrace at Waimangu Volcanic Valley
+
+	white1.JPG
+	White Island
+
+	white_rubber.JPG
+	Part of the fun at White Island
+
+	white2.JPG
+	White Island
+	
+	white3.JPG
+	White Island
+
+	white4.JPG
+	White Island
+
+	white5.JPG
+	White Island
+
+	white_fact.JPG
+	Abandoned factory at White Island
+
+	white_fact2.JPG
+	Abandoned factory at White Island
+	
+	cath1.JPG
+	Cathedral Cove
+
+	cath2.JPG
+	Cathedral Cove
+
+	cath3.JPG
+	Cathedral Cove

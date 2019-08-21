@@ -1,0 +1,26 @@
+Title:
+	A plurality of personae
+
+Text:
+	Viola in "Twelfth Night" is one of Shakespeare's memorable
+	characters, around whom much of the play pivots because she
+	is a girl pretending to be a boy. Such a situation is rich for
+	farce and tension and irony, as characters seek to achieve the
+	impossible of being two different people at the same time.
+
+	Well after Shakespeare characters trying to present different
+	personae to different people remains a staple feature of dramas,
+	particularly comedies. Dramas need characters under stress,
+	characters with problems.
+
+Table:
+	Year|Title|Instances
+	2005|Sassy Girl Chun-hyang|
+	2005|My Girl|
+	2006|Couple or Trouble|Episode 11: Assistant Gong
+	2008|Hong Gil Dong|
+	2009|You're Beautiful|
+	2010|My Girlfriend is a Nine-Tailed Fox|
+	2011|The Greatest Love|
+	2012|Big|
+	2013|The Master's Sun|

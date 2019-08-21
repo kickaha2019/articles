@@ -1,0 +1,15 @@
+Title:
+	VobSub subtitle format
+
+Text:
+	A format used to hold bitmapped subtitles for films on DVD disks. After ripping
+  a DVD film to disk using something like [makemkv], the subtitle track can be
+  extracted to the VobSub format (a .idx / .sub pair of files) using
+  [mkvtoolnix].
+
+	I haven't used this myself but there's a Rust library for the VobSub
+  format at [https://docs.rs/vobsub/0.2.3/vobsub/ Rust VobSub] with information
+  about the format. The binary .sub data is apparently a
+  [https://en.wikipedia.org/wiki/MPEG_program_stream MPEG program stream]
+  wrapping a [http://dvd.sourceforge.net/dvdinfo/pes-hdr.html Packetized Elementary Stream]
+  wrapping [http://sam.zoy.org/writings/dvd/subtitles/ run length encoded image data].

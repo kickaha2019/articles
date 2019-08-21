@@ -1,0 +1,10 @@
+Text:
+	The ''set'' command sets a variable to a specified value.
+	So the script commands:
+	
+Code:
+	set animal "Wombat"
+	log animal
+
+Text:
+	will caused "Wombat" to be logged.

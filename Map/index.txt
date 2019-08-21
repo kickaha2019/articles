@@ -1,0 +1,39 @@
+Title:
+  Where we've been
+
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  A geographical index to this website, as a way of listing places
+  I (and Virginia) have been. The maps herein use data from
+  [https://www.openstreetmap.org/ OpenStreetMap], realised using the
+  [https://leafletjs.com/ Leaflet.js] Javascript library.
+
+  To navigate into this index hover over the stars on the map to
+  show a tooltip describing the location, click on the tooltip
+  to descend further.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+    <div id="map" style="width: 515px; height: 345px;">
+  <div id="p0" class="place" style="top: 151px; left: 238px"><span id="l0" class="label"><a href="Europe/index.html">Europe</a></span></div>
+  <div id="p1" class="place" style="top: 172px; left: 97px"><span id="l1" class="label"><a href="America/index.html">America</a></span></div>
+  <div id="p2" class="place" style="top: 228px; left: 382px"><span id="l2" class="label"><a href="Singapore/index.html">Singapore</a></span></div>
+  <div id="p3" class="place" style="top: 269px; left: 426px"><span id="l3" class="label"><a href="Australia/index.html">Australia</a></span></div>
+  <div id="p4" class="place" style="top: 110px; left: 263px"><span id="l4" class="label"><a href="Scandinavia/index.html">Scandinavia</a></span></div>
+  </div>
+  <script>
+    var map = L.map('map').setView([43.32517767999296, 10.898437500000002], 1);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>

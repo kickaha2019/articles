@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<HTML LANG="en"><HEAD><TITLE><%= title %></TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<link rel="stylesheet" type="text/css" href="../resources/main.css">
+</HEAD><BODY>
+<div class="map" id="map" style="height: 100vh; width: 100%; margin: 0px; position: absolute; top: 0px; left: 0px"></div>
+<script>
+  var map, marker;
+  var places = [
+<%=
+  places.collect do |place|
+    "['#{place['name'][0..0]}','#{place['name']}',#{place['lat']},#{place['lon']}]"
+	end.join( ",\n")
+%>
+  ];
+
+  function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+		center: {lat:
+  <%=
+    (places.inject(0) {|s,e| s+e['lat']} / places.size).to_s
+  %>
+    , lng:
+  <%=
+    (places.inject(0) {|s,e| s+e['lon']} / places.size).to_s
+  %>
+    },
+		zoom: <%= zoom %>,
+		mapTypeId: google.maps.MapTypeId.ROADMAP,
+		mapTypeControl: true,
+		mapTypeControlOptions: {
+			style: google.maps.MapTypeControlStyle.DEFAULT,
+			position: google.maps.ControlPosition.TOP_CENTER,
+			mapTypeIds: [
+				google.maps.MapTypeId.ROADMAP,
+				google.maps.MapTypeId.SATELLITE
+			]
+		}
+    });
+
+	for (var i = 0; i < places.length; i++) {
+		var p = places[i];
+		marker = new google.maps.Marker({
+			position: {lat: p[2], lng: p[3]},
+			label: p[0],
+			title: p[1],
+			map: map
+		});
+	}
+  }
+</script>
+<%=
+	map_key = google_maps_key ? "key=#{google_maps_key}&" : ''
+	"<script src=\"https://maps.googleapis.com/maps/api/js?#{map_key}callback=initMap\"
+async defer>"
+%>
+</script>
+</BODY></HTML>

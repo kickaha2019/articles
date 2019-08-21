@@ -1,0 +1,59 @@
+Title:
+	1: Gamescom 2014
+
+Right:
+	train_ticket.png
+
+Text:
+	On Facebook I saw Agust&iacute;n Cordes celebrating [http://www.gamescom.global/ Gamescom] 2013,
+	with pictures of
+	the [http://www.adventure-treff.de Adventure Treff] party there. 
+	The thought came - wouldn't it be nice to be there oneself? Agust&iacute;n encouraged me, and I started considering rather than day-dreaming. Considering attending Gamescom 2014 myself, meeting game developers and interviewing them. I did once attend the Hong Kong International Film Festival and interview film directors, but you need to represent magazines or the like. The first road-block was that to meet people you need access to the business areas, for me that meant getting press accreditation.
+
+	That seemed to me to be far from a given, but I found myself working up ideas I had into an [http://www.gameboomers.com/Editorial/Constructing%20the%20Cave/Constructingthecave.htm article]
+		for [http://www.gameboomers.com GameBoomers], 
+		becoming a member of [http://www.gameboomers.com/aboutus.html staff] 
+		there which was a privilege, and then submitting the application through the Gamescom website. I had a problem with the type of document they would accept initially, but off it went finally and they acknowledged receipt. Not expecting anything more I was amazed to receive a press pass in electronic form later!
+
+Left:
+	press_pass.png
+
+Text:
+	So I found myself definitely going to Gamescom, and having to make the necessary arrangements. I thought I needed tickets and got some - later on I compounded this blunder by thinking I needed a trade ticket instead. Wrong! Getting ahead of myself here the press pass was enough, going around Gamescom entering the special areas being able to enter before the crowds made me feel like I had diplomatic immunity for once in my life! The days I needed to go were the Wednesday through Friday (the day of the Adventure Treff party). The Wednesday is supposed to be a trade only day - I did see children there then but perhaps they were family of exhibitors.
+
+	How to get there saw me wavering between flying and the train. I went for the train and booked first-class intercross Europe tickets on Deutsche Bahn's German language website, relying on Google translate to guess what I should be doing. That was a bit of an Adventure. Through Expedia I booked a hotel, Jan Kavan kindly sent me details of hotels but in the end I booked a hotel near the Cologne central station on an English language website. Jan advised me to double-check the booking closer to the time and I rang the Hotel Berg a week or two before I went.
+
+	It was about now I realised I'd better book the time off my routine Kafka-esque day job (software development for a giant US multi-national). This raised the slight problem when I had gone through the complicated rituals required for this that I had booked too much holiday in 2014! Rather than not go to Gamescom I persuaded a helpful secretary to unbook another holiday and instead I argued I had worked through lunchtimes.
+
+	I also (since I now would be there) tried to fix to meet game developers at Gamescom. One can't just turn up at Gamescom, but organising beforehand
+	is also hit and miss.  Game developers are likely to respond to enquiries,
+	PR people don't tend to respond but they are the ones who arrange
+	appointments. So I fixed with one game developer to meet them but that
+	appointment didn't get into the PR diary, I ended up gate-crashing someone
+	else's appointment at Gamescom! I almost despaired of contacting 
+	[Daedalic Entertainment]'s PR, but in the end they were very forthcoming. Over half of my appointments were arranged on site.
+
+Right:
+	Business_card.png
+
+Text:
+	The plan for the interviews I hoped to do at Gamescom was to ask
+	a number of game developers the same questions, and to combine
+	the answers into a single article. The idea being to present to game
+	players what game developers are like, how they tick, to some
+	extent how hard it is being a game developer. I did an email 
+	interview with 
+	[http://www.gameboomers.com/interviews/DaniloCagliari/DaniloCagliari.htm Danilo Cagliari]
+	of [http://www.midiandesign.com Midian Design]
+	to see how my proposed questions worked. Like many of my plans
+	this didn't in the end really work as a plan.
+
+	Business cards also seemed like a good idea - I wasn't sure if in the
+	electronic age people still did business cards or just had their tablets
+	tenderly touch each other.  So Marita of GameBoomers put together a card for
+	me, and I went to a local print shop in my village of Histon to get it
+	printed out.  They didn't like it saying it wasn't high enough resolution
+	(they wanted 300dpi) so Marita kindly sent me a higher resolution 
+	version and I went to the print shop again.  Success this time.
+
+	Final preparations were moving documents across onto the vital iPad (which served as notebook, diary, calendar, email client, Facebook client, web browser, and voice recorder). I took printouts as well, the press pass and Gamescom tickets which I would discover were pointless and the Deutsche Bahn tickets. Packed on the evening of the 11th August and I was ready for this adventure about adventures.

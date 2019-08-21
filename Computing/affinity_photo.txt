@@ -1,0 +1,20 @@
+Title:
+	Affinity Photo
+
+Icon:
+	affinity_photo.png
+
+Date:
+	October 21th 2017
+
+Text:
+	I've just installed [Affinity Photo]
+	to use for editing images on
+	the iMac. I used to use [Adobe]'s ''Photoshop Elements'', but the version I was using had
+	problems on the latest version of the Mac operating system and I didn't want
+	to move to a subscription model that [Adobe] now favour. I'm not a
+	professional photographer, or even a serious amateur one. [Affinity Photo]
+	also has an iPad version which is attractive.
+
+	So far [Affinity Photo] looks like it will do what I need it to do.
+	

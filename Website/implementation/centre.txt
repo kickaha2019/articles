@@ -1,0 +1,20 @@
+Text:
+	The "Centre" declaration adds an image to the article page which is centred in the RHS
+	side of the article.
+	
+	Example:
+	
+Code:
+	Centre:
+		/Users/peter/Sites/Articles/resources/logo_550.jpg
+		
+Text:
+	Which gives:
+	
+Centre:
+	/Users/peter/Sites/Articles/resources/logo_550.jpg
+	
+Text:
+	The dimensions of the image on the article page are controlled by parameters
+	"CENTRE_HEIGHT" and "CENTRE_WIDTH".  The image is scaled to fit into these
+	dimensions while preserving the aspect ratio.

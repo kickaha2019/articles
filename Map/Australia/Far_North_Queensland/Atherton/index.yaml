@@ -1,0 +1,45 @@
+---
+template: country_map.erb
+title: Far North Queensland
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 11
+places:
+- id: Lake Barrine
+  lat: -17.250339
+  lon: 145.637143
+  y: 279
+  x: 497
+- id: Hypipamee Crater
+  lat: -17.425817
+  lon: 145.486532
+  y: 547
+  x: 278
+- id: Curtain Fig Tree
+  lat: -17.282961
+  lon: 145.573628
+  y: 329
+  x: 405
+- id: Millaa-Millaa Falls
+  lat: -17.495544
+  lon: 145.610824
+  y: 653
+  x: 459
+- id: Ellinjaa Falls
+  lat: -17.49374
+  lon: 145.655791
+  y: 650
+  x: 525
+- id: Zillie Falls
+  lat: -17.474914
+  lon: 145.656576
+  y: 622
+  x: 526
+- id: Chambers Wildlife Rainforest Lodges
+  lat: -17.286023
+  lon: 145.635553
+  y: 333
+  x: 495
+lat: -17.3788184737004
+lon: 145.6217193603516

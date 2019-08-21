@@ -1,0 +1,26 @@
+Title:
+	Who wants gourmet food
+
+Text:
+	One or more characters can have a taste for simpler food like ramen rather
+	than posh gourmet dishes. This can serve as a bond between characters, or as
+	establishing a character as having an aspect which is down to earth or
+	ordinary. Acquiring said simpler food can be involved, or the preparation
+	of it requires knowledge transfer.
+
+	Characters need to talk to convey to the viewer what the drama wants them
+	to know. Talking heads in themselves tend to be boring, but if characters
+	talk in the context of a meal then that gives something to occupy the eyes
+	while the ears are occupied too.
+	
+Table:
+	Year|Title|Instances
+	2005|Sassy Girl Chun-hyang|
+	2005|My Girl|
+	2006|Couple or Trouble|Anna likes black bean noodles
+	2008|Hong Gil Dong|
+	2009|You're Beautiful|
+	2010|My Girlfriend is a Nine-Tailed Fox|
+	2011|The Greatest Love|
+	2012|Big|
+	2013|The Master's Sun|

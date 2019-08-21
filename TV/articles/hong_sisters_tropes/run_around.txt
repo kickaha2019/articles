@@ -1,0 +1,18 @@
+Title:
+	Running against the clock
+
+Text:
+	A character tries to get to a certain place by a certain time.
+
+Table:
+	Year|Title|Instances
+	2005|Sassy Girl Chun-hyang|Episode 8: Mong Ryong running back to bar
+	||Episode 9: Mong Ryong runs to bus stop
+	2005|My Girl|
+	2006|Couple or Trouble|
+	2008|Hong Gil Dong|
+	2009|You're Beautiful|
+	2010|My Girlfriend is a Nine-Tailed Fox|
+	2011|The Greatest Love|
+	2012|Big|
+	2013|The Master's Sun|

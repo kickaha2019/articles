@@ -1,0 +1,30 @@
+---
+template: country_map.erb
+title: Far North Queensland
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 7
+places:
+- id: Undara
+  lat: -18.202319
+  lon: 144.572135
+  y: 732
+  x: 646
+- id: Cairns
+  lat: -16.919019
+  lon: 145.775575
+  y: 610
+  x: 756
+- id: Daintree
+  lat: -16.918258
+  lon: 145.777063
+  y: 590
+  x: 731
+- id: Atherton
+  lat: -17.344545
+  lon: 145.557683
+  y: 650
+  x: 736
+lat: -15.496032414238622
+lon: 142.69042968750003

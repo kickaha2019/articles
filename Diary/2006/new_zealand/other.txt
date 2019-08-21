@@ -1,0 +1,61 @@
+Title:
+	Pictures of general things
+
+Gallery:
+	other/auckland_skyline.jpg
+	Auckland skyline with the Sky Tower prominent
+
+	other/mount_eden.jpg
+	Old volcanic crater at Mount Eden Auckland
+
+	other/dunedin_centre.jpg
+	Dunedin centre with statue of Robert Burns
+
+	other/dunedin_station.jpg
+	Dunedin Railway Station
+
+	other/tautuku_estuary.jpg
+	Tautuku Estuary to see fernbirds
+
+	other/catlins_engine.jpg
+	Old logging engine in The Catlins
+
+	other/curio_lighthouse.jpg
+	Curio Bay wooden lighthouse
+
+	other/stewart_chessboard.jpg
+	Stewart Island harbour
+
+	other/kea_crowd.jpg
+	Kea at the Chasm (near Milford Sound)
+
+	other/puzzling_world.jpg
+	Puzzling World at Wanaka
+
+	other/wanaka_tiles.jpg
+	Wanaka - the millenium tiles
+
+	other/tile_1956.jpg
+	Wanaka - a very special millenium tile
+
+	other/arthurs_pass_road.jpg
+	Arthur's Pass road
+
+	other/maori_bird_trap.jpg
+	Maori bird trap - at Rotorua
+
+	other/me_glow_worm_cave.jpg
+	Me outside glow-worm cave in Waitomo
+
+	other/matamata.jpg
+	Matamata
+
+	other/hobbiton.jpg
+	Matamata - Hobbiton in the 'Lord of the Rings' films
+
+	other/bilbo_hole.jpg
+	Matamata - Bilbo's hobbit-hole
+
+	other/oak_tree_prop.jpg
+	Matamata - remains of oak tree prop
+	

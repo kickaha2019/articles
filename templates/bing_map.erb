@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<HTML LANG="en"><HEAD>
+<%=
+  html = []
+  html << "<meta http-equiv=\"refresh\" content=\"0;url=https://bing.com/maps/default.aspx?cp="
+  html << (places.inject(0) {|s,e| s+e['lat']} / places.size).to_s
+  html << '~'
+  html << (places.inject(0) {|s,e| s+e['lon']} / places.size).to_s
+  html << '&lvl='
+  html << zoom.to_s
+  separ = '&sp=point.'
+  places.each do |place|
+    html << separ
+    html << place['lat'].to_s
+    html << '_'
+    html << place['lon'].to_s
+    html << '_'
+    html << place['name'].gsub(' ','%20')
+    separ = '~point.'
+  end
+  html << '">'
+  html.join('');
+%>
+</HEAD><BODY>
+</BODY></HTML>

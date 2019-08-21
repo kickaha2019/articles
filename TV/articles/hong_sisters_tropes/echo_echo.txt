@@ -1,0 +1,36 @@
+Title:
+	Action replays
+
+Text:
+	A sequence where the same action is repeated, usually by a different
+	character. This may not advance the drama much in the direction
+	of the plot, but done right is a pleasing conceit. Repeated actions
+	can serve to tie the multiple episodes together, to remind the
+	viewers of previous episodes.
+
+	(I don't know from just watching a TV drama whether a particular
+	element was written by the writers, was adlibbed by an actor,
+	or was directed by director. A repeated action could be more a
+	directorial ornamentation than a scripted element of the drama.)
+	
+Table:
+	Year|Title|Instances
+	2005|Sassy Girl Chun-hyang|Episode 1: Hero and heroine both get chased in their opening scenes
+	||Hero and heroine take each other's phones
+	||Episode 8-10: Mong Ryong does a lot of running around, Choon Hyang runs to bus station
+	||Episode 16: Mong Ryong getting called back
+	2005|My Girl|
+	2006|Couple or Trouble|Episode 1 2: Chul Soo catching Anna
+	||Episode 2 3: Dropping ring on boat to hanging on rails
+	||Episode 4: Stealing drinks from shop
+	||Episode 5: Running away from plumbers shop
+	||Episode 7: Consulting re memory recovery
+	||Episode 16: Princess cat runs away from car
+	2008|Hong Gil Dong|
+	2009|You're Beautiful|
+	2010|My Girlfriend is a Nine-Tailed Fox|
+	2011|The Greatest Love|
+	2012|Big|
+	2013|The Master's Sun|
+	2015|Warm and Cozy|Episode 4-5: Ji Won runs away from coffee spill etc
+	||Episode 9: Rock being tossed into pool

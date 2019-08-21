@@ -1,0 +1,80 @@
+Text:
+	Most of the text on an article page will be in a "Text" 
+	declaration.  The contents of a "Text" declaration are
+	unformatted apart from blank lines will cause gaps in the
+	article webpage itself.  So for example:
+	
+Code:
+	Text:
+		The
+		first
+		paragraph.
+		
+		The 
+		second
+		paragraph.
+	
+Text:
+	Comes out as:
+	
+Code:
+	The first paragraph.
+		
+	The second paragraph.
+	
+Text:
+	Words can be bolded by surrounding them with pairs of
+	apostrophes.  So:
+
+Code:
+	Normal text.  ''Bold text.''
+
+Text:
+	appears as "Normal text.  ''Bold text.''"
+
+Text:
+	"Text" declarations can contain links.  These are text elements
+	delimited by square brackets.  The first kind of link is an explicit
+	HTTP reference.  So example:
+	
+Code:
+	[https://www.apple.com/ Apple] is a link to Apple's website.
+	
+Text:
+	Comes out as:
+	
+	[https://www.apple.com/ Apple] is a link to Apple's website.
+	
+	The next kind of link is a link to another file in the website
+	the articles are being generated into.  So for example:
+	
+Code:
+	[/Users/peter/Sites/index.html index.html] is an absolute link to the website home page.
+	
+Text:
+	Comes out as:
+	
+	[/Users/peter/Sites/index.html index.html] is a link to the website home page.
+	
+	The link can be relative.  So:
+	
+Code:
+	[../../contact/index.html Contact] is a link to the Contact article.
+	
+Text:
+	Gives a link to the "Title" article:
+
+	[../../contact/index.html Contact] is a link to the Contact article.
+
+	Lastly for repeated links to the same address the "http:" etc 
+	element can be omitted and the article will reuse the last link.
+	
+	So:
+	
+Code:
+	[Apple] goes to what "Apple" was linked to higher on the page.
+	
+Text:
+	Which gives:
+	
+	[Apple] goes to what "Apple" was linked to higher on the page.

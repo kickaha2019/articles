@@ -1,0 +1,40 @@
+---
+template: country_map.erb
+title: Europe
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 950
+zoom: 8
+places:
+- id: Darwin
+  lat: -12.463107
+  lon: 130.845757
+  y: 333
+  x: 215
+- id: Nourlangie
+  lat: -12.861645
+  lon: 132.812137
+  y: 407
+  x: 573
+- id: Ubirr
+  lat: -12.420456
+  lon: 132.96409
+  y: 325
+  x: 600
+- id: Yellow Waters
+  lat: -12.896267
+  lon: 132.518458
+  y: 414
+  x: 519
+- id: Nitmiluk Gorge
+  lat: -14.323227
+  lon: 132.418515
+  y: 681
+  x: 501
+- id: Mount Borradaile
+  lat: -12.082955
+  lon: 132.850086
+  y: 262
+  x: 580
+lat: -13.223903512667826
+lon: 132.27539062500003

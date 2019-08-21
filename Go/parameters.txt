@@ -1,0 +1,2 @@
+TAG=Go
+ICON=/Users/peter/Website/Articles/Go/go.jpg

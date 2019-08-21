@@ -1,0 +1,10 @@
+Text:
+	I've tended to use [http://www.germane-software.com/software/rexml/ REXML]
+	for processing XML inside the Ruby code I've done.  Not as fast as
+	[https://www.nokogiri.org/ Nokogiri], but REXML is pure Ruby.
+
+	In certain situations the speed is an issue.  My website compilation was
+	taking over 30 seconds, and I finally tracked it down (to my surprise)
+	to REXML parsing lots of ''rss.xml'' files produced by ''iWeb''.  
+	Caching the information from those ''rss.xml'' files speeded up the
+	compilation to under a second!

@@ -1,0 +1,3 @@
+TAG=Azura cruise
+TITLE=Azura cruise
+ICON=/Users/peter/Website/Articles/Diary/2014/Azura/gondolas1.JPG

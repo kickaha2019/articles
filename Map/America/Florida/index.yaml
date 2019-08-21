@@ -1,0 +1,15 @@
+---
+template: country_map.erb
+title:  Florida
+tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+width: 950
+height: 650
+zoom: 7
+places:
+- id: Disneyworld
+  lat: 28.385544
+  lon: -81.563853
+  x: 654
+  y: 288
+lat: 28.023500048883022
+lon: -83.52905273437501

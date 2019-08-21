@@ -1,0 +1,148 @@
+body {background: black; background-image: none}
+div, td, th, span, dt, dd {color: #CCCC00; font-family: Tahoma, sans-serif; font-size: 18px}
+b {color: yellow; font-family: Tahoma, sans-serif; font-size: 18px; font-weight: normal}
+a {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px}
+a:hover {color: white}
+
+div.page {width: 600px; background: #000077;
+          border-radius: 15px; margin-left: auto; margin-right: auto}
+@media all and (min-width: 800px) {
+	div.page {width: 800px}
+}
+@media all and (min-width: 1000px) {
+	div.page {width: 1000px}
+}
+
+img.logo_550, img.logo_750 {margin-left: 25px; margin-right: 25px; margin-top: 10px; margin-bottom: 10px}
+@media all and (max-width: 799px) {
+	img.logo_750 {display: none}
+}
+@media all and (min-width: 800px) {
+	img.logo_550 {display: none}
+}
+@media all and (min-width: 1000px) {
+	img.logo_750 {margin-left: 125px; margin-right: 125px}
+}
+
+div.breadcrumbs {margin-left: auto; margin-right: auto; width: 550px; margin-bottom: 20px}
+div.breadcrumbs span {color: white}
+
+div.children {margin-left: auto; margin-right: auto; width: 550px; margin-bottom: 20px}
+
+div.body {width: 550px; min-height: 600px; margin-left: auto; margin-right: auto; padding-bottom: 10px;
+          display: -webkit-flex; display: flex; -webkit-flex-flow: row nowrap; flex-flow: row nowrap;
+		  -webkit-justify-content: center; justify-content: center}
+@media all and (min-width: 800px) {
+	div.body {width: 750px}
+}
+@media all and (min-width: 1000px) {
+	div.body {width: 950px}
+}
+
+div.tags {width: 300px}
+div.tag1 {margin-left: 10px}
+div.tag2 {margin-left: 20px}
+div.tag3 {margin-left: 30px}
+div.tag4 {margin-left: 40px}
+div.tag5 {margin-left: 50px}
+@media all and (max-width: 799px) {
+	div.tags {width: 250px}
+}
+
+div.indexes {width: 440px; display: -webkit-flex; display: flex; -webkit-flex-flow: column nowrap; flex-flow: column nowrap;
+		     -webkit-justify-content: flex-start; justify-content: flex-start;
+			 -webkit-align-items: flex-end; align-items: flex-end}
+div.index {display: -webkit-flex; display: flex; -webkit-align-items: center; align-items: center;
+           -webkit-flex-flow: row nowrap; flex-flow: row nowrap}
+div.icon {margin: 20px; min-width: 140px;
+          display: -webkit-flex; display: flex; -webkit-align-items: flex-end; align-items: flex-end;
+		  -webkit-flex-flow: column; flex-flow: column}
+div.legend {margin-left: 10px; min-width: 270px}
+@media all and (max-width: 799px) {
+	div.indexes {width: 290px}
+	div.legend {margin-left: 5px; min-width: 170px; font-size: 16px}
+	div.tags div, div.tags a {font-size: 16px}
+}
+
+div.content {width: 550px; display: flex; flex-direction: column;
+             align-items: center;}
+
+div.gallery {width: 570px; display: inline-block; vertical-align: top}
+@media all and (min-width: 800px) {
+	div.gallery {width: 760px; display: inline-block; vertical-align: top}
+}
+@media all and (min-width: 1000px) {
+	div.gallery {width: 950px; display: inline-block; vertical-align: top}
+}
+div.gallery div {width: 177px; margin-left: 3px; margin-right: 3px}
+
+div.centre     {text-align: center; padding-bottom: 10px}
+div.date       {text-align: center; text-decoration: underline; padding-bottom: 20px}
+div.heading    {text-align: center; text-decoration: underline; padding-bottom: 20px}
+div.title      {text-align: center; text-decoration: underline}
+div.navigation {text-align: center; padding-top: 15px; min-height: 96px;
+                width: 280px; margin-left: auto; margin-right: auto}
+div.text       {padding-bottom: 20px; text-align: left; width: 545px}
+div.navigation a {margin-left: 10px; margin-right: 10px; width: 64px; height: 64px}
+div.navigation a div {width: 64px; height: 64px; display: inline-block}
+div.navigation a div.next {background-image: url("http://www.alofmethbin.com/Articles/resources/next_cyan.png")}
+div.navigation a div.previous {background-image: url("http://www.alofmethbin.com/Articles/resources/previous_cyan.png")}
+div.navigation a div.up {background-image: url("http://www.alofmethbin.com/Articles/resources/up_cyan.png")}
+div.navigation a:hover div.next {background-image: url("http://www.alofmethbin.com/Articles/resources/next_white.png")}
+div.navigation a:hover div.previous {background-image: url("http://www.alofmethbin.com/Articles/resources/previous_white.png")}
+div.navigation a:hover div.up {background-image: url("http://www.alofmethbin.com/Articles/resources/up_white.png")}
+
+div.table  {padding-bottom: 20px}
+div.code   {margin-bottom: 20px; color: #DDDDDD; background: #0000CC; font-size: 14px;
+	  	    font-family: Courier, monospace; text-align: left; padding: 5px}
+
+div.grid   {padding-bottom: 20px}
+
+div.table table {margin-left: auto; margin-right: auto}
+
+div.grid div {width: 177px; margin-left: 3px; margin-right: 3px}
+div.cell {display: inline-block; vertical-align: top; margin-bottom: 10px}
+div.cell div {text-align: center; margin-bottom: 0px}
+
+div.left {float: left; margin: 0px 10px 5px 0px}
+div.right {float: right; margin: 0px 0px 5px 10px}
+
+table.border {border-spacing: 0px}
+table.border td {padding: 5px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: white}
+table.border tr td:first-child {border-width: 0px 1px 1px 1px}
+table.border tr:first-child td {border-width: 1px 1px 1px 0px}
+table.border tr:first-child td:first-child {border-width: 1px}
+
+table.table tr:first-child td {font-weight: bold; text-align: center}
+
+table.list td:first-child {font-weight: bold}
+
+table.site_index {border-spacing: 10px}
+table.site_index td {vertical-align: top}
+
+table.no_header th {font-weight: normal; text-align: left}
+
+div.index {display: -webkit-flex; display: flex;
+           -webkit-flex-flow: row wrap; flex-flow: row wrap; text-decoration: none}
+div.index {width: 570px; padding-right: 22px;
+           -webkit-align-items: flex-start; align-items: flex-start;
+           padding-top: 15px; justify-content: space-between}
+div.index div {width: 96px; margin-left: 10px; margin-right: 10px}
+div.index div.title {height: 96px; text-decoration: none; font-size: 20px}
+div.index div.dummy {height: 1px}
+@media all and (min-width: 800px) {
+	div.index {width: 770px;  padding-right: 22px;}
+}
+
+a.index {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px; text-decoration: none}
+a.index div {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px; text-decoration: none; display: flex; align-items: center; flex-direction: column;}
+a.index:hover div {color: white}
+
+#map a {font-size: 11px}
+#map div.place {position: absolute; background-image: url("https://www.alofmethbin.com/Articles/resources/star.png"); width: 16px; height: 16px; z-index:1000;
+                display: flex; justify-content: center; align-items: center}
+#map div.place:hover span.label {display: block}
+#map span.label:hover {display: block}
+#map span.label a {color: cyan; font-size: 18px}
+
+#map span.label {margin: auto; z-index: 1002; padding: 3px; background:#000077; color: yellow; line-height: 10px; display: none}

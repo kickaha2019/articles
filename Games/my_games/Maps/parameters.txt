@@ -1,0 +1,2 @@
+TAG=Maps
+ICON=/Users/peter/Website/Articles/Games/my_games/Maps/maps.jpg

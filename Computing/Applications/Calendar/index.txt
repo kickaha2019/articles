@@ -1,0 +1,4 @@
+Text:
+	I use Apple's [Calendar]
+	for keeping track of important dates like birthdays, and
+	anniversaries, and such-like.

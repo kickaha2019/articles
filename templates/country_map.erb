@@ -1,0 +1,54 @@
+<%=
+  if title
+    "Title:\n  #{title}\n"
+  end
+%>
+Icon:
+  /Users/peter/Website/Articles/Map/map.jpg
+
+Text:
+  You may need to scroll down for some maps.
+
+HTML:
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+          integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+          crossorigin=""></script>
+  <%=
+    html = []
+    html << "  <div id=\"map\" style=\"width: #{width}px; height: #{height}px;\">"
+    i = 0
+    places.each do |place|
+      popup = place['id'].gsub(' ','&nbsp;')
+
+      if t = links[place['id']]
+        t.each_index do |i|
+          if i == 0
+            popup = "<a href=\"#{t[0]}\">#{place['id'].gsub(' ','&nbsp;')}</a>"
+          else
+            popup = popup + " <a href=\"#{t[i]}\">#{i+1}</a>"
+          end
+        end
+      end
+
+      if place['explicit']
+        popup = "<a href=\"#{place['explicit']}\">#{place['id'].gsub(' ','&nbsp;')}</a>"
+      end
+
+      html << "  <div id=\"p#{i}\" class=\"place\" style=\"top: #{place['y']-8}px; left: #{place['x']-8}px\"><span id=\"l#{i}\" class=\"label\">#{popup}</span></div>"
+      i += 1
+    end
+    html << '  </div>'
+    html.join("\n")
+  %>
+  <script>
+    var map = L.map('map').setView([<%= lat %>, <%= lon %>], <%= zoom %>);
+    map.zoomControl.remove();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+
+    L.tileLayer( <%= "'#{tiles}'" %>, {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+       detectRetina:true
+    }).addTo(map);
+  </script>
