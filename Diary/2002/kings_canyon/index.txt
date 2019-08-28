@@ -2,7 +2,7 @@ Date:
 	31 May 2002
 
 Anchor:
-  Kings Canyon -24.255186,131.570013
+  Kings Canyon
 
 Title:
   Kings Canyon

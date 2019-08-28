@@ -2,9 +2,9 @@ Date:
 	11 Oct 2003
 
 Anchor:
-  Darwin -12.463107,130.845757
-  Mount Borradaile -12.082955,132.850086
-  Gagadju Crocodile Hotel -12.670384,132.831886
+  Darwin
+  Mount Borradaile
+  Gagadju Crocodile Hotel
 
 Right:
 	taking_to_air.jpg

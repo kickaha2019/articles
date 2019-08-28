@@ -2,9 +2,9 @@ Title:
 	Utah
 
 Anchor:
-	Bryce Canyon 37.596084,-112.189261
-	Zion National Park 37.317538,-113.027449
-	Cedar Breaks 37.636218,-112.845036
+	Bryce Canyon
+  Zion National Park
+  Cedar Breaks
 
 Date:
 	Sunday, 17 June 2001

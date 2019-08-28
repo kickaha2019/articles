@@ -12,9 +12,9 @@ HTML:
           integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
           crossorigin=""></script>
     <div id="map" style="width: 950px; height: 950px;">
-  <div id="p0" class="place" style="top: 35px; left: 440px"><span id="l0" class="label"><a href="../../../Diary/2003/Denmark/index.html">R&aring;jberg&nbsp;Mile</a></span></div>
-  <div id="p1" class="place" style="top: 2px; left: 485px"><span id="l1" class="label"><a href="../../../Diary/2003/Denmark/index.html">Skagen&nbsp;Peninsula</a></span></div>
-  <div id="p2" class="place" style="top: 227px; left: 350px"><span id="l2" class="label"><a href="../../../Diary/2003/Denmark/index.html">Lindholm&nbsp;H&oslash;je</a></span></div>
+  <div id="p0" class="place" style="top: 35px; left: 440px"><span id="l0" class="label"><a href="../../../Diary/2003/Denmark/index.html#1">R&aring;jberg&nbsp;Mile</a></span></div>
+  <div id="p1" class="place" style="top: 2px; left: 485px"><span id="l1" class="label"><a href="../../../Diary/2003/Denmark/index.html#1">Skagen&nbsp;Peninsula</a></span></div>
+  <div id="p2" class="place" style="top: 227px; left: 350px"><span id="l2" class="label"><a href="../../../Diary/2003/Denmark/index.html#1">Lindholm&nbsp;H&oslash;je</a></span></div>
   </div>
   <script>
     var map = L.map('map').setView([56.35612110895762, 10.5523681640625], 8);

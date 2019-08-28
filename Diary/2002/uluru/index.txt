@@ -2,8 +2,8 @@ Title:
 	Uluru / Kata Tjuta
 
 Anchor:
-  Uluru -25.344105,131.036845
-  Kata Tjuta -25.300212,130.737308
+  Uluru
+  Kata Tjuta
 
 Date:
 	29 May 2002

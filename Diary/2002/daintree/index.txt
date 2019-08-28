@@ -2,10 +2,10 @@ Date:
 	23 May 2002	
 
 Anchor:
-  Daintree River Cruise -16.258267,145.340847
-  Daintree Heritage Lodge -16.166332,145.412184
-  Cooper Creek Wilderness -16.171607,145.419148
-  Thornton Beach -16.173611,145.441525
+  Bruce Belcher's Daintree River Cruises
+  Daintree Heritage Lodge
+  Cooper Creek Wilderness
+  Thornton Beach
 
 Right:
 	green_tree_frogs.JPG

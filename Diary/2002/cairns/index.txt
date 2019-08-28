@@ -2,9 +2,9 @@ Date:
 	21 May 2002
 
 Anchor:
-  Green Island -16.759609,145.973824
-  Cairns -16.919019,145.775575
-  Kuranda -16.816571,145.632912
+  Green Island
+  Cairns
+  Kuranda
 
 Right:
 	fish.JPG

@@ -2,9 +2,9 @@ Date:
 	9 October 2003
 
 Anchor:
-  Conspicuous Cliffs -35.038779,116.843288
-  Valley of the Giants -34.977854,116.893577
-  Walpole-Nornalup inlet -34.982031,116.733692
+  Conspicuous Cliffs
+  Valley of the Giants
+  Walpole-Nornalup inlet
 
 Right:
 	dead_tree.jpg

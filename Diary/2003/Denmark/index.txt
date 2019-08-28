@@ -2,9 +2,9 @@ Date:
 	Friday, 6 June 2003
 
 Anchor:
-  R&aring;jberg Mile 57.648358,10.405912
-  Skagen Peninsula 57.745684,10.649289
-  Lindholm H&oslash;je 57.07839,9.910062
+  R&aring;jberg Mile
+  Skagen Peninsula
+  Lindholm H&oslash;je
 
 Text:
 	I visited friends I knew from Waterbeach who were now living in Denmark. I will go a long way to see friends.

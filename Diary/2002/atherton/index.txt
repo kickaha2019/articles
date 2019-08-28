@@ -2,13 +2,13 @@ Date:
 	25 May 2002
 
 Anchor:
-  Lake Barrine -17.250339,145.637143
-  Hypipamee Crater -17.425817,145.486532
-  Curtain Fig Tree -17.282961,145.573628
-  Millaa-Millaa Falls -17.495544,145.610824
-  Ellinjaa Falls -17.49374,145.655791
-  Zillie Falls -17.474914,145.656576
-  Chambers Wildlife Rainforest Lodges -17.286023,145.635553
+  Lake Barrine
+  Mount Hypipamee Crater
+  Curtain Fig Tree
+  Millaa-Millaa Falls
+  Ellinjaa Falls
+  Zillie Falls
+  Chambers Wildlife Rainforest Lodges
 
 Right:
 	millaa_millaa.JPG

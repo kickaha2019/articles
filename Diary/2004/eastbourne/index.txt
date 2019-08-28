@@ -1,6 +1,10 @@
 Title:
 	Borne east in September
 
+Anchor:
+  Herstmonceux Observatory
+  Eastbourne
+
 Date:
 	Saturday, 18 September 2004
 

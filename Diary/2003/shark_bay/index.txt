@@ -2,11 +2,11 @@ Date:
 	5 October 2003
 
 Anchor:
-  Peron Peninsula -25.835382,113.6173231
-  Monkey Mia -25.79416,113.71794
-  Hamelin Pool -26.40651,114.478342
-  Denham -25.926919,113.541554
-  Shell Beach -26.216692,113.777046
+  Francois Peron National Park
+  Monkey Mia
+  Hamelin Pool
+  Denham
+  Shell Beach
 
 Right:
 	birrida.jpg

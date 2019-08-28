@@ -2,7 +2,7 @@ Date:
 	26 May 2002
 
 Anchor:
-  Lake Barrine -17.250339,145.637143
+  Lake Barrine
 
 Title:
   Lake Barrine

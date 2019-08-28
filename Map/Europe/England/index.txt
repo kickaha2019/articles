@@ -13,11 +13,11 @@ HTML:
           crossorigin=""></script>
     <div id="map" style="width: 950px; height: 950px;">
   <div id="p0" class="place" style="top: 442px; left: 465px"><span id="l0" class="label"><a href="Derbyshire/index.html">Derbyshire</a></span></div>
-  <div id="p1" class="place" style="top: 567px; left: 498px"><span id="l1" class="label"><a href="../../../Diary/2004/coventry/index.html">Allesley&nbsp;Hotel</a></span></div>
-  <div id="p2" class="place" style="top: 795px; left: 671px"><span id="l2" class="label"><a href="../../../Diary/2004/eastbourne/index.html">Herstmonceux&nbsp;Observatory</a></span></div>
-  <div id="p3" class="place" style="top: 809px; left: 666px"><span id="l3" class="label"><a href="../../../Diary/2004/eastbourne/index.html">Eastbourne</a></span></div>
-  <div id="p4" class="place" style="top: 591px; left: 788px"><span id="l4" class="label"><a href="../../../Diary/2004/christmas/index.html">Dunwich&nbsp;Heath</a></span></div>
-  <div id="p5" class="place" style="top: 616px; left: 762px"><span id="l5" class="label"><a href="../../../Diary/2004/christmas/index.html">Sutton&nbsp;Hoo</a></span></div>
+  <div id="p1" class="place" style="top: 567px; left: 498px"><span id="l1" class="label"><a href="../../../Diary/2004/coventry/index.html#1">Allesley&nbsp;Hotel</a></span></div>
+  <div id="p2" class="place" style="top: 795px; left: 671px"><span id="l2" class="label"><a href="../../../Diary/2004/eastbourne/index.html#1">Herstmonceux&nbsp;Observatory</a></span></div>
+  <div id="p3" class="place" style="top: 809px; left: 666px"><span id="l3" class="label"><a href="../../../Diary/2004/eastbourne/index.html#1">Eastbourne</a></span></div>
+  <div id="p4" class="place" style="top: 591px; left: 788px"><span id="l4" class="label"><a href="../../../Diary/2004/christmas/index.html#1">Dunwich&nbsp;Heath</a></span></div>
+  <div id="p5" class="place" style="top: 616px; left: 762px"><span id="l5" class="label"><a href="../../../Diary/2004/christmas/index.html#1">Sutton&nbsp;Hoo</a></span></div>
   </div>
   <script>
     var map = L.map('map').setView([53.08742621937263, -1.9006347656250002], 7);

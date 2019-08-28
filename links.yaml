@@ -183,7 +183,7 @@ Korea Holiday Planners:
     url:		http://www.holidayplanners.co.kr/
     no_headers:	true
 Lestrange Old Barns:
-    url:    http://www.lestrangeoldbarns.com/
+    url:    https://www.lestrangeoldbarns.com/
     no_headers:  true
 Light Cinema Cambridge:
     url:		https://cambridge.lightcinemas.co.uk/
@@ -207,7 +207,7 @@ makemkv:
 Manor Park Farm:
     url:		https://www.hants.gov.uk/thingstodo/countryparks/manorfarm
 Mary Rose:
-    url:		https://historicdockyard.co.uk/site-attractions/attractions/mary-rose
+    url:		https://www.historicdockyard.co.uk/site-attractions/attractions/mary-rose
     response:	403
 Middleham Castle:
     url:		https://www.english-heritage.org.uk/visit/places/middleham-castle/
@@ -223,7 +223,7 @@ MV Virginia:
     response: 405
 National Museum of Korea:
     url:		http://www.museum.go.kr/site/eng/home
-    response:	401
+    response:	401 405
 National Trust:
     url:		https://www.nationaltrust.org.uk/
 Naval Dockyards:

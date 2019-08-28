@@ -11,11 +11,5 @@ places:
   lon: -1.925167
   y: 317
   x: 228
-- id: Denmark
-  explicit: "../Denmark/index.html"
-  lat: 57.648358
-  lon: 10.405912
-  y: 317
-  x: 228
 lat: 49.724479188712984
 lon: 9.184570312500002

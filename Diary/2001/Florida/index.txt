@@ -2,7 +2,7 @@ Title:
 	Florida
 
 Anchor:
-  Disneyworld 28.385544,-81.563853
+  Disneyworld
 
 Date:
 	Sunday, 24 June 2001

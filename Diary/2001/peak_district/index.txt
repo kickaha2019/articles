@@ -5,8 +5,8 @@ Title:
 	The Peak District
 
 Anchor:
-	Poole's Cavern 53.250201,-1.925167
-	Crich Tramway Museum 53.090531,-1.486727
+	Poole's Cavern
+  Crich Tramway Museum
 
 Text:
   A break with my sister's family in the Peak District.

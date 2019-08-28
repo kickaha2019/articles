@@ -2,10 +2,10 @@ Date:
 	Friday, 3 October 2003
 
 Anchor:
-  Geraldton -28.779642,114.613659
-  Greengables Lodge -28.705952,114.666286
-  Hutt Lagoon -28.149813,114.239604
-  Kalbarri National Park -27.755279,114.37334
+  Geraldton
+  Greengables Lodge
+  Hutt Lagoon
+  Kalbarri National Park
 
 Right:
 	geraldton.jpg

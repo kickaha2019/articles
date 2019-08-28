@@ -2,7 +2,7 @@ Date:
 	7 June 2002
 
 Anchor:
-  Mount Borradaile -12.082955,132.850086
+  Mount Borradaile
 
 Right:
 	river_pandanus.JPG

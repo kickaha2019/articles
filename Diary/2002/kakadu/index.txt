@@ -2,9 +2,9 @@ Date:
 	3 June 2002
 
 Anchor:
-  Darwin -12.463107,130.845757
-  Nourlangie -12.861645,132.812137
-  Ubirr -12.420456,132.96409
+  Darwin
+  Nourlangie Rock
+  Ubirr
 
 Right:
 	sunset.JPG

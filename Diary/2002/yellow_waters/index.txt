@@ -2,8 +2,8 @@ Date:
 	4 June 2002
 
 Anchor:
-  Yellow Waters -12.896267,132.518458
-  Nitmiluk Gorge -14.323227,132.418515
+  Yellow Waters
+  Nitmiluk Gorge
 
 Text:
 	[https://parksaustralia.gov.au/kakadu/discover/regions/yellow-water/ Yellow Waters] is a wetlands area where you can do a great sunrise boat ride and see heaps of wildlife.

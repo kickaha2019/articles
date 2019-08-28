@@ -12,9 +12,9 @@ HTML:
           integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
           crossorigin=""></script>
     <div id="map" style="width: 950px; height: 950px;">
-  <div id="p0" class="place" style="top: 584px; left: 246px"><span id="l0" class="label"><a href="../../../Diary/2002/uluru/index.html">Uluru</a></span></div>
-  <div id="p1" class="place" style="top: 580px; left: 219px"><span id="l1" class="label"><a href="../../../Diary/2002/uluru/index.html">Kata&nbsp;Tjuta</a></span></div>
-  <div id="p2" class="place" style="top: 475px; left: 295px"><span id="l2" class="label"><a href="../../../Diary/2002/kings_canyon/index.html">Kings&nbsp;Canyon</a></span></div>
+  <div id="p0" class="place" style="top: 584px; left: 246px"><span id="l0" class="label"><a href="../../../Diary/2002/uluru/index.html#1">Uluru</a></span></div>
+  <div id="p1" class="place" style="top: 580px; left: 219px"><span id="l1" class="label"><a href="../../../Diary/2002/uluru/index.html#1">Kata&nbsp;Tjuta</a></span></div>
+  <div id="p2" class="place" style="top: 475px; left: 295px"><span id="l2" class="label"><a href="../../../Diary/2002/kings_canyon/index.html#1">Kings&nbsp;Canyon</a></span></div>
   </div>
   <script>
     var map = L.map('map').setView([-24.17682515045749, 133.46191406250003], 7);

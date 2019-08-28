@@ -1,6 +1,10 @@
 Title:
 	Christmas and New Year
 
+Anchor:
+  Dunwich Heath
+  Sutton Hoo
+
 Date:
 	Saturday, 25 December 2004
 

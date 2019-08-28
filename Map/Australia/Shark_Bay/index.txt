@@ -12,11 +12,11 @@ HTML:
           integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
           crossorigin=""></script>
     <div id="map" style="width: 950px; height: 950px;">
-  <div id="p0" class="place" style="top: 381px; left: 478px"><span id="l0" class="label"><a href="../../../Diary/2003/shark_bay/index.html">Peron&nbsp;Peninsula</a></span></div>
-  <div id="p1" class="place" style="top: 365px; left: 514px"><span id="l1" class="label"><a href="../../../Diary/2003/shark_bay/index.html">Monkey&nbsp;Mia</a></span></div>
-  <div id="p2" class="place" style="top: 613px; left: 791px"><span id="l2" class="label"><a href="../../../Diary/2003/shark_bay/index.html">Hamelin&nbsp;Pool</a></span></div>
-  <div id="p3" class="place" style="top: 418px; left: 450px"><span id="l3" class="label"><a href="../../../Diary/2003/shark_bay/index.html">Denham</a></span></div>
-  <div id="p4" class="place" style="top: 536px; left: 536px"><span id="l4" class="label"><a href="../../../Diary/2003/shark_bay/index.html">Shell&nbsp;Beach</a></span></div>
+  <div id="p0" class="place" style="top: 381px; left: 478px"><span id="l0" class="label">Peron&nbsp;Peninsula</span></div>
+  <div id="p1" class="place" style="top: 365px; left: 514px"><span id="l1" class="label"><a href="../../../Diary/2003/shark_bay/index.html#1">Monkey&nbsp;Mia</a></span></div>
+  <div id="p2" class="place" style="top: 613px; left: 791px"><span id="l2" class="label"><a href="../../../Diary/2003/shark_bay/index.html#1">Hamelin&nbsp;Pool</a></span></div>
+  <div id="p3" class="place" style="top: 418px; left: 450px"><span id="l3" class="label"><a href="../../../Diary/2003/shark_bay/index.html#1">Denham</a></span></div>
+  <div id="p4" class="place" style="top: 536px; left: 536px"><span id="l4" class="label"><a href="../../../Diary/2003/shark_bay/index.html#1">Shell&nbsp;Beach</a></span></div>
   </div>
   <script>
     var map = L.map('map').setView([-26.046912801683984, 113.587646484375], 9);

@@ -2,9 +2,9 @@ Date:
 	7 October 2003 
 
 Anchor:
-  The Pinnacles -30.647201,115.211113
-  Cervantes -30.505185,115.066290
-  Lake Thetis -30.507142,115.080565
+  The Pinnacles
+  Cervantes
+  Lake Thetis
 
 Right:
 	pinnacles4.jpg
