@@ -1,3 +1,6 @@
+Date:
+  July 25th 2012
+
 Text:
 	I'm now on OSX 10.8.2 (Mountain Lion) thanks to 
 	a new computer.  A bit of a change to OSX 10.6

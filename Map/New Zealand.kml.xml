@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Great Britain</name>
+    <name>New Zealand</name>
     <description/>
     <Style id="icon-1899-0288D1-nodesc-normal">
       <IconStyle>
@@ -48,356 +48,254 @@
     <Folder>
       <name>Untitled layer</name>
       <Placemark>
-        <name>Dunwich Heath</name>
+        <name>Arrowtown</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.62671499999999,52.25889,0
+            168.8358624,-44.9416876,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sutton Hoo</name>
+        <name>Cardrona Pass</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.3407962,52.0944505,0
+            168.938739,-44.9923868,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Crich Tramway Museum</name>
+        <name>Cascade Creek</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -1.48666930000002,53.0903012,0
+            168.0807425,-44.8959434,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Poole's Cavern]]></name>
+        <name>Curio Bay</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -1.9251782,53.24997,0
+            169.1081446,-46.6614691,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Allesley Hotel</name>
+        <name>Dunedin</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -1.56006709999997,52.4227875,0
+            170.5027976,-45.8787605,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Eastbourne</name>
+        <name>Fox Glacier</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.290472000000022,50.768035,0
+            170.0175878,-43.4644799,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Herstmonceux Observatory
-</name>
+        <name>Franz Josef Glacier</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.3456218,50.8702576,0
+            170.1832884,-43.3873293,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Grizedale Forest</name>
+        <name>Haast Pass</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -3.00028999999995,54.354267,0
+            169.35,-44.1,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Rydal Mount</name>
+        <name>Knights Point</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -2.98199950000003,54.4488337,0
+            169.225502,-43.715752,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Castlerigg Stone Circle</name>
+        <name>Kura Tawhiti</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -3.09840199999996,54.602824,0
+            171.7159871,-43.2300399,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Loughton Baptist Church</name>
+        <name>Matamata</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.050617099999954,51.6442753,0
+            175.7764607,-37.8108803,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Coniston Water</name>
+        <name>Milford Sound</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -3.07162659999995,54.343243,0
+            167.8973801,-44.6414024,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Biggin Hill</name>
+        <name>Mirror Lake</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.0287677000000031,51.3318849,0
+            167.7847842,-44.8172888,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Houghton Hall</name>
+        <name>Mount Eden Auckland</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.65781579999998,52.826846,0
+            174.7493313,-36.8812605,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Canterbury Cathedral</name>
+        <name>Muriwai Gannet Colony</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.08279979999998,51.2797971,0
+            174.4243151,-36.8327358,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Leeds Castle</name>
+        <name>Nugget Point</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.630464899999993,51.2489896,0
+            169.8092228,-46.4452711,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Dover Castle</name>
+        <name>Otago Peninsula</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.32339100000002,51.128771,0
+            170.6666667,-45.8666667,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>White Cliffs of Dover</name>
+        <name>Porpoise Bay</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.35730280000007,51.1344689,0
+            169.1171787,-46.6491468,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sandringham</name>
+        <name>Punakaiki</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.512488899999994,52.8296856,0
+            171.3363126,-42.1084146,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Thursford Collection
-</name>
+        <name>Puzzling World</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.94048650000002,52.8710396,0
+            169.161698,-44.696992,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Blickling Estate</name>
+        <name>Ship Creek</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.23164700000007,52.811731,0
+            169.1494901,-43.7594038,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Holkham Hall</name>
+        <name>Stewart Island</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.803676999999993,52.949851,0
+            167.8078432,-46.9580693,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Felbrigg Hall</name>
+        <name>Taiaroa Head</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            1.27724820000003,52.9144158,0
+            170.7332869,-45.7828398,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Little Walsingham</name>
+        <name>Tautuku Estuary</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.875399099999981,52.8959389,0
+            169.4188534,-46.5849372,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Blakeney Point</name>
+        <name>Te Puia</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.961510299999986,52.9666526,0
+            176.250529,-38.163513,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Caithness Crystal Kings Lynn</name>
+        <name>The Chasm</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            0.409890000000019,52.742053,0
+            167.9508305,-44.7214297,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Legoland Windsor</name>
+        <name>Ulva Island</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -0.650027499999965,51.4638338,0
+            168.1253399,-46.9318318,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Windsor Castle</name>
+        <name>Waitomo</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -0.604402700000037,51.483894,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Savill Garden</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -0.595096499999954,51.4261436,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Lindisfarne Abbey</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.80089450000003,55.6691551,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Osborne House</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.26943099999994,50.750372,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mottistone Manor
-</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.42704800000001,50.65246,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Needles</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.58983950000004,50.6626024,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Ventnor Botanic Garden</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.22664810000003,50.5895122,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Brading Roman Villa</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.15274539999996,50.6730117,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Dinosaur Isle</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.14275900000007,50.659197,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Waltzing Waters</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.14075790000004,50.7105509,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>National Railway Museum York</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.09636599999999,53.9605467,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>York Minster</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.08192050000002,53.9623292,0
+            175.1145451,-38.2615305,0
           </coordinates>
         </Point>
       </Placemark>

@@ -1,6 +1,9 @@
 Title:
 	Issues on OSX 10.10 (Yosemite)
 
+Date:
+  October 16th 2014
+
 Text:
 	[https://support.apple.com/mail Apple Mail] frequently
 	hangs for minutes, fails to save account changes, autonomously modifies

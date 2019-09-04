@@ -1,6 +1,11 @@
 Title:
 	Lounging in Legoland
 
+Anchor:
+  Legoland Windsor
+  Windsor Castle
+  The Savill Garden
+
 Date:
 	Friday, 26 August 2005
 

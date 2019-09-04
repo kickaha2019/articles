@@ -1,3 +1,6 @@
+Date:
+  September 25th 2018
+
 Title:
 	Issues on OSX 10.14 (Mojave)
 
@@ -9,3 +12,9 @@ Text:
 Text:
 	Apple have tightened up access to files underneath ~/Library. For instance
  from the command line you can't see files underneath ~/Library/Mail.
+
+Text:
+  Unable to move to Junk folder because Mailbox ??? does not exist.
+
+Code:
+  In Mail Preferences/Accounts check that Junk mailboxes are properly defined.

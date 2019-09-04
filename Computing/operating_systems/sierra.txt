@@ -1,6 +1,9 @@
 Title:
 	Issues on macOS 10.12 (Sierra)
 
+Date:
+  September 30th 2015
+
 Text:
 	[https://support.apple.com/mail Apple Mail] works better with IMAP
 	than POP3 now (couldn't get POP3 to work at all).

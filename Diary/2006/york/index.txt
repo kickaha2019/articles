@@ -1,6 +1,10 @@
 Title:
 	Long weekend in York
 
+Anchor:
+  National Railway Museum York
+  York Minster
+
 Date:
 	Saturday, 11 November 2006
 

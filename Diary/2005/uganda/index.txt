@@ -1,6 +1,9 @@
 Title:
 	Visit to Uganda
 
+Anchor:
+  Uganda
+  
 Date:
 	Thursday, 7 April 2005
 

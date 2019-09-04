@@ -1,6 +1,9 @@
 Title:
 	Houghton Hall
 
+Anchor:
+  Houghton Hall
+
 Date:
 	Monday, 29 August 2005
 

@@ -1,6 +1,9 @@
 Title:
 	Issues on OSX 10.9 (Mavericks)
 
+Date:
+  October 22nd 2013
+
 Text:
 	[Wasteland 2] failed to
 	start, ''syspolicyd'' demon went to 40% CPU busy continuously,

@@ -1,6 +1,15 @@
 Title:
 	Isle of Wight
 
+Anchor:
+  Osborne House
+  Mottistone Manor
+  The Needles
+  Ventnor Botanic Garden
+  Brading Roman Villa
+  Dinosaur Isle
+  Waltzing Waters
+
 Date:
 	Saturday, 8 July 2006
 

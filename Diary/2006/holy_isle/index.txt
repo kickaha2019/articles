@@ -1,6 +1,9 @@
 Title:
 	Holy Isle birding day
 
+Anchor:
+  Lindisfarne Abbey
+
 Date:
 	Saturday, 16 September 2006
 
