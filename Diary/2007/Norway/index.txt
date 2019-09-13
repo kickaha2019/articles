@@ -1,6 +1,14 @@
 Title:
 	Cruising to Norway
 
+Anchor:
+  Gamle Stavanger
+  Flam
+  Vatnahalsen
+  Olden
+  Briksdal Glacier
+  Troldhaugen
+  
 Date:
 	Friday, 18 May 2007
 

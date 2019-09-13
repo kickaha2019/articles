@@ -74,6 +74,61 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Gamle Stavanger</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.72625389999996,58.9716156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flam</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.11178489999998,60.8607716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vatnahalsen Stasjon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.12986550000005,60.7435346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.80655560000002,61.8350282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Briksdal Glacier
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.89020159999995,61.6660182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Troldhaugen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.32944699999996,60.319625,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

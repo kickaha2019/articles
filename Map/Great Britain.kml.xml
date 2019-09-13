@@ -401,6 +401,87 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>The Lodge Willersley Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.55287279999993,53.1137985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masson Mills</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5619236,53.1126478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chatsworth House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.61142740000003,53.2275433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kedleston Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.53696160000004,52.9593247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haddon Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.64959299999998,53.193965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biddulph Grange Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.16230599999994,53.129376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Moreton Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.25174659999993,53.1271607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Isle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.07310860000007,55.525063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Histon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.103711999999973,52.254867,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

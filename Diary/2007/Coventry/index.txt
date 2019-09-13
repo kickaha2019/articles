@@ -1,6 +1,9 @@
 Title:
 	Adventure Convention
 
+Anchor:
+  Allesley Hotel
+  
 Date:
 	Oct 27 2007
 
