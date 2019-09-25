@@ -482,6 +482,352 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Elton Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.39647089999994,52.5238629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forest of Dean</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.55191690000004,51.7999835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Symonds Yat</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.64627940000003,51.8463095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clearwell Caves</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.614327,51.771064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monmouth and Brecon canal</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.10269010000002,51.8270628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrow Road</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.30915329999993,52.6221139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norwich Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.29631900000004,52.6287796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridewell Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.29514549999999,52.6301269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Strangers' Hall]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.29248080000002,52.6307068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norwich Cathedral</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.30118259999995,52.6318974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Andrews Hall Norwich
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.29571169999997,52.63112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quiet Waters</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.43344769999999,52.4443634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anglesey Abbey</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.244010300000014,52.2365077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walton-on-the-Naze</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.26773600000001,51.848186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Andrews Church Histon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.102640500000007,52.255324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Union Canal</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.886416999999938,52.1247757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stonehenge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.82621500000005,51.178882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longleat</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2630077,51.1886251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avebury Stone Circle
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.85489080000002,51.4289196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lyveden New Bield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.556600099999969,52.4620037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WWT Welney</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.278716199999963,52.5269435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sidholme Hotel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.23926000000006,50.685705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Killerton House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.45788779999998,50.7912881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicton Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.31032800000003,50.664164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Budleigh Salterton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.32021399999996,50.630998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forde Abbey
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.91116,50.8428677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seaton Tramway</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.06779470000004,50.7050832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Trust - Greenway</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.587805,50.3818977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kents Cavern Prehistoric Caves</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.50265460000003,50.4677195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Babbacombe Model Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.52076599999998,50.482835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Anne Hathaway's Cottage]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.73192300000005,52.190746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kenilworth Castle
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.59210729999995,52.3482086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Packwood House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.74669740000002,52.3479118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baddesley Clinton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70852020000007,52.3409501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stratford-upon-Avon Baptist Church</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70488150000006,52.1945983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Trust - Coughton Court</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.87931930000002,52.2436808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ragley Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.89599999999996,52.198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stretham Old Engine</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.22426710000002,52.3343426,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

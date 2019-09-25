@@ -1,6 +1,11 @@
 Title:
 	Looking at Longleat
 
+Anchor:
+  Stonehenge
+  Longleat
+  Avebury Stone Circle
+
 Date:
 	Friday, 8 May 2009
 

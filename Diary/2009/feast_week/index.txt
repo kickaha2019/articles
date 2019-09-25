@@ -1,6 +1,9 @@
 Title:
 	Histon Feast Week
 
+Anchor:
+  St Andrews Church Histon
+  
 Date:
 	Saturday, 4 July 2009
 

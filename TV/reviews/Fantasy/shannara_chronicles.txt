@@ -10,7 +10,7 @@ Table:
 	Cast|Poppy Drayton, Austin Butler, Ivana Baquero
 	Details|10 episodes
 	Themes|Fantasy, Young Adult, Adventure, Romance
-	Links|[http://www.mtv.com/shows/shannara Official website]
+	Links|
 
 Centre:
 	shannara_chronicles.jpg

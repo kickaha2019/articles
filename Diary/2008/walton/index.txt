@@ -1,6 +1,9 @@
 Title:
 	Tufty Club Outing
 
+Anchor:
+  Walton-on-the-Naze
+
 Date:
 	Thursday, 24 July 2008
 

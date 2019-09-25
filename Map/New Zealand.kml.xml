@@ -299,6 +299,69 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tiritiri Matangi Island</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.8893617,-36.6012403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tongariro Alpine Crossing</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.6668381,-39.0660659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Discovery Lodge Tongariro</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.4807568,-39.1673353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waimangu Volcanic Valley</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            176.386259,-38.285254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Island</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            177.1796793,-37.522567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Island Rendezvous Motel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            177.0019723,-37.9497833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cathedral Cove</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.7906293,-36.8287083,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

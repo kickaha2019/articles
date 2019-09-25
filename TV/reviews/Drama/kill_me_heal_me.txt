@@ -10,7 +10,7 @@ Table:
 	Cast|Ji Sung, Hwang Jung-Eum, Park Seo Joon
 	Themes|Split personality, wealthy family, mystery
 	Details|20 episodes
-	Links|[http://asianwiki.com/Kill_Me Asian Wiki] [http://www.koreandrama.org/kill-me-heal-me/ Korean Drama] [http://www.hancinema.net/korean_drama_Kill_Me_v__Heal_Me.php Han Cinema]
+	Links|[http://asianwiki.com/Kill_Me Asian Wiki] [https://www.koreandrama.org/kill-me-heal-me/ Korean Drama] [https://www.hancinema.net/korean_drama_Kill_Me_v__Heal_Me.php Han Cinema]
 
 Centre:
 	kill_me_heal_me.jpg

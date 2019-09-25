@@ -10,7 +10,7 @@ Table:
 	Cast|Lee Sang Yoon, Kim So Eun, Shin Sung Rok
 	Details|12 episodes
 	Themes|TV reality show, debt, trust
-	Links|[http://program.interest.me/tvn/liargame Official website] [http://asianwiki.com/Liar_Game_(Korean_Drama) Asian Wiki] [http://www.hancinema.net/korean_drama_Liar_Game.php HanCinema] [http://www.koreandrama.org/liar-game/ Korean Drama]
+	Links|[http://program.tving.com/tvn/liargame Official website] [http://asianwiki.com/Liar_Game_(Korean_Drama) Asian Wiki] [https://www.hancinema.net/korean_drama_Liar_Game.php HanCinema] [https://www.koreandrama.org/liar-game/ Korean Drama]
 
 Centre:
 	liar_game_2014.jpg

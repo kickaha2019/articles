@@ -1,6 +1,8 @@
 Title:
 	A Grand Union Canal day out
 
+Anchor:
+
 Date:
 	Sunday, 19 April 2009
 

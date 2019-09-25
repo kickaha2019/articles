@@ -1,6 +1,9 @@
 Title:
 	Stretham Old Engine
 
+Anchor:
+  Stretham Old Engine
+  
 Date:
 	Sunday, 11 July 2010
 

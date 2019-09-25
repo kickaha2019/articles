@@ -10,7 +10,7 @@ Table:
 	Cast|Aoi Morikawa, Sho Aikawa, Yuta Hiraoka
 	Details|4 episodes of 20 minutes each
 	Themes|Silliness
-	Links|[http://www.fujitv.co.jp/teddygo/index.html Official website] [http://asianwiki.com/Teddy_Go!_(Japanese_Drama) Asian Wiki]
+	Links|[https://www.fujitv.co.jp/teddygo/index.html Official website] [http://asianwiki.com/Teddy_Go!_(Japanese_Drama) Asian Wiki]
 
 Centre:
 	teddy.jpg

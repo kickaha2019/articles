@@ -1,6 +1,15 @@
 Date:
 	Monday, 15 November 2010
 
+Anchor:
+  Tiritiri Matangi Island
+  Tongariro Alpine Crossing
+  Discovery Lodge Tongariro
+  Waimangu Volcanic Valley
+  White Island
+  White Island Rendezvous Motel
+  Cathedral Cove
+  
 Icon:
 	tong_central3.JPG
 

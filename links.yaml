@@ -127,7 +127,7 @@ Gyeongju National Museum:
 Gyeongju Seongdong Market:
     url:		http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=1862991
 Hack Green Secret Nuclear Bunker:
-    url:       http://www.hackgreen.co.uk/
+    url:       https://hackgreen.co.uk/
     response:  405 500
 Hankone Pirate Cruise:
     url:		https://www.hakone-kankosen.co.jp/foreign/en/index.php
@@ -321,6 +321,9 @@ Todaiji Temple:
     url:		https://www.inxile-entertainment.com/torment
 Travelex card:
     url:		https://www.travelex.co.uk/cash-passport
+Viki:
+    url:    https://www.viki.com/
+    response: 403
 Voergaard Castle:
     url:    https://voergaardslot.dk/english/
     response: 406
@@ -330,9 +333,9 @@ Wensleydale Creamery:
     url:		https://www.wensleydale.co.uk/
 White Scar Cave:
     url:		https://whitescarcave.co.uk/
+Words of Radiance:
+    url:    https://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/
 YesAsia:
     url:		https://www.yesasia.com/global/en/home.html
 Your-Site:
     url:		https://www.your-site.com
-Words of Radiance:
-    url:		https://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/

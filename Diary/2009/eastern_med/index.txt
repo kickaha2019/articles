@@ -1,6 +1,15 @@
 Title:
 	Cruise to the Eastern Mediterranean
 
+Anchor:
+  Giza Necropolis
+  Great Sphinx of Giza
+  Paphos
+  Lindos
+  Ephesus
+  Basilica Of Saint John
+  Acropolis Athens
+
 Icon:
 	ports/pyramids1.JPG
 	

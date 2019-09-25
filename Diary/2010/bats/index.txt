@@ -1,6 +1,9 @@
 Icon:
 	bat.jpg
 
+Anchor:
+  WWT Welney
+  
 Date:
 	Friday, 6 August 2010
 
