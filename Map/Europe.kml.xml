@@ -101,6 +101,70 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Lahemaa National Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.7810188,59.5676617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viru bog</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.6371589,59.4707697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peterhof</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.9085976,59.8863041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>State Hermitage Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3145597,59.9398317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of the Spilled Blood
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3289,59.9401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prora</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.5747259,54.4390642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fregatten Jylland</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.6738776,56.1991809,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

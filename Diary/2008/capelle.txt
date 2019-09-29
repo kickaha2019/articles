@@ -2,6 +2,7 @@ Icon:
 	/Users/peter/Website/Articles/Computing/imac.jpg
 
 Anchor:
+  Capelle
   
 Title:
 	Calling on Capelle

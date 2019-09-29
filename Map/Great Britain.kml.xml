@@ -402,7 +402,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>The Lodge Willersley Castle</name>
+        <name>Willersley Castle</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -756,7 +756,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Anne Hathaway's Cottage]]></name>
+        <name><![CDATA[Anne Hathaway's cottage]]></name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -802,7 +802,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>National Trust - Coughton Court</name>
+        <name>Coughton Court</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -825,6 +825,69 @@
         <Point>
           <coordinates>
             0.22426710000002,52.3343426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grime's Graves]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.676311599999963,52.4768698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peter Beales Roses</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.988335300000017,52.4983844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gooderstone Water Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.605031000000054,52.58854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxburgh Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.570369199999959,52.5810368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banham Zoo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.02538400000003,52.4462819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dads Army Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.750547900000015,52.4129961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dover Cruise Terminal 1</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.3145346,51.1137696,0
           </coordinates>
         </Point>
       </Placemark>

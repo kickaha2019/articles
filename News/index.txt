@@ -5,6 +5,10 @@ Icon:
 	news.jpg
 
 Link:
+  2019/Norfolk
+  A few nights in Norfolk
+
+Link:
   2019/Iceland
   We go on the P&amp;O ship Arcadia to Iceland. And back.
 

@@ -1,6 +1,19 @@
 Title:
 	Baltics cruise
 
+Anchor:
+  Dover Cruise Terminal 1
+  Tivoli Gardens
+  The Little Mermaid
+  Vasa Museum
+  Lahemaa National Park
+  Viru Bog
+  Peterhof
+  State Hermitage Museum
+  Church of the Spilled Blood
+  Prora
+  Fregatten Jylland
+
 Icon:
 	peter6.JPG
 	

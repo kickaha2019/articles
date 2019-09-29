@@ -1,6 +1,9 @@
 Title:
 	Snowdrops at Anglesey Abbey
 
+Anchor:
+  Anglesey Abbey
+  
 Date:
 	Feb 12th 2011
 

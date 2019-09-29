@@ -3,58 +3,97 @@ Title:
 
 Table:
   Name|Lat|Lon|Link
-  Allesley Hotel|52.4227875|-1.56006709999997|/Users/peter/Website/Articles/Diary/2004/coventry/index.html#1
+  Acropolis Athens|37.9666667|23.7333333|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Allesley Hotel|52.4227875|-1.56006709999997|/Users/peter/Website/Articles/Diary/2007/Coventry/index.html#1
+  Anglesey Abbey|52.2365077|0.244010300000014|/Users/peter/Website/Articles/Diary/2008/snowdrops/index.html#1
+  Anne Hathaway's cottage|52.190746|-1.73192300000005|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
   Arrowtown|-44.9416876|168.8358624|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Avebury Stone Circle|51.4289196|-1.85489080000002|/Users/peter/Website/Articles/Diary/2009/longleat/index.html#1
+  Babbacombe Model Village|50.482835|-3.52076599999998|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
+  Baddesley Clinton|52.3409501|-1.70852020000007|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
+  Banham Zoo|52.4462819|1.02538400000003|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Barna Mia|-32.7674229|116.9263651|/Users/peter/Website/Articles/Diary/2003/dryandra/index.html#1
+  Basilica Of Saint John|37.9528691|27.3675619000001|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Bicton Gardens|50.664164|-3.31032800000003|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
+  Biddulph Grange Garden|53.129376|-2.16230599999994|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Biggin Hill|51.3318849|0.0287677000000031|/Users/peter/Website/Articles/Diary/2005/biggin_hill/index.html#1
   Blakeney Point|52.9666526|0.961510299999986|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
   Blickling Estate|52.811731|1.23164700000007|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
   Brading Roman Villa|50.6730117|-1.15274539999996|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
+  Bridewell Museum|52.6301269|1.29514549999999|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#1
+  Briksdal Glacier|61.6660182|6.89020159999995|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Bruce Belcher's Daintree River Cruises|-16.2601457|145.3647323|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#1
   Bryce Canyon|37.5930377|-112.1870895|/Users/peter/Website/Articles/Diary/2001/Utah/index.html#1
+  Budleigh Salterton|50.630998|-3.32021399999996|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Cairns|-16.9185514|145.7780548|/Users/peter/Website/Articles/Diary/2002/cairns/index.html#1
   Caithness Crystal Kings Lynn|52.742053|0.409890000000019|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
   Canterbury Cathedral|51.2797971|1.08279979999998|/Users/peter/Website/Articles/Diary/2005/kent/index.html#1
+  Capelle|51.6915836|4.98294639999995|/Users/peter/Website/Articles/Diary/2008/capelle.html#1
   Cardrona Pass|-44.9923868|168.938739|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Carrow Road|52.6221139|1.30915329999993|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#1
   Cascade Creek|-44.8959434|168.0807425|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Castlerigg Stone Circle|54.602824|-3.09840199999996|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
+  Cathedral Cove|-36.8287083|175.7906293|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
   Cedar Breaks|37.6359544|-112.8450248|/Users/peter/Website/Articles/Diary/2001/Utah/index.html#1
   Cervantes|-30.505162|115.0665341|/Users/peter/Website/Articles/Diary/2003/pinnacles/index.html#1
   Chambers Wildlife Rainforest Lodges|-17.2860841|145.635521|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
+  Chatsworth House|53.2275433|-1.61142740000003|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
+  Clearwell Caves|51.771064|-2.614327|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#1
   Coniston Water|54.343243|-3.07162659999995|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
   Conspicuous Cliffs|-35.0389989|116.8432987|/Users/peter/Website/Articles/Diary/2003/walpole/index.html#1
   Cooper Creek Wilderness|-16.171689|145.419137|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#1
+  Coughton Court|52.2436808|-1.87931930000002|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
   Crich Tramway Museum|53.0903012|-1.48666930000002|/Users/peter/Website/Articles/Diary/2001/peak_district/index.html#1
   Curio Bay|-46.6614691|169.1081446|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Curtain Fig Tree|-17.2860213|145.5739344|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
+  Dads Army Museum|52.4129961|0.750547900000015|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Daintree Heritage Lodge|-16.166456|145.412173|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#1
   Darwin|-12.4634403|130.8456418|/Users/peter/Website/Articles/Diary/2002/kakadu/index.html#1
   Denham|-25.927196|113.5423745|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
   Dinosaur Isle|50.659197|-1.14275900000007|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
+  Discovery Lodge Tongariro|-39.1673353|175.4807568|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
   Disneyworld|28.385233|-81.563874|/Users/peter/Website/Articles/Diary/2001/Florida/index.html#1
   Dover Castle|51.128771|1.32339100000002|/Users/peter/Website/Articles/Diary/2005/kent/index.html#1
   Dunedin|-45.8787605|170.5027976|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Dunwich Heath|52.25889|1.62671499999999|/Users/peter/Website/Articles/Diary/2004/christmas/index.html#1
   Eastbourne|50.768035|0.290472000000022|/Users/peter/Website/Articles/Diary/2004/eastbourne/index.html#1
   Ellinjaa Falls|-17.4938523|145.6557694|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
+  Elton Hall|52.5238629|-0.39647089999994|/Users/peter/Website/Articles/Diary/2008/elton_hall/index.html#1
+  Ephesus|37.9409487|27.3414703999999|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
   Felbrigg Hall|52.9144158|1.27724820000003|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
+  Flam|60.8607716|7.11178489999998|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
+  Forde Abbey|50.8428677|-2.91116|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
+  Forest of Dean|51.7999835|-2.55191690000004|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#1
   Fox Glacier|-43.4644799|170.0175878|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Francois Peron National Park|-25.8370706|113.6233155|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
   Franz Josef Glacier|-43.3873293|170.1832884|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Fremantle|-32.0518191|115.7551085|/Users/peter/Website/Articles/Diary/2003/Perth/index.html#1
   Gagadju Crocodile Hotel|-12.670456|132.831877|/Users/peter/Website/Articles/Diary/2003/arnhemland/index.html#1
+  Gamle Stavanger|58.9716156|5.72625389999996|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Geraldton|-28.7773715|114.6149715|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
+  Giza Necropolis|29.9772962|31.1324955|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Gooderstone Water Gardens|52.58854|0.605031000000054|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
+  Grand Union Canal|52.1247757|-0.886416999999938|/Users/peter/Website/Articles/Diary/2009/grand_union/index.html#1
+  Great Sphinx of Giza|29.9752687|31.1375674|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
   Green Island|-16.7597228|145.9738016|/Users/peter/Website/Articles/Diary/2002/cairns/index.html#1
   Greengables Lodge|-28.7061968|114.6662755|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
+  Grime's Graves|52.4768698|0.676311599999963|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Grizedale Forest|54.354267|-3.00028999999995|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
   Haast Pass|-44.1|169.35|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Haddon Hall|53.193965|-1.64959299999998|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Hamelin Pool|-26.4092839|114.4625194|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
   Herstmonceux Observatory|50.8702576|0.3456218|/Users/peter/Website/Articles/Diary/2004/eastbourne/index.html#1
+  Histon|52.254867|0.103711999999973|/Users/peter/Website/Articles/Diary/2007/Sculptures/index.html#1
   Holkham Hall|52.949851|0.803676999999993|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
+  Holy Isle|55.525063|-5.07310860000007|/Users/peter/Website/Articles/Diary/2007/HolyIsle/index.html#1
   Houghton Hall|52.826846|0.65781579999998|/Users/peter/Website/Articles/Diary/2005/houghton_hall/index.html#1
   Hutt Lagoon|-28.1621037|114.2449937|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
   Kalbarri National Park|-27.7543546|114.3714731|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
   Kata Tjuta|-25.3008333|130.7372222|/Users/peter/Website/Articles/Diary/2002/uluru/index.html#1
+  Kedleston Hall|52.9593247|-1.53696160000004|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
+  Kenilworth Castle|52.3482086|-1.59210729999995|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
+  Kents Cavern Prehistoric Caves|50.4677195|-3.50265460000003|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
+  Killerton House|50.7912881|-3.45788779999998|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Kings Canyon|-24.2506812|131.5800424|/Users/peter/Website/Articles/Diary/2002/kings_canyon/index.html#1
   Knights Point|-43.715752|169.225502|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Kura Tawhiti|-43.2300399|171.7159871|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
@@ -65,39 +104,64 @@ Table:
   Legoland Windsor|51.4638338|-0.650027499999965|/Users/peter/Website/Articles/Diary/2005/windsor/index.html#1
   Lindholm H&oslash;je|57.078249|9.91007289999993|/Users/peter/Website/Articles/Diary/2003/Denmark/index.html#1
   Lindisfarne Abbey|55.6691551|-1.80089450000003|/Users/peter/Website/Articles/Diary/2006/holy_isle/index.html#1
+  Lindos|36.0918486|28.0856654|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Little Moreton Hall|53.1271607|-2.25174659999993|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Little Walsingham|52.8959389|0.875399099999981|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
+  Longleat|51.1886251|-2.2630077|/Users/peter/Website/Articles/Diary/2009/longleat/index.html#1
   Loughton Baptist Church|51.6442753|0.050617099999954|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
+  Lyveden New Bield|52.4620037|-0.556600099999969|/Users/peter/Website/Articles/Diary/2009/lyvden_new_bield/index.html#1
+  Masson Mills|53.1126478|-1.5619236|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Matamata|-37.8108803|175.7764607|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Milford Sound|-44.6414024|167.8973801|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Millaa-Millaa Falls|-17.4955744|145.6108135|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
   Mirror Lake|-44.8172888|167.7847842|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Monkey Mia|-25.7943082|113.7187569|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
+  Monmouth and Brecon canal|51.8270628|-3.10269010000002|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#1
   Mottistone Manor|50.65246|-1.42704800000001|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
   Mount Borradaile|-12.0833333|132.85|/Users/peter/Website/Articles/Diary/2002/arnhemland/index.html#1
   Mount Eden Auckland|-36.8812605|174.7493313|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Mount Hypipamee Crater|-17.4258883|145.4865208|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
   Muriwai Gannet Colony|-36.8327358|174.4243151|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   National Railway Museum York|53.9605467|-1.09636599999999|/Users/peter/Website/Articles/Diary/2006/york/index.html#1
+  National Trust - Greenway|50.3818977|-3.587805|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Nitmiluk Gorge|-14.3155851|132.42093|/Users/peter/Website/Articles/Diary/2002/yellow_waters/index.html#1
+  Norwich Castle|52.6287796|1.29631900000004|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#1
+  Norwich Cathedral|52.6318974|1.30118259999995|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#1
   Nourlangie Rock|-12.8620638|132.8120939|/Users/peter/Website/Articles/Diary/2002/kakadu/index.html#1
   Nugget Point|-46.4452711|169.8092228|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Olden|61.8350282|6.80655560000002|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Osborne House|50.750372|-1.26943099999994|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
   Otago Peninsula|-45.8666667|170.6666667|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Oxburgh Hall|52.5810368|0.570369199999959|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
+  Packwood House|52.3479118|-1.74669740000002|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
+  Paphos|34.7720133|32.4297369|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
   Perth|-31.9505269|115.8604572|/Users/peter/Website/Articles/Diary/2003/Perth/index.html#1
+  Peter Beales Roses|52.4983844|0.988335300000017|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Poole's Cavern|53.24997|-1.9251782|/Users/peter/Website/Articles/Diary/2001/peak_district/index.html#1
   Porpoise Bay|-46.6491468|169.1171787|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Punakaiki|-42.1084146|171.3363126|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Puzzling World|-44.696992|169.161698|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Quiet Waters|52.4443634|1.43344769999999|/Users/peter/Website/Articles/Diary/2008/quiet_waters/index.html#1
   R&aring;jberg Mile|57.6486111|10.4066667|/Users/peter/Website/Articles/Diary/2003/Denmark/index.html#1
   Raffles Hotel|1.2948829|103.8544791|/Users/peter/Website/Articles/Diary/2002/singapore/index.html#1
+  Ragley Hall|52.198|-1.89599999999996|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
   Rottnest Island|-32.0063677|115.5073002|/Users/peter/Website/Articles/Diary/2003/Perth/index.html#1
   Rydal Mount|54.4488337|-2.98199950000003|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
   Sandringham|52.8296856|0.512488899999994|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
+  Seaton Tramway|50.7050832|-3.06779470000004|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Shell Beach|-26.215|113.7736111|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
   Ship Creek|-43.7594038|169.1494901|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Sidholme Hotel|50.685705|-3.23926000000006|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Skagen Peninsula|57.7387651|10.6337889|/Users/peter/Website/Articles/Diary/2003/Denmark/index.html#1
+  St Andrews Church Histon|52.255324|0.102640500000007|/Users/peter/Website/Articles/Diary/2009/feast_week/index.html#1
+  St. Andrews Hall Norwich|52.63112|1.29571169999997|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#1
   Stewart Island|-46.9580693|167.8078432|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
+  Stonehenge|51.178882|-1.82621500000005|/Users/peter/Website/Articles/Diary/2009/longleat/index.html#1
+  Strangers' Hall|52.6307068|1.29248080000002|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#1
+  Stratford-upon-Avon Baptist Church|52.1945983|-1.70488150000006|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
+  Stretham Old Engine|52.3343426|0.22426710000002|/Users/peter/Website/Articles/Diary/2010/stretham/index.html#1
   Sutton Hoo|52.0944505|1.3407962|/Users/peter/Website/Articles/Diary/2004/christmas/index.html#1
+  Symonds Yat|51.8463095|-2.64627940000003|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#1
   Taiaroa Head|-45.7828398|170.7332869|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Tautuku Estuary|-46.5849372|169.4188534|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Te Puia|-38.163513|176.250529|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
@@ -107,17 +171,27 @@ Table:
   The Savill Garden|51.4261436|-0.595096499999954|/Users/peter/Website/Articles/Diary/2005/windsor/index.html#1
   Thornton Beach|-16.173092|145.4412624|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#1
   Thursford Collection|52.8710396|0.94048650000002|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
+  Tiritiri Matangi Island|-36.6012403|174.8893617|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
+  Tongariro Alpine Crossing|-39.0660659|175.6668381|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
+  Troldhaugen|60.319625|5.32944699999996|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Ubirr|-12.4082056|132.9559355|/Users/peter/Website/Articles/Diary/2002/kakadu/index.html#1
   Uganda|1.373333|32.2902750000001|/Users/peter/Website/Articles/Diary/2005/uganda/index.html#1
   Uluru|-25.3444277|131.0368822|/Users/peter/Website/Articles/Diary/2002/uluru/index.html#1
   Ulva Island|-46.9318318|168.1253399|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Undara Volcanic National Park|-18.2651052|144.5531284|/Users/peter/Website/Articles/Diary/2002/undara/index.html#1
   Valley of the Giants|-34.9780479|116.8935444|/Users/peter/Website/Articles/Diary/2003/walpole/index.html#1
+  Vatnahalsen|60.7435346|7.12986550000005|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Ventnor Botanic Garden|50.5895122|-1.22664810000003|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
+  WWT Welney|52.5269435|0.278716199999963|/Users/peter/Website/Articles/Diary/2010/bats/index.html#1
+  Waimangu Volcanic Valley|-38.285254|176.386259|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
   Waitomo|-38.2615305|175.1145451|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Walpole-Nornalup inlet|-35.003558|116.7319649|/Users/peter/Website/Articles/Diary/2003/walpole/index.html#1
+  Walton-on-the-Naze|51.848186|1.26773600000001|/Users/peter/Website/Articles/Diary/2008/walton/index.html#1
   Waltzing Waters|50.7105509|-1.14075790000004|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
   White Cliffs of Dover|51.1344689|1.35730280000007|/Users/peter/Website/Articles/Diary/2005/kent/index.html#1
+  White Island|-37.522567|177.1796793|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
+  White Island Rendezvous Motel|-37.9497833|177.0019723|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
+  Willersley Castle|53.1137985|-1.55287279999993|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Windsor Castle|51.483894|-0.604402700000037|/Users/peter/Website/Articles/Diary/2005/windsor/index.html#1
   Yellow Waters|-12.896466|132.518469|/Users/peter/Website/Articles/Diary/2002/yellow_waters/index.html#1
   York Minster|53.9623292|-1.08192050000002|/Users/peter/Website/Articles/Diary/2006/york/index.html#1
