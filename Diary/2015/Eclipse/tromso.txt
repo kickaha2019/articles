@@ -1,6 +1,10 @@
 Date:
 	March 15th 2015
 
+Anchor:
+  Tromso
+  Arctic Cathedral
+  
 Right:
 	fjord_mount_hole.JPG
 

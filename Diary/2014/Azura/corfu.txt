@@ -1,6 +1,9 @@
 Date:
 	September 21st 2014
 
+Anchor:
+  Corfu
+  
 Right:
 	ship.JPG
 

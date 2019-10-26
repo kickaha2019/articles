@@ -1,6 +1,13 @@
 Date:
 	28th September 2012
 	
+Anchor:
+  The Roman Baths
+  The Jane Austen Centre
+  The Royal Crescent
+  Bathampton
+  Dyrham Park
+  
 Right:
 	p22_crescent.JPG
 

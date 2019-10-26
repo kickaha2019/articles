@@ -56,7 +56,7 @@ Right:
   Fleur.JPG
 
 Text:
-  Fleur we got from a Butlins shop on one visit to [https://www.springharvest.org/ Spring Harvest].
+  Fleur we got from a Butlins shop on one visit to [https://springharvest.org/ Spring Harvest].
 
 Heading:
   Hamilton

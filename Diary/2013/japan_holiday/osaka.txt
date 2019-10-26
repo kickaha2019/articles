@@ -1,6 +1,12 @@
 Date:
     March 29th 2013
     
+Anchor:
+  New Hankyu Hotel Osaka
+  Osaka Castle
+  Osaka Aquarium Kaiyukan
+  Kuchu Teien Observatory
+  
 Right:
     p131_aquarium.JPG
 
@@ -16,7 +22,7 @@ Text:
     station.  I dipped the fried prawns into the miso soup instead
     of the tempura sauce which amused the chef!
 
-    [http://www.osakacastle.net/english/ Osaka Castle] was crowded, I wore myself waking up the stairs but
+    [http://www.osakacastle.net/english/ Osaka Castle] was crowded, I wore myself walking up the stairs but
     there was a massive queue for the lifts.  The history about
     Nobunaga and Toyotomi and Ieyasu didn't grab me.  So I tried
     the [https://www.kaiyukan.com/language/eng/index.htm Kaiyukan Aquarium] instead which was even busier.  But somehow

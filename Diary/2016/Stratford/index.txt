@@ -1,6 +1,13 @@
 Date:
 	June 10th 2016
 
+Anchor:
+  Swan's Nest Hotel
+  Stratford Butterfly Farm
+  The Fourteas
+  Stratford-upon-Avon Baptist Church
+  Stratford MAD museum
+  
 Right:
 	butterfly.jpg
 

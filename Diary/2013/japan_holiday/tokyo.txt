@@ -1,6 +1,12 @@
 Title:
     Getting to know Tokyo
     
+Anchor:
+  Tokyo Tower
+  Meiji Jingu
+  Ghibli Museum
+  Grand Prince Hotel New Takanawa
+  
 Date:
     March 23rd 2013
 

@@ -1,6 +1,13 @@
 Title:
     Kyoto by itself
     
+Anchor:
+  Ryoanji
+  Higashiyama Jisho-ji
+  Philosopher's Path
+  Nishiki Market
+  Gion Corner
+  
 Date:
     March 27th 2013
     

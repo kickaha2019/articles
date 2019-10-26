@@ -10,7 +10,7 @@ Table:
 	Cast|Sung Hoon, Kim Jae Kying
 	Details|20 episodes
 	Themes|Romance
-	Links|[http://tv.naver.com/noblemylove Official website] [https://www.koreandrama.org/noble-my-love/ Korean Drama]
+	Links|[https://tv.naver.com/noblemylove Official website] [https://www.koreandrama.org/noble-my-love/ Korean Drama]
 
 Centre:
 	noble_my_love.jpg

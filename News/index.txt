@@ -5,6 +5,10 @@ Icon:
 	news.jpg
 
 Link:
+  2019/Toy_trips
+  The soft toys as tourists
+  
+Link:
   2019/Norfolk
   A few nights in Norfolk
 
@@ -43,23 +47,3 @@ Link:
 Link:
 	2018/Dad
 	My father has passed away
-
-Link:
-	2017/Lowestoft
-	We have a long weekend near Lowestoft
-
-Link:
-	2017/hp
-	We do the Harry Potter studio tour!
-
-Link:
-	2017/Baltics
-	We cruise to the Baltics with Cunard
-
-Link:
-	2017/new_cars
-	We replace our Skodas with Kias
-
-Link:
-	2017/Kent
-	A week in Kent

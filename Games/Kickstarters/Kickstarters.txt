@@ -125,3 +125,5 @@ Heading:
 Text:
   [https://www.kickstarter.com/projects/1252280491/firmament Firmament]
 
+Text:
+  [https://www.kickstarter.com/projects/transolargames/summer-daze-at-hero-u Summer Daze at Hero-U]

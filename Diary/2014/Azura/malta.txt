@@ -1,6 +1,10 @@
 Date:
 	September 25th 2014
 
+Anchor:
+  Mdina
+  Palazzo Parisio
+  
 Right:
 	mdina1.JPG
 

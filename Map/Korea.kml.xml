@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Scandinavia</name>
+    <name>Korea</name>
     <description/>
     <Style id="icon-1899-0288D1-nodesc-normal">
       <IconStyle>
@@ -48,202 +48,220 @@
     <Folder>
       <name>Untitled layer</name>
       <Placemark>
-        <name><![CDATA[R&aring;jberg Mile]]></name>
+        <name>Unmunsa</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            10.4066667,57.6486111,0
+            128.960278,35.661273,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Skagen Peninsula</name>
+        <name>Jagalchi Market</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            10.6337889,57.7387651,0
+            129.0304885,35.0967055,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Lindholm H&oslash;je]]></name>
+        <name>Busan Tower</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            9.91007289999993,57.078249,0
+            129.032321,35.1012187,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Gamle Stavanger</name>
+        <name>Lotte Department Store Busan</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            5.72625389999996,58.9716156,0
+            129.0560965,35.1569665,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Flam</name>
+        <name>Korean Folk Village</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            7.11178489999998,60.8607716,0
+            127.1170034,37.2584488,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Olden</name>
+        <name>Songnisan National Park</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            6.80655560000002,61.8350282,0
+            127.816779,36.51715,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Briksdal Glacier
+        <name>Daegu Grand Hotel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            128.6253193,35.8577179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanbon-ro</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9388145,37.3613089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheomseongdae</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2190631,35.8346828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheonmachong</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2103867,35.8387356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bulguksa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3320924,35.7900971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Commodore Hotel Gyeongju</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.285081,35.8446642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyeongju National Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.2279056,35.8293965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seokguram</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.3496981,35.7950858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daewang-Am</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.4453872,35.4912073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guryongpo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.5577999,35.985168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Homigot Sunrise Square</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            129.5677374,36.0767825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyeongju Seongdong Market
 </name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            6.89020159999995,61.6660182,0
+            129.2163083,35.845475,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Troldhaugen</name>
+        <name>Aventree Hotel</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            5.32944699999996,60.319625,0
+            126.9833239,37.5730642,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Vatnahalsen</name>
+        <name>National Museum of Korea</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            7.12986550000005,60.7435346,0
+            126.9804702,37.5238506,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Tivoli Gardens</name>
+        <name>Seoul Tower</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            12.5681471,55.6736841,0
+            126.9882266,37.5511694,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>The Little Mermaid</name>
+        <name>Changdeokgung Palace</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            12.5992828,55.69286,0
+            126.9910617,37.5793982,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Vasa Museum</name>
+        <name>Gwangjang Market</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            18.0913964,59.3280233,0
+            126.9993404,37.5701527,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Alnes Fyr</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            5.96737389999998,62.4899605,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Giske Church</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            6.05023970000002,62.4986567,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Alesund</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            6.1494821,62.4722284,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Sorrisniva Igloo Hotel
+        <name>Jongno Tower
 </name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            23.3179907,69.8652318,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Northern Lights Cathedral</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            23.2669722000001,69.9651409,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Buksnes church</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            13.5603599,68.1171948,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Lofotr Viking Museum</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            13.7555695,68.2444321,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Runavik</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -6.72048040000004,62.1069704,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tromso</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            18.9553238999999,69.6492047,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Arctic Cathedral</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            18.9874922,69.6480287,0
+            126.9835203,37.5707717,0
           </coordinates>
         </Point>
       </Placemark>

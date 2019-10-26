@@ -1,6 +1,9 @@
 Date:
     March 28th 2013
     
+Anchor:
+  Fukuchi-In
+  
 Right:
     p92_train.JPG
 

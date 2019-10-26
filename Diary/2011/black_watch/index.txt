@@ -25,7 +25,7 @@ Right:
 
 Text:
 	Tabitha and Amelia safely stowed in 
-	[http://www.countrycattery.com/ Country Cattery].
+	[https://www.countrycattery.com/ Country Cattery].
 	Check. Decrepit suitcase repaired with sticky tape. Check. 
 	Passports and tickets in the plastic folder in the laptop bag. 
 	Check. Boiler turned off. Check. Yes it's time for another cruise! 

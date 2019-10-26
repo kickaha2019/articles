@@ -891,6 +891,386 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Holiday Inn Express Southampton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.32329019999997,50.9266979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mottisfont</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.53324350000003,51.0398988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Roman Baths</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.35961900000007,51.381072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Jane Austen Centre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.36298599999998,51.384053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Royal Crescent</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.36708499999997,51.3866274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bathampton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.32059100000004,51.395142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dyrham Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.37320769999997,51.4801143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denby Pottery Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.41421300000002,53.0225742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matlock Bath</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.562861,53.121576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cromford Mill</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5554783,53.1088642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robinson College</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.104233399999998,52.2049386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.55064300000004,52.638278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Benet's Abbey]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.52051200000005,52.687429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toad Hole Cottage Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.50785680000001,52.7176517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stokesby</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.594877,52.638172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burghley House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.452531300000032,52.6424935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holker Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.98260900000002,54.188739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hill Top Beatrix Potter House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.97057150000001,54.3517112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lakes Aquarium</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.95591239999999,54.2783179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bowness-on-Windermere</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.91962699999999,54.364703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lakeland Motor Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9891394,54.2587173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Lakes Safari Zoo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.16338389999999,54.1682664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swarthmoor Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.10197600000004,54.18636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Motor Museum, Beaulieu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.45364510000002,50.822998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Axbridge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.81935199999998,51.28442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gough's Cave]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.76574640000001,51.2819341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wookey Hole Caves</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.67265380000003,51.2260953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portsmouth Historic Dockyard</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.10946590000003,50.800531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Meon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.03771299999994,50.994361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Trust - Hinton Ampner</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.15070909999997,51.0436058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jane Austen's House Museum]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.98900500000002,51.133093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winchester Cathedral</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.31315380000001,51.0606892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winchester Science Museum
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.26533599999993,51.059373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marwell Zoo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.28335849999996,50.9910678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppark House and Garden - National Trust</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.891257600000017,50.9524027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butser Ancient Farm</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.977458699999943,50.9430336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunstanton Sea Life</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.483348599999999,52.9349242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Swan's Nest Hotel]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.69950700000004,52.190801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stratford Butterfly Farm</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70009709999999,52.1895188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fourteas</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70467610000003,52.1914881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stratford MAD museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70702819999997,52.1931177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stratford-upon-Avon Baptist Church</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70488150000006,52.1945983,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

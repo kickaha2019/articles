@@ -10,7 +10,7 @@ Table:
 	Cast|Choi Jong Hoon, Im Yoon Ho, Yuna
 	Themes|Not sure
 	Details|10 15-minute episodes
-	Links|[https://tv.naver.com/sim2005 Official website] [https://www.koreandrama.org/prince-of-prince/ Korean Drama] [http://www.hancinema.net/korean_drama_Prince_of_Prince.php Han Cinema]
+	Links|[https://tv.naver.com/sim2005 Official website] [https://www.koreandrama.org/prince-of-prince/ Korean Drama] [https://www.hancinema.net/korean_drama_Prince_of_Prince.php Han Cinema]
 
 Centre:
 	princes_prince.jpg

@@ -1,6 +1,11 @@
 Date:
 	March 12th 2015
 
+Anchor:
+  Alnes Fyr
+  Giske Church
+  Alesund
+  
 Right:
 	alesund_town2.JPG
 

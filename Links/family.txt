@@ -1,4 +1,4 @@
 Text:
-	[http://britishorigami.info/academic/johnsmith/ Bits of Smith] -
-	my father's Origami website.
+	[https://britishorigami.info/academic/johnsmith/ Bits of Smith] -
+	my late father's Origami website.
 		

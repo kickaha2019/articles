@@ -1,6 +1,13 @@
 Title:
 	A cruise up and down the Rhine
 
+Anchor:
+  Cologne Cathedral
+  Koblenz
+  Rudesheim
+  Ahrweiler
+  Maasmechelen Village
+  
 Icon:
 	DSCF4681.JPG
 

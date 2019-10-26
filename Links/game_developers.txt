@@ -2,8 +2,8 @@ Text:
 	[http://basiliskgames.com/ Basilisk Games] are an
 	independent RPG developer.
 		
-	[http://www.daedalic.de/?lang_new=en Daedalic Entertainment]
-	developers of the [http://www.deponia.de/ Deponia] games and others.
+	[http://www.daedalic.com/?lang_new=en Daedalic Entertainment]
+	developers of the [http://www.deponia.com/ Deponia] games and others.
 
 	[http://www.darklingroom.co.uk/ Darkling Room] is the
 	website of Jonathan Boakes.
@@ -12,22 +12,22 @@ Text:
 	game company who had a very successful 
 	[https://www.kickstarter.com/ Kickstarter] campaign.
 
-	[http://www.herinteractive.com/ Her Interactive]
+	[https://www.herinteractive.com/ Her Interactive]
 	developers of the Nancy Drew games.
 
-	[http://hero-u.com/ Hero-U] new game by the Quest for Glory
+	[https://hero-u.com/ Hero-U] new game by the Quest for Glory
 	creators.
 
 	[Inxile Entertainment] have
 	developed [Torment: Tides of Numenera] and [Wasteland 2].
 
-	[http://larian.com Larian Studios] develop RPG games including
+	[https://larian.com Larian Studios] develop RPG games including
 	[http://www.divinityoriginalsin.com Divinity Original Sin].
 
 	[Mulawa Dreaming] is
 	Peter Hewitt's website (the creator of the games Xiama and Magnetic.)
 		
-	[http://www.obsidian.net Obsidian] are developing
+	[https://www.obsidian.net Obsidian] are developing
 	[http://eternity.obsidian.net Project Eternity].
 
 	[https://www.redthreadgames.com Red Thread Games] are developing

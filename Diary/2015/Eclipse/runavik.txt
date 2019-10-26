@@ -1,6 +1,9 @@
 Date:
 	March 21st 2015
 
+Anchor:
+  Runavik
+  
 Right:
 	faroes_braemar.JPG
 

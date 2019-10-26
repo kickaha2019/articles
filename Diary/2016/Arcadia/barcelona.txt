@@ -1,6 +1,10 @@
 Title:
 	Barcelona
 	
+Anchor:
+  Park Guell
+  Sagrada Familia
+  
 Date:
 	October 17th 2016
 

@@ -1,6 +1,10 @@
 Title:
     Amsterdam to Tokyo
     
+Anchor:
+  Narita International Airport
+  Grand Prince Hotel New Takanawa
+
 Date:
     March 22nd 2013
 

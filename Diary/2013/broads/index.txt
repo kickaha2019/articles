@@ -1,6 +1,12 @@
 Title:
 	The Norfolk Broads
 
+Anchor:
+  Acle
+  St. Benet's Abbey
+  Toad Hole Cottage Museum
+  Stokesby
+  
 Date:
 	May 20th 2013
 

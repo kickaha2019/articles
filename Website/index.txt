@@ -5,7 +5,7 @@ Text:
 	I have spent numerous hours tinkering with my personal website.  
 	It started off as HTML pages generated from text files, then I tried
 	[https://support.apple.com/kb/PH5291 iWeb], then HTML pages generated 
-	from data in [http://www.filemaker.com/ Filemaker]'s ''Bento'',
+	from data in [https://www.filemaker.com/ Filemaker]'s ''Bento'',
 	then [https://www.joomla.org/ Joomla],
 	then back to [iWeb], and currently it's HTML pages statically generated
 	from text files.  This time I've rearranged the deck chairs to make the

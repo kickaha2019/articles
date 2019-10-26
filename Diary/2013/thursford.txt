@@ -1,6 +1,9 @@
 Icon:
 	/Users/peter/Website/Articles/Diary/2014/Thursford/santaland.JPG
 	
+Anchor:
+  Thursford Collection
+  
 Title:
 	Thursford Christmas Spectacular
 

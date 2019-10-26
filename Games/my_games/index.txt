@@ -1,10 +1,12 @@
+Link:
+  2019/CoffeeCupChase
+  2019 Mug Missing
+  
+Link:
+  2019/Toy_trips
+  2019 Toy trips
+  
 HTML:
-	<center>In development</center>
-	<dl>
-  <dt><a href="CoffeeCupChase/index.html">Mug.Missing.</a>
-  <dd>Interactive fiction about a missing mug.
-  </dl>
-	<p>
 	<center>Released</center>
 	<dl>
 	<dt><a href="Maps/index.html">Present Hunt</a>

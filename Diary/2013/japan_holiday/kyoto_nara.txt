@@ -1,6 +1,13 @@
 Title:
     Kyoto and Nara
     
+Anchor:
+  Nijo Castle
+  Kinkaku-ji
+  Kyoto Imperial Palace
+  Todaiji Temple
+  Kasuga Taisha Shrine
+  
 Date:
     March 26th 2013
     

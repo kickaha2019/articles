@@ -1,6 +1,9 @@
 Title:
 	Go in Gunpo at BIBA
 
+Anchor:
+  Sanbon-ro
+  
 Date:
 	May 16th 2016
 

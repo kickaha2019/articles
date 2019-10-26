@@ -1,6 +1,9 @@
 Date:
 	December 7th 2012
 	
+Anchor:
+  Thursford Collection
+  
 Title:
 	Thursford Christmas Show
 	
@@ -35,7 +38,7 @@ Left:
 
 Text:
 	Before the show at 2pm we visited 
-	[Fantasy Land]
+	[https://www.thursford.com/santas-magical-journey/ Santa's Magical Journey]
 	(which has
 	a neat Disneyesque series of tableaux to wander through on
 	your way to Santa's Grotto, sadly Santa himself was out to lunch.)

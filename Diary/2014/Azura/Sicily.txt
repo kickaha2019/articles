@@ -1,6 +1,9 @@
 Date:
 	September 20th 2014
 
+Anchor:
+  Mount Etna
+  
 Right:
 	summit.JPG
 

@@ -1,6 +1,9 @@
 Title:
 	Thursford Christmas Show
 
+Anchor:
+  Thursford Collection
+  
 Date:
 	December 5th 2014
 

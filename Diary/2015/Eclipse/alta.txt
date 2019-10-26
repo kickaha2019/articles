@@ -1,6 +1,10 @@
 Date:
 	March 17th 2015
 
+Anchor:
+  Sorrisniva Igloo Hotel
+  Northern Lights Cathedral
+  
 Right:
 	alta_igloo3.JPG
 

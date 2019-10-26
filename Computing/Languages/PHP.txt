@@ -1,5 +1,5 @@
 Text:
-	[http://php.net/ PHP] is a scripting language especially for web servers
+	[https://php.net/ PHP] is a scripting language especially for web servers
 	generating [https://www.w3schools.com/html/default.asp HTML] pages.  I use for a few of my webpages,
 	particularly where data is being retrieved from a
 	[https://www.mysql.com/ MySQL] database.
