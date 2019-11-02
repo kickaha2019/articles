@@ -1,6 +1,9 @@
 Date:
 	July 20th 2017
 
+Anchor:
+  ABBA The Museum
+
 Right:
 	stockholm_1.JPG
 

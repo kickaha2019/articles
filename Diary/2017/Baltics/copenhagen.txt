@@ -1,6 +1,11 @@
 Date:
 	July 18th 2017
 
+Anchor:
+  Frederiksborg Castle
+  Kronborg
+  The Little Mermaid
+  
 Right:
 	copenhagen_6.JPG
 

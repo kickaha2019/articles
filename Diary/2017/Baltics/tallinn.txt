@@ -1,6 +1,9 @@
 Date:
 	July 21st 2017
 
+Anchor:
+  Paks Margareeta
+  
 Right:
 	tallinn_1.JPG
 

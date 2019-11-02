@@ -1,6 +1,9 @@
 Date:
 	July 25th 2017
 
+Anchor:
+  Warnemunde
+  
 Right:
 	warnemunde.JPG
 

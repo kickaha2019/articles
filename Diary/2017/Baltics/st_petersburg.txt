@@ -1,6 +1,12 @@
 Date:
 	July 22nd 2017
 
+Anchor:
+  St. Isaac's Cathedral
+  Catherine Palace
+  Faberge Museum
+  Pushkin Art Gallery
+  
 Title:
 	St Petersburg
 	

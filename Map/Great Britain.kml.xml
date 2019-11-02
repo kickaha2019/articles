@@ -1271,6 +1271,134 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Manor Farm Soton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.27746500000001,50.903796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warner Bros. Studio Tour London</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.418059800000037,51.6903287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bodiam Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.543548999999985,51.002266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bateman's]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.379480699999931,50.9893081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sissinghurst Castle Gardens
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.582359099999962,51.1153408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Groombridge Place
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.188899200000037,51.1182756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scotney Castle - National Trust</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.408233600000017,51.0928332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goudhurst Inn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.472084999999993,51.113801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Cross Inn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.43996930000003,51.1085454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pembury Baptist Church</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.328106899999966,51.1475239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mutford</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.65292590000001,52.435578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEA LIFE Great Yarmouth</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.73648760000003,52.6003335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Time and Tide Museum of Great Yarmouth Life</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.73130149999997,52.6017183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Africa Alive!</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.70075250000002,52.4140061,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

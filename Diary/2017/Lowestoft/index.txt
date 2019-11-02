@@ -4,11 +4,14 @@ Icon:
 Date:
 	Nov 10th 2017
 
+Anchor:
+  Mutford
+  SEA LIFE Great Yarmouth
+  Time and Tide Museum of Great Yarmouth Life
+  Africa Alive!
+  
 Title:
 	Lounging in Lowestoft
-
-Heading:
-  [https://goo.gl/maps/m1C7LSd88UaV425F9 Google map]
 
 Right:
 	P1380467.JPG

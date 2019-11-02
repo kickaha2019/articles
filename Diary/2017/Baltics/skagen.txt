@@ -1,6 +1,10 @@
 Date:
 	July 26th 2017
 
+Anchor:
+  Voergaard Slot
+  Den Tilsandede Kirke
+  
 Right:
 	skagen_buried.JPG
 

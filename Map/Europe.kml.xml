@@ -438,6 +438,69 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Royal Delft</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.36695169999996,52.0013998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pushkin Art Gallery</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.295709,59.931685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Faberge Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3428812,59.9347205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catherine Palace</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3956531,59.716123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Isaac's Cathedral]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3064850000001,59.933905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paks Margareeta</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.7495473,59.4425579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warnemunde</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.0784438000001,54.170342,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

@@ -4,11 +4,18 @@ Date:
 Icon:
 	P1380029.JPG
 
+Anchor:
+  Bodiam Castle
+  Bateman's
+  Sissinghurst Castle Gardens
+  Groombridge Place
+  Scotney Castle - National Trust
+  Goudhurst Inn
+  Green Cross Inn
+  Pembury Baptist Church
+  
 Title:
 	Week in Kent
-
-Heading:
-  [https://goo.gl/maps/ZQoyPGMXVoxMx5YC8 Google map]
 
 Right:
 	P1000485.JPG

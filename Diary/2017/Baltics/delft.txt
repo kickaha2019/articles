@@ -1,6 +1,9 @@
 Date:
 	July 16th 2017
 
+Anchor:
+  Royal Delft
+  
 Right:
 	delft_1.JPG
 

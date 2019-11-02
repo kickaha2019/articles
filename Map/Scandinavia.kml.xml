@@ -247,6 +247,51 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Frederiksborg Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.3012724,55.9349652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronborg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.6211552,56.0390142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voergaard Slot</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.335428,57.242532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Den Tilsandede Kirke</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.550614,57.7136405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ABBA The Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.0965639,59.324893,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
