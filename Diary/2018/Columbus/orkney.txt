@@ -1,6 +1,10 @@
 Date:
 	September 2nd 2018
 
+Anchor:
+  Ring of Brodgar
+  Skara Brae Prehistoric Village
+  
 Title:
 	Kirkwall
 

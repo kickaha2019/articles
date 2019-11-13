@@ -1,11 +1,14 @@
 Date:
 	June 29th 2018
 
+Anchor:
+  Pirates Cove Adventure Golf
+  Merrivale Model Village
+  Gorleston Baptist Church
+  Somerleyton Hall
+
 Title:
 	Long weekend in Great Yarmouth
-
-Heading:
-  [https://goo.gl/maps/6UBt9rvxjM2mGrgP7 Google map]
 
 Text:
 	Just so we could have a round at [http://www.pirates-cove.co.uk/ Pirates Cove Crazy Golf]

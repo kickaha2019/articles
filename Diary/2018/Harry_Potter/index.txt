@@ -1,6 +1,9 @@
 Date:
 	November 27th 2018
 
+Anchor:
+  Warner Bros. Studio Tour London
+  
 Text:
 	We went to [https://www.wbstudiotour.co.uk/home Warner Bros studio tour]
   to walk again in the footsteps of Harry Potter. Virginia's sister Vicky

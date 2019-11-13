@@ -1,6 +1,12 @@
 Date:
 	September 4th 2018
 
+Anchor:
+  Dunvegan Castle
+  Old School Restaurant
+  Kilt Rock
+  The Roses B&B
+  
 Title:
 	Skye
 

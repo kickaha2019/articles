@@ -1,11 +1,19 @@
 Date:
 	March 16th 2018
 
+Anchor:
+  Aysgarth Falls Hotel
+  Jervaulx Abbey
+  Wensleydale Creamery
+  White Scar Cave
+  Ribblehead Viaduct
+  Richmond Georgian Theatre
+  Dales Countryside Museum
+  Bolton Castle
+  Middleham Castle
+
 Title:
 	A visit to North Yorkshire
-
-Heading:
-  [https://goo.gl/maps/KaKXhVHUGfdvGFb27 Google map]
 
 Right:
   P1380601.JPG

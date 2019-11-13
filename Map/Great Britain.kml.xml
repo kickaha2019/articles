@@ -1399,6 +1399,260 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Audley End House and Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.220600999999988,52.0207851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titanic Belfast</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.90997240000002,54.60807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>English Market Cork</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.47399999999993,51.898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of Ireland - Natural History Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.25334780000003,53.3398848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunrobin Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.94549729999994,57.9818445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Peter Port</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.54970690000005,49.4541677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobermory</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.07230040000002,56.6227813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ring of Brodgar</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2297777,59.0014988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skara Brae Prehistoric Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.34170940000001,59.0487479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunvegan Castle
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.59006410000006,57.4484436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old School Restaurant</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.57292649999999,57.4321147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kilt Rock</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.17190479999999,57.6107719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Roses B&B]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.18948669999997,57.4235356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tresco Abbey Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.33296369999994,49.9465289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirates Cove Adventure Golf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.73713529999998,52.6057511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merrivale Model Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.73622369999998,52.598591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorleston Baptist Church</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.72654060000002,52.5772838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Somerleyton Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.6729186,52.5207063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mountfitchet Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.201252000000068,51.9021458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aysgarth Falls Hotel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.98426599999993,54.290612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jervaulx Abbey & Tearoom]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.74220300000002,54.2664072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wensleydale Creamery</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2003555,54.3018483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Scar Cave</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.44170919999999,54.1655977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ribblehead Viaduct</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.37009039999998,54.2102334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richmond Georgian Theatre
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.73802000000001,54.404127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dales Countryside Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.19237899999996,54.304568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolton Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.94953510000005,54.3221452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middleham Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.80683920000001,54.284083,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
