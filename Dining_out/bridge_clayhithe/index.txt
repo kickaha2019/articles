@@ -1,6 +1,9 @@
 Title:
 	The Bridge, Clayhithe
 
+Anchor:
+  The Bridge, Clayhithe
+
 Text:
 	You can book at 
 	[https://www.chefandbrewer.com/pubs/cambridgeshire/bridge/ The Bridge] now, before you just turned up and hoped.

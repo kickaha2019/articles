@@ -1,6 +1,9 @@
 Title:
 	Beefeater at Girton
 	
+Anchor:
+  Beefeater Travellers Rest - Cambridge
+  
 Text:
 	We go to the [https://www.beefeater.co.uk/steak-restaurant/Cambridge/Travellers-Rest.html Beefeater]
 	in Girton so much the staff know us, and we know them.  It's nice 

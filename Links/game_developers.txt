@@ -3,7 +3,7 @@ Text:
 	independent RPG developer.
 		
 	[http://www.daedalic.com/?lang_new=en Daedalic Entertainment]
-	developers of the [http://www.deponia.com/ Deponia] games and others.
+	developers of the ''''Deponia'' games and others.
 
 	[http://www.darklingroom.co.uk/ Darkling Room] is the
 	website of Jonathan Boakes.
@@ -28,12 +28,12 @@ Text:
 	Peter Hewitt's website (the creator of the games Xiama and Magnetic.)
 		
 	[https://www.obsidian.net Obsidian] are developing
-	[http://eternity.obsidian.net Project Eternity].
+	[https://eternity.obsidian.net Project Eternity].
 
 	[https://www.redthreadgames.com Red Thread Games] are developing
 	[https://www.redthreadgames.com/games/chapters/ Dreamfall Chapters].
 
-	[http://revolution.co.uk/ Revolution] are the creators of
+	[https://revolution.co.uk/ Revolution] are the creators of
 	the Broken Sword games.
 
 	[https://talk.senscape.io/ Senscape] - Agustin Cordes's

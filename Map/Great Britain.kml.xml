@@ -1653,6 +1653,261 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Charminster St Mary's Church]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.45591739999998,50.7329456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tyneham</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.16875000000005,50.622448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corfe Castle
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.05771329999993,50.6384021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brewery Square Dorchester</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.43810150000002,50.7094537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dorset Teddy Bear Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.43286990000001,50.7155199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dinosaur Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4341167,50.714914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terracotta Warrior Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.43286990000001,50.7155199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tutankhamun Exhibition</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.43969149999998,50.7150891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roman Town House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.44109900000001,50.717268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Sun Inn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.44348360000004,50.7240025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maiden Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.46956599999999,50.695886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Athelhampton House and Gardens
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.32654160000004,50.7476283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monkey World - Ape Rescue Centre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.21715589999997,50.6976002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tank Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.24196810000001,50.6951871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[National Trust Hardy's Cottage]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.38630349999994,50.7314505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max Gate</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.41998739999997,50.7081396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foxton Locks</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.982143700000051,52.49879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nevill Arms Inn - Restaurant & Accommodation]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.82443539999997,52.5283098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Patrick's Cathedral]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.27147669999999,53.3395154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arlington Hotel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.26068620000001,53.3473053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regus - Cambridge Vision Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.109668800000009,52.2435879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beefeater Travellers Rest - Cambridge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0936804000000393,52.2222647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Boot</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.106169700000009,52.2515323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bridge, Clayhithe
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.198258200000055,52.2580204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Felix</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0940918999999667,52.2245086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Crown Girton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0814947000000075,52.2425867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Phoenix Bar & Restaurant]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.108269800000016,52.2514557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trading Post Kettering</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.74614059999999,52.3921206,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

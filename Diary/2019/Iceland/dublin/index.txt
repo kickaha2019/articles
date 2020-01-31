@@ -1,6 +1,10 @@
 Date:
   1st August 2019
 
+Anchor:
+  St Patrick's Cathedral
+  Arlington Hotel
+  
 Right:
   cathedral.jpg
 

@@ -362,6 +362,186 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tree Church</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.329699,-37.90852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waitomo Glowworm Caves</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.1035985,-38.260783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruakuri Cave</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.0785166,-38.2680529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waitomo Caves Guest Lodge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.110435,-38.260658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HUHU Cafe</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.110483,-38.260398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Shire's Rest]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.6829096,-37.8720905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hobbiton Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.6807567,-37.8577046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regent of Rotorua</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            176.250697,-38.133542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Te Puia</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            176.250529,-38.163513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wai-O-Tapu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            176.3689844,-38.358256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolton Hotel Wellington</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7746699,-41.2794019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weta Workshop</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.8234761,-41.305862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZEALANDIA Ecosanctuary</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7534936,-41.2901575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington Botanic Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7674514,-41.2823079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of New Zealand Te Papa Tongarewa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7820894,-41.2904563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LynnMall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.6860723,-36.9079483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arataki Visitor Centre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.6066123,-36.9468718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karekare Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.4730589,-36.9879115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murrays Bay Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7535809,-36.7328052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blockhouse Bay Community Church</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7151695,-36.9128568,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

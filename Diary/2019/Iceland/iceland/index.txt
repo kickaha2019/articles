@@ -1,6 +1,14 @@
 Date:
   26th July 2019
 
+Anchor:
+  Hverir
+  Dimmuborgir
+  Godafoss
+  Hallgrim's Church
+  Hellisheidi
+  Thingvellir Visitor Center
+  
 Text:
   Iceland is an island sitting on the rift between the American and Eurasian
   tectonic plates. It grows as those plates move apart, it is active volcanically,

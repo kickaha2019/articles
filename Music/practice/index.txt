@@ -30,6 +30,8 @@ PHP:
 
   $staccato = array( "", "staccato ", "", "staccato ", "", "staccato ");
 
+  $sight_reading = array( "", "Sight reading", "", "", "Sight reading", "");
+
   $hands = array( "Left hand", "Right hand", "Hands together", "Hands together");
 
 	$day = intval(time() / (24 * 60 * 60));
@@ -43,7 +45,9 @@ PHP:
 	}
 
 	function line( $text) {
-		echo( '<TR><TD>' . $text . '</TD></TR>');
+    if ($text != '') {
+      echo( '<TR><TD>' . $text . '</TD></TR>');
+    }
 	}
 
 	echo( '<CENTER><TABLE BORDER="1"><TR><TH>What to practise today</TH></TR>');
@@ -64,13 +68,13 @@ PHP:
 
   line( "Staccato scale in sixths hands separately in C");
 
-	line( "Contrary motion " . choose( $staccato, 3) . choose( $keys, 7) . " " . choose( $majormin, 1) . " scale");
+	line( "Contrary motion " . choose( $staccato, 4) . choose( $keys, 7) . " " . choose( $majormin, 1) . " scale");
 
 	line( "Contrary motion " . choose( $contrary_third_keys, 1) . " scale third apart");
 
 	line( "Contrary motion " . choose( $contrary_third_keys, 2) . " scale sixth apart");
 
-	line( choose( $hands, 4) . " similar motion " . choose( $staccato, 4) . "chromatic scale starting on " . choose( $keys, 10));
+	line( choose( $hands, 4) . " similar motion " . choose( $staccato, 5) . "chromatic scale starting on " . choose( $keys, 10));
 
 	line( "Similar motion chromatic scale in thirds starting on " . choose( $keys, 8));
 
@@ -84,4 +88,10 @@ PHP:
 
 	line( choose( $hands, 4) . " dominant seventh in the key of " . choose( $keys, 2) . " 4 octaves");
 
+  line( "Staccato scale a third apart for B minor");
+
+  line( "Arpeggio in F sharp major");
+
+  line( choose( $sight_reading, 1));
+  
 	echo( '</TABLE></CENTER>');

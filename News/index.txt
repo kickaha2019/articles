@@ -5,9 +5,13 @@ Icon:
 	news.jpg
 
 Link:
+  2020/New_Zealand
+  To the other side and back
+
+Link:
   2019/Toy_trips
   The soft toys as tourists
-  
+
 Link:
   2019/Norfolk
   A few nights in Norfolk

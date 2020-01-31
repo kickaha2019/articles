@@ -37,10 +37,10 @@ PHP:
 	}
 
 	# Query films table for number of games
-	$select = mysql_query( 
-	  "select count( name) from films") or die( "Could not count films : " . mysql_error());
+	$select = mysqli_query( $link,
+	  "select count( name) from films") or die( "Could not count films : " . mysqli_error( $link));
 	  
-	if ($row = mysql_fetch_row( $select)) {
+	if ($row = mysqli_fetch_row( $select)) {
 		$row_count = $row[0];}
 	else {
 		$row_count = 0;
@@ -52,14 +52,14 @@ PHP:
 	# Query films table for matching names or aliases
 	$query = "select name,url,year,country,genre,media from films order by name limit " . $from_row . ", 100";
 
-	$select = mysql_query( $query) or die( "Could not select film data : " . mysql_error());
+	$select = mysqli_query( $link, $query) or die( "Could not select film data : " . mysqli_error( $link));
 	?>
 
 	<CENTER><TABLE BORDER=1 CLASS="LIST">
 	<TR><TH>Film</TH><TH>Year</TH><TH>Country</TH><TH>Genre</TH><TH>Media</TH></TR>
 
 	<?php
-	while ($row = mysql_fetch_row( $select)) {
+	while ($row = mysqli_fetch_row( $select)) {
 		echo( "<TR><TD>");
 		if (! empty( $row[1])) {
 			echo( "<A HREF=\"" . $row[1] . "\">");

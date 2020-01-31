@@ -1,6 +1,9 @@
 Title:
 	The Old Crown, Girton
 
+Anchor:
+  Old Crown Girton
+  
 Text:
 	''The Old Crown'' used
 	to be famous for its very large portions.  It did
@@ -21,6 +24,9 @@ Text:
 	a jug which gets poured into the bowl in front of you.
 	I wish them well but dining there is no longer a
 	regular part of our dining out.
+ 
+  In 2019 the ''Old Crown'' reopened and is more
+  reasonable. Roast lamb on Sunday has too much fat on it.
 
 Gallery:
 	IMG_2741.JPG

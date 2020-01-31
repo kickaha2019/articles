@@ -17,7 +17,8 @@ Text:
     My room knows I'm English.  So the wake up call setting on the
     phone talks to me in Anglo-Saxon.  There was a Herald Tribune 
     in a letter rack outside (close).  I tried breakfast in the
-    [http://www.princehotels.com/newtakanawa/restaurants/slop-side-diner-zakuro-buffet-and-cafe/ Marmolada]  which proved to be a buffet for 2700 Yen
+    [https://www.princehotels.com:443/newtakanawa/restaurants/slop-side-diner-zakuro-buffet-and-cafe/ Marmolada]
+    which proved to be a buffet for 2700 Yen
     (expensive).  So I aimed to make it an all you can eat buffet
     and have breakfast as the most expensive meal of the day.
     People were having serials (sic) in glasses, I was bold and 

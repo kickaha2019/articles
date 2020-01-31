@@ -35,7 +35,7 @@ Text:
     hour and half journey from Narita to Shinagawa in Tokyo for
     quite a while.  I was tired, Tokyo was 17 degrees C.  Mine 
     was the last hotel on the schedule of course.  But the
-    [http://www.princehotels.com/newtakanawa/ Grand Prince Hotel New Takanawa] was a
+    [https://www.princehotels.com:443/newtakanawa/ Grand Prince Hotel New Takanawa] was a
     hot hotel, the poshest hotel I've ever stayed in.
 
 Left:

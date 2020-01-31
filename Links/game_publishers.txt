@@ -1,5 +1,5 @@
 Text:
-	[http://www.bigfishgames.com/ Big Fish Games] are
+	[https://www.bigfishgames.com/ Big Fish Games] are
 	casual game publishers.
 		
 	[http://www.coladia.com/ Coladia] offer

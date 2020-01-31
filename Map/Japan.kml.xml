@@ -298,6 +298,87 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Hotel Gracery Shinjuku</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7020539,35.695306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robot Restaurant</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7028432,35.6943187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shinjuku Gyoen National Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7100517,35.6851763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rakuu-tei Tea House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7071145,35.6858152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nihon Ki-in Tokyo HQ</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7364548,35.6904054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tempura Abe Honten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7644904,35.6720749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alternative Theatre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7634519,35.673596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kawaii Monster Cafe</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.706113,35.6691492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Narita International Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            140.3928501,35.7719867,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

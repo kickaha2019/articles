@@ -1,6 +1,9 @@
 Title:
 	Hotel Felix, Girton
 
+Anchor:
+  Hotel Felix
+  
 Text:
 	We didn't go to the 
 	[Hotel Felix]

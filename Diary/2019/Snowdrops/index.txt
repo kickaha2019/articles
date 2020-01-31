@@ -4,6 +4,9 @@ Date:
 Title:
 	Snowdrop time again
 
+Anchor:
+  Anglesey Abbey
+  
 Text:
 	Seeing snowdrops time again at [Anglesey Abbey]! A wonderfully fine day for
   doing so! The snowdrops were out! The cream on the mixture of textures and

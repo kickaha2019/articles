@@ -292,6 +292,78 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Hverir</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -16.809311,65.6409144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dimmuborgir</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -16.9291591,65.6030357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Godafoss</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -17.5501918,65.6827782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hallgrim's Church]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -21.926637,64.1417149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hellisheidi</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -21.401011,64.0372869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thingvellir Visitor Center</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -21.1310156,64.2559785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.80655560000002,61.8350282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andalsnes</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.68722000000002,62.5674461,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

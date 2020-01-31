@@ -43,7 +43,7 @@ PHP:
 	# Query films table for matching names or aliases
 	$query = "select name,url,country,year,rating,comment from kdramas order by " . $order;
 
-	$select = mysql_query( $query) or die( "Could not select film data : " . mysql_error());
+	$select = mysqli_query( $link, $query) or die( "Could not select film data : " . mysqli_error( $link));
 	?>
 
 	<CENTER><TABLE BORDER=1 CLASS="LIST">
@@ -54,7 +54,7 @@ PHP:
 		<TH>Comment</TH></TR>
 
 	<?php
-	while ($row = mysql_fetch_row( $select)) {
+	while ($row = mysqli_fetch_row( $select)) {
 		echo( "<TR><TD>");
 		if (! empty( $row[1])) {
 			echo( "<A HREF=\"" . $row[1] . "\">");

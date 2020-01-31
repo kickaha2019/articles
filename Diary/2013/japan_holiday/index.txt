@@ -13,7 +13,7 @@ Text:
     web.  Before I booked the package tour in February.  Years before.
 
     My father is very much interested in Japanese culture.  He
-    has been a major figure in the [http://www.britishorigami.info British Origami Society], and did his best
+    has been a major figure in the [https://www.britishorigami.info British Origami Society], and did his best
     to get my sister and I folding in paper too.  He let me stay up
     late one night to watch "Seven Samurai" by the famous Japanese film
     director Akira Kurosawa.  That influence has rubbed off on me, film
@@ -32,7 +32,7 @@ Text:
     2012.  So I started surfing for package tours in Japan, feeling
     I couldn't organise the details myself.
 
-    I chose [http://www.magicalexplorer.co.uk/region/japan Magical Japan] to go with.  Unless I were to do holidays
+    I chose [https://www.magicalexplorer.co.uk/region/japan Magical Japan] to go with.  Unless I were to do holidays
     with a range of travel agencies it's hard to compare.  They
     answered my silly questions, were nice enough to deal with.  I
     got them to book the flights but I think I was wrong to do so now - it 

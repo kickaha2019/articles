@@ -56,6 +56,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>ParkRoyal on Pickering</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.8460908,1.2858085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gardens by the Bay</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.8636132,1.2815683,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
