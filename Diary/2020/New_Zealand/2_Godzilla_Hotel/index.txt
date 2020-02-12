@@ -8,15 +8,15 @@ Anchor:
   Hotel Gracery Shinjuku
   
 Text:
-  We touched down at [http://www.haneda-airport.jp/inter/en/ Haneda Airport]
+  We touched down at [Haneda Airport]
   and the first hiccup manifested itself. I couldn't
   join those onboard the plane messaging and tweeting my safe arrival. For some reason I
-  don't yet understand the [https://www.gigsky.com Gigsky] E-Sim I had in the iPhone didn't work. Perhaps they need to
+  don't yet understand the [Gigsky] E-Sim I had in the [iPhone] didn't work. Perhaps they need to
   be used every so often? This was painful, I did manage WiFi from the coach and hotel
-  but in the end loaded up an E-Sim from [https://www.ubigi.com Ubigi] for Tokyo which was a must for getting around.
+  but in the end loaded up an E-Sim from [Ubigi] for Tokyo which was a must for getting around.
   (I failed to use the [Ubigi] E-Sim in New Zealand, my [Ubigi] account got stuck in a payment
   authorisation loop).
-  Having a working E-Sim meant I could use [https://www.google.com/maps Google Maps].
+  Having a working E-Sim meant I could use [Google Maps].
   [Google Maps] was tricky to follow, where it thought you were could be off, but it enabled me
   to find my way around an alien city.
   
@@ -29,7 +29,7 @@ Text:
   my trying the monorail as originally planned which would have meant trying to maneouvre
   cases on a rush-hour trains. They gave you a token for bags stowed on the bus which was
   reasonable, a bit of a scrum collecting the bags afterwards. At Shinjuku West couldn't see the bus she told me about so
-  instead tried walking to [https://shinjuku.gracery.com Hotel Gracery],
+  instead tried walking to [Hotel Gracery],
   happily the sign was visible in the dampness and
   dinginess.
   

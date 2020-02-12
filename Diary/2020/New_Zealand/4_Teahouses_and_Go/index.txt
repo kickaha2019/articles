@@ -9,7 +9,7 @@ Anchor:
   
 Text:
   I barely slept the previous night, perhaps my brain was overheated thanks to the
-  [https://shinjuku-robot.com/sp/ Robot Restaurant],
+  [Robot Restaurant],
   perhaps due to the timezone change. I was the first to breakfast at 6:30
   in the 1st floor Bonsalute buffet place, you get a table tag when you enter so easier to
   choose a table then go get food without worrying about losing a place to sit.
@@ -29,9 +29,9 @@ Text:
   later and was interesting, not what I was used to.
   
   I confused my PASMO card when I went to the wrong line at Shinjuku Sanchome Station to
-  get to Ichigaya then backed out. Happily staff saved the day. Google Maps saw me
+  get to Ichigaya then backed out. Happily staff saved the day. [Google Maps] saw me
   safely from Ichigaya to the
-  [https://www.nihonkiin.or.jp/english/ Nihon Kiin] which I had failed to find seven years ago. However the person who
+  [Nihon Kiin] which I had failed to find seven years ago. However the person who
   was going to give a tour had got the dates wrong, I imposed on a kind lady there who did
   show me some of the place, the famous "Yugen no ma" room where professional tournament
   matches are held, a museum, and a room
@@ -39,7 +39,7 @@ Text:
   as a presento. I also when I put my shoes back on stepped on a tatami mat a
   sin. I did look at the shop but the goods were nearly all in Japanese.
   
-  Walked to where Google Maps said a restaurant Audley Travel recommended was but there the
+  Walked to where Google Maps said a restaurant [Audley Travel] recommended was but there the
   trail ended. I only knew the English for [https://tempura-abe-ginza.gorp.jp/ Tempura Abe Honten],
   but the visible signs were
   in Japanese. Happily a foreign couple had just come from there and asked me if I was

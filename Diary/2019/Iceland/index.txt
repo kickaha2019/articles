@@ -7,7 +7,7 @@ Title:
 Text:
   There were several firsts about this Icelandic holiday cruise. This is the first
   time Virginia and I cruised on a ship we had been on before. We cruised to the
-  [Diary/2016/Arcadia Western Mediterranean] on the [https://www.pocruises.com/cruise-ships/arcadia/ Arcadia] in 2016.
+  [Diary/2016/Arcadia Western Mediterranean] on the [Arcadia] in 2016.
   For me the ship we cruise on is as much a
   destination we visit as the ports of call. A cruise ship is more than
   a place to stay or be transported in, it has restaurants and theatres and
@@ -26,7 +26,7 @@ Text:
   
   I also used my iPhone instead of the Wifi package that [P&amp;O] offer which is
   relatively costly and unreliable and low bandwidth.
-  My iPhone is dual sim and I got a temporary eSim from [https://www.gigsky.com/ GigSky] which worked reliably.
+  My iPhone is dual sim and I got a temporary eSim from [GigSky] which worked reliably.
   I have not surveyed other eSim vendors to be able to compare them. The other devices
   we had between us were easily tethered to the iPhone (one opens up a personal 
   hotspot). 

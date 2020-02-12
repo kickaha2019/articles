@@ -9,13 +9,15 @@ Icon:
   IMG_1327.jpg
   
 Text:
-  I slummed it at Auckland Airport by having had sausage egg mcmuffin at Macdonalds.
+  I slummed it at [Auckland Airport] by having had sausage egg mcmuffin at Macdonalds.
   For some reason my credit card was refused so had to fall back to cash.
   There was a lady surveying what passengers thought of New Zealand tourism
   but she bypassed me - did I look too odd?
   
-  On the plane saw a Korean film "Along with the Gods" (great will get BDs of this and
-  sequel) plus "Bodies at Rest" a quality HK thriller plus a lot of "Joker" which
+  On the plane saw a Korean film [https://www.imdb.com/title/tt7160070/ Along with the Gods]
+  (great will get BDs of this and
+  sequel) plus [https://www.imdb.com/title/tt7937440/ Bodies at Rest]
+  a quality HK thriller plus a lot of "Joker" which
   didn't really click for me. [https://www.changiairport.com/ Singapore airport] is a delight compared with so many -
   no queueing at immigration, so soon out that the private car hire driver wasn't there. He
   had parked at an angle in the car park and we got told off by another driver.

@@ -1,341 +1,164 @@
 ---
-1Password:
-    url:		https://1password.com/
-Abbey Cwm Hir:
-    url:          https://www.abbeycwmhir.com/
-    no_headers:   true
-Adobe:
-    url:		https://www.adobe.com/
-Affinity Photo:
-    url:		https://affinity.serif.com/en-gb/photo/
-A Korean Odyssey:
-    url:		https://www.koreandrama.org/a-korean-odyssey/
-Angelite Cats Hotel:
-    url:    https://www.angelitecatshotel.co.uk/
-Anglesey Abbey:
-    url:		https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill
-Apple:
-    url:		https://www.apple.com/
-Arundel House Hotel:
-    url:		https://www.arundelhousehotels.co.uk/
-    response:	404 406
-Asiana Airlines:
-    url:		http://eu.flyasiana.com/C/en/main.do
-    response:	400 405
-Aventree Hotel:
-    url:		https://www.aventreehotel.com/
-    no_headers:	true
-Aysgarth Falls Hotel:
-    url:		https://www.aysgarthfallshotel.com/
-Beyond:
-    url:		https://freeform.go.com/shows/beyond
-Birdwatch Northumbria:
-    url:    https://www.birdwatchnorthumbria.co.uk/
-Balancing Barn:
-    url:        https://www.mvrdv.nl/projects/balancing-barn
-    response:   500
-Black Watch:
-    url:		https://www.fredolsencruises.com/our-ships/our-cruise-ships/black-watch
-Bolton Castle:
-    url:		https://www.boltoncastle.co.uk/
-Boudicca:
-    url:		https://www.fredolsencruises.com/our-ships/our-cruise-ships/boudicca
-Braemar:
-    url:		https://www.fredolsencruises.com/our-ships/our-cruise-ships/braemar
-Brandon Sanderson:
-    url:		https://brandonsanderson.com/
-Busan Tower:
-    url:		http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1475231
-Calendar:
-    url:		https://support.apple.com/en-us/HT202835
-Cambridge Holiday Inn:
-    url:		https://www.ihg.com/holidayinn/hotels/gb/en/cambridge/cbgim/hoteldetail
-    response:	403
-    no_headers:	true
-Ceramic Inspirations in Leyburn:
-    url:		http://www.ceramicinspirations.co.uk/
-Cheomseongdae Royal Observatory:
-    url:		http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264256
-Cheonmachong Tomb:
-    url:		http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264117
-Children of the Nameless:
-    url:    https://brandonsanderson.com/a-christmas-present/
-Chronosync:
-    url:		https://www.econtechnologies.com/chronosync/overview.html
-    no_headers:	true
-Columbus:
-    url:          https://www.cruiseandmaritime.com/our-ships/columbus
-    no_headers:   true
-Cooroora:
-    url:    http://www.mulawa.net/cooroora/index.html
-    response: 406
-Corley Service Station:
-    url:		https://www.welcomebreak.co.uk/locations/corley-m6/
-Cottenham Village Vets:
-    url:		https://www.villagevet.co.uk/practice/cottenham/
-Countess of Evesham:
-    url:		https://countessofevesham.co.uk/
-    redirect:	http://www.countessofevesham.co.uk/
-Crinkle Play Tunnel Cat Toy:
-    url:    https://www.petsathome.com/webapp/wcs/stores/servlet/en/pets/crinkle-play-tunnel-cat-toy
-Cruise and Maritime:
-    url:         https://www.cruiseandmaritime.com/
-    no_headers:  true
-Cunard:
-    url:		https://www.cunard.co.uk/
-Da Bird:
-    url:		https://www.dabird.com/
-Daedalic Entertainment:
-    url:    https://www.daedalic.com/?lang_new=en
-Dales Countryside Museum:
-    url:		https://www.dalescountrysidemuseum.org.uk/
-Discovery Lodge:
-    url:		https://www.discoverynz.com/
-    redirect:	discovery-lodge
-DowntownHost:
-    url:		http://www.downtownhost.com
-Dreamhost:
-    url:		https://www.dreamhost.com/hosting/shared/
-Dropbox:
-    url:		https://www.dropbox.com/
-    redirect:	https://www.dropbox.com/?landing=dbv2
-Erased:
-    url:		https://www.netflix.com/title/80173711
-    response:	403
-ESRI:
-    url:		https://www.esri.com/en-us/home
-ExifTool:
-    url:		https://www.sno.phy.queensu.ca/~phil/exiftool/
-    no_headers:	true
-Fountains Abbey:
-    url:		https://www.nationaltrust.org.uk/fountains-abbey-and-studley-royal-water-garden
-Frankie and Bennys Southampton:
-    url:		https://www.frankieandbennys.com/restaurant/frankie-bennys-southampton
-    response:	403 502
-Fred Olsen:
-    url:		https://www.fredolsencruises.com/
-Fukuchi-In:
-    url:		https://www.fukuchiin.com/
-Funko Pop!:
-    url:		https://www.funko.com/products/all/brands/pop
-GeoJSON:
-    url:		https://gist.github.com/sgillies/1233327
-Girton Baptist Church:
-    url:		http://www.girtonbaptistchurch.org.uk/
-Gyeongju National Museum:
-    url:		http://gyeongju.museum.go.kr/eng/
-Gyeongju Seongdong Market:
-    url:		http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=1862991
-Hack Green Secret Nuclear Bunker:
-    url:       https://hackgreen.co.uk/
-    response:  405 500
-Hankone Pirate Cruise:
-    url:		https://www.hakone-kankosen.co.jp/foreign/en/index.php
-Heart of England:
-    url:      https://www.heartofenglandforest.com/
-    response: 403
-Holiday Inn Norwich:
-    url:		https://www.ihg.com/holidayinn/hotels/us/en/norwich/nwicr/
-    response:	403
-    no_headers:	true
-Holiday Inn Express Southampton M27:
-    url:		https://www.ihg.com/holidayinnexpress/hotels/us/en/southampton/soabr/hoteldetail
-    response:	403
-    no_headers:	true
-Holiday Inn Southampton City:
-    url:		https://www.ihg.com/holidayinn/hotels/gb/en/southampton/soahp/hoteldetail
-    response:	403
-    no_headers:	true
-Homigot Sunrise Square:
-    url:		http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=806297
-Hotel Felix:
-    url:		https://www.hotelfelix.co.uk/
-    no_headers:	true
-Hythe Interchange:
-    url:		https://www.stop24.co.uk/
-    no_headers:	true
-InXile Entertainment:
-    url:    https://www.inxile-entertainment.com/
-iWeb:
-    url:		https://support.apple.com/kb/PH5291
-Hermitage:
-    url:		https://www.hermitagemuseum.org/
-    redirect:	https://www.hermitagemuseum.org/wps/portal/hermitage/?lng=
-Hunstanton Sea Life:
-    url:		https://www.visitsealife.com/hunstanton/
-Inspired Chocolate:
-    url:		https://www.inspiredchocolate.co.uk/
-Jagalchi fish market:
-    url:		http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=2382544
-Jervaulx Abbey:
-    url:		https://www.jervaulxabbey.com/
-JUnit4:
-    url:		https://junit.org/junit4/
-Kindle reader:
-    url:    https://www.amazon.co.uk/kindle-dbs/fd/kcp
-    response:  405
-King Art Games:
-    url:		https://kingart-games.com/
-    no_headers:	true
-King Wonseong's burial mound:
-    url:		http://english.visitkorea.or.kr/enu/index.kto?cid=999477
-Korea Holiday Planners:
-    url:		http://www.holidayplanners.co.kr/
-    no_headers:	true
-Lestrange Old Barns:
-    url:    https://www.lestrangeoldbarns.com/
-    no_headers:  true
-Light Cinema Cambridge:
-    url:		https://cambridge.lightcinemas.co.uk/
-    no_headers:	true
-LinkedIn:
-    url:		https://www.linkedin.com/
-    redirect:	http://www.linkedin.com/
-LinkedIn profile:
-    url:		https://www.linkedin.com/in/peter-rootham-smith-7aa53021/
-    response:	999
-Lotte Department Store Busan:
-    url:    http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273787
-LunarPages:
-    url:		https://lunarpages.com/
-Macdonalds:
-    url:		https://www.mcdonalds.com/gb/en-gb.html
-Mail:
-    url:		https://support.apple.com/mail
-makemkv:
-    url:    http://makemkv.com/
-Manor Park Farm:
-    url:		https://www.hants.gov.uk/thingstodo/countryparks/manorfarm
-Mary Rose:
-    url:		https://www.historicdockyard.co.uk/site-attractions/attractions/mary-rose
-    response:	403
-Middleham Castle:
-    url:		https://www.english-heritage.org.uk/visit/places/middleham-castle/
-mkvtoolnix:
-    url:    https://mkvtoolnix.download/
-Mottisfont:
-    url:    https://www.nationaltrust.org.uk/mottisfont
-Mulawa Dreaming:
-    url:    https://mulawa.net
-    response: 406
-MV Virginia:
-    url:      https://www.shearings.com/our-holidays/river-cruises/our-ships/mv-virginia
-    response: 405
-National Museum of Korea:
-    url:		http://www.museum.go.kr/site/eng/home
-    response:	401 405
-National Trust:
-    url:		https://www.nationaltrust.org.uk/
-Naval Dockyards:
-    url:		https://www.historicdockyard.co.uk/
-    response:	403
-Naze Tower:
-    url:         http://www.nazetower.co.uk/
-    no_headers:  true
-Northern Lights Cathedral:
-    url:         https://kirken.no/alta
-    no_headers:  true
-Novotel Lille hotel:
-    url:		https://www.accorhotels.com/gb/hotel-0427-novotel-lille-airport/index.shtml
-Novotel Valenciennes:
-    url:		https://www.accorhotels.com/gb/hotel-0456-novotel-valenciennes/index.shtml
-Numbers:
-    url:		https://www.apple.com/uk/numbers/
-Ocean Cruise Terminal:
-    url:    https://www.cruisesouthampton.com/places/ocean-cruise-terminal
-Oyster card:
-    url:    https://tfl.gov.uk/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go
-Perfume:
-    url:    https://www.perfume-global.com/
-    no_headers:  true
-Petersfield Exhaust and Tyre Services:
-    url:		https://portsmouthgarageservices.co.uk/
-Photo:
-    url:		https://support.apple.com/en-gb/photos
-Pizza Express Bath Theatre Royal:
-    url:       https://www.pizzaexpress.com/bath-theatre-royal
-    response:  404
-P&O:
-    url:		https://www.pocruises.com/
-P&amp;O:
-    url:		https://www.pocruises.com/
-Quiet Waters:
-    url:    https://www.quietwaters.org.uk/
-Richmond Georgian Theatre]:
-    url:		http://www.georgiantheatreroyal.co.uk/
-Rohan:
-    url:		https://www.rohan.co.uk/
-Rookes Pottery:
-    url:		http://www.rookespottery.co.uk/
-    no_headers:	true
-RSPB:
-    url:		https://www.rspb.org.uk/
-    redirect:	https://ww2.rspb.org.uk/
-St. Andrews Hall Norwich:
-    url:		https://www.thehallsnorwich.com/Pages/home.aspx
-    response:	404
-St Andrews Histon:
-    url:		http://standrewshiston.org/
-Shearings:
-    url:    https://www.shearings.com/
-    response: 405
-Somerleyton Hall:
-    url:    https://www.somerleyton.co.uk/
-    no_headers:  true
-Steelheart:
-    url:		https://brandonsanderson.com/books/steelheart/steelheart/
-Stephen Hunt:
-    url:		http://www.sfcrowsnest.com/author/index.php
-    no_headers:	true
-Stranger Things 1:
-    url:		https://www.netflix.com/title/80057281
-    response:	403
-Stratford Butterfly Farm:
-    url:    https://www.butterflyfarm.co.uk/attraction/index.php
-    response:  405
-Stratford High Street DLR Station:
-    url:		https://tfl.gov.uk/dlr/stop/940GZZDLSHS/stratford-high-street-dlr-station/
-    response:	500
-Stratford MAD museum:
-    url:		https://themadmuseum.co.uk/
-Stretham Old Engine:
-    url:    https://www.strethamoldengine.org.uk/
-    no_headers: true
-SVG:
-    url:		https://www.w3schools.com/graphics/svg_intro.asp
-Teapot Island, Kent:
-    url:         https://www.teapotisland.com/
-    no_headers:  true
-The Rithmatist:
-    url:		https://brandonsanderson.com/books/the-rithmatist/the-rithmatist/
-Thursford Christmas Spectacular:
-    url:		https://www.thursford.com/christmas-spectacular/
-Thursford Collection:
-    url:		https://www.thursford.com/
-Thursford Fantasy Land:
-    url:		https://www.thursford.com/santas-magical-journey/
-Todaiji Temple:
-    url:    http://www.todaiji.or.jp/
-    no_headers: true
-"Torment: Tides of Numenera":
-    url:		https://www.inxile-entertainment.com/torment
-Travelex card:
-    url:		https://www.travelex.co.uk/cash-passport
-Viki:
-    url:    https://www.viki.com/
-    response: 403
-Voergaard Castle:
-    url:    https://voergaardslot.dk/english/
-    response: 406
-Wasteland 2:
-    url:    https://www.inxile-entertainment.com/wasteland2
-Wensleydale Creamery:
-    url:		https://www.wensleydale.co.uk/
-White Scar Cave:
-    url:		https://whitescarcave.co.uk/
-Words of Radiance:
-    url:    https://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/
-YesAsia:
-    url:		https://www.yesasia.com/global/en/home.html
-Your-Site:
-    url:		https://www.your-site.com
+1Password:                              https://1password.com/
+Abbey Cwm Hir:                          https://www.abbeycwmhir.com/
+Arcadia:                                https://www.pocruises.com/cruise-ships/arcadia/
+Adobe:                                  https://www.adobe.com/
+Affinity Photo:                         https://affinity.serif.com/en-gb/photo/
+A Korean Odyssey:                       https://www.koreandrama.org/a-korean-odyssey/
+Air New Zealand:                        https://www.airnewzealand.co.uk/
+Angelite Cats Hotel:                    https://www.angelitecatshotel.co.uk/
+Anglesey Abbey:                         https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill
+Apple:                                  https://www.apple.com/
+Arundel House Hotel:                    https://www.arundelhousehotels.co.uk/
+Asiana Airlines:                        http://eu.flyasiana.com/C/en/main.do
+Auckland Airport:                       https://www.aucklandairport.co.nz/
+Audley Travel:                          https://www.audleytravel.com/
+Aventree Hotel:                         https://www.aventreehotel.com/
+Aysgarth Falls Hotel:                   https://www.aysgarthfallshotel.com/
+Beyond:                                 https://freeform.go.com/shows/beyond
+Birdwatch Northumbria:                  https://www.birdwatchnorthumbria.co.uk/
+Balancing Barn:                         https://www.mvrdv.nl/projects/balancing-barn
+Black Watch:                            https://www.fredolsencruises.com/our-ships/our-cruise-ships/black-watch
+Bolton Castle:                          https://www.boltoncastle.co.uk/
+Boudicca:                               https://www.fredolsencruises.com/our-ships/our-cruise-ships/boudicca
+Braemar:                                https://www.fredolsencruises.com/our-ships/our-cruise-ships/braemar
+Brandon Sanderson:                      https://brandonsanderson.com/
+Busan Tower:                            http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1475231
+Calendar:                               https://support.apple.com/en-us/HT202835
+Cambridge Holiday Inn:                  https://www.ihg.com/holidayinn/hotels/gb/en/cambridge/cbgim/hoteldetail
+Ceramic Inspirations in Leyburn:        http://www.ceramicinspirations.co.uk/
+Cheomseongdae Royal Observatory:        http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264256
+Cheonmachong Tomb:                      http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264117
+Children of the Nameless:               https://brandonsanderson.com/a-christmas-present/
+Chronosync:                             https://www.econtechnologies.com/chronosync/overview.html
+Columbus:                               https://www.cruiseandmaritime.com/our-ships/columbus
+Cooroora:                               http://www.mulawa.net/cooroora/index.html
+Corley Service Station:                 https://www.welcomebreak.co.uk/locations/corley-m6/
+Cottenham Village Vets:                 https://www.villagevet.co.uk/practice/cottenham/
+Countess of Evesham:                    https://countessofevesham.co.uk/
+Crinkle Play Tunnel Cat Toy:            https://www.petsathome.com/webapp/wcs/stores/servlet/en/pets/crinkle-play-tunnel-cat-toy
+Cruise and Maritime:                    https://www.cruiseandmaritime.com/
+Cunard:                                 https://www.cunard.co.uk/
+Da Bird:                                https://www.dabird.com/
+Daedalic Entertainment:                 https://www.daedalic.com/?lang_new=en
+Dales Countryside Museum:               https://www.dalescountrysidemuseum.org.uk/
+Discovery Lodge:                        https://www.discoverynz.com/
+DowntownHost:                           http://www.downtownhost.com
+Dreamhost:                              https://www.dreamhost.com/hosting/shared/
+Dropbox:                                https://www.dropbox.com/
+Erased:                                 https://www.netflix.com/title/80173711
+ESRI:                                   https://www.esri.com/en-us/home
+ExifTool:                               https://www.sno.phy.queensu.ca/~phil/exiftool/
+Fountains Abbey:                        https://www.nationaltrust.org.uk/fountains-abbey-and-studley-royal-water-garden
+Frankie and Bennys Southampton:         https://www.frankieandbennys.com/restaurant/frankie-bennys-southampton
+Fred Olsen:                             https://www.fredolsencruises.com/
+Fukuchi-In:                             https://www.fukuchiin.com/
+Funko Pop!:                             https://www.funko.com/products/all/brands/pop
+GeoJSON:                                https://gist.github.com/sgillies/1233327
+Giant Ghibli Clock:                     https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan
+Gigsky:                                 https://www.gigsky.com/
+Girton Baptist Church:                  http://www.girtonbaptistchurch.org.uk/
+Google Maps:                            https://www.google.com/maps
+Gyeongju National Museum:               http://gyeongju.museum.go.kr/eng/
+Gyeongju Seongdong Market:              http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=1862991
+Hack Green Secret Nuclear Bunker:       https://hackgreen.co.uk/
+Haneda Airport:                         http://www.haneda-airport.jp/inter/en/
+Hankone Pirate Cruise:                  https://www.hakone-kankosen.co.jp/foreign/en/index.php
+Heart of England:                       https://www.heartofenglandforest.com/
+Holiday Inn Norwich:                    https://www.ihg.com/holidayinn/hotels/us/en/norwich/nwicr/
+Holiday Inn Express Southampton M27:    https://www.ihg.com/holidayinnexpress/hotels/us/en/southampton/soabr/hoteldetail
+Holiday Inn Southampton City:           https://www.ihg.com/holidayinn/hotels/gb/en/southampton/soahp/hoteldetail
+Homigot Sunrise Square:                 http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=806297
+Hotel Felix:                            https://www.hotelfelix.co.uk/
+Hythe Interchange:                      https://www.stop24.co.uk/
+InXile Entertainment:                   https://www.inxile-entertainment.com/
+iPhone:                                 https://www.apple.com/iphone/
+iWeb:                                   https://support.apple.com/kb/PH5291
+Heathrow:                               https://www.heathrow.com/
+Hermitage:                              https://www.hermitagemuseum.org/
+Hotel Gracery:                          https://shinjuku.gracery.com/
+Hunstanton Sea Life:                    https://www.visitsealife.com/hunstanton/
+Inspired Chocolate:                     https://www.inspiredchocolate.co.uk/
+Jagalchi fish market:                   http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=2382544
+Jervaulx Abbey:                         https://www.jervaulxabbey.com/
+JUnit4:                                 https://junit.org/junit4/
+Kawaii Monster Cafe:                    http://kawaiimonster.jp/
+Kindle reader:                          https://www.amazon.co.uk/kindle-dbs/fd/kcp
+King Art Games:                         https://kingart-games.com/
+King Wonseong's burial mound:           http://english.visitkorea.or.kr/enu/index.kto?cid=999477
+Korea Holiday Planners:                 http://www.holidayplanners.co.kr/
+Lestrange Old Barns:                    https://www.lestrangeoldbarns.com/
+Light Cinema Cambridge:                 https://cambridge.lightcinemas.co.uk/
+LinkedIn:                               https://www.linkedin.com/
+LinkedIn profile:                       https://www.linkedin.com/in/peter-rootham-smith-7aa53021/
+Lotte Department Store Busan:           http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273787
+LunarPages:                             https://lunarpages.com/
+Macdonalds:                             https://www.mcdonalds.com/gb/en-gb.html
+Mail:                                   https://support.apple.com/mail
+makemkv:                                http://makemkv.com/
+Manor Park Farm:                        https://www.hants.gov.uk/thingstodo/countryparks/manorfarm
+Mary Rose:                              https://www.historicdockyard.co.uk/site-attractions/attractions/mary-rose
+Middleham Castle:                       https://www.english-heritage.org.uk/visit/places/middleham-castle/
+mkvtoolnix:                             https://mkvtoolnix.download/
+Mottisfont:                             https://www.nationaltrust.org.uk/mottisfont
+Mulawa Dreaming:                        https://mulawa.net
+MV Virginia:                            https://www.shearings.com/our-holidays/river-cruises/our-ships/mv-virginia
+Narita Airport:                         https://www.narita-airport.jp/en
+National Express:                       https://www.nationalexpress.com/en
+National Museum of Korea:               http://www.museum.go.kr/site/eng/home
+National Trust:                         https://www.nationaltrust.org.uk/
+Naval Dockyards:                        https://www.historicdockyard.co.uk/
+Naze Tower:                             http://www.nazetower.co.uk/
+Nihon Ki-in:                            https://www.nihonkiin.or.jp/english/
+Northern Lights Cathedral:              https://kirken.no/alta
+Novotel Lille hotel:                    https://www.accorhotels.com/gb/hotel-0427-novotel-lille-airport/index.shtml
+Novotel Valenciennes:                   https://www.accorhotels.com/gb/hotel-0456-novotel-valenciennes/index.shtml
+Numbers:                                https://www.apple.com/uk/numbers/
+Ocean Cruise Terminal:                  https://www.cruisesouthampton.com/places/ocean-cruise-terminal
+Oyster card:                            https://tfl.gov.uk/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go
+Perfume:                                https://www.perfume-global.com/
+Petersfield Exhaust and Tyre Services:  https://portsmouthgarageservices.co.uk/
+Photo:                                  https://support.apple.com/en-gb/photos
+Pizza Express Bath Theatre Royal:       https://www.pizzaexpress.com/bath-theatre-royal
+P&O:                                    https://www.pocruises.com/
+P&amp;O:                                https://www.pocruises.com/
+Quiet Waters:                           https://www.quietwaters.org.uk/
+Richmond Georgian Theatre:              http://www.georgiantheatreroyal.co.uk/
+Robot Restaurant:                       https://shinjuku-robot.com/sp/
+Rohan:                                  https://www.rohan.co.uk/
+Rookes Pottery:                         http://www.rookespottery.co.uk/
+RSPB:                                   https://www.rspb.org.uk/
+St. Andrews Hall Norwich:               https://www.thehallsnorwich.com/Pages/home.aspx
+St Andrews Histon:                      http://standrewshiston.org/
+Shearings:                              https://www.shearings.com/
+Somerleyton Hall:                       https://www.somerleyton.co.uk/
+Steelheart:                             https://brandonsanderson.com/books/steelheart/steelheart/
+Stephen Hunt:                           http://www.sfcrowsnest.com/author/index.php
+Stranger Things 1:                      https://www.netflix.com/title/80057281
+Stratford Butterfly Farm:               https://www.butterflyfarm.co.uk/attraction/index.php
+Stratford High Street DLR Station:      https://tfl.gov.uk/dlr/stop/940GZZDLSHS/stratford-high-street-dlr-station/
+Stratford MAD museum:                   https://themadmuseum.co.uk/
+Stretham Old Engine:                    https://www.strethamoldengine.org.uk/
+SVG:                                    https://www.w3schools.com/graphics/svg_intro.asp
+teamLab Borderless:                     https://borderless.teamlab.art/
+Teapot Island, Kent:                    https://www.teapotisland.com/
+The Rithmatist:                         https://brandonsanderson.com/books/the-rithmatist/the-rithmatist/
+"The Shire's Rest":                     https://www.hobbitontours.com/en/the-shires-rest/
+Thursford Christmas Spectacular:        https://www.thursford.com/christmas-spectacular/
+Thursford Collection:                   https://www.thursford.com/
+Thursford Fantasy Land:                 https://www.thursford.com/santas-magical-journey/
+Todaiji Temple:                         http://www.todaiji.or.jp/
+Tokyo Skytree:                          http://www.tokyo-skytree.jp/en/
+"Torment: Tides of Numenera":           https://www.inxile-entertainment.com/torment
+Travelex card:                          https://www.travelex.co.uk/cash-passport
+Ubigi:                                  https://www.ubigi.com/
+Viki:                                   https://www.viki.com/
+Voyagin:                                https://www.govoyagin.com/
+Voergaard Castle:                       https://voergaardslot.dk/english/
+Wasteland 2:                            https://www.inxile-entertainment.com/wasteland2
+Wensleydale Creamery:                   https://www.wensleydale.co.uk/
+Weta Workshop:                          https://www.wetaworkshop.com/visit-us/workshop-tours/
+White Scar Cave:                        https://whitescarcave.co.uk/
+Words of Radiance:                      https://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/
+YesAsia:                                https://www.yesasia.com/global/en/home.html
+Your-Site:                              https://www.your-site.com

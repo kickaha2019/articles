@@ -10,15 +10,15 @@ Anchor:
   Blockhouse Bay Community Church
   
 Text:
-  I had a second sleepless night at Hotel Gracery so decided I couldn't risk any more
+  I had a second sleepless night at [Hotel Gracery] so decided I couldn't risk any more
   tourism. A big shame as I was looking forward to seeing
-  [https://borderless.teamlab.art teamLab Borderless], and also
+  [teamLab Borderless], and also
   this was a rare clear day ideal for going up the
-  [http://www.tokyo-skytree.jp/en/ Tokyo Skytree]. I also missed out
-  on seeing the Giant Ghibli Clock. Sigh.
+  [Tokyo Skytree]. I also missed out
+  on seeing the [Giant Ghibli Clock]. Sigh.
   
   So instead I checked out then caught a taxi to Shinjuku Station's West Exit, and
-  caught the limousine bus to [https://www.narita-airport.jp/en Narita Airport]
+  caught the limousine bus to [Narita Airport]
   from there. I sat on the wrong side of the
   coach, the sun was strong. I was at [Narita Airport] miles
   too early to even check in, and drop off my main case. Had some more tempura at
@@ -26,9 +26,10 @@ Text:
   New Zealand biosecurity. Converted my remaining yen to NZ dollars.
   
   Boarding for NZ94 at Gate 42 was delayed half an hour already due to lateness of incoming
-  flight, I did manage to doze a little. Onm the flight we had white blankets which
-  made the plane look like a hospital waiting room. Air New Zealand kindly had the
-  Japanese films sub-titled, I watched "Fable" and "Confidenceman JP" to pass the time.
+  flight, I did manage to doze a little. On the flight we had white blankets which
+  made the plane look like a hospital waiting room. [Air New Zealand] kindly had the
+  Japanese films sub-titled, I watched [https://www.imdb.com/title/tt8676426/ Fable]
+  and [https://www.imdb.com/title/tt9552258/ The Confidence Man JP] to pass the time.
   In the toilet I pressed the wrong button to flush and instead had to explain to a
   stewardess there was no problem! I asked for water and they offered snacks as well very welcome.
 

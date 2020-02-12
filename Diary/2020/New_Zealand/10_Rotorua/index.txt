@@ -12,7 +12,7 @@ Icon:
 Text:
   I checked into the posh [https://regentrotorua.co.nz/ Regent of Rotorua] hotel,
   and showered after my long black
-  disaster at the [https://www.hobbitontours.com/en/the-shires-rest/ Shire's Rest].
+  disaster at [The Shire's Rest].
   The hotel even rang my room to see if I was happy!
   
   Google Maps got me to [https://tepuia.com/ Te Puia] where a Maori guide explained their culture and the

@@ -13,5 +13,5 @@ Text:
 	The games I like playing are mainly to be found on Windows so dual-booting the Macbook will save having two computers at home.  
 
 	My website to date had been done using homegrown and idiosyncratic software, which was burdensome to maintain. The plan is to convert as much as possible over to 
-	[https://www.apple.com/ Apple]'s iWeb and save on effort there.   This page
+	[Apple]'s iWeb and save on effort there.   This page
 	before it was converted from iWeb was the start of that project!

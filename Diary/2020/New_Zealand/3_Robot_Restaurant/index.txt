@@ -5,9 +5,9 @@ Anchor:
   Robot Restaurant
   
 Text:
-  Finding the [https://shinjuku-robot.com/sp/ Robot Restaurant]
+  Finding the [Robot Restaurant]
   in Shinjuku was a little difficult despite it only being
-  3 minutes from my hotel. [https://shinjuku.gracery.com Hotel Gracery]
+  3 minutes from my hotel. [Hotel Gracery]
   was in a seamier area of Tokyo, and there were
   dubious people around like an African who kept pestering me as I tried to find
   the right place. I almost gave up, and if I had done I would have missed something rich

@@ -6,7 +6,7 @@ Anchor:
 
 Text:
 	We went to see the snowdrops at 
-	[https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill Anglesey Abbey]
+	[Anglesey Abbey]
 	again.
 
 Gallery:

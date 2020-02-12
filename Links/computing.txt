@@ -1,11 +1,11 @@
 Text:
-	[https://1password.com/ 1Password] is password
+	[1Password] is password
 	management software which works on both the Mac and iPad.
 
-  [https://affinity.serif.com/en-gb/photo/ Affinity Photo] is image
+  [Affinity Photo] is image
   editing software.
 		
-	[https://www.apple.com/ Apple] make the computers I use.
+	[Apple] make the computers I use.
 		
 	[https://sourceforge.net/projects/audacity/ Audacity] is a
 	free sound editing program.
