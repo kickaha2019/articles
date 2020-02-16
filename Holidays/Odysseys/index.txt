@@ -33,3 +33,7 @@ Link:
 Link:
 	2016/Korea
 	2016 Korea
+
+Link:
+  2020/New_Zealand
+  2020/New_Zealand

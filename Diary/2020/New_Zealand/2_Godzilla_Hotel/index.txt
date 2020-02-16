@@ -10,8 +10,8 @@ Anchor:
 Text:
   We touched down at [Haneda Airport]
   and the first hiccup manifested itself. I couldn't
-  join those onboard the plane messaging and tweeting my safe arrival. For some reason I
-  don't yet understand the [Gigsky] E-Sim I had in the [iPhone] didn't work. Perhaps they need to
+  join those onboard the plane messaging and tweeting their safe arrival. For some reason I
+  don't yet understand the [GigSky] E-Sim I had in the [iPhone] didn't work. Perhaps they need to
   be used every so often? This was painful, I did manage WiFi from the coach and hotel
   but in the end loaded up an E-Sim from [Ubigi] for Tokyo which was a must for getting around.
   (I failed to use the [Ubigi] E-Sim in New Zealand, my [Ubigi] account got stuck in a payment

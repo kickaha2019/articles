@@ -4,27 +4,34 @@ b {color: yellow; font-family: Tahoma, sans-serif; font-size: 18px; font-weight:
 a {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px}
 a:hover {color: white}
 
-div.page {width: 600px; background: #000077;
-          border-radius: 15px; margin-left: auto; margin-right: auto}
-@media all and (min-width: 800px) {
-	div.page {width: 800px}
-}
-@media all and (min-width: 1000px) {
-	div.page {width: 1000px}
+div.page {width: 360px; background: #000077; box-sizing: border-box;
+          border-radius: 5px; margin-left: auto; margin-right: auto}
+.content {width: 350px; margin-left: auto; margin-right: auto;
+          margin-top: 0px; margin-bottom: 0px; padding-top: 5px}
+
+.size3, .size2, .size1 {display: none}
+
+@media all and (min-width: 768px) {
+  div.page {width: 768px; border-radius: 10px}
+  .content {width: 748px; padding-top: 10px}
+  .size0 {display: none}
+  .size1 {display: block}
 }
 
-img.logo_550, img.logo_750 {margin-left: 25px; margin-right: 25px; margin-top: 10px; margin-bottom: 10px}
-@media all and (max-width: 799px) {
-	img.logo_750 {display: none}
-}
-@media all and (min-width: 800px) {
-	img.logo_550 {display: none}
-}
-@media all and (min-width: 1000px) {
-	img.logo_750 {margin-left: 125px; margin-right: 125px}
+@media all and (min-width: 1280px) {
+  div.page {width: 1280px; border-radius: 15px}
+  .content {width: 1250px; padding-top: 15px}
+  .size1 {display: none}
+  .size2 {display: block}
 }
 
-div.breadcrumbs {margin-left: auto; margin-right: auto; width: 550px; margin-bottom: 20px}
+@media all and (min-width: 1920px) {
+	div.page {width: 1920px; border-radius: 20px}
+  .content {width: 1880px; padding-top: 20px}
+  .size2 {display: none}
+  .size3 {display: block}
+}
+
 div.breadcrumbs span {color: white}
 
 div.children {margin-left: auto; margin-right: auto; width: 550px; margin-bottom: 20px}
@@ -63,9 +70,6 @@ div.legend {margin-left: 10px; min-width: 270px}
 	div.legend {margin-left: 5px; min-width: 170px; font-size: 16px}
 	div.tags div, div.tags a {font-size: 16px}
 }
-
-div.content {width: 550px; display: flex; flex-direction: column;
-             align-items: center;}
 
 div.gallery {width: 570px; display: inline-block; vertical-align: top}
 @media all and (min-width: 800px) {
