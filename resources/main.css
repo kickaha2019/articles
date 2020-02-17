@@ -4,10 +4,36 @@ b {color: yellow; font-family: Tahoma, sans-serif; font-size: 18px; font-weight:
 a {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px}
 a:hover {color: white}
 
-div.page {width: 360px; background: #000077; box-sizing: border-box;
-          border-radius: 5px; margin-left: auto; margin-right: auto}
+.page {width: 360px; background: #000077; box-sizing: border-box;
+       border-radius: 5px; margin-left: auto; margin-right: auto}
 .content {width: 350px; margin-left: auto; margin-right: auto;
           margin-top: 0px; margin-bottom: 0px; padding-top: 5px}
+.payload {display: flex;
+          flex-flow: row nowrap;
+          justify-content: flex-start;
+          align-items: flex-start}
+.breadcrumbs {display: block}
+.breadcrumbs a {color: #00DDDD; font-family: Tahoma, sans-serif;
+                font-size: 18px; text-decoration: none}
+.breadcrumbs span {color: white}
+
+.story {min-width: 66%; padding-left: 5px}
+
+div.indexes {min-width: 33%; max-width: 100%; display: flex;
+             flex-flow: row wrap; justify-content: space-between; align-items: flex-start}
+.index {display: flex; align-items: center; align-items: center;
+        flex-flow: column nowrap; width: 128px; padding: 10px;
+        color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px; text-decoration: none}
+.dummy {height: 1px}
+.index div {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px;
+            text-decoration: none; display: flex; align-items: center; flex-direction: column;}
+.index:hover div, .breadcrumbs a:hover {color: white}
+
+
+div.icon {margin: 20px; min-width: 140px;
+          display: flex; align-items: flex-end;
+      flex-flow: column}
+div.legend {margin-left: 10px; min-width: 270px}
 
 .size3, .size2, .size1 {display: none}
 
@@ -32,13 +58,12 @@ div.page {width: 360px; background: #000077; box-sizing: border-box;
   .size3 {display: block}
 }
 
-div.breadcrumbs span {color: white}
 
 div.children {margin-left: auto; margin-right: auto; width: 550px; margin-bottom: 20px}
 
 div.body {width: 550px; min-height: 600px; margin-left: auto; margin-right: auto; padding-bottom: 10px;
-          display: -webkit-flex; display: flex; -webkit-flex-flow: row nowrap; flex-flow: row nowrap;
-		  -webkit-justify-content: center; justify-content: center}
+          display: flex; flex-flow: row nowrap;
+		  justify-content: center}
 @media all and (min-width: 800px) {
 	div.body {width: 750px}
 }
@@ -56,21 +81,6 @@ div.tag5 {margin-left: 50px}
 	div.tags {width: 250px}
 }
 
-div.indexes {width: 440px; display: -webkit-flex; display: flex; -webkit-flex-flow: column nowrap; flex-flow: column nowrap;
-		     -webkit-justify-content: flex-start; justify-content: flex-start;
-			 -webkit-align-items: flex-end; align-items: flex-end}
-div.index {display: -webkit-flex; display: flex; -webkit-align-items: center; align-items: center;
-           -webkit-flex-flow: row nowrap; flex-flow: row nowrap}
-div.icon {margin: 20px; min-width: 140px;
-          display: -webkit-flex; display: flex; -webkit-align-items: flex-end; align-items: flex-end;
-		  -webkit-flex-flow: column; flex-flow: column}
-div.legend {margin-left: 10px; min-width: 270px}
-@media all and (max-width: 799px) {
-	div.indexes {width: 290px}
-	div.legend {margin-left: 5px; min-width: 170px; font-size: 16px}
-	div.tags div, div.tags a {font-size: 16px}
-}
-
 div.gallery {width: 570px; display: inline-block; vertical-align: top}
 @media all and (min-width: 800px) {
 	div.gallery {width: 760px; display: inline-block; vertical-align: top}
@@ -86,7 +96,7 @@ div.heading    {text-align: center; text-decoration: underline; padding-bottom: 
 div.title      {text-align: center; text-decoration: underline}
 div.navigation {text-align: center; padding-top: 15px; min-height: 96px;
                 width: 280px; margin-left: auto; margin-right: auto}
-div.text       {padding-bottom: 20px; text-align: left; width: 545px}
+div.text       {padding-bottom: 20px; text-align: left}
 div.navigation a {margin-left: 10px; margin-right: 10px; width: 64px; height: 64px}
 div.navigation a div {width: 64px; height: 64px; display: inline-block}
 div.navigation a div.next {background-image: url("http://www.alofmethbin.com/Articles/resources/next_cyan.png")}
@@ -125,28 +135,3 @@ table.site_index {border-spacing: 10px}
 table.site_index td {vertical-align: top}
 
 table.no_header th {font-weight: normal; text-align: left}
-
-div.index {display: -webkit-flex; display: flex;
-           -webkit-flex-flow: row wrap; flex-flow: row wrap; text-decoration: none}
-div.index {width: 570px; padding-right: 22px;
-           -webkit-align-items: flex-start; align-items: flex-start;
-           padding-top: 15px; justify-content: space-between}
-div.index div {width: 96px; margin-left: 10px; margin-right: 10px}
-div.index div.title {height: 96px; text-decoration: none; font-size: 20px}
-div.index div.dummy {height: 1px}
-@media all and (min-width: 800px) {
-	div.index {width: 770px;  padding-right: 22px;}
-}
-
-a.index {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px; text-decoration: none}
-a.index div {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px; text-decoration: none; display: flex; align-items: center; flex-direction: column;}
-a.index:hover div {color: white}
-
-#map a {font-size: 11px}
-#map div.place {position: absolute; background-image: url("https://www.alofmethbin.com/Articles/resources/star.png"); width: 16px; height: 16px; z-index:1000;
-                display: flex; justify-content: center; align-items: center}
-#map div.place:hover span.label {display: block}
-#map span.label:hover {display: block}
-#map span.label a {color: cyan; font-size: 18px}
-
-#map span.label {margin: auto; z-index: 1002; padding: 3px; background:#000077; color: yellow; line-height: 10px; display: none}
