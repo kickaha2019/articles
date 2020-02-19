@@ -1,8 +1,4 @@
 body {background: black; background-image: none}
-div, td, th, span, dt, dd {color: #CCCC00; font-family: Tahoma, sans-serif; font-size: 18px}
-b {color: yellow; font-family: Tahoma, sans-serif; font-size: 18px; font-weight: normal}
-a {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px}
-a:hover {color: white}
 
 .page {width: 360px; background: #000077; box-sizing: border-box;
        border-radius: 5px; margin-left: auto; margin-right: auto;
@@ -14,25 +10,17 @@ a:hover {color: white}
           justify-content: flex-start;
           align-items: flex-start}
 .breadcrumbs {display: block}
-.breadcrumbs a {color: #00DDDD; font-family: Tahoma, sans-serif;
-                font-size: 18px; text-decoration: none}
-.breadcrumbs span {color: white}
 
 .story {min-width: 66%; padding-left: 5px}
 
 div.indexes {min-width: 33%; max-width: 100%; display: flex;
              flex-flow: row wrap; justify-content: space-between; align-items: flex-start}
-.index {display: flex; align-items: center; align-items: center;
-        flex-flow: column nowrap; width: 128px; padding: 10px;
-        color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px; text-decoration: none}
+.index {display: flex; align-items: center; justify-content: center;
+        flex-flow: column nowrap; width: 128px; padding: 10px}
 .dummy {height: 1px}
-.index div {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px;
-            text-decoration: none; display: flex; align-items: center; flex-direction: column;}
-.index:hover div, .index_text:hover a, .breadcrumbs a:hover {color: white}
+.index div {width: 100%; text-align: center}
 
-.index_text {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px;
-             text-decoration: none; width: 100%}
-.index_text a {color: #00DDDD}
+.index_text {width: 100%}
 
 div.icon {margin: 20px; min-width: 140px;
           display: flex; align-items: flex-end;
@@ -41,11 +29,17 @@ div.legend {margin-left: 10px; min-width: 270px}
 
 .size3, .size2, .size1 {display: none}
 
+.t0, .t1 {font-family: Tahoma, sans-serif; font-size: 14px; color: #CCCC00}
+a, a div {color: #00DDDD}
+.t0 {text-decoration: none}
+a:hover, a:hover div, span, b {color: white}
+
 @media all and (min-width: 768px) {
   div.page {width: 768px; border-radius: 10px}
   .content {width: 748px; padding-top: 10px}
   .size0 {display: none}
   .size1 {display: block}
+  .t0, .t1 {font-size: 18px}
 }
 
 @media all and (min-width: 1280px) {
@@ -81,7 +75,7 @@ div.title      {text-align: center; text-decoration: underline}
 div.text       {padding-bottom: 20px; text-align: left}
 
 div.table  {padding-bottom: 20px}
-div.code   {margin-bottom: 20px; color: #DDDDDD; background: #0000CC; font-size: 14px;
+div.code   {margin-bottom: 20px; color: #DDDDDD; background: #0000CC;
 	  	    font-family: Courier, monospace; text-align: left; padding: 5px}
 
 div.grid   {padding-bottom: 20px}
