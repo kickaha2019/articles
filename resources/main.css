@@ -5,7 +5,8 @@ a {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px}
 a:hover {color: white}
 
 .page {width: 360px; background: #000077; box-sizing: border-box;
-       border-radius: 5px; margin-left: auto; margin-right: auto}
+       border-radius: 5px; margin-left: auto; margin-right: auto;
+       min-height: 96vh}
 .content {width: 350px; margin-left: auto; margin-right: auto;
           margin-top: 0px; margin-bottom: 0px; padding-top: 5px}
 .payload {display: flex;
@@ -27,8 +28,11 @@ div.indexes {min-width: 33%; max-width: 100%; display: flex;
 .dummy {height: 1px}
 .index div {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px;
             text-decoration: none; display: flex; align-items: center; flex-direction: column;}
-.index:hover div, .breadcrumbs a:hover {color: white}
+.index:hover div, .index_text:hover a, .breadcrumbs a:hover {color: white}
 
+.index_text {color: #00DDDD; font-family: Tahoma, sans-serif; font-size: 18px;
+             text-decoration: none; width: 100%}
+.index_text a {color: #00DDDD}
 
 div.icon {margin: 20px; min-width: 140px;
           display: flex; align-items: flex-end;
@@ -59,27 +63,7 @@ div.legend {margin-left: 10px; min-width: 270px}
 }
 
 
-div.children {margin-left: auto; margin-right: auto; width: 550px; margin-bottom: 20px}
-
-div.body {width: 550px; min-height: 600px; margin-left: auto; margin-right: auto; padding-bottom: 10px;
-          display: flex; flex-flow: row nowrap;
-		  justify-content: center}
-@media all and (min-width: 800px) {
-	div.body {width: 750px}
-}
-@media all and (min-width: 1000px) {
-	div.body {width: 950px}
-}
-
-div.tags {width: 300px}
-div.tag1 {margin-left: 10px}
-div.tag2 {margin-left: 20px}
-div.tag3 {margin-left: 30px}
-div.tag4 {margin-left: 40px}
-div.tag5 {margin-left: 50px}
-@media all and (max-width: 799px) {
-	div.tags {width: 250px}
-}
+div.children {margin-left: auto; margin-right: auto}
 
 div.gallery {width: 570px; display: inline-block; vertical-align: top}
 @media all and (min-width: 800px) {
@@ -94,17 +78,7 @@ div.centre     {text-align: center; padding-bottom: 10px}
 div.date       {text-align: center; text-decoration: underline; padding-bottom: 20px}
 div.heading    {text-align: center; text-decoration: underline; padding-bottom: 20px}
 div.title      {text-align: center; text-decoration: underline}
-div.navigation {text-align: center; padding-top: 15px; min-height: 96px;
-                width: 280px; margin-left: auto; margin-right: auto}
 div.text       {padding-bottom: 20px; text-align: left}
-div.navigation a {margin-left: 10px; margin-right: 10px; width: 64px; height: 64px}
-div.navigation a div {width: 64px; height: 64px; display: inline-block}
-div.navigation a div.next {background-image: url("http://www.alofmethbin.com/Articles/resources/next_cyan.png")}
-div.navigation a div.previous {background-image: url("http://www.alofmethbin.com/Articles/resources/previous_cyan.png")}
-div.navigation a div.up {background-image: url("http://www.alofmethbin.com/Articles/resources/up_cyan.png")}
-div.navigation a:hover div.next {background-image: url("http://www.alofmethbin.com/Articles/resources/next_white.png")}
-div.navigation a:hover div.previous {background-image: url("http://www.alofmethbin.com/Articles/resources/previous_white.png")}
-div.navigation a:hover div.up {background-image: url("http://www.alofmethbin.com/Articles/resources/up_white.png")}
 
 div.table  {padding-bottom: 20px}
 div.code   {margin-bottom: 20px; color: #DDDDDD; background: #0000CC; font-size: 14px;
