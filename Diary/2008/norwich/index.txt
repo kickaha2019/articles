@@ -12,9 +12,6 @@ Anchor:
 Date:
 	Friday, 31 October 2008
 
-Right:
-	football_ground.JPG
-
 Text:
 	We went to 
 	[https://www.norwich.gov.uk/site/ Norwich] to see where I grew up, the streets that imprinted themselves on my dreams. Booked into a spanking new
@@ -24,21 +21,13 @@ Text:
 
 	The staff at the hotel were friendly and helpful, our room was well laid out and well lit (unusual in a hotel room.) The bathroom had an artistic look to it with the wash basin raised proud. The prices were artistic too, and breakfast wasn't included (&pound;12.95 each!) There was annoying piped music in the corridors, and I didn't sleep well with the noise. We also needed the air-conditioning on to stay warm.
 
-Left:
-	castle.JPG
-
-Text:
 	On the Saturday we caught a number 35 bus from a nearby superstore up to Castle Meadow (only &pound;1 to hop on and off a kindly bus driver told us.) Happily it stayed dry while we were walking around Norwich centre as Virginia had left her waterproof behind. Saw the
 	[https://castlemallnorwich.co.uk/ Castle Mall] which was new to me, a split-level celebration of shopping, then went around the
 	[https://www.museums.norfolk.gov.uk/norwich-castle Castle] itself. In the Castle there was an exhibition of art by Cotman, some of which rivalled Turner in their expressiveness. A lift of metal and glass thrust itself up out of the ground by the castle, as out of place as Dr Who's Tardis inside an Aztec temple.
 
 	We went to the [http://museumsnorfolk.org.uk/norwich/the-bridewell/ Bridewell Museum] - I like particularly seeing recreations of old shops and the Bridewell had a pawnbroker and chemists. The chemists included in its wares dried spiders. Went to Jarrolds department store for a cup and a slice of cake in the crowded cafe at the top. I remember the anxiety of getting separated from my parents in that store.
 
-Right:
-	hostry.JPG
-
-Text:
-	Next was going to the 
+	Next was going to the
 	[https://www.cathedral.org.uk/ Cathedral] (taking in a bag of roasted chestnuts as it was a holiday.) My
 	[https://www.norwich-school.org.uk/ old school] (the Upper School part) is right next to the Cathedral, we used to have assemblies in the Cathedral - I remember rousing renditions of "Jerusalem" at the end of terms. I sang not that confidently in the Chapel choir rather than the Cathedral choir, used to have to wear a surplice and ruff on Sundays. Once a year we would go on a trip down to London to sing at a do at the
 	[http://www.dyerscompany.co.uk/ Worshipful Company of Dyers] there. Had a sightseeing tour of London thrown in.
@@ -46,11 +35,7 @@ Text:
 	A statue of Nelson (who ran away from King Edward's the Sixth's grammar school) stands in the upper close - once a year we had to do a ritual round the statue. Most of the upper close hasn't changed but they are building next to the Cathedral. I paid &pound;3 to be able to take pictures inside the Cathedral, I remember particularly being up in the galleries when a joint performance (with
 	[http://www.norwichhigh.gdst.net/ Norwich Girl's School]) of the mediaeval mystery play "Noye's Fludde" was done in the Cathedral.
 
-Left:
-	st_andrews.JPG
-
-Text:
-	We walked along winding flint walled lanes to see the Lower School - now with a security fence it didn't have in my day. It has been rebuilt too since a fire destroyed the buildings I knew. Walked back to see 
+	We walked along winding flint walled lanes to see the Lower School - now with a security fence it didn't have in my day. It has been rebuilt too since a fire destroyed the buildings I knew. Walked back to see
 	[St. Andrews Hall Norwich] where we used to have School speech days - my mother tried to stop me fidgetting during them. The last speech day I ever went to I did receive a prize! But then had to dash away as the family was unhappily moving up to Yorkshire. After St. Andrew's Hall we went on to
 	[https://www.museums.norfolk.gov.uk/strangers-hall Strangers Hall] which was one of the places we had outings from school. Saw the
 	[http://www.maddermarket.co.uk/ Maddermarket Theatre] on the way back to Castle Meadow too.
@@ -58,3 +43,97 @@ Text:
 	Saturday was rounded off with a meal courtesy of room service. The restaurant was fully booked until 9pm they said, and even if we sat down at 9pm it might be 9.30pm before food might be transmitted to our table.
 
 	Got home on Sunday to find Tabitha had been sick in several places. The cats do enliven our lives.
+
+Gallery:
+	football_ground.JPG
+	Norwich City football ground
+
+	bathroom.JPG
+	Our fashionable hotel room bathroom
+
+	castle.JPG
+	Norwich Castle
+
+	castle_to_guild_hall.JPG
+	From the Castle looking towards the Guild Hall
+
+	royal_arcade.JPG
+	The Royal Arcade
+
+	jarrolds.JPG
+	Jarrolds department store
+
+	market_st_peter.JPG
+	Market looking towards St Peter Mancroft
+
+	market_guild_hall.JPG
+	Market looking towards the Guild Hall
+
+	ethelbert_gate.JPG
+	Ethelbert Gate leading to the Cathedral
+	
+	upper_close.JPG
+	The Upper Close by the Cathedral
+
+	chapel.JPG
+	The Chapel in which I sang as a chorister
+
+	erpingham_gate.JPG
+	The Erpingham Gate
+
+	my_old_school.JPG
+	My old school
+
+	cathedral_centre.JPG
+	Inside the Cathedral
+
+	cathedral_window.JPG
+	Cathedral front window
+
+	millenium_maze.JPG
+	Millenium maze in the Cloisters
+	
+	new_refectory.JPG
+	New refectory by an ancient flint wall
+
+	lane_to_lower_school.JPG
+	Lane leading to the Lower School
+
+	lower_school1.JPG
+	The Lower School
+
+	lower_school2.JPG
+	The Lower School
+
+	hostry.JPG
+	Work on the new Hostry at the Cathedral
+
+	nelson.JPG
+	Nelson's statue in the Upper Close
+
+	samson_hercules.JPG
+	Samson and Hercules
+
+	elm_hill.JPG
+	Bear shop in Elm Hill
+
+	elm_hill2.JPG
+	Elm Hill
+
+	st_andrews.JPG
+	St Andrews Hall
+
+	strangers_hall.JPG
+	Strangers Hall
+
+	strangers_hall2.JPG
+	Strangers Hall
+
+	maddermarket.JPG
+	Maddermarket Theater
+
+	near_maddermarket.JPG
+	Close to the Maddermarket
+
+	eaton.JPG
+	First home I remember in Eaton

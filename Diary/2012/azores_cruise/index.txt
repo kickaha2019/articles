@@ -14,9 +14,6 @@ Anchor:
 Icon:
 	p59_oriana.JPG
 	
-Right:
-	p01_inn.JPG
-
 Text:
 	We travelled down on Sunday afternoon and stayed overnight at a
 	[Holiday Inn Southampton].  This worked well, avoiding any panics
@@ -34,11 +31,7 @@ Text:
 	really a door, a flat wall which seems to bend, paint pots which 
 	are part of the painting.  We all play games, different games.
 
-Left:
-	p40_oriana.JPG
-
-Text:
-	The cruise was on the P&O ship 
+	The cruise was on the P&O ship
 	[https://www.pocruises.com/cruise-ships/oriana/ Oriana].
 	We ate mostly in the 
 	Peninsular Restaurant, shared an evening table with pleasant 
@@ -69,11 +62,7 @@ Text:
 	back home three hours earlier than otherwise.  Definitely worth 
 	doing.
 
-Right:
-	p35_white_hall.JPG
-
-Text:
-	Our first ports of call were in the Azores, at Ponta Delgada and 	Horta on the following day.  A cloudy day meant that we saw mist 
+	Our first ports of call were in the Azores, at Ponta Delgada and 	Horta on the following day.  A cloudy day meant that we saw mist
 	and fog rather than spectacular lakes in volcanic craters in Ponta 
 	Delgada.  But we did see a pineapple farm where they grew the stuff 
 	in greenhouses, smoking the poor things to make them all ripen at the 
@@ -84,21 +73,13 @@ Text:
 	close to land, and a lot of us on board were sea-sick.  Oh what 
 	fun, I came close to being sick.
 	
-Left:
-	p44_reids.JPG
-
-Text:
 	The sun was shining as we walked independently around Funchal
 	in Madeira.  
 	Solar power really helps with taking pictures.  Truly a garden 
 	city, nature blooming.  We went as far as Reids Hotel but didn't 
 	stop for a coffee there.
 
-Right:
-	p52_hacienda.JPG
-
-Text:
-	In Las Palmas rain and fog almost obscured the view of another 
+	In Las Palmas rain and fog almost obscured the view of another
 	caldera.  A lone brave farmer had his farm in the volcano crater, 
 	not where I would live!
 	
@@ -112,10 +93,6 @@ Text:
 	trees.  To help the bananas ripen they wrap the bunches in blue 
 	plastic.
 
-Left:
-	p58_lisbon.JPG
-
-Text:
 	Our final stops were Lisbon then Vigo on the following day.  From 
 	a foggy boat trip we did at least see some monuments and edifices, 
 	then had a coach trip to admire how Lisbon was improved after a 
@@ -132,3 +109,192 @@ Text:
 	prices on the boat of souvenir biscuits had been cut in half!  Vigo 
 	does have some neat statues which I should have taken pictures of.
 	
+Gallery:
+	p01_inn.JPG
+	Holiday Inn in Southampton
+
+	p02_mottisfont.JPG
+	Mottisfont House
+
+	p03_ginny.JPG
+	Virginia at Mottisfont
+
+	p04_spring.JPG
+	The Mottisfont font or spring
+
+	p05_flowers.JPG
+	Flowers in the walled garden
+
+	p06_centre.JPG
+	Centre of walled garden
+
+	p07_avenue.JPG
+	Avenue of trees at Mottisfont
+
+	p08_band.JPG
+	Brass band sendoff for the Oriana
+
+	p09_cabin.JPG
+	Our cabin on the Oriana
+
+	p10_books.JPG
+	The books I brought to read on the voyage
+
+	p11_atrium.JPG
+	The atrium on the Oriana
+
+	p12_roof.JPG
+	Roof of the atrium
+
+	p13_restaurant.JPG
+	The Peninsular restaurant where we dined
+
+	p14_restaurant.JPG
+	The Peninsular restaurant where we dined
+
+	p15_table.JPG
+	Our dinner table
+
+	p16_ocean.JPG
+	Ocean Grill
+
+	p17_us.JPG
+	Us at the Ocean Grill
+	
+	p18_mushroom.JPG
+	Portobello Mushroom a la Marco Pierre White
+
+	p19_fountain.JPG
+	A chocolate fountain for the temptable
+
+	p20_library.JPG
+	The library on the Oriana
+
+	p21_andersons.JPG
+	Andersons
+
+	p22_ginny.JPG
+	Virginia in Andersons
+
+	p23_queen.JPG
+	Cake for the Queen's jubilee
+
+	p24_crows.JPG
+	Crows Nest bar
+
+	p25_promenade.JPG
+	Oriana promenade deck
+
+	p26_water.JPG
+	Pineapple cultivation on Sao Miguel island
+
+	p27_greenhouse.JPG
+	Pineapple greenhouse
+
+	p28_pineapple.JPG
+	A pineapple on its way to its fate
+
+	p29_statue.JPG
+	Statue at pineapple plantation
+
+	p30_art.JPG
+	Modern art at pineapple plantation
+
+	p31_sale.JPG
+	Pineapples for sale in various receptacles
+
+	p32_ribeira.JPG
+	Ribeira Grande
+
+	p33_fog.JPG
+	Lagoa del Fogo on a foggy day
+
+	p34_digger.JPG
+	Ribeira Grande
+
+	p35_white_hall.JPG
+	Ribeira Grande
+
+	p36_whales.JPG
+	The doomed whale-watching expedition
+
+	p37_faial.JPG
+	Faial island
+
+	p38_oriana.JPG
+	Oriana in Las Palmas, Madeira
+
+	p39_palmas.JPG
+	Las Palmas
+
+	p40_oriana.JPG
+	Oriana in Las Palmas, Madeira
+
+	p41_columbus.JPG
+	Columbus in Las Palmas
+
+	p42_reds.JPG
+	Las Palmas
+
+	p43_palmas.JPG
+	Las Palmas
+
+	p44_reids.JPG
+	Reids Hotel in Las Palmas
+
+	p45_bandama.JPG
+	Bandama Caldera on Gran Canaria on a foggy day
+
+	p46_teror.JPG
+	Teror on Gran Canaria
+
+	p47_dragon.JPG
+	A Dragon Tree
+
+	p48_iglesias.JPG
+	Iglesia de San Juan in Arucas
+
+	p49_iglesias.JPG
+	Iglesia de San Juan
+
+	p50_candles.JPG
+	Iglesia de San Juan
+
+	p51_arucas.JPG
+	Arucas
+
+	p52_hacienda.JPG
+	Banana hacienda on Gran Canaria
+
+	p53_plantation.JPG
+	Banana hacienda on Gran Canaria
+	
+	p54_hacienda.JPG
+	Banana hacienda on Gran Canaria
+
+	p55_bananas.JPG
+	Banana hacienda on Gran Canaria
+
+	p56_ginny.JPG
+	Virginia at the Banana hacienda
+
+	p57_lisbon.JPG
+	Lisbon from the Tagus river
+
+	p58_lisbon.JPG
+	Lisbon from the Tagus river
+
+	p59_oriana.JPG
+	Oriana at Lisbon
+
+	p60_lisbon.JPG
+	Lisbon from the Tagus river
+
+	p61_lisbon.JPG
+	Lisbon from the Tagus river
+
+	p62_fountain.JPG
+	Fountain in Lisbon
+
+	p63_park.JPG
+	Park in Lisbon

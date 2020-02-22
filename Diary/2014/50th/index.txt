@@ -4,9 +4,6 @@ Title:
 Date:
 	April 13th 2014
 
-Right:
-	church.JPG
-
 Text:
 	The weekend saw a major milestone - Virginia turned 50!  She had chosen
 	to have a barn dance to celebrate (or Ceilidh sounds more classy doesn't it!)
@@ -37,10 +34,6 @@ Text:
 	simply couldn't follow what they were meant to be doing.  At least the caller
 	was entertained!
 
-Left:
-	puddings.JPG
-	
-Text:
 	I had done four boards with pictures of Virginia through the ages - there were
 	differing opinions on where to put them around the hall, in the end they
 	ended up near the tables with puddings and drinks on them which worked OK.  
@@ -60,11 +53,7 @@ Text:
 	turned up, it had been his birthday this last week and I still need to get
 	his present to him.
 
-Right:
-	dance3.JPG
-	
-Text:
-	The party finished about ten and we were very grateful to all those who 
+	The party finished about ten and we were very grateful to all those who
 	got stuck in to clearing up.  That made a mega difference.  I hope we 
 	got the main hall back towards the way it had been laid out!  It was
 	raining when we carried out the debris to the car, and there was quite
@@ -87,3 +76,34 @@ Text:
 	The Toft place offers an all you can eat which we went for but 
 	disappointed the English waitress by not gorging ourselves - we felt
 	we had plenty even without seconds!
+  
+Gallery:
+	church.JPG
+	Entrance to Histon Baptist Church where the event was held
+
+	cake.JPG
+	The cake my sister made for Virginia
+
+	dance1.JPG
+	The caller for the Ceilidh drumming up dancers
+
+	dance2.JPG
+	The dancing in progress
+
+	dance3.JPG
+	This is the only dance Virginia and I didn't dance
+
+	dance4.JPG
+	The dancing in motion
+
+	people1.JPG
+	Some of the people there
+
+	people2.JPG
+	More people there
+
+	puddings.JPG
+	The impressive array of puddings
+
+	speech.JPG
+	Virginia making a little speech

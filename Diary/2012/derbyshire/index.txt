@@ -24,11 +24,7 @@ Text:
 	Virginia had a steak pie then realised we were due for a
 	three course meal in the evening.
 	
-Right:
-	p01_denby.JPG
-	
-Text:
-	With the aid of the Satnav we found our way to 
+	With the aid of the Satnav we found our way to
 	[https://www.denbypottery.com/denby-pottery-village Denby pottery],
 	where we got some more Azure which is the
 	line Virginia has been collecting.  Downstairs in the
@@ -36,10 +32,6 @@ Text:
 	admired the various displays as if they were exhibits in
 	an art exhibition.
 	
-Left:
-	p05_willersley.JPG
-
-Text:
 	The Satnav got us pretty close to
 	[https://www.christianguild.co.uk/willersley/ Willersley Castle]
 	where we were staying, but for the
@@ -55,10 +47,6 @@ Text:
 	wasn't relaxing until they had finished.  (Memo to self: do not
 	stay in rooms 1 through 4 at Willersley Castle ever again.)
 	
-Right:
-	p09_walk.JPG
-
-Text:
 	We beat them by minutes to breakfast on the Saturday.  The
 	teenage girls came down in their pyjamas to add a certain
 	ambience to proceedings.  We paid a deposit of &pound;5 for a
@@ -72,10 +60,6 @@ Text:
 	season, most places shut up, cafes with chairs on tables
 	and lights off.  
 	
-Left:
-	p12_aquarium.JPG
-
-Text:
 	Virginia suggested we try the 
 	[http://www.matlockbathaquarium.co.uk/ Aquarium]
 	which had foreign fish imprisoned in tanks, a 'well' displaying
@@ -98,3 +82,49 @@ Text:
 	people are so insulated from each other, people will talk to
 	someone on the other side of the world but ignore the person
 	they're standing next to.
+
+Gallery:
+	p01_denby.JPG
+	Denby pottery visitor centre
+
+	p02_showroom.JPG
+	The showroom
+
+	p03_outlet.JPG
+	The factory outlet
+
+	p04_outlet.JPG
+	The factory outlet
+
+	p05_willersley.JPG
+	Willersley Castle
+
+	p06_atrium.JPG
+	Atrium
+
+	p07_dining.JPG
+	Dining room
+
+	p08_view.JPG
+	View from Willersley Castle
+
+	p09_walk.JPG
+	Walking to Matlock Bath
+
+	p10_fountain.JPG
+	Fountain in Derwent Gardens
+
+	p11_matlock.JPG
+	Entering Matlock Bath
+
+	p12_aquarium.JPG
+	The Aquarium
+
+	p13_ginny.JPG
+	Virginia feeding koi carp in a swimming pool
+
+	p14_spring.JPG
+	The thermal spring
+
+	p15_me.JPG
+	Me, Richard Awkwright, and Santa Claus

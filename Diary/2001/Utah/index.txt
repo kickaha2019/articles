@@ -9,9 +9,6 @@ Anchor:
 Date:
 	Sunday, 17 June 2001
 
-Right:
-	sunrise_point2.JPG
-
 Text:
 	I went with my parents to southern Utah and to Disneyworld in Florida.   The 'attractions' in Utah were the National Parks there.   Not very man-made true.   But at times you could believe you were seeing the ruins of ancient temples, or Ozymandius's summer palace.
 
@@ -22,3 +19,31 @@ Text:
 	[https://www.nps.gov/cebr/index.htm Cedar Breaks] was awesome like Bryce but quite different.   It is a vast cleft in the Earth.   You're a long way up in the world and it was quite cool even in June (in winter it's snowbound.)   Cedar Breaks suffers from constant erosion being on a different side to Bryce.   You don't get the rock sculptures but it is a great place if you want to see geology in action.
 
 	[https://www.nps.gov/zion/index.htm Zion Canyon] you have to use the bus to get around as you're not supposed to drive in unlike Bryce.   There is a trade-off between enabling people to see nature and preserving   nature.   We weren't able to do the trails in Zion (the heat was oppressive for one thing.)   I did walk to see Weeping Rock where in the midst of barren dryness water falls down like rain.   Courtesy of the rock here being porous and holding masses of water.
+
+Gallery:
+	sunrise_point1.JPG
+	Sunrise Point Bryce Canyon
+
+	small_furry.JPG
+	Small furry animal inside radiator grille
+
+	sunrise_point2.JPG
+	Sunrise Point Bryce Canyon
+
+	sunrise_point3.JPG
+	Sunrise Point Bryce Canyon
+
+	ponderosa_point1.JPG
+	Ponderosa Point Bryce Canyon
+
+	bryce_canyon.JPG
+	Bryce Canyon
+
+	cedar_breaks.JPG
+	Cedar Breaks
+
+	kolob_canyons.JPG
+	Kolob Canyons
+
+	zion_canyon.JPG
+	Zion Canyon

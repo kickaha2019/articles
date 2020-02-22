@@ -16,9 +16,6 @@ Icon:
 Date:
 	May 11th 2014
 
-Right:
-	cattery.JPG
-
 Text:
 	The cats got delivered on the Saturday to Grange Cattery in Waterbeach, to be looked
 	after by the reliable Phyllis.  There's at least a pond with fish in it for them to look at.  The road
@@ -41,11 +38,7 @@ Text:
 	unfair.  The food was pretty good though Virginia is on a dairy-free diet and felt the choice
 	was limited to non-existent at times.
 	
-Left:
-	holker_hall.JPG
-
-Text:
-	On the Monday we went to see [https://www.holker.co.uk Holker Hall], owned by the Cavendish 
+	On the Monday we went to see [https://www.holker.co.uk Holker Hall], owned by the Cavendish
 	family who are connected to the famous scientist of that ilk.  Homely formal gardens, stately home
 	crammed with antique stuff including a lignum vitae chest which the guide said some visitors 
 	couldn't resist opening after being told such chests were used to carry treasure because they
@@ -60,10 +53,6 @@ Text:
 	went round sales buying old samplers and the like.  Car parking is very restricted at Hill Top,
 	I was glad we were there out of high season!
 
-Right:
-	windermere_boat.JPG
-
-Text:
 	Wednesday was the best day.  We took in the [https://lakesaquarium.co.uk/ Lakeside Aquarium],
 	not the size of other aquariums I've been to true but there were things to see and learn there.
 	Such as ants crawling along a rope to transport food, or the mention of sex changing fish (examples
@@ -80,10 +69,6 @@ Text:
 	did well at the quiz.  I failed totally to recognise songs from the 1960s based on the first
 	few seconds.
 	
-Left:
-	swarthmoor_hall.JPG
-
-Text:
 	Our last full day was the Thursday, we visited the
 	[https://www.southlakessafarizoo.com/ South Lakes Safari Zoo] and saw the backside of a tiger sheltering
 	from the English weather, mangy deer, lions at least braving the day, rhinos.  I found the
@@ -103,3 +88,37 @@ Text:
 	getting something in a brown bag from a Burger King.  To my concern a member of staff came up
 	afterwards and asked if we were OK - I don't really want to know why!  I've survived long
 	enough to write about it anyway.
+  
+Gallery:
+	cattery.JPG
+	The cat's hotel
+
+	holker_hall.JPG
+	Holker Hall
+
+	holker_gardens.JPG
+	Holker Hall gardens
+
+	beatrix_house.JPG
+	Hill Top
+
+	beatrix_flowers.JPG
+	Flowers at Hill Top
+
+	windermere_boat.JPG
+	Lake Windermere cruiser
+
+	boat_house.JPG
+	Boat house on Lake Windermere
+
+	lake.JPG
+	Lake Windermere
+
+	windermere_hills.JPG
+	Lake Windermere hills
+
+	motor_museum.JPG
+	Lakeland Motor Museum
+
+	swarthmoor_hall.JPG
+	Swarthmoor Hall

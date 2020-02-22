@@ -10,11 +10,12 @@ body {background: black; background-image: none}
           justify-content: flex-start;
           align-items: flex-start}
 .breadcrumbs {display: block}
+.float {display: none}
 
 .story {min-width: 66%; padding-left: 5px}
 
-div.indexes {min-width: 33%; max-width: 100%; display: flex;
-             flex-flow: row wrap; justify-content: space-between; align-items: flex-start}
+.indexes {min-width: 33%; max-width: 100%; display: flex;
+          flex-flow: row wrap; justify-content: space-between; align-items: flex-start}
 .index {display: flex; align-items: center; justify-content: center;
         flex-flow: column nowrap; width: 128px; padding: 10px}
 .dummy {height: 1px}
@@ -40,6 +41,9 @@ a:hover, a:hover div, span, b {color: white}
   .size0 {display: none}
   .size1 {display: block}
   .t0, .t1 {font-size: 18px}
+  .float {display: inline}
+  .f0, .f2, .f4, .f6, .f8 {float: right; width: 96px; height: 72px; margin: 0 0 10px}
+  .f1, .f3, .f5, .f7, .f9 {float: left; width: 96px; height: 72px; margin: 0 10px 10px 0}
 }
 
 @media all and (min-width: 1280px) {

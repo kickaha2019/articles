@@ -7,9 +7,6 @@ Anchor:
 Title:
 	Thursford Christmas Show
 	
-Right:
-	p01_entrance.JPG
-
 Text:
 	Virginia and I set off at half ten this morning, aiming
 	to get there in better time than last year.  It was an
@@ -33,11 +30,7 @@ Text:
 	with tables to sit at not yet oversubscribed, unlike last
 	year when we had to perch on a roundabout to have something.
 
-Left:
-	p08_tinsel.JPG
-
-Text:
-	Before the show at 2pm we visited 
+	Before the show at 2pm we visited
 	[https://www.thursford.com/santas-magical-journey/ Santa's Magical Journey]
 	(which has
 	a neat Disneyesque series of tableaux to wander through on
@@ -57,10 +50,6 @@ Text:
 	into it all, it wasn't unconscious going through the
 	motions.  There were innovative touches here and there.
 
-Right:
-	p02_stage.JPG
-
-Text:
 	The stage is very wide at Thursford and one could have
 	used several sets of eyes to see all that was happening.
 	It was a visual as well as an aural feast with at one point a
@@ -74,3 +63,28 @@ Text:
 	the numbers of fellow show-goers added to the atmosphere,
 	there's something special about being in such a throng.
 	An inexpressible feeling.	
+
+Gallery:
+	p01_entrance.JPG
+	Entrance to the Thursford Collection
+
+	p02_stage.JPG
+	The wide stage
+
+	p03_carousel.JPG
+	The decorated premises
+
+	p04_fantasy.JPG
+	Fantasy Land
+
+	p05_santa.JPG
+	The way to Santa
+
+	p06_tableaux.JPG
+	One of the tableaux
+
+	p07_decor.JPG
+	The magical decor
+
+	p08_tinsel.JPG
+	The steam engines contrast to the tinsel

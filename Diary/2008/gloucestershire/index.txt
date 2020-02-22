@@ -10,9 +10,6 @@ Anchor:
 Date:
 	Monday, 7 July 2008
 
-Right:
-	tintern.JPG
-
 Text:
 	Virginia and I went for a themed week at 
 	[https://www.christianguild.co.uk/lindors/index.php Lindors]
@@ -38,3 +35,49 @@ Text:
 	We had a shambolic experience when we went past the winding hole we should have turned round in, and had to turn round in the normal canal. Dire really dire. A winding hole (wind as in the wind which blows) is a large area where narrow boats were turned round, the operators would use the wind to help turn the boats.
 
 	A pleasant part of the week was sharing meal-times and activities with the other people, who were mainly elderly. It's hard to accept one is older too. One or two struck me as the kind of people who borrow stories to puff themselves up, hard to prove but some people just don't feel right. I probably didn't feel right to them.
+
+Gallery:
+	lindors.JPG
+	Lindors Hotel
+
+	moor_hen.JPG
+	Moor hen at Forest of Dean centre
+
+	foxgloves.JPG
+	Foxgloves on a pond walk
+
+	ducks_on_board.JPG
+	Ducks out of water
+
+	festooned_boat.JPG
+	Festooned boat we cruised down the Wye on
+
+	symonds_yat.JPG
+	View from Symonds Yat rock
+
+	clearwell_caves.JPG
+	Clearwell Caves
+
+	clearwell_cave_roof.JPG
+	Cave roof in Clearwell Caves
+
+	tintern_ginny.JPG
+	Virginia at Tintern Abbey
+
+	tintern.JPG
+	Tintern Abbey
+
+	narrow_boat.JPG
+	Narrow boat odyssey
+
+	heron.JPG
+	Heron taking off
+
+	narrow_boats.JPG
+	Narrow boat convention
+
+	chepstow_castle.JPG
+	Chepstow Castle
+
+	seagull.JPG
+	Seagull at Chepstow Castle
