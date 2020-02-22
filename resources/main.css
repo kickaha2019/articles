@@ -10,15 +10,16 @@ body {background: black; background-image: none}
           justify-content: flex-start;
           align-items: flex-start}
 .breadcrumbs {display: block}
-.float {display: none}
+.right {float: right; margin: 0 0 10px 10px}
+.left {float: left; margin: 0 10px 10px 0}
 
-.story {min-width: 66%; width: 98%; padding-left: 5px}
+.story {width: 100%; padding-left: 15px}
 .gallery {min-width: 66%; width: 98%; padding-left: 5px; padding-bottom: 15px;
           display: flex; flex-flow: column; align-items: center}
 .gallery img {padding-top: 10px}
 .gallery div {padding-top: 5px; padding-bottom: 5px}
 
-.indexes {min-width: 33%; max-width: 100%; display: flex;
+.indexes {min-width: 33%; display: flex;
           flex-flow: row wrap; justify-content: space-between; align-items: flex-start}
 .index {display: flex; align-items: center; justify-content: center;
         flex-flow: column nowrap; width: 128px; padding: 10px}
@@ -46,9 +47,7 @@ a:hover, a:hover div, span, b {color: white}
   .size0 {display: none}
   .size1 {display: block}
   .t0, .t1 {font-size: 18px}
-  .float {display: inline}
-  .f0, .f2, .f4, .f6, .f8 {float: right; width: 96px; height: 72px; margin: 0 0 10px}
-  .f1, .f3, .f5, .f7, .f9 {float: left; width: 96px; height: 72px; margin: 0 10px 10px 0}
+  .indexes {min-width: 150px}
 }
 
 @media all and (min-width: 1280px) {
@@ -56,6 +55,7 @@ a:hover, a:hover div, span, b {color: white}
   .content {width: 1250px; padding-top: 15px}
   .size1 {display: none}
   .size2 {display: block}
+  .indexes {min-width: 464px; max-width: 464px}
 }
 
 @media all and (min-width: 1920px) {
@@ -63,6 +63,8 @@ a:hover, a:hover div, span, b {color: white}
   .content {width: 1880px; padding-top: 20px}
   .size2 {display: none}
   .size3 {display: block}
+  .t0, .t1 {font-size: 22px}
+  .indexes {min-width: 624px; max-width: 624px}
 }
 
 
@@ -85,9 +87,6 @@ div.table table {margin-left: auto; margin-right: auto}
 div.grid div {width: 177px; margin-left: 3px; margin-right: 3px}
 div.cell {display: inline-block; vertical-align: top; margin-bottom: 10px}
 div.cell div {text-align: center; margin-bottom: 0px}
-
-div.left {float: left; margin: 0px 10px 5px 0px}
-div.right {float: right; margin: 0px 0px 5px 10px}
 
 table.border {border-spacing: 0px}
 table.border td {padding: 5px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: white}
