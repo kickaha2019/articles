@@ -6,9 +6,6 @@ Anchor:
   Valley of the Giants
   Walpole-Nornalup inlet
 
-Right:
-	dead_tree.jpg
-
 Text:
 	Drove from Dryandra down to the Walpole area on the south coast of Australia. At the lookout at Conspicuous Cliffs I gazed south towards Antartica and shivered. Perhaps one of these days I'll venture into the Antartica Circle.
 
@@ -17,3 +14,19 @@ Text:
 	I stayed at the Wellington House Bed and Breakfast which has a very beautiful setting, a front garden sloping down to a wooded secluded pool. A nice place to stay in - I was able to give some computer advice here. Admired the blue wrens visible but didn't manage to take a decent picture of them - I do prefer my photographic subjects to not be moving.
 
 	On the 10th before I drove back to Fremantle I went on the WOW Wilderness Cruise in the Walpole-Nornalup inlet. The guy doing the talking had a great line in patter and had many amusing tales to tell about the area. Stayed another night with Rosemary and Gordon before the flight to Darwin the following day. They took me up to the Anzac memorial in Fremantle - from high up cities can seem peaceful and harmonious and even pretty.
+
+Gallery:
+	tingle_base.jpg
+	Base of a tingle tree
+
+	dead_tree.jpg
+	Dead tree standing
+
+	tree_top_walk.jpg
+	Tree top walk 1
+
+	tree_top_walk2.jpg
+	Tree top walk 2
+
+	tree_top_walk3.jpg
+	Tree top walk 3

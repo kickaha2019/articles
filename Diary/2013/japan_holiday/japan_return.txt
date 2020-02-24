@@ -4,9 +4,6 @@ Title:
 Date:
     March 30th 2013
     
-Right:
-    p141_kansai.JPG
-    
 Text:
     Time to leave Japan.  The worst scrum for breakfast so far
     in the New Hankyu.  Two together would mean one could hold a
@@ -21,10 +18,6 @@ Text:
     of biscuits to take to work then found a better selection so
     wasted some money there - but I was using up the Yen I had.
 
-Left:
-    p144_sunset.JPG
-
-Text:
     It was a good flight from Kansai to Paris - I had a row of three
     seats to myself!  The flight was perhaps 75% full.  And I could
     have the Japanese option on the meal.  Didn't need to
@@ -36,3 +29,23 @@ Text:
     Japan is easier than I thought for English speakers to get around.
     There's a lot more to see in Japan than I managed, but to see it
     you need to know the ropes.
+
+Gallery:
+	p139_lockers.JPG
+	Lockers in Osaka
+
+	p140_kansai.JPG
+	Kansai Airport in Osaka
+
+	p141_kansai.JPG
+	Kansai Airport in Osaka
+
+	p142_plane.JPG
+	Plane to Paris from Osaka
+
+	p143_spare.JPG
+	Two spare seats next to me!
+
+	p144_sunset.JPG
+	Into the sunset
+

@@ -7,9 +7,6 @@ Anchor:
 Date:
 	October 5th 2016
 
-Right:
-	mary_rose.jpg
-
 Text:
 	We checked out of the 11 room boutique hotel after stoking up for the day from their 
 	breakfast menu. An easy drive to the [Naval Dockyards] where we saw the timbers that
@@ -27,10 +24,6 @@ Text:
 	waiting we assumed. But to our amazement we were handed black cards and fast-tracked first to
 	checking in then through security then through the air bridge then straight to our cabin E89! 
 
-Left:
-	muster.jpg
-
-Text:
 	Our cheerful steward Angela introduced herself as we wondered where our cases were, they didn't
 	all appear until time for the muster drill. This is a regulation exercise where everyone practises
 	responding to the emergency signal. If you're wise you go to the muster area early so you get
@@ -47,13 +40,27 @@ Text:
 	on 8-seater table 77. Rhys once brought his collection of beer mats to the evening meal, 
 	he prefers to rest his beers on them to the paper ones on the boat. 
 
-Right:
-	palladium.jpg
-
-Text:
 	Went to the evening welcome show in the Palladium theatre which has
 	decent banking in two tiers, though one needs to be careful as pillars can block views. 
 	The energetic Headliners did a few numbers, the band exhibited their talents, and the 
 	entertainment team lined up on stage to introduce themselves, say where in the UK they were 
 	from and see if the audience responded. A rare black face of the guy who was DJ - mostly 
 	whites on board apart from the waiters and stewards.
+
+Image:
+	mary_rose.jpg
+	Mary Rose in Portsmouth
+
+	workshop.jpg
+	Portsmouth Dockyard Boathouse
+
+	arcadia.jpg
+	The Arcadia
+
+	cabin.jpg
+	Our cabin
+
+	muster.jpg
+	Muster drill
+
+

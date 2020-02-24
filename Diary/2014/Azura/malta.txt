@@ -5,9 +5,6 @@ Anchor:
   Mdina
   Palazzo Parisio
   
-Right:
-	mdina1.JPG
-
 Text:
 	Happily we missed some celebration when we arrived in Malta. They were just dismantling 
 	a stage on dockside when we were there.  I looked down onto the sea in the harbour.
@@ -26,12 +23,56 @@ Text:
 	a solitary red British telephone box. There were gravestones for people who hadn't yet
 	died, that felt eerie.
 
-Left:
-	palazzo1.JPG
-
-Text:
 	[Palazzo Parisio] was different, build by an industrialist family who mixed Greek mythology
 	with steampunk in the decor.  They were the first on the island with electricity and wanted
 	to show it. Each room was eclectically different.
 	
 	Rain greeted us on our return, the only time the weather was less than gracious. 
+
+Gallery:
+	entering.JPG
+	Entering Malta harbour
+	
+	tug.JPG
+	Tug for refuelling Azura at Malta
+	
+	mdina1.JPG
+	Entering Mdina in Malta
+	
+	mdina2.JPG
+	Mdina street
+	
+	mdina4.JPG
+	Mdina street
+	
+	mdina5.JPG
+	Mdina street
+	
+	mdina3.JPG
+	Mdina cathedral
+	
+	gravestones.JPG
+	Gravestone floor
+	
+	malta_church.JPG
+	Picture in the cathedral
+	
+	altar.JPG
+	Cathedral altar
+	
+	palazzo0.JPG
+	Palazzo Paradiso in Malta
+	
+	palazzo1.JPG
+	Palazzo ceiling
+	
+	palazzo2.JPG
+	Palazzo dining room
+	
+	palazzo3.JPG
+	Palazzo hall
+	
+	palazzo4.JPG
+	Palazzo decoration
+
+

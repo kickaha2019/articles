@@ -4,9 +4,6 @@ Date:
 Anchor:
   Hunstanton Sea Life
 
-Right:
-	P1000016.jpg
-
 Text:
 	We dropped off Tabs and Amelia (who hid in my cupboard as the spare room bed was shut) at
 	''Grange Cattery''. This took longer than normal as there were roadworks in Waterbeach near the
@@ -22,10 +19,6 @@ Text:
 	were a bit stiff. There was a bottle of wine left for us which we had a glass of to accompany the
 	Chinese meal in our quiet evening in.
 
-Left:
-	P1000010.jpg
-
-Text:
 	A dismal start to the Saturday - the rain was heavy enough to wake me, and kept on pretty
 	much relentlessly during the day. The bathroom mirror has a blue ghostly LCD clock in it,
 	we couldn't' find the egg cups so had to improvise tearing up an egg box!
@@ -35,10 +28,6 @@ Text:
 	Sea Life wasn't that big, but a variety of stuff to see including creepy-crawlies and
 	adorable otters. I almost lost the lens cap off my new camera and had to search for it.
 
-Right:
-	P1000014.jpg
-
-Text:
 	We also strayed to see an [Lestrange Old Barns] arts and crafts place which was hard to park at, and which was
 	without a cafe and facilities we thought it might have. More interesting was the Village Stores
 	across the road from our cottage which also sold old things, Virginia got a glass fruit bowl
@@ -50,3 +39,34 @@ Text:
 	Ironically Sunday, the day we returned to Histon, was bright and sunny. The roads were
 	very busy with cars and motorcycles and scooters all headed somewhere, perhaps to a
 	fair at Sandringham.
+  
+Image:
+	P1000016.jpg
+	The holiday cottage
+
+	P1000006.jpg
+	Garden of the holiday cottage
+
+	P1000007.jpg
+	Lounge of the cottage
+
+	P1000008.jpg
+	Entrance to Sea Life
+
+	P1000009.jpg
+	Inside Sea Life
+
+	P1000010.jpg
+	Tunnel under the tank
+
+	P1000011.jpg
+	Tank at Sea Life
+
+	P1000012.jpg
+	The inevitable shop at Sea Life
+
+	P1000013.jpg
+	Arts and Crafts place
+
+	P1000014.jpg
+	Gin Trap pub

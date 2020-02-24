@@ -9,9 +9,6 @@ Anchor:
 Date:
     March 24th 2013
     
-Right:
-    p23_breakfast.JPG
-
 Text:
     More of a scrum this morning at the Marmolada, a throng of
     Chinese tourists who even had vouchers!  But I can learn from the
@@ -32,11 +29,7 @@ Text:
     unusually early thanks to an unexpected warm period.  Sake the drink
     and the Japanese for salmon are homophones.
 
-Left:
-    p28_shrine.JPG
-
-Text:
-    Our first stop was the 
+    Our first stop was the
     [https://www.japan.travel/en/spot/1482 Toshugu shrine] which is a major temple complex
     based on the founder of the Tokugawa shogunate.  It was a very 
     popular spot on this Sunday, and our coach crawled into the site.
@@ -57,10 +50,6 @@ Text:
     giant drum using a suspended wooden bar.  May have been to mark
     the hours.
 
-Right:
-    p35_villa.JPG
-
-Text:
     We had udon noodles for lunch, with the components of the meal
     in different pots.  I was bemused by what we had to do with that.
     The duck plus noodles in the heated pot one ate, the shrimp and
@@ -75,10 +64,6 @@ Text:
     garden, and there was an intriguing chain of small cups hanging
     from the eaves down which raindrops apparently cascade.
 
-Left:
-    p37_kegon.JPG
-
-Text:
     We saw [https://www.japan-guide.com/e/e3812.html Kegon waterfall] which wasn't a certain sighting because of the
     general fogginess.  Amiko encouraged us by saying we could hear
     the waterfall even if we couldn't see it.  And there would always be the
@@ -88,3 +73,57 @@ Text:
     Tokyo due to an accident.  We stopped at a service station and I
     was relieved to find a clean free toilet in all that crush.  
     Wouldn't in the UK in a similar situation.
+
+Gallery:
+	p23_breakfast.JPG
+	Breakfast congee at the Tokyo hotel
+
+	p24_hotel.JPG
+	Tokyo hotel
+
+	p25_bell.JPG
+	Ringing the bell at Toshugu Shrine in Nikko
+
+	p26_tokens.JPG
+	Good luck tokens at Toshugu Shrine
+
+	p27_washing.JPG
+	Ceremonial washing howto at Toshugu Shrine
+
+	p28_shrine.JPG
+	Buildings at Toshugu Shrine
+
+	p29_frieze.JPG
+	Part of Monkey frieze at Toshugu Shrine
+
+	p30_charms.JPG
+	Good luck charms on sale at Toshugu Shrine
+
+	p31_gate.JPG
+	Torii gate at Toshugu Shrine
+
+	p32_lanterns.JPG
+	Ceremonial lanterns at Toshugu Shrine
+
+	p33_shrine.JPG
+	Buildings at Toshugu Shrine
+
+	p34_tree.JPG
+	Old tree at Toshugu Shrine
+
+	p35_villa.JPG
+	Tamozawa Imperial Villa in Nikko
+
+	p36_villa.JPG
+	Tamozawa Imperial Villa
+
+	p37_kegon.JPG
+	Kegon Waterfall in Nikko
+
+	p38_fish.JPG
+	Fish snacks at Kegon Waterfall
+
+	p39_loop.JPG
+	Yamanote Loop Line in Tokyo
+
+

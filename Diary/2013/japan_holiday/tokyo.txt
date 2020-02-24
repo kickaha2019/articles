@@ -10,9 +10,6 @@ Anchor:
 Date:
     March 23rd 2013
 
-Right:
-    p07_tower.JPG
-
 Text:
     My room knows I'm English.  So the wake up call setting on the
     phone talks to me in Anglo-Saxon.  There was a Herald Tribune 
@@ -41,10 +38,6 @@ Text:
     deck to a floor with windows one could look down through the
     ironwork.
 
-Left:
-    p10_wedding.JPG
-
-Text:
     We next visited the Meiji shrine in Tokyo where seemingly
     Shinto style weddings were being held for the tourists.  Ceremonies
     are performances to some extent but it felt an intrusion.  Perhaps
@@ -67,10 +60,6 @@ Text:
     daughter had made - not as effective as the real temple 
     article of course.
 
-Right:
-    p15_gardens.JPG
-
-Text:
     The last stop of the morning tour was the Palace gardens.  Very
     pretty with the cherry blossom out.  Yuko explained one reason
     for the masks was an allergy to cedar pollen.  I was dropped
@@ -93,10 +82,6 @@ Text:
     precisely aligning doors to gates in those barriers.  Cleaners were
     at work helping to keep Japan as clean as it is.
 
-Left:
-    p21_museum.JPG
-
-Text:
     I next got myself to Mitaka, this time using the
     JR railway as well.  This took a long time and I learnt I didn't
     know how to reckon how long getting from A to B takes when A and
@@ -124,3 +109,52 @@ Text:
     orange tea - someone had already had the chocolate orange I think.
     It was Saturday night so the world was out and about, it had been
     crowded when I returned on the Yamanote loop line to Shinagawa.
+
+Gallery:
+	p07_tower.JPG
+	Tokyo Tower
+	
+	p08_view.JPG
+	View from Tokyo Tower
+
+	p09_barrels.JPG
+	Sake barrels at Meiji Shrine in Tokyo
+
+	p10_wedding.JPG
+	Shinto wedding at Meiji Shrine in Tokyo
+
+	p11_tokens.JPG
+	Good luck tokens at Meiji Shrine in Tokyo
+
+	p12_drum.JPG
+	Big drum at Meiji Shrine in Tokyo
+
+	p13_wedding.JPG
+	Shinto wedding process at Meiji Shrine in Tokyo
+
+	p14_wall.JPG
+	Wall at Imperial Palace in Tokyo
+
+	p15_gardens.JPG
+	East Gardens in Imperial Palace in Tokyo
+
+	p16_teahouse.JPG
+	Teahouse in Imperial Palace in Tokyo
+
+	p17_skyline.JPG
+	Tokyo grows skyward like a forest
+
+	p18_lamp.JPG
+	Narnia-like lamp in Imperial Palace in Tokyo
+
+	p19_cleaner.JPG
+	Cleaner at work in Tokyo Metro
+
+	p20_train.JPG
+	Tokyo train interior
+
+	p21_museum.JPG
+	Ghibli Museum in Mitaka Tokyo
+
+	p22_station.JPG
+	Mitaka Station entrance in Tokyo

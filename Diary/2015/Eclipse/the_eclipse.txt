@@ -1,9 +1,6 @@
 Date:
 	March 20th 2015
 
-Right:
-	eclipse_totality.JPG
-
 Text:
 	There was snow at 5am they said (I wasn't up then but slept in snatches due to
 	the anticipation). When I looked out I could just see cloud.
@@ -19,10 +16,6 @@ Text:
 	Totality lasted two to three minutes, it was bodacious.  The crew sang something, oohs and aahs,
 	magic in the sky. Wild applause as the moon slipt off the sun and the full effulgence returned.
 
-Left:
-	black_watch2.JPG
-
-Text:
 	The sea is a big place, besides the [Boudicca] Fred Olsen's [Braemar] and
 	[Black Watch] were also around the Faroe Islands, and there was a P&O ship
 	and other ships too. But we were alone where we were. Later on the Fred Olsen ships
@@ -36,3 +29,30 @@ Text:
 	get to know I have green tea after the evening meal, one gets to recognise them.
 	Virginia admired the pens the waiters had which had small lights at the nib end,
 	would have made a good souvenir!
+
+Gallery:
+	eclipse_figure.JPG
+	Waiting for the Eclipse
+
+	eclipse.JPG
+	Waiting for the Eclipse
+
+	eclipse_crowd.JPG
+	Eclipse glasses on
+
+	eclipse_shadow.JPG
+	During the Eclipse
+
+	eclipse_totality.JPG
+	Totality
+
+	black_watch1.JPG
+	Black Watch on the Eclipse morning
+
+	black_watch2.JPG
+	Black Watch on the Eclipse morning
+
+	braemar.JPG
+	Braemar on the Eclipse morning
+
+

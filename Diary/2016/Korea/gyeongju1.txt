@@ -11,9 +11,6 @@ Anchor:
 Date:
 	May 12th 2016
 
-Right:
-	silla_tumuli.jpg
-
 Text:
 	Checked out of the Grand Hotel after another buffer breakfast - our first stop was the very
 	impressive burial mounds of the Silla kingdom at Daereungwon, Gyeongju. Made me think of Sutton
@@ -33,10 +30,6 @@ Text:
 
 	A break for lunch at which my trying for a lighter lunch only got me Korean fast junk food - yeucch.
 
-Left:
-	wonseong_tomb.jpg
-
-Text:
 	We then saw [King Wonseong's burial mound],
 	guarded by 4 lions and twelve zodiacal beasts.
 	It had an altar in front at which our guide told us the descendants of the Silla Kings
@@ -57,3 +50,57 @@ Text:
 	were. We shared some soju, I was curious what it was like after seeing it so much drunk in the
 	TV dramas. Medicinal strength but I didn't feel light headed afterwards. We had a small walk down
 	to the lake, quiet and relaxing.
+
+Image:
+	silla_tumuli.jpg
+	Silla tombs at Daereungwon
+
+	silla_mound.jpg
+	Silla tomb at Daereungwon
+
+	silla_tomb.jpg
+	Cheonmachong Tomb
+
+	silla_tree.jpg
+	Daereungwon
+
+	silla_observatory.jpg
+	Cheomseongdae Royal Observatory
+
+	silla_go_stones.jpg
+	Go stones from Silla tomb
+
+	wonseong_tomb.jpg
+	King Wonseong's burial mound
+
+	bulguska_gate.jpg
+	Bulguska Temple gate
+
+	bulguska1.jpg
+	Bulguska Temple
+
+	bulguska2.jpg
+	Bulguska Temple
+
+	bulguska3.jpg
+	Bulguska Temple
+
+	bulguska4.jpg
+	Bulguska Temple
+
+	bulguska5.jpg
+	Bulguska Temple
+
+	bulguska6.jpg
+	Piles of stones as free prayers
+
+	bulguska_pig.jpg
+	Touch the pig might make you rich
+
+	commodore_hotel.jpg
+	Gyeongju Commodore Hotel
+
+	commodore_lake.jpg
+	Lake by the hotel
+
+

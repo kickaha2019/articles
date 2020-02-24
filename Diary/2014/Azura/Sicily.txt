@@ -4,9 +4,6 @@ Date:
 Anchor:
   Mount Etna
   
-Right:
-	summit.JPG
-
 Text:
 	We docked at Messina then did excursion to see Mt Etna. I went prepared with reversible
 	fleece but even two thirds of the way up Mt Etna it was warm even with a breeze!
@@ -25,3 +22,36 @@ Text:
 	imposed to stop everyone becoming sick.  So the staff served you in the buffets,
 	packets of butter and sugar and salt rather than dispensers, more rigorous hand
 	cleansing. I felt for the poor staff who had even more to do.
+
+Gallery:
+	coach.JPG
+	our coach to Mt Etna
+	
+	certificate.JPG
+	Coach certificate
+	
+	hills.JPG
+	Hills around Mt Etna
+	
+	debris.JPG
+	Volcanic debris at Mt Etna
+	
+	grass.JPG
+	Grass trying to recolonise the volcanic soil
+	
+	lava_flow.JPG
+	Twisted rock from lava flow at Mt Etna
+	
+	crater.JPG
+	One of the Silvestri craters at Mt Etna
+	
+	crater2.JPG
+	Volcanoes leave almost a moonscape
+	
+	sulphur.JPG
+	Colours from inside the earth
+	
+	summit.JPG
+	Looking towards the summit of Mt Etna
+
+

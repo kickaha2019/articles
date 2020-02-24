@@ -4,9 +4,6 @@ Title:
 Date:
 	March 11th 2015
 
-Right:
-	boud_cabin_sign.JPG
-
 Text:
 	Two days at sea which established the pattern of days on board. Leave cabin with
 	green please do sign so Atitaya hopefully does it while we're at breakfast.
@@ -21,9 +18,6 @@ Text:
 	where the Boudicca might be. Overdo lunch. Walk round the open deck wind
 	permitting for fresh air and a quiet time. End to end the Boudicca is noticeably
 	smaller than our last cruise ship the P&O Azura.
-
-Left:
-	boud_lido_bar2.JPG
 
 Text:
 	In the afternoon try our hand at the quiz in the Lido Bar.  Some teams were very good,
@@ -40,3 +34,111 @@ Text:
 	were quiet places just to sit) and read more (perhaps
 	indulging in a glass of sherry or Bristol Cream or Advocaat). Before turning
 	in watch another ''The Greatest Love'' episode.
+
+Gallery:
+	boud_cabin1.JPG
+	Entrance to our cabin on the Boudicca
+
+	boud_cabin_sign.JPG
+	Make up room sign
+
+	boud_cabin_tea.JPG
+	Tea and coffee in the cabin
+
+	boud_cabin_v.JPG
+	Virginia in our cabin
+
+	boud_housekeeping.JPG
+	Housekeeping supplies
+
+	boud_handwash.JPG
+	Plenty of opportunities for cleanliness
+
+	boud_stairs.JPG
+	Stairs
+
+	boud_sickbag.JPG
+	Sickbag on the stairs
+
+	boud_water.JPG
+	Supplies for going ashore
+
+	boud_d5rec.JPG
+	Boudicca's reception on Deck 5
+
+	boud_d5shops.JPG
+	Deck 5 shops
+
+	boud_bar.JPG
+	Boudicca Secret Garden bar
+
+	boud_secret.JPG
+	Secret Garden cafe
+
+	boud_secret3.JPG
+	Secret Garden cafe
+
+	boud_secret4.JPG
+	Secret Garden cafe
+
+	boud_secret_flower.JPG
+	Secret Garden cafe flower made of vegetables
+
+	boud_rest3.JPG
+	Four Seasons restaurant
+
+	boud_table52.JPG
+	Four Seasons restaurant - our table
+
+	boud_rest_table.JPG
+	Four Seasons restaurant - our table
+
+	boud_rest_us.JPG
+	Four Seasons restaurant - us at our table
+
+	boud_lib_bar.JPG
+	Boudicca's library bar
+
+	boud_lib_books.JPG
+	Library books
+
+	boud_lib_chairs.JPG
+	Library chairs
+
+	boud_lib_chocs.JPG
+	Library bar chocolates
+
+	boud_library2.JPG
+	Boudicca's library
+
+	boud_lido.JPG
+	Lido deck
+
+	boud_lido2.JPG
+	Lido deck
+
+	boud_lido_bar.JPG
+	Lido bar
+
+	boud_lido_bar2.JPG
+	Lido bar
+
+	boud_lido_lounge.JPG
+	Lido lounge
+
+	boud_obs.JPG
+	Observatory
+
+	boud_obs_inside.JPG
+	Observatory inside
+
+	boud_obs_piano.JPG
+	Observatory piano
+
+	boud_obs_piano2.JPG
+	Observatory piano sign - meanies!
+
+	boud_trio.JPG
+	Musical noise providers
+
+

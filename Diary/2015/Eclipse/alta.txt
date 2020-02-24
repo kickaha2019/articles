@@ -5,9 +5,6 @@ Anchor:
   Sorrisniva Igloo Hotel
   Northern Lights Cathedral
   
-Right:
-	alta_igloo3.JPG
-
 Text:
 	We stayed two days in Alta, the furthest north I've ever been. One of the initial
 	attractions that tempted me was to stay a night in the
@@ -26,10 +23,6 @@ Text:
 	Another kind of warmth was provided by the ice bar which served a potent blend of vodka in
 	blue Cura&ccedil;ao in slippery ice glasses. Strong!
 
-Left:
-	alta_nlc_coach.JPG
-
-Text:
 	We went to another concert in the [http://www.nordlyskatedral.no/ Northern Lights Cathedral],
 	a technological cathedral of futuristic shape clad in titanium. The inside is as adventurous
 	as the outside, including a golden ladder to heaven and a bronze Christ melding ancient and ultra-modern
@@ -43,3 +36,81 @@ Text:
 	between rock music and Bach. At one point he used a plastic bottle instead of a bow! Sat right
 	at the side of the stage for one theatre company show, hard choice of whether you have
 	a clearer side view or see the back of heads.
+
+Gallery:
+	alta1.JPG
+	Alta
+
+	alta_tanks.JPG
+	Norwegian army do exercises here
+
+	alta_igloo1.JPG
+	Coach to Sorrisniva
+
+	alta_igloo2.JPG
+	Igloo hotel at Sorrisniva
+
+	alta_igloo3.JPG
+	Igloo hotel entrance
+
+	alta_igloo_carport.JPG
+	Igloo hotel carports!
+
+	alta_igloo_mobiles.JPG
+	Snow mobiles
+
+	alta_igloo_bar.JPG
+	Igloo hotel bar with glasses of ice
+
+	alta_igloo_us.JPG
+	Us in the Igloo hotel
+
+	alta_igloo_chapel1.JPG
+	Igloo hotel chapel
+
+	alta_igloo_chapel2.JPG
+	Igloo hotel chapel
+
+	alta_igloo_chapel3.JPG
+	Igloo hotel chapel
+
+	alta_igloo_i_bed.JPG
+	Igloo hotel bed
+
+	alta_igloo_i_bed2.JPG
+	Igloo hotel bed
+
+	alta_igloo_i_lounge.JPG
+	Igloo hotel lounge
+
+	alta_igloo_i1.JPG
+	Igloo hotel ice statue
+
+	alta_igloo_i2.JPG
+	Igloo hotel ice statue
+
+	alta_igloo_i3.JPG
+	Igloo hotel ice statue
+
+	alta_igloo_i4.JPG
+	Igloo hotel ice statue
+
+	alta_nlc_coach.JPG
+	Alta Northern Lights cathedral
+
+	alta_nlc_outside.JPG
+	Northern Lights cathedral exterior
+
+	alta_nlc_front.JPG
+	Northern Lights cathedral inside
+
+	alta_nlc_pillar.JPG
+	Northern Lights cathedral inside
+
+	alta_nlc_organ.JPG
+	Northern Lights cathedral organ
+
+	alta_nlc_aja.JPG
+	Musicians in the concert
+
+

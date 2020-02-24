@@ -1,20 +1,18 @@
 Title:
 	About this website and me
 
-Right:
-	mugshot.JPG
+Image:
+	about.jpg
 	
 Text:
 	This is the personal website of
-	Peter Rootham-Smith (Peter is fine.)  Welcome!
+	Peter Rootham-Smith (Peter is fine.)  Welcome! That's not a picture of me
+  of course but instead our late beloved cat Tabitha. Much more photogenic than I am.
 
 	I drive a Kia, and my favourite colour is blue.
 	My interest include [../TV/index.html TV],
 	[../Music/index.html music], [../Games/index.html computer games], [../Go/index.html Go],
 	and [../Computing/index.html software].
-
-	I'm currently watching [A Korean Odyssey] and [Beyond],
-	and playing [Torment: Tides of Numenera].
 
 	I'm married to Virginia who has made some [../Cakes/index.html cakes].
 	We like [../Dining_out/index.html eating out].  Virginia likes yoghurt and rhubarb,

@@ -12,9 +12,6 @@ Anchor:
   Uppark House and Garden - National Trust
   Butser Ancient Farm
   
-Right:
-	cottage_exterior.JPG
-
 Text:
 	The day started cold and very foggy - by the time we had packed clothes into suitcases and cats into
 	baskets the fog had mostly gone, but where the fields were turned earth they steamed as if they were
@@ -32,10 +29,6 @@ Text:
 	and two cats, looked at us but refused to help.  We didn't have to wait long to be advised
 	that we needed to park round the side, and the door of the cottage had been left open for us!
 
-Left:
-	sheep.JPG
-
-Text:
 	And a very nice cottage it was too! Complete with towels and toilet rolls and tea and coffee and
 	Scrabble and Skribble and shortbread biscuits and bottle of wine! And comfortable sofas to read Tim
 	Powers' "Medusa's Web" on. It is a working farm, and as neighbours we had several barns of
@@ -49,10 +42,6 @@ Text:
 	they said that we missed it. Good real fire, food upmarket so perhaps we should have ordered
 	sides of vegetables too as well as the main dish.
 
-Right:
-	hinton_garden.JPG
-
-Text:
 	The next day (12th March) after breakfast (Ginny did the eggs well done) we went to
 	[https://www.nationaltrust.org.uk/hinton-ampner Hinton Ampner], a National Trust place. Georgian style place built in the 1960s, not massive
 	but full of eclectic beauty and porcelain and semi-precious stones embedded into wood. Plenty
@@ -72,10 +61,6 @@ Text:
 	as if we were stupid, and didn't help at all - we should have walked out but instead got mugged for a
 	miserable sandwich unaccompanied by crisps or salad. Silly us.
 
-Left:
-	science_park.JPG
-
-Text:
 	We also shouldn't have gone to the [https://www.winchestersciencecentre.org/ Winchester Science Museum] - really one for the kids. We sat through
 	a show on the creation of the universe from a Big Bang theory - most people get what they believe
 	from what they hear most often, they couldn't derive what they believe from first principles. For us
@@ -92,10 +77,6 @@ Text:
 	ready for the waiting staff to take through to the tables. But pleasant atmosphere, a
 	solid village presence.
 
-Right:
-	cathedral.JPG
-
-Text:
 	We returned to Winchester on Monday 14th, discovering Ginny's near side front tyre had a
 	slow puncture so called breakdown people out later on return to East Meon.
 	Winchester was a nightmare of closed streets and car parks and attractions like
@@ -111,10 +92,6 @@ Text:
 	having let them have Ginny's house keys to be able to drive the car into their workshop.
 	But at least a working tyre now!
 
-Left:
-	victory.JPG
-	
-Text:
 	A far smoother trip into Portsmouth on the Tuesday and straight into the best car park
 	which had plenty of space. A ripoff price of &pound;32 for all the attractions, but having come
 	so far not much option. We did HMS Warrior first and then HMS Victory - both very similar,
@@ -129,10 +106,6 @@ Text:
 	various films and TV with everyone else in the restaurant including plot twists. I felt like
 	recommending "Dread" to her.
 
-Right:
-	uppark.JPG
-
-Text:
 	On the last full day we got to [https://www.nationaltrust.org.uk/uppark-house-and-garden Uppark] only just in time for a taster tour of the house at 11am
 	- the NT website is rather out of step with what's happening on the ground. I found what was
 	below the stairs (splendid housekeeper's room, safe for silverware, kitchens, wine cellar,
@@ -154,4 +127,68 @@ Text:
 	than the Roman villa ready with do it yourself mosaics for the kids.
 
 	Dined again at [Seven Stars], liked the jam pudding with custard.
+
+Image:
+	Amelia.JPG
+	A reluctant Amelia
+
+	Tabitha.JPG
+	Tabitha is too tired to care
+
+	cottage_exterior.JPG
+	Outside of holiday cottage
+
+	cottage_interior.JPG
+	Inside of holiday cottage
+
+	sheep.JPG
+	Our neighbours at the farm
+
+	hinton.JPG
+	Hinton Ampner
+
+	hinton_garden.JPG
+	Hinton Ampner gardens
+
+	chawton.JPG
+	Jane Austen's home at Chawton
+
+	science_park.JPG
+	Winchester Science Park
+
+	marwell_zoo.JPG
+	Marwell Zoo
+
+	thomas_lord.JPG
+	Thomas Lord pub
+
+	dessert.JPG
+	Thomas Lord pub dessert
+
+	cathedral.JPG
+	Winchester Cathedral
+
+	green_flag.JPG
+	Green Flag van for the punctured tyre
+
+	pets.JPG
+	Tyre repair place
+
+	warrior.JPG
+	HMS Warrior
+
+	warrior_engines.JPG
+	HMS Warrior engines
+
+	signal_flags.JPG
+	HMS Warrior signal flags
+
+	victory.JPG
+	HMS Victory
+
+	uppark.JPG
+	Uppark
+
+	butser.JPG
+	Butser Ancient Farm
 

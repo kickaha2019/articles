@@ -7,9 +7,6 @@ Icon:
 Date:
 	October 4th 2016
 
-Right:
-	lounge.jpg
-
 Text:
 	We counted down the months. We counted down the weeks. We counted down the days. At last the 
 	non-working day arrived, the day on which we had to ensure the spare bed room was sealed up so 
@@ -23,10 +20,6 @@ Text:
 	necessarily I guess) Phyllis asked what to do if Tabitha died while we were away - we settled 
 	for having her frozen at the vets so we could cremate her later.
 
-Left:
-	harvester.jpg
-
-Text:
 	An easy drive down - Ginny drove to the [Macdonalds] at Royston where we had a drink each,
 	convenient one can order at a touch-screen, then I drove to South Mimms where we favoured 
 	[https://www.kfc.co.uk/ KFC]. The Satnav to my concern didn't take us down the M3, but instead the A3 which was fine
@@ -45,4 +38,14 @@ Text:
 	
 	Room was hot as the heating was on, also heard noise from next room a bit. I survived the time
 	by watching four episodes of [https://www.koreandrama.org/ghost-phantom/ Ghost] until we left.
+
+Image:
+	lounge.jpg
+	Our lounge pre-departure
+
+	harvester.jpg
+	Harvester we stopped at in Portsmouth
+
+	portsmouth_hotel.jpg
+	Our Portsmouth Hotel
 

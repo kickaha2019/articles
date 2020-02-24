@@ -7,9 +7,6 @@ Anchor:
 Date:
 	October 19th 2016
 
-Right:
-	ceuta3.jpg
-
 Text:
 	Ceuta (Th-Euta) and the worse excursion! Oddly for a Mediterranean cruise the ship
 	didn't stop at Gibraltar instead it stopped at Ceuta which is the other side of the
@@ -25,3 +22,15 @@ Text:
 	series of Spanish pop songs in the way back. When we reached the quayside no 
 	comments about make your own way to 
 	the boat, we just fled hoping that was the end of the tour!
+
+Image:
+	ceuta.jpg
+	Ceuta
+
+	ceuta2.jpg
+	Ceuta
+
+	ceuta3.jpg
+	Ceuta
+
+

@@ -4,12 +4,26 @@ Date:
 Anchor:
   Corfu
   
-Right:
-	ship.JPG
-
 Text:
 	We wandered somewhat aimlessly into Corfu and didn't see anything touristy.  Will
 	have to be braver and hazard the shuttle bus next time.  There was fun in the 
 	port with a ferry bearing lorries and cars.  It had apparently managed to get
 	holed on some rocks, and its passengers were scattered around on what grass and
 	benches were available.
+
+Gallery:
+	sign.JPG
+	Corfu: metal sculpture or derelict sign? Perhaps both!
+	
+	car.JPG
+	Might not pass the MOT in the UK
+	
+	scooters.JPG
+	Parade of scooters in Corfu
+	
+	factory.JPG
+	A factory which has seen better days in Corfu
+	
+	ship.JPG
+	Our good ship Azura at Corfu
+

@@ -25,9 +25,6 @@ Title:
 Heading:
   Friday
 
-Right:
-  P1390196.jpg
-
 Text:
   We left Amelia at home to be looked after by our friend Sandra rather than put her into a cattery - avoiding the problem of getting her into a carrier. She knows when we're off on holiday and is prone to hiding in accessible places like the spare room bed and a cubicle in the cat tree. Our packing didn't forget too much, just the [National Trust] car parking sticker which we wouldn't have used in the end. As we were only away for a week the bags fitted into the back of Virginia's Kia, we didn't use the big cases.
 
@@ -41,9 +38,6 @@ Text:
 Heading:
   Saturday
 
-Right:
-  P1390163.jpg
-
 Text:
   Virginia navigated us to [http://www.tynehamopc.org.uk Tyneham],
   relying on directions from the website as it said it was the grid as far as Satnavs were concerned. We were competing with cycle races, and particularly joggers on the narrow approach road down into [Tyneham] itself. This Saturday was drizzly, the worst weather of the holiday as it turned out.
@@ -56,9 +50,6 @@ Text:
 Heading:
   Sunday
 
-Right:
-  P1390194.jpg
-
 Text:
   Not one of our more successful days. We failed to make the morning service at [http://www.weychurch.co.uk Weymouth Baptist Church] (forgot it was 10am, nightmare trying to park in Weymouth, bridge over harbour exit up at one point). So we sauntered round the esplanade and sat for a while in well manicured gardens. Then we failed to get to the [https://www.beefeater.co.uk/steak-restaurant/Dorset/Weymouth-Weymouth.html Beefeater] for Sunday lunch that we had booked, the Satnav kept wanting us to use a blocked road. The same blockage stopped us getting to the [https://www.visitsealife.com/weymouth/discover/ Weymouth Sea Life] place. So we ate at Pizza Express in [Brewery Square] which disagreed with Virginia.
 
@@ -68,9 +59,6 @@ Text:
 
 Heading:
   Monday
-
-Right:
-  P1390202.jpg
 
 Text:
   We made up for yesterday's failures by seeing loads of museums in Dorchester today, making full use of a [https://www.goldsaverpass.com Golden Saver] ticket. Not large museums as museums go, but with their own charm. I liked the [https://www.teddybearmuseum.co.uk Teddy Bear Museum] most, I have a soft spot for soft toys. We then did the [https://www.thedinosaurmuseum.com Dinosaurs Museum], which featured dinosaurs unsurprisingly.
@@ -83,9 +71,6 @@ Text:
 Heading:
   Tuesday
 
-Right:
-  P1390212.jpg
-
 Text:
   The Satnav led us to farmland and then gave up when we asked it to take us to see [https://www.english-heritage.org.uk/visit/places/maiden-castle/ Maiden Castle],
   so we gave up and headed somewhere else. Happily en route to somewhere we saw signs for [Maiden Castle] so off we went to be Iron Age Celts for an hour. [Maiden Castle] is a hill of mounds and ridges and ancient earthworks, complete with a school party! Good exercise up and down the ridges, though the palisades and dwellings had long gone.
@@ -97,9 +82,6 @@ Text:
 Heading:
   Wednesday
 
-Right:
-  P1390262.jpg
-
 Text:
   We went to see [http://www.monkeyworld.org/ Monkey World], which while it kept the animals in cages they were as good cages as I've seen - cages inter-connected by wire mesh tubes so the animals could roam around. The chimpanzees etc had generous areas. I was impressed that this zoo did as well as it did. To show our approval we got a tea towel. The animals (the larger ones) all have names and you can sponsor them. Join their fan clubs.
 
@@ -107,9 +89,6 @@ Text:
 
 Heading:
   Thursday
-
-Right:
-  P1390292.jpg
 
 Text:
   We were about to use our [National Trust] membership again at [https://www.nationaltrust.org.uk/kingston-lacy Kingston Lacy] but the Satnav died,
@@ -125,3 +104,124 @@ Text:
   Saw Hardy's home at [https://www.nationaltrust.org.uk/max-gate Max Gate] (like many other places difficult to park). In the evening
   another carvery at the reliable [Sun Inn]. Thursday evening was enlivened by the bell ringers
   practising at the next door Church!
+
+Image:
+  P1390196.jpg
+  Ruth's where we stayed
+
+  P1390199.jpg
+  Charminster Parish Church
+
+  P1390250.jpg
+  Sun Inn where we dined thrice
+
+  P1390288.jpg
+  Dorchester Brewery Square
+
+  P1390163.jpg
+  Tyneham
+
+  P1390165.jpg
+  Tyneham telephone box
+
+  P1390170.jpg
+  Tyneham Church
+
+  P1390178.jpg
+  Tyneham schoolroom
+
+  P1390181.jpg
+  Tyneham abandoned building
+
+  P1390182.jpg
+  Looking towards Corfe Castle
+
+  P1390185.jpg
+  Self-referential model village in Corfe Castle
+
+  P1390194.jpg
+  Weymouth seaside gardens
+
+  P1390195.jpg
+  Weymouth seaside gardens
+
+  P1390202.jpg
+  Dorchester Teddy Bear museum
+
+  P1390206.jpg
+  Dorchester Teddy Bear museum
+
+  P1390208.jpg
+  Dorchester Roman villa
+
+  P1390210.jpg
+  Maiden Castle
+
+  P1390212.jpg
+  Maiden Castle
+
+  P1390213.jpg
+  Maiden Castle
+
+  P1390228.jpg
+  Athelhampton House and Gardens
+
+  P1390229.jpg
+  Athelhampton House
+
+  P1390231.jpg
+  Athelhampton House note Mac
+
+  P1390233.jpg
+  Athelhampton House
+
+  P1390235.jpg
+  Athelhampton House
+
+  P1390236.jpg
+  Athelhampton House bath
+
+  P1390238.jpg
+  Athelhampton Gardens
+
+  P1390241.jpg
+  Athelhampton Gardens
+
+  P1390243.jpg
+  Athelhampton Gardens
+
+  P1390260.jpg
+  Monkey World
+
+  P1390262.jpg
+  Monkey World
+
+  P1390269.jpg
+  Monkey World
+
+  P1390270.jpg
+  Monkey World
+
+  P1390273.jpg
+  Monkey World feeding time
+
+  P1390276.jpg
+  Tank museum
+
+  P1390279.jpg
+  Thomas Hardy birthplace
+
+  P1390280.jpg
+  Thomas Hardy birthplace
+
+  P1390282.jpg
+  Thomas Hardy birthplace
+
+  P1390283.jpg
+  Thomas Hardy birthplace
+
+  P1390292.jpg
+  Thomas Hardy bicycle
+  
+  P1390290.jpg
+  Max Gate

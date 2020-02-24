@@ -4,9 +4,6 @@ Title:
 Date:
 	September 15th 2014
 
-Right:
-	laund_inside.JPG
-
 Text:
 	Rather like our house has a washing machine and TV the ''Azura'' has
 	facilities for day to day necessities and amusement.  There are several
@@ -26,10 +23,6 @@ Text:
 	thoughts on charging, Safari and reading lists. So many things are obvious once
 	you know, but not before.
 
-Left:
-	playhouse.JPG
-
-Text:
 	We went to some of the shows in the evening.  The best shows were those done by
 	the P&amp;O theatre company Headliners, energetic and committed.  I was most thrilled by
 	excerpts from shows I knew well, perhaps you need to have the buzz from seeing the whole show
@@ -41,3 +34,39 @@ Text:
 	There wasn't a proper cinema on board which was surprising. We watched the colourful 
 	[https://www.imdb.com/title/tt1490017/ Lego Movie] (the only two people to do so at the time!) Next time I may bring some
 	films on the iPad and watch those!
+
+Gallery:
+	laund_door.JPG
+	Laundrette on our deck on Azura
+	
+	laund_inside.JPG
+	Inside the laundrette on Azura
+	
+	washers.JPG
+	Laundrette washers
+	
+	laund_plumbing.JPG
+	Plumbing for the washer dryers
+	
+	laund_sink.JPG
+	Laundrette sink
+	
+	laund_diagram.JPG
+	Wiring diagram for laundrette
+	
+	line_dancing1.JPG
+	Line dancing in the atrium on Azura
+	
+	line_dancing2.JPG
+	Individuals yet a group
+
+	playhouse.JPG
+	800 seat Playhouse on the Azura - not big enough for a 3000 passenger ship!
+	
+	malabar.JPG
+	Malabar used for some entertainments
+	
+	stage_lighting.JPG
+	The stages had professional lighting and sound systems
+	
+

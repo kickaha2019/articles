@@ -10,9 +10,6 @@ Anchor:
 Date:
 	May 14th 2016
 
-Right:
-	unmunsa_statue.jpg
-
 Text:
 	Buddha's birthday today and [http://www.unmunsa.or.kr/ Unmunsa Buddhist Nun's temple] was packed! But before that we
 	stopped at a dammed Lake Unmun which cost hundreds of villagers their homes. It was dammed for
@@ -37,10 +34,6 @@ Text:
 	mountainous roads which the coach had problems - at one point we stalled trying to take a
 	tight corner! An "oh no" moment.
 
-Left:
-	busan_tower2.jpg
-
-Text:
 	Reached Busan (a bustling large port city with modern shopping malls and hotels) and
 	had an interesting trawl through the
 	[Jagalchi fish market] there,
@@ -75,3 +68,114 @@ Text:
 	Had a Croque Monsieur in the Cafe Oreum which was novel - ham as well. Got some washing done
 	ready for the last few days - had the machines to myself. Torrential rain which drove me to
 	the sin of frequenting Macdonalds in the evening out of desperation!
+
+Image:
+	unmun_lake.jpg
+	The dammed Lake Unmun
+
+	unmun_lake1.jpg
+	Villages forced to move by the dam
+
+	unmunsa.jpg
+	Approach to Unmunsa Buddhist nun's temple
+
+	unmunsa_gate.jpg
+	Unmunsa gate
+
+	unmunsa_tree.jpg
+	Old tree at Unmunsa
+
+	unmunsa2.jpg
+	Lanterns at Unmunsa
+
+	unmunsa_lanterns.jpg
+	Lanterns at Unmunsa
+
+	unmunsa3.jpg
+	Washing baby Buddha at Unmunsa
+
+	unmunsa4.jpg
+	Elaborate panelling at Unmunsa
+
+	unmunsa5.jpg
+	Unmunsa Buddhist nun's temple
+
+	unmunsa6.jpg
+	Unmunsa Buddhist nun's temple
+
+	unmunsa7.jpg
+	Unmunsa Buddhist nun's temple
+
+	unmunsa_f1.jpg
+	Feeding the pilgrims on Buddha's birthday
+
+	unmunsa_f2.jpg
+	What each pilgrim gets
+
+	unmunsa_f3.jpg
+	The washers uppers ready
+
+	unmunsa_shoes.jpg
+	Shoes of the pilgrims
+
+	unmunsa_statue.jpg
+	Goddess of mercy with donations
+
+	unmunsa_wash.jpg
+	Ceremonial washing at Unmunsa
+
+	tongdosa.jpg
+	Tongdosa service station
+
+	tongdosa_menu.jpg
+	Tongdosa menu
+
+	udon.jpg
+	Udon and fried tofu
+
+	jagalchi1.jpg
+	Jagalchi fish market
+
+	jagalchi2.jpg
+	Jagalchi fish market
+
+	jagalchi3.jpg
+	One man band
+
+	jagalchi4.jpg
+	Jagalchi fish market
+
+	jagalchi5.jpg
+	Jagalchi fish market
+
+	jagalchi6.jpg
+	Jagalchi fish market
+
+	jagalchi7.jpg
+	Busan street
+
+	busan_tower.jpg
+	Busan Tower
+
+	busan_tower2.jpg
+	View from Busan Tower
+
+	busan_tower3.jpg
+	Dragon at Busan Tower
+
+	busan_hotel.jpg
+	Tower Hill Hotel at Busan
+
+	busan_foot_massage.jpg
+	What you can have done to your feet
+
+	busan_mall.jpg
+	Busan Mall
+
+	shabu_shabu2.jpg
+	Shabu Shabu restaurant in the mall
+
+	shabu_shabu.jpg
+	Shabu Shabu dish before self-cooking
+
+

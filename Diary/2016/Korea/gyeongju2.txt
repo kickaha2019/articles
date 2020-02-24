@@ -11,9 +11,6 @@ Anchor:
 Date:
 	May 13th 2016
 
-Right:
-	seokguram_squirrel.jpg
-
 Text:
 	A very busy day. We got taken to see a National Treasure Buddha at
 	[http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264260 Seokguram] in a
@@ -40,10 +37,6 @@ Text:
 	Korean TV drama "Mirror of the Witch" which my fellow travellers didn't appreciate the
 	cheesy melodrama.
 
-Left:
-	homigot_hand.jpg
-
-Text:
 	The coach then drove to Homigot near Pohang and a cove called
 	[Homigot Sunrise Square] or Tiger's Tail, where many
 	Koreans watch the sun rise at the start of the new Lunar Year. The local government
@@ -70,3 +63,81 @@ Text:
 	for them to refill the bowl of kimchi! I had to have some more to not make them lose
 	face. The Commodore Hotel have gone up in my estimation - they provided two new
 	bottles of water, and they have a convenience store conveniently in the basement. Very handy.
+
+Image:
+	seokguram.jpg
+	Seokguram grotto
+
+	seokguram_squirrel.jpg
+	Stripey squirrel at Seokguram
+
+	seokguram_wash.jpg
+	Ceremonial basin at Seokguram
+
+	fishing_nets.jpg
+	Fishing nets at Guryongpo
+
+	fishing_boat.jpg
+	Fishing boat (note lights to atract squid) at Guryongpo
+
+	crabs.jpg
+	Caught crabs at Guryongpo
+
+	preparing_kimbap.jpg
+	Preparing kimbap in Guryongpo restaurant
+
+	guryongpo_dumplings.jpg
+	Dumplings I had at Guryongpo
+
+	guryongpo_jap1.jpg
+	Japanese street at Guryongpo
+
+	guryongpo_jap2.jpg
+	Guryongpo Japanese style house
+
+	guryongpo_jap3.jpg
+	Guryongpo Japanese style room
+
+	homigot.jpg
+	Tiger's tail area at Homigot
+
+	homigot_hand.jpg
+	Hand in sea at Homigot
+
+	homigot_octopus.jpg
+	Octopus not for eating at Homigot
+
+	melons.jpg
+	Korean striped melons
+
+	seongdong_market0.jpg
+	Gyeongju Seongdong Market
+
+	seongdong_market.jpg
+	Gyeongju Seongdong Market
+
+	seongdong_market1.jpg
+	Gyeongju Seongdong Market
+
+	seongdong_market2.jpg
+	Gyeongju Seongdong Market
+
+	seongdong_market5.jpg
+	Gyeongju Seongdong Market
+
+	seongdong_market7.jpg
+	This looked and tasted like a kitchen wipe
+
+	seongdong_market_fish.jpg
+	Gyeongju Seongdong Market fish
+
+	seongdong_market_octopi.jpg
+	Gyeongju Seongdong Market octopi
+
+	gulbulsa.jpg
+	Gulbulsa Buddhist temple
+
+	gulbulsa2.jpg
+	Gulbulsa Buddhist temple
+
+

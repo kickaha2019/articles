@@ -20,9 +20,6 @@ Icon:
 Date:
 	Saturday, 30 July 2011
 
-Right:
-	tabitha.JPG
-
 Text:
 	Tabitha and Amelia safely stowed in 
 	[https://www.countrycattery.com/ Country Cattery].
@@ -44,11 +41,7 @@ Text:
 	two hours in poor conditions. That contributed to the flu I went 
 	down with after the cruise. But I'm getting ahead of myself here!
 
-Left:
-	dover2.JPG
-
-Text:
-	We arrived at Dover Cruise Terminal 1 to find it was an old railway 
+	We arrived at Dover Cruise Terminal 1 to find it was an old railway
 	station! Like stepping back in time, and perhaps cruising is about 
 	stepping back in time, its main attraction. Back to the days when time 
 	moved slower, and there was space for friendliness. A certain amount of 
@@ -62,11 +55,7 @@ Text:
 	guises shouted off cabin numbers like jobbers in a stock exchange as 
 	they checked we hadn't lost anyone yet.
 
-Right:
-	tivoli_balloon.JPG
-
-Text:
-	We arrived late in Copenhagen on the Monday due to a power outage on 
+	We arrived late in Copenhagen on the Monday due to a power outage on
 	board ship just before we went through the Kiel Canal. This was the only 
 	real hiccup on the cruise. So instead of the planned excursion we got a 
 	tour of the Copenhagen waterways (very like Amsterdam), a view of the 
@@ -76,54 +65,345 @@ Text:
 	entrance there was a shop where you could make a teddy bear to your own 
 	specifications.
 
-Left:
-	stock_vasa.JPG
-
-Text:
 	Next stop was Stockholm where we saw the recovered 300-year old "Vasa" ship which sank on its maiden voyage. The king of the time commanded more guns, so they added an extra gun deck making the ship top-heavy, usual management story. We also went on a tour of old Stockholm, quite crowded. The guide spoke about the troubled history of Sweden, and took us to the square where the Danish King beheaded scores of Swedish aristocrats.
 
-Right:
-	tall_tower3.JPG
-
-Text:
 	I enjoyed the visit to Estonia on Thursday more. From Tallinn we went to the Lahemaa Forest and Viru Bog. The guide told us about how the USSR ruled Estonia, how Stalin tried to suppress the Estonian language which is close to Finnish, how Stalin took away all the boats lest Estonians flee away by sea, and how Stalin deported Estonian women and children as part of his ethnic planning. The walkways in the Viru Bog were a bit dicey, but the tower offered a good view over the restful peat bog scenes. We had a bite to eat later in a cafe near the sea which had a stuffed owl clutching a stuffed mouse hanging up in one corner of the bar.
 
-Left:
-	peter8.JPG
-
-Text:
 	The furthest point on the cruise, and the high spot, was St Petersburg. The city is a blend of Western grand architecture, Orthodox cathedrals with their almost Disney cupolas, and Soviet era bleakness. We stopped a night there, on the first day went to Peterhof where the fountains are really something, water and gold paint sparkling. Not so busy as we were marched through the palace first, coach parties are allowed in first before ordinary visitors. Peterhof Palace had pictures of a Russian naval victory for which they blew up a real frigate so the artist could see what an exploding ship looked like!
 
-Right:
-	herm10.JPG
-
-Text:
-	The second day in St Petersburg we did a private tour so Dad could see the 
+	The second day in St Petersburg we did a private tour so Dad could see the
 	[Hermitage]. The Hermitage is massive, several palaces with interconnecting walkways but it all feels one inside. Unusually one can take pictures of the pictures inside. Dad was worn out after an hour or so but he got to see Van Goghs and Monets and Cezannes. We had a good guide and driver who were kindly flexible, we had a photo tour of St Petersburg including the Church of the Spilled Blood which is wondrous to see. We did get taken to a souvenir shop and felt rather outnumbered by the staff, but left not too impoverished. We did need souvenirs. The smaller Russian dolls cost more as they have more dolls inside them.
 
-Left:
-	frigate1.JPG
-
-Text:
 	Last but one stop on the Monday was Ruegen Island in Germany - was looking forward to seeing an Oceanarium but not enough other cruisers wanted to so that got cancelled. Instead we had a disappointing tour. We passed by the Prora Colossus which would have been interesting to stop at (this is a vast holiday complex Hitler built but never used, the longest building in the world.)
 	
 	Last stop Aarhus. We went with Dad to see the 
 	[http://www.fregatten-jylland.dk/ Frigate Jutland] in Ebeltoft but sadly Dad couldn't manage the steps up to get into the boat itself. The trip which took in a neolithic stone circle got back late to the ship which a number of the tours did. One rationally knows the ship won't leave with you, but I always worry until I'm back on board!
 
-Right:
-	harp.JPG
-
-Text:
 	A Fred Olsen cruise felt more informal than a P&O cruise to me. The activities were very similar from quizzes through to dressing up for some of the evenings. Don't remember P&O having nautical dress themes though. We did get a very good show from the crew of Filipino / Thai / Indonesian dance and song. In addition to shows from professional performers of course. There were talks on board, someone with a police background gave interesting talks on memory and illusions and cons. For culture we had a harpist which was rewarding, she explained that harpists don't use the little finger which I didn't know. She arrived at the terminal the same time we did.
 
 	We sometimes ate in the main restaurant, sometimes in the Garden Cafe buffet. Dad preferred the buffet in the Garden Cafe even though he had to painfully maneouvre around with his sticks. Vanilla sauce always seemed to be very like custard. I got quite into porridge with maple syrup in the mornings. The food didn't always agree with me, I hesitate to blame Fred Olsen for that. Unlike P&O at breakfast and lunch we got to choose which table to sit at - we felt that P&O's showing us to a table helped break the ice of British reserve. The staff we met were very pleasant, and very hard-working.
 
-Left:
-	boat_name.JPG
-
-Text:
 	I tried each day to do 5 laps of the ship (a mile.) We also took the laptop and kept in touch with Wifi access (&pound;5 for 25 minutes.) Bottled water on board was expensive, cheapest way to get was to buy when going on an excursion when it was only &pound;1 not &pound;1.40. Very necessary to carefully check the onship accounts - both we and the people we sat with for the evening meals had problems with amounts for the excursions. The reliance on paper forms and people getting the cabin number right may cause errors.
 	
 	Got through quite a few books on the cruise. Liked Tim Power's "Last Call" and Garth Nix's "TroubleTwisters" (jointly written with Sean Williams.) Virginia took her Kindle as did Dad who seemed to be trying to sell Kindles to other passengers! I also wasted some time taking pictures of the ship for making a virtual tour or game based on the Black Watch. Not sure how far I'll get.
 	
 	The seas were very kind. Only had troubled waters and no going out on deck on the last day. I'm happy to do more cruises - just not next week!
+
+Gallery:
+	tabitha.JPG
+	Tabitha in her holiday 'home'
+
+	dover1.JPG
+	Dover cruise terminal 1
+
+	dover2.JPG
+	The cruise terminal was an old railway station
+
+	obstacle.JPG
+	The obstacle course to board the Black Watch
+	
+	cabin_door.JPG
+	Our cabin's door
+
+	cabin_open.JPG
+	Our cabin 5073
+
+	cabin_ginny.JPG
+	Virginia makes herself comfortable
+
+	cabin_shower.JPG
+	The shower in cabin 5073
+
+	cabin_basin.JPG
+	The wash basin in cabin 5073
+
+	waiting.JPG
+	Waiting to 'set sail' from Dover
+
+	laundrette.JPG
+	The laundrette on our Main Deck
+	
+	laundrette2.JPG
+	The machines inside the laundrette
+
+	at_sea.JPG
+	All at sea to Copenhagen
+
+	copen1.JPG
+	Arrival at Copenhagen
+
+	copen_theatre.JPG
+	New theatre in Copenhagen
+
+	copen_canal.JPG
+	Amsterdam-like canals in Copenhagen
+
+	copen_spiral.JPG
+	Copenhagen Church with its own helter-skelter
+
+	tivoli1.JPG
+	Tivoli Gardens in Copenhagen
+
+	tivoli_ginny.JPG
+	Virginia in Tivoli Gardens
+
+	tivoli_me.JPG
+	Me in Tivoli Gardens
+
+	tivoli_balloon.JPG
+	Balloon vendor Tivoli Gardens
+
+	bear1.JPG
+	Build your own bear shop in Tivoli Gardens
+
+	bear2.JPG
+	Available costumes for your bear
+	
+	bear3.JPG
+	The shop was doing good business
+
+	tivoli2.JPG
+	Dusk in Tivoli Gardens
+	
+	glentanar.JPG
+	The Glentanar Restaurant on the Black Watch
+
+	braemar_l.JPG
+	Braemar lounge looking towards the restaurant
+
+	braemar_c1.JPG
+	Braemar Cafe on the Black Watch
+
+	braemar_c2.JPG
+	Inside the Braemar Cafe
+
+	lido.JPG
+	The Lido Bar on the Black Watch
+
+	orchid.JPG
+	The Orchid Room on the Black Watch
+
+	harp.JPG
+	Some culture at least on the Black Watch
+
+	glasses.JPG
+	Glasses laid out for the Captain's Welcome Cocktail party
+
+	stock1.JPG
+	Black Watch in Stockholm
+
+	stock_vasa.JPG
+	The Vasa ship in Stockholm
+
+	stock_fount.JPG
+	Fountain in Stockholm
+
+	stock2.JPG
+	Buildings in old part of Stockholm
+
+	neptune.JPG
+	Neptune Lounge on Black Watch
+
+	boat_name.JPG
+	Boats have names
+
+	tall.JPG
+	Docked in Tallinn, Estonia
+
+	tall_coach.JPG
+	Coach in Tallinn, Estonia
+
+	tall_forest.JPG
+	The Lahemaa Forest in Estonia
+
+	tall_forest2.JPG
+	Lahemaa Forest
+
+	tall_viru.JPG
+	The Viru Bog in Lahemaa Forest
+
+	tall_tower.JPG
+	Lookout Tower in Viru Bog
+
+	tall_tower2.JPG
+	Tower construction
+
+	tall_tower3.JPG
+	View from tower in Viru Bog
+
+	tall_hostelry.JPG
+	Hostelry in Lahemaa Forest area
+
+	tall_menu.JPG
+	Estonian menu
+
+	tall_beach.JPG
+	Lahemaa Forest beach
+
+	tall_house.JPG
+	House by the Lahemaa cost
+
+	tall_house2.JPG
+	House by the Lahemaa cost
+
+	peter1.JPG
+	Peterhof Palace in St Petersburg
+
+	peter2.JPG
+	Peterhof Palace
+
+	peter3.JPG
+	The fountains at Peterhof
+
+	peter4.JPG
+	Getting the fountains ready
+
+	peter5.JPG
+	The fountains turned on
+
+	peter_ginny.JPG
+	Virginia at Peterhof
+
+	peter_me.JPG
+	Me at Peterhof
+
+	peter6.JPG
+	Peterhof fountains
+
+	peter7.JPG
+	Peterhof fountains
+
+	peter8.JPG
+	Peterhof fountains
+
+	peter9.JPG
+	Peterhof fountains
+
+	peter10.JPG
+	Peterhof fountains
+
+	peter11.JPG
+	Peterhof fountains
+
+	peter12.JPG
+	Peterhof Palace
+
+	peter13.JPG
+	Peterhof Palace
+
+	arch.JPG
+	Narva Triumphal Arch in St Petersburg
+
+	garden_cafe.JPG
+	Garden Cafe on board the Black Watch
+
+	herm1.JPG
+	One small part of the Hermitage in St Petersburg
+
+	spilled.JPG
+	Church of the Spilled Blood in St Petersburg
+
+	herm2.JPG
+	Inside the Hermitage
+
+	herm3.JPG
+	Hermitage chandelier
+
+	herm4.JPG
+	Hermitage chandelier
+
+	herm5.JPG
+	Hermitage hall
+
+	herm6.JPG
+	Hermitage chandelier
+
+	herm7.JPG
+	One can take pictures of pictures in the Hermitage
+
+	herm8.JPG
+	Art in the Hermitage
+
+	herm9.JPG
+	Inside the Hermitage
+
+	herm10.JPG
+	Matisse painting in the Hermitage
+
+	neva.JPG
+	Restaurant on the Neva River in St Petersburg
+
+	isaac.JPG
+	St Isaac's Cathedral in St Petersburg
+
+	private.JPG
+	Our private car tour in St Petersburg
+
+	isaac2.JPG
+	St Isaac's Cathedral in St Petersburg
+
+	rostral.JPG
+	Rostral Column in St Petersburg
+
+	st_petersburg.JPG
+	St Petersburg building
+
+	on_sail.JPG
+	Black Watch on sail
+
+	card_room.JPG
+	Card room on the Black Watch
+
+	marina.JPG
+	Marina Theatre on the Black Watch
+
+	main1.JPG
+	Main Deck shops
+
+	main2.JPG
+	Main Deck reception
+
+	aarhus.JPG
+	Aarhus welcome committe
+	
+	neolithic.JPG
+	Neolithic amusement centre in Jutland
+
+	frigate1.JPG
+	Frigate Jutland in Ebeltoft in Denmark
+
+	frigate2.JPG
+	The frigate hedged its bets between then wind and propeller power
+
+	frigate3.JPG
+	Different ropes for the frigate
+
+	frigate4.JPG
+	Workshop for the frigate
+
+	frigate5.JPG
+	Stern of the frigate Jutland
+
+	horizon.JPG
+	The Black Watch heads for the horizon
+
+	glentanar2.JPG
+	The Glentanar Restaurant on the Black Watch
+
+	braemar_coffee.JPG
+	Braemar Room coffee and tea dispensing area
+
+	pipers_bar.JPG
+	Pipers Bar on the Black Watch
+
+	neptune2.JPG
+	Neptune Lounge on the Black Watch
+
+	rear.JPG
+	View from rear of Black Watch
+
+	braemar_sign.JPG
+	Braemar Room
+
+	rough_seas.JPG
+	All but the last day of the cruise we had quiet seas

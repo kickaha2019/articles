@@ -18,10 +18,6 @@ Text:
 
 	Some people put their bags out a day early.
 
-Left:
-	boud_luggage.JPG
-
-Text:
 	The last full day saw the passenger talent show . . . and we crammed clothes
 	into cases.
 
@@ -30,3 +26,23 @@ Text:
 	we could join in a confused scrum to find our offloaded bags. Didn't have to
 	show our passports which was strange. Easy journey back apart from Macdonalds
 	near Baldock doing an awful imitation of a cup of chocolate.
+
+Gallery:
+  boud_baked_alaska.JPG
+  Baked Alaska procession
+
+  boud_baked_alaska2.JPG
+  Baked Alaska on Virginia's plate
+
+  boud_captain.JPG
+  Captain and officers receiving the passengers
+
+  boud_neptune_rec.JPG
+  Neptune lounge - the captain's reception
+
+  boud_chairs.JPG
+  Chairs for departing wheelchair users
+
+	boud_luggage.JPG
+	Passenger luggage (at end of cruise)
+

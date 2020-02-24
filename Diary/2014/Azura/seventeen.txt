@@ -1,9 +1,6 @@
 Date:
 	September 26th 2014
 
-Right:
-	entrance.JPG
-
 Text:
 	Each cruise we have had a special meal by ourselves instead of eating in the
 	usual place. Despite the cover charge (&pound;28 each) we went to the
@@ -21,3 +18,54 @@ Text:
 	didn't seem to mind as he tried his best to smash through a window with
 	whatever came to hand. I did wish him good luck. Scarcely had we sat down 
 	in ''Seventeen'' but they turned up! An appointment in Samarra!
+
+Gallery:
+	entrance.JPG
+	Seventeen entrance on Azura
+	
+	desk.JPG
+	The reception desk at Seventeen
+	
+	menus.JPG
+	Menus ready to be presented
+	
+	tables.JPG
+	Seventeen tables
+	
+	us.JPG
+	Us at our table
+	
+	menu.JPG
+	The menu
+	
+	bread.JPG
+	Warm bread to start the meal
+	
+	crayfish_cocktail.JPG
+	Virginia's crayfish cocktail starter
+	
+	ravioli.JPG
+	My ravioli starter
+	
+	soup.JPG
+	Gratuitous soup
+	
+	lamb.JPG
+	We both had the lamb
+	
+	thingy.JPG
+	A gratuitous wobbly thingy
+	
+	brulees.JPG
+	Virginia had the brulee trio dessert
+	
+	terrine.JPG
+	I had the terrine dessert
+	
+	coup_de_grace.JPG
+	A post meal treat
+	
+	good_meal.JPG
+	A good meal at Seventeen on Azura!
+	
+

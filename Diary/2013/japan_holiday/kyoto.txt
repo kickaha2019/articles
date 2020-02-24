@@ -11,9 +11,6 @@ Anchor:
 Date:
     March 27th 2013
     
-Right:
-    p76_zen.JPG
-
 Text:
     Mikio Yomoda a volunteer [https://www.japan.travel/en/plan/list-of-volunteer-guides/ Goodwill Guide] kindly helped me
     see a number of places in Kyoto today.  Without his help I 
@@ -32,10 +29,6 @@ Text:
     where they made stone lanterns for temples and other very un-Japanese
     looking statuary.
 
-Left:
-    p81_zen.JPG
-
-Text:
     I was despondent to learn that Nijo Castle just means 2nd Street
     Castle - how unromantic.  I also learnt that the "mi" component
     of many girl's names is the Chinese "mei" character for beautiful.
@@ -59,10 +52,6 @@ Text:
     of milk like Burt did.  Apparently that's the way Japanese take
     coffee!
 
-Right:
-    p87_walk.JPG
-
-Text:
     We then took the [https://www.japan-guide.com/e/e3906.html Philosopher's Walk], which was very beautiful with
     trees in blossom.  At one place people were gaga over a gathering of
     cats, a feline knows how to twist a human around its little claw.
@@ -78,10 +67,6 @@ Text:
     beginning to be saturated with seeing temples and castles.  So instead
     we headed for the [https://www.japan-guide.com/e/e3931.html Nishiki Food Street]!
 
-Left:
-    p91_food.JPG
-
-Text:
     This is a long long covered arcade of food stalls.  Not just food.
     An assault of colours and shapes and tastes!  Mikio treated me to
     a sticky syrupy dessert but we had to wait until we reached a department
@@ -99,3 +84,54 @@ Text:
 
     A confession.  My supper this evening was a Macdonalds.  I just
     needed the reassurance of my own tongue.  Guilty.
+
+Gallery:
+	p76_zen.JPG
+	Zen garden at Ryoanji Temple in Kyoto
+
+	p77_temple.JPG
+	Ryoanji Temple in Kyoto
+
+	p78_masonry.JPG
+	Monument masons in Kyoto
+
+	p79_warden.JPG
+	Traffic warden in Kyoto
+
+	p80_stall.JPG
+	Second-hand umbrellas stall in Kyoto
+
+	p81_zen.JPG
+	Zen garden at Silver Pavilion in Kyoto
+
+	p82_silver.JPG
+	Silver Pavilion
+
+	p83_stall.JPG
+	Food stall in Kyoto
+
+	p84_octopus.JPG
+	Food shop in Kyoto with moving octopus
+
+	p85_teddies.JPG
+	Teddy bears fishing along Philosophers Walk
+
+	p86_roof.JPG
+	Figures on roof along Philosophers Walk
+
+	p87_walk.JPG
+	Philosophers Walk in Kyoto
+
+	p88_shop.JPG
+	Bear shop in Kyoto
+
+	p89_food.JPG
+	Nishiki Food Market shop in Kyoto
+
+	p90_food.JPG
+	Nishiki Food Market shop
+
+	p91_food.JPG
+	Nishiki Food Market shop
+
+

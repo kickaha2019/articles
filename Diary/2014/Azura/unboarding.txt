@@ -4,9 +4,6 @@ Text:
 Date:
 	October 1st 2014
 
-Right:
-	oriental.JPG
-	
 Text:
 	There's good and bad about this cruise and the ''Azura''.  The staff work very hard, and 
 	are very friendly.  [P&amp;O] went the extra mile for Virginia. She's avoiding dairy and each
@@ -22,10 +19,6 @@ Text:
 	I did quite a bit of time reading, and want to read more of [https://brandonsanderson.com Brandon Sanderson].  His
 	"Rithmatist" I really enjoyed, an imaginative magical system.
 
-Left:
-	atrium_repair.JPG
-
-Text:
 	On the down side there are no quiet places on board - there are a lot of areas but all
 	have muzak blaring away.  The Planet Bar might have done but Virginia found it too dark in evening
 	for her Kindle, and during the day golf or other activities like choir practice took it over.
@@ -37,3 +30,35 @@ Text:
 	The sheer number of people caused problems, for example we couldn't see the captain at the captain's 
 	reception.  [P&amp;O] by choosing to go for bigger ships may be having to cut costs in order
 	to fill their Atlassian argosies.
+
+Gallery:
+  glass_house.JPG
+  Glass House bar and eaterie on Azura
+  
+  java_bar.JPG
+  Java bar
+  
+  bar_appliances.JPG
+  Appliances behind a bar
+  
+  our_table.JPG
+  Our table in the Oriental Restaurant on Azura
+  
+  dispensers.JPG
+  Dispensers for salt and pepper and sugar
+
+	atrium_repair.JPG
+	The Azura atrium floor needed repair by the end of the cruise
+	
+	flowers.JPG
+	It's all about money from one angle
+	
+	library.JPG
+	The miniscule library on Azura
+	
+	oriental.JPG
+	The Oriental Restaurant on Azura
+	
+	stairwell.JPG
+	The art adorned stairwells
+

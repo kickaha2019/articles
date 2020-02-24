@@ -7,9 +7,6 @@ Anchor:
   Osaka Aquarium Kaiyukan
   Kuchu Teien Observatory
   
-Right:
-    p131_aquarium.JPG
-
 Text:
     Made my way to Osaka on the first funicular railway out of
     Koyasan, and after some fun finding my way to the hotel in
@@ -37,10 +34,6 @@ Text:
     was trailing a Peanuts themed bag on wheels which was squeaking -
     it proved to be a dog!
 
-Left:
-    p137_sky_tower.JPG
-
-Text:
     In the evening went back to the Gourmet Museum for another food
     intake.  I had to nerve myself to plunge into a restaurant
     where I could communicate by pointing.  I have no idea of
@@ -54,3 +47,56 @@ Text:
     which is a ring suspended between twin towers.  The lights of
     Osaka are pretty like any big city.  Most mind-numbing was the escalator
     up which is a tube over a very big drop.
+
+Gallery:
+	p122_platform.JPG
+	Osaka platform markings
+
+	p123_tempura.JPG
+	Tempura lunch in Osaka Gourmet Museum
+
+	p124_dog.JPG
+	Woman with dog in Osaka underground
+
+	p125_cockpit.JPG
+	Osaka train cockpit
+
+	p126_castle.JPG
+	Osaka Castle
+
+	p127_aquarium.JPG
+	Osaka Kaiyukan Aquarium
+
+	p128_aquarium.JPG
+	Kaiyukan Aquarium
+
+	p129_rays.JPG
+	Kaiyukan Aquarium
+
+	p130_shoal.JPG
+	Kaiyukan Aquarium
+
+	p131_aquarium.JPG
+	Kaiyukan Aquarium
+
+	p132_crabs.JPG
+	Kaiyukan Aquarium
+
+	p133_tank.JPG
+	Kaiyukan Aquarium
+
+	p134_station.JPG
+	Osaka JR station
+
+	p135_meal.JPG
+	Last proper meal in Japan
+
+	p135_model.JPG
+	Model of Umeda Sky Building in Osaka
+
+	p137_sky_tower.JPG
+	Umeda Sky Building
+
+	p138_roof.JPG
+	Roof of Umeda Sky Building
+

@@ -7,56 +7,30 @@ Date:
 Text:
 	Or how our soft toys got into the festive mood . . .
 
-Centre:
+Gallery:
 	lounge.jpg
-
-Text:
 	The lounge is all decorated!
 
-Centre:
 	sea_grass_chest.jpg
-
-Text:
 	We're ready to go out and celebrate!
 
-Centre:
 	front_garden.jpg
-
-Text:
 	But it's cold in the front garden
 
-Centre:
 	back_garden.jpg
-
-Text:
 	And it's cold in the back garden too
 
-Centre:
 	upwords.jpg
-
-Text:
 	So perhaps we'll just play a game
 
-Centre:
 	book.jpg
-
-Text:
 	Or read a book
 
-Centre:
 	computer.jpg
-
-Text:
 	Or play on the computer
 
-Centre:
 	tv.jpg
-
-Text:
 	When that becomes too much we'll watch the TV
 
-Centre:
 	bed.jpg
-
-Text:
 	Or just go to bed and wait for summer!

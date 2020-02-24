@@ -9,9 +9,6 @@ Anchor:
 Date:
 	May 11th 2016
 
-Right:
-	folk_museum1.jpg
-
 Text:
 	We checked out of the Aventree Hotel Seoul on a cloudless morning, a manager of the travel
 	agents [Korea Holiday Planners] who had arranged my 7-day tour handed
@@ -30,10 +27,6 @@ Text:
 	dispensing different dishes but one place where you ordered. I had a nice soup with rice
 	dumplings in it (tteok-wang-mandu-guk), one returned the tray back to the counter it came from.
 
-Left:
-	songnisan_buddha.jpg
-
-Text:
 	It was then on to [http://english.knps.or.kr/Knp/Songnisan/Intro/Introduction.aspx?MenuNum=1&Submenu=Npp Songnisan Park],
 	a very large area where one can walk for hours up scenic mountains but we in our short time just saw
 	the [http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264271 Beopjusa]
@@ -50,10 +43,6 @@ Text:
 	burial areas (less common now as the government owns most land, few have hillsides to put graves onto),
 	past more rice paddies and greenhouses, past houses of brick but with traditional Chinese tiled roofs.
 
-Right:
-	daegu_grand.jpg
-
-Text:
 	We arrived at the grand [http://www.daegugrand.co.kr/grand/main/index.php Grand Hotel],
 	where I got given room 1783 and then got confused as the lift
 	only went up to floor 12. It turned out Koreans like writing 7 in a strange way. The room is nice,
@@ -64,3 +53,105 @@ Text:
 	fare containing potatoes and string beans and carrots. The string beans I couldn't digest. At
 	least it wasn't something from the many Western chains on Korea like Starbucks or Pizza Hut or
 	Macdonalds or Dunkin Donuts. Pride was a little preserved!
+
+Image:
+	folk_museum1.jpg
+	Korean Folk Village
+
+	folk_museum2.jpg
+	Buildings at Korean Folk Village
+
+	folk_museum3.jpg
+	Korean Folk Village
+
+	folk_museum4.jpg
+	Korean Folk Village
+
+	folk_museum5.jpg
+	Korean Folk Village
+
+	folk_museum6.jpg
+	Model village guardians at Korean Folk Village
+
+	folk_museum7.jpg
+	Korean Folk Village
+
+	folk_museum8.jpg
+	Korean Folk Village
+
+	folk_museum9.jpg
+	Children learning the art of interrogation at Korean Folk Village
+
+	folk_museum10.jpg
+	Blacksmith at Korean Folk Village
+
+	folk_museum11.jpg
+	Visiting children having lunch at Korean Folk Village
+
+	foodhall.jpg
+	Service station food hall
+
+	tteok_wang_mandu_guk.jpg
+	Tteok wang mandu guk dish
+
+	grilled_squid.jpg
+	Grilled squid shop at service station
+	
+	recycling.jpg
+	Bins for different kinds of rubbish
+
+	songnisan1.jpg
+	Songnisan Park
+
+	songnisan_shop.jpg
+	Shop before Beopjusa
+
+	songnisan2.jpg
+	Beopjusa high monk memorials
+
+	songnisan_stone_lantern.jpg
+	National Treasure stone lantern
+
+	songnisan_bell.jpg
+	Beopjusa bell and drum and dragon
+
+	songnisan_buddha.jpg
+	Beopjusa Buddha
+
+	songnisan_buddha2.jpg
+	Beopjusa Buddha
+
+	songnisan_desk.jpg
+	Beopjusa where monk prays in hall
+
+	songnisan_hands.jpg
+	Buddha has many meaningful hand signs
+
+	songnisan_hell.jpg
+	Buddhism has colourful hells
+
+	songnisan_icons.jpg
+	Buddha and his numerous disciples
+
+	songnisan_lanterns.jpg
+	Lanterns with prayers attached at Beopjusa
+
+	songnisan_pricelist.jpg
+	Price list for prayers at Beopjusa
+
+	songnisan_tiles.jpg
+	You can pay for prayers on roof tiles too
+
+	songnisan3.jpg
+	Beopjusa
+
+	daegu_grand.jpg
+	Daegu Grand Hotel
+
+	daegu_grand2.jpg
+	Daegu Grand Hotel interior
+
+	daegu_don_don.jpg
+	Quasi-Japanese food place
+
+

@@ -11,9 +11,6 @@ Anchor:
 Date:
     March 26th 2013
     
-Right:
-    p48_nijo.JPG
-
 Text:
     Breakfast at least is cheaper than at the New Takanawa hotel.
     I went for the continental and stoked myself up for the day.
@@ -28,10 +25,6 @@ Text:
     castle with the nightingale floor achieved by an iron bracket.
     And was it a cold floor in thin socks.
 
-Left:
-    p53_golden.JPG
-
-Text:
     Next up was the [https://www.japan.travel/en/spot/1152 Golden Pavilion], a very photogenic
     Buddhist site with a golden pavilion in it.  Not quite the
     original pavilion as it has been burnt down many times, lastly
@@ -46,10 +39,6 @@ Text:
     Pretty garden, large site, traditional grand buildings, no heating
     so not used now.
 
-Right:
-    p63_deer.JPG
-
-Text:
     After a rushed lunch it was off to Nara with new guide Yumi
     to see the deer milling 
     around [Todaiji Temple], which has a very large Buddha indeed in
@@ -63,10 +52,6 @@ Text:
     Fujiwara family who controlled Japan in the Heian era.
     Many many stone lanterns crowded in on the temple.
 
-Left:
-    p75_sushi.JPG
-
-Text:
     I went to a nearby sushi bar Sushiina, and had a 9-piece
     selection including salmon roe.  A challenge persuading my mouth
     to ahead and bite into it, and my throat to swallow, but worth it.
@@ -78,3 +63,92 @@ Text:
 
     Rounded off the evening with a green tea flavoured and coloured
     cream puff.
+
+Gallery:
+	p47_rack.JPG
+	Shoe rack at Nijo Castle in Kyoto
+
+	p48_nijo.JPG
+	Nijo Castle
+
+	p49_bells.JPG
+	Nijo Castle
+
+	p50_floor.JPG
+	Nightingale floor mechanism at Nijo Castle
+
+	p51_nijo.JPG
+	Nijo Castle
+
+	p52_pavilion.JPG
+	Golden Pavilion in Kyoto
+
+	p53_golden.JPG
+	Golden Pavilion
+
+	p54_palace.JPG
+	Kyoto Imperial Palace
+
+	p55_palace.JPG
+	Kyoto Imperial Palace
+
+	p56_bridge.JPG
+	Kyoto Imperial Palace
+
+	p57_palace.JPG
+	Kyoto Imperial Palace
+
+	p58_palace.JPG
+	Kyoto Imperial Palace
+
+	p59_shrine.JPG
+	Shinto temple in Kyoto
+
+	p60_rabbits.JPG
+	with display of rabbits
+
+	p61_umbrella.JPG
+	Umbrella related device in Kyoto
+
+	p62_graveyard.JPG
+	Graveyard on way to Nara from Kyoto
+
+	p63_deer.JPG
+	Beware the deer in Nara
+
+	p64_yam.JPG
+	Roasted yam at Nara
+
+	p65_statue.JPG
+	Guardian statue at Todaiji temple
+
+	p66_temple.JPG
+	Large wooden building at Todaiji temple
+
+	p67_buddha.JPG
+	housing a large Buddha
+	
+	p68_shop.JPG
+	and shop
+
+	p69_washing.JPG
+	Ceremonial washing at Kasuga Taisha shrine
+
+	p70_deer.JPG
+	More deer at Kasuga shrine in Nara
+
+	p71_tree.JPG
+	Old tree at Kasuga Shinto shrine
+
+	p72_shrine.JPG
+	Kasuga Shinto shrine
+
+	p73_lanterns.JPG
+	Some of the 3000 lanterns at Kasuga shrine
+
+	p74_food.JPG
+	Japanese food
+
+	p75_sushi.JPG
+	Sushi bar in Kyoto
+

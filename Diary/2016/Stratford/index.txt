@@ -8,9 +8,6 @@ Anchor:
   Stratford-upon-Avon Baptist Church
   Stratford MAD museum
   
-Right:
-	butterfly.jpg
-
 Text:
 	The long weekend started with another telephone call from a career about Dad managing to fall out
 	of bed despite having a bar fitted by Phillip last night (who I envy being so good at practical things).
@@ -30,10 +27,6 @@ Text:
 	We ate at the French bistro restaurant in the hotel, I had French onion soup then chicken
 	which were richly cooked perhaps too richly cooked for me. The chef was rather too fond of salt.
 
-Left:
-	fourteas_menu.jpg
-
-Text:
 	We kicked Saturday with breakfast in the hotel - cereals and croissants not worth the price of
 	the buffet at &pound;9.50 really. We walked into Stratford and did some shopping at
 	Marks and Spencers then visited the
@@ -53,10 +46,6 @@ Text:
 	Made me miss the ball bearing clock I had once - and remember a visit to see work by the artist
 	Jean Tinguely.
 
-Right:
-	mad1.jpg
-
-Text:
 	Hotel laid on a fire alarm for us, then we went for an evening cruise on the
 	[Countess of Evesham]
 	down and up the River Avon. They steered the long boat with skill through the three locks,
@@ -73,3 +62,38 @@ Text:
 	[https://www.starbucks.co.uk/store-locator/store/1006507 Starbucks]
 	back the way we came, and then hesitantly tried the A429 then A445 north to skirt
 	the Circean city of Coventry. Washed out when we got home, not only by the rain which fell.
+
+Image:
+	hotel.jpg
+	Swan's Nest Hotel
+
+	farm_entrance.jpg
+	Entrance to Buttefly Farm
+
+	mayan_pool.jpg
+	Hot and humid Mayan-ish pool
+
+	butterfly.jpg
+	One of the many butterflies
+
+	fourteas_menu.jpg
+	Menu at Fourteas
+
+	fourteas_timer.jpg
+	Timer for when tea ready at Fourteas
+
+	mad1.jpg
+	MAD museum exhibit
+
+	mad2.jpg
+	MAD museum exhibit
+
+	countess.jpg
+	Countess of Evesham
+
+	countess_interior.jpg
+	Countess of Evesham interior
+
+	countess_us.jpg
+	Us on board Countess of Evesham
+

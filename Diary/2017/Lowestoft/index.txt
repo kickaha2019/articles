@@ -13,9 +13,6 @@ Anchor:
 Title:
 	Lounging in Lowestoft
 
-Right:
-	P1380467.JPG
-
 Text:
 	We found our way to [https://www.sykescottages.co.uk/cottage/Norfolk-Barnby/Pond-Farm-Dairy-954252.html Pond Farm Dairy] in Mutford after the Satnav maintained its policy
 	of misdirection by taking us to another barn conversion at Ash Farm! It had
@@ -31,10 +28,6 @@ Text:
 	beams in the cottage, Virginia pointed out a dangerous hook which I managed to avoid happily.
 	There was a packet of hobnobs biscuits left out which weren't there when we left.
 
-Left:
-	P1380452.JPG
-
-Text:
 	On the Saturday we took another way out of Mutford to the A164, and it was longer
 	and more nerve-stretching single track lanes. Located [https://www.visitsealife.com/great-yarmouth/ Sea Life] in Great Yarmouth through
 	some narrow lanes, glad it was out of season so we could find places to park.
@@ -48,10 +41,6 @@ Text:
 	before finding our way to the [https://www.tobycarvery.co.uk/restaurants/east-of-england/thecaptainmanbygorleston Toby Carvery] and a good lunch.
 	After lunch we were very relieved to check our cat sitter was cat sitting.
 
-Right:
-	P1380472.JPG
-
-Text:
 	In the afternoon we had a very good visit to the interesting [https://www.museums.norfolk.gov.uk/time-tide Time and Tide] museum,
 	plenty of info on the herring trade and the Rows in Great Yarmouth. There was a
 	reconstruction of one of the now demolished Rows, with example shops and living rooms -
@@ -75,3 +64,54 @@ Text:
 
 	A bit late in the season really to visit anywhere,
 	it would be a lot more pleasant in summer and there would have been more open.
+
+Image:
+	P1380440.JPG
+	Pond Farm cottage
+
+	P1380435.JPG
+	Inside the cottage
+
+	P1380442.JPG
+	Sea Life Great Yarmouth
+
+	P1380448.JPG
+	Inside Sea Life
+
+	P1380452.JPG
+	Inside Sea Life
+
+	P1380453.JPG
+	Inside Sea Life
+
+	P1380454.JPG
+	Hot chocolate cream marshmallows and wafer
+
+	P1380444.JPG
+	The Winter Gardens in Great Yarmouth
+
+	P1380464.JPG
+	Time and Tide museum
+
+	P1380456.JPG
+	Inside the Time and Tide museum
+
+	P1380467.JPG
+	Africa Alive
+
+	P1380472.JPG
+	Africa Alive
+
+	P1380477.JPG
+	Africa Alive
+
+	P1380478.JPG
+	Africa Alive
+
+	P1380480.JPG
+	Africa Alive
+
+	P1380483.JPG
+	Africa Alive
+
+

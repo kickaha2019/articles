@@ -6,9 +6,6 @@ Anchor:
   Cervantes
   Lake Thetis
 
-Right:
-	pinnacles4.jpg
-
 Text:
 	The Pinnacles are an extraordinary area in the Nambung National Park. You may have seen some of the sand gardens with rocks that the Japanese go in for. Envision a giant's sand garden streaming out to the horizons. Let time upon time wither the rocks with decay. Allow a fierce sun to render each rock as an ancient sundial. And observe the shadows are long indeed.
 
@@ -17,3 +14,22 @@ Text:
 	I stayed at the Best Western Motel in Cervantes. To my surprise the place had an upmarket restaurant and I let myself go with a three course meal and a glass of wine. It was there I first saw the bread toaster which resembles a computer printer. You feed in the bread at the top and it gets printed with heat. I prefer brown bread by the way.
 
 	Lake Thetis wasn't so interesting on first (and probably last) acquaintance. It claimed to have stromatolites but perhaps they were on holiday. I wanted to be on my way down to Dryandra for the next holiday stop so I didn't hang around.
+
+Gallery:
+	pinnacles1.jpg
+	The Pinnacles 1
+
+	pinnacles2.jpg
+	The Pinnacles 2
+
+	pinnacles3.jpg
+	The Pinnacles 3
+
+	pinnacles4.jpg
+	The Pinnacles 4
+
+	pinnacles5.jpg
+	The Pinnacles 5
+	
+	pinnacles6.jpg
+	The Pinnacles 6

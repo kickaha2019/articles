@@ -4,9 +4,6 @@ Date:
 Anchor:
   Royal Delft
   
-Right:
-	delft_1.JPG
-
 Text:
 	We had a manic comedian as a local guide who took us to a coffee place
 	in Delft's main square, where there is a market seemingly of pottery more artistic
@@ -21,3 +18,12 @@ Text:
 	version of Rembrandt's "Night Watch", and for us to buy a pair of bowls and spoons
 	for our Chinese takeaways. Strange how all the attractions have gift shops
 	handy for souvenirs to be purchased.
+
+Image:
+	delft_1.JPG
+	Delft pottery factory
+
+	delft_2.JPG
+	Delft pottery factory
+
+

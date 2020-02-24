@@ -7,9 +7,6 @@ Anchor:
   Cooper Creek Wilderness
   Thornton Beach
 
-Right:
-	green_tree_frogs.JPG
-
 Text:
 	I took a river cruise with Bruce Belcher of
   [https://www.daintreerivercruisecentre.com.au/ Daintree River Cruise]
@@ -27,3 +24,64 @@ Text:
 
 	I didn't see any rare cassowaries as I hoped but I did go on two good walks with
  [https://coopercreek.com.au/ Cooper Creek Wilderness] tours. One was at night and I learnt about eyeshine and shining a torch around to spot life by the reflections from their optic systems. Saw birds sleeping on the ends of branches so vibrations from snakes climbing up would rouse them. Met one of the unwanted cane toads which are killing off predators which don't expect toads to be poisonous. The calls of the cane toads pollute the night.
+
+Gallery:
+	belcher_sign.JPG
+
+	belcher_boat.JPG
+
+	green_tree_frogs.JPG
+
+	achtung_crocodiles.JPG
+
+	crocodile.JPG
+
+	crocodile_2.JPG
+
+	egret.JPG
+
+	heritage_reception.JPG
+
+	heritage_dining.JPG
+
+	heritage_room.JPG
+
+	aboriginal_pool.JPG
+
+	rainforest_floor.JPG
+
+	knotty_ash.JPG
+
+	cycad.JPG
+
+	rainforest_canopy.JPG
+
+	flying_foxes.JPG
+
+	golden_orb.JPG
+
+	frilly_dragon.JPG
+
+	cane_toad.JPG
+
+	leaf_tailed_lizard.JPG
+
+	thornton_beach_sign.JPG
+
+	thornton_beach.JPG
+
+	thornton_lifeform.JPG
+
+	marrdja_sign.JPG
+
+	strangler_figs.JPG
+
+	bole.JPG
+
+	leaf_collector.JPG
+
+	hartshorn.JPG
+
+	flowers.JPG
+
+	mangrove_roots.JPG

@@ -7,9 +7,6 @@ Anchor:
 Date:
 	March 9th 2015
 
-Right:
-	beau_chitty.JPG
-
 Text:
 	We checked out of the [Holiday Inn Southampton City] hotel (&pound;7 to rescue the car from the car park,
 	another incentive to not use that hotel), then had breakfast at the nearby
@@ -35,10 +32,6 @@ Text:
 	of checking in and security culminated in a walk through a real labyrinth of
 	colourful plastic sheeting and glass and metal. Which happily ended on board the ship!
 
-Left:
-	boud_cabin1.JPG
-
-Text:
 	The cheerful and helpful staff, lined up by the lifts, guided us to our cabin 4050 which
 	atavistically has portholes (quite heavy to manipulate). Plenty of coat hangers though we
 	didn't find them at first. Plenty of seats at the muster drill, I did wonder if
@@ -53,3 +46,74 @@ Text:
 	Neptune Lounge isn't ideal for shows as few people have a clear view of the stage.
 	On the Fred Olsen ships a lot of the music and sound desk is done by non-Europeans
 	who are also the waiters and cabin stewards. To me they're just as good as Europeans.
+
+Image:
+	soton_hi.JPG
+	Holiday Inn in Southampton where we stayed overnight
+
+	beau_cars.JPG
+	Beaulieu Motor Museum
+
+	beau_chitty.JPG
+	Chitty Chitty Bang Bang car
+
+	beau_caravan.JPG
+	Royal Caravan
+
+	beau_monorail.JPG
+	Monorail round Beaulieu
+
+	beau_gardens.JPG
+	Approach to Palace House at Beaulieu
+
+	beau_house1.JPG
+	Palace House
+
+	beau_house2.JPG
+	Palace House
+
+	beau_kitchen.JPG
+	Palace House kitchen
+
+	soton_laby1.JPG
+	Labyrinth to board the Boudicca
+
+	soton_laby2.JPG
+	Labyrinth to board the Boudicca
+
+	soton_laby3.JPG
+	Labyrinth to board the Boudicca
+
+	soton_laby4.JPG
+	Labyrinth to board the Boudicca
+
+	soton_laby5.JPG
+	Labyrinth to board the Boudicca
+
+	soton_laby6.JPG
+	Labyrinth to board the Boudicca
+
+	boud_gangway.JPG
+	Gangway to board Boudicca in port
+
+	boud_entry.JPG
+	Entrance to Boudicca
+
+	boud_promenade.JPG
+	Boudicca promenade deck
+
+	boud_promenade2.JPG
+	Boudicca promenade deck
+
+	boud_bow.JPG
+	Boudicca's bow (the front bit)
+
+	boud_bow2.JPG
+	Boudicca's bow
+
+	boud_lifeboat.JPG
+	Boudicca lifeboat
+
+	boud_winch.JPG
+	Winch
+

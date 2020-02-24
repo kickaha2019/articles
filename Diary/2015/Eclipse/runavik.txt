@@ -4,9 +4,6 @@ Date:
 Anchor:
   Runavik
   
-Right:
-	faroes_braemar.JPG
-
 Text:
 	We didn't do an excursion in the Faroe Islands, just wandered ashore and admired
 	a petrol station bakers and fish hanging up to dry. Some people who did a
@@ -21,3 +18,32 @@ Text:
 	useful on the P&O cruises. Also a little worried that we're on a low deck
 	and may have to wait a while as the upper decks get to leave first when
 	we get back to Southampton.
+
+Gallery:
+	faroes_runavik.JPG
+	Runavik in the Faroes Islands
+
+	faroes_runavik2.JPG
+	Runavik in the Faroes Islands
+
+	faroes_boudicca.JPG
+	Boudicca moored at Runavik
+
+	faroes_braemar.JPG
+	Braemar moored alongside Boudicca at Runavik
+
+	faroes_cleaning.JPG
+	Cleaning the Boudicca at Runavik
+
+	faroes_road.JPG
+	Runavik High Street
+
+	faroes_house.JPG
+	House with fish drying
+
+	faroes_fish.JPG
+	Fish drying closeup
+
+	faroes_birds.JPG
+	Avian lifeforms at Runavik
+

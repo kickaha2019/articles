@@ -4,9 +4,6 @@ Date:
 Anchor:
   Cadiz
   
-Right:
-	area.JPG
-
 Text:
 	We used footpower to see Cadiz rather than go on an excursion.  To my
 	surprise Cadiz was pretty and mostly clean - though I involuntarily side-stepped into 
@@ -20,3 +17,22 @@ Text:
 	Reportedly some of our ship got pickpocketed in Cadiz - I have no reason to
 	think Cadiz any worse than London or even Cambridge (tourists are regarded as
 	legitimate prey by some locals here).
+
+Gallery:
+	postbox.JPG
+	Cadiz postbox
+	
+	fountain.JPG
+	A handy municipal fountain in Cadiz
+	
+	area.JPG
+	A pleasant open area in Cadiz
+	
+	fountain2.JPG
+	A water exhibit
+	
+	church.JPG
+	Cadiz church
+	
+	hall.JPG
+	Hall in Cadiz

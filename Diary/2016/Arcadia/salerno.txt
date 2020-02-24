@@ -7,9 +7,6 @@ Anchor:
 Date:
 	October 11th 2016
 
-Right:
-	herculaneum.jpg
-	
 Text:
 	As elsewhere the ship docked at a container port - on the dockside were 
 	artistic piles of aluminium railway sleepers. We were on bus 4 for the Herculaneum
@@ -24,3 +21,24 @@ Text:
 	victims caught while waiting for boats to rescue them. Wooden beams carbonised by the heat, 
 	mosaics still visible, wine shops and cooking pots, home decorations, a temple
 	of emperor worship.
+
+Image:
+	salerno.jpg
+	Salerno
+
+	herculaneum.jpg
+	Herculaneum
+
+	herculaneum2.jpg
+	Herculaneum
+
+	herculaneum3.jpg
+	Herculaneum
+
+	herculaneum4.jpg
+	Herculaneum
+
+	herculaneum5.jpg
+	Herculaneum
+
+

@@ -11,9 +11,6 @@ Anchor:
 Date:
 	May 10th 2016
 
-Right:
-	museum_crown.jpg
-
 Text:
 	The buffet breakfast (included in the holiday) was a mix of Western and Korean, there were only a fork
 	and spoon on the tables so I first tried eating scrambled eggs and bacon without the aid of a knife.
@@ -36,10 +33,6 @@ Text:
 	long way, and there were sweetshops at the top for the children. Namsan means South Mountain we were
 	told - odd that Namsan in sound is so close to Nan Shan which would be the Chinese for South Mountain.
 
-Left:
-	huwon_dressing_up.jpg
-
-Text:
 	We were dropped in a good location for something to eat - a kind couple from Germany took pity on me,
 	and let me join them for a lunch of Bibimbap and dumplings. A decent place and it was great talking to
 	them. In Korea they use red for female (yin) and blue for male (yang). Got some postcards on the way
@@ -52,10 +45,6 @@ Text:
 	Our guide said most would be visitors from China and Taiwan who fancied wearing Korean period costumes
 	from watching Korean TV dramas.
 
-Right:
-	gwangjang_costume.jpg
-
-Text:
 	The tour rounded off with the day's highlight for me - a walk through the complicated matrix that is
 	[http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273761 Gwangjang Market].
 	A miraculous collection of stalls selling food, many where you can sit and eat. Some
@@ -78,3 +67,90 @@ Text:
 	Not so hot in fact not hot at all!
 
 	Eating out in South Korea is very cheap, so much so that it is competitive price-wise for eating at home.
+
+Image:
+	museum.jpg
+	National Museum of Korea
+
+	museum_crown.jpg
+	Silla Crown in the museum
+
+	museum_urns.jpg
+	Funerary urns in the museum
+
+	namsan_tower.jpg
+	North Seoul Tower in Namsan Park
+
+	namsan_tower_sweetshop.jpg
+	Sweetshop at top of Tower
+
+	seoul_costume_shop.jpg
+	Costume shp in Seoul
+
+	palace_entrance.jpg
+	Entrance to Changdeokgung Palace
+
+	palace.jpg
+	Changdeokgung Palace
+
+	palace_pavilions.jpg
+	Palace pavilions
+
+	palace_rooftop.jpg
+	Creatures on pavilions roofs
+
+	palace_lock.jpg
+	Traditional lock
+
+	palace_sundial.jpg
+	Traditional sundial
+
+	palace_markers.jpg
+	Where to stand for officials of different ranks
+
+	palace_throne.jpg
+	Palace throne
+
+	huwon_pond.jpg
+	Secret Garden pond
+
+	huwon_dressing_up.jpg
+	Visitors dressing up
+
+	huwon_library.jpg
+	Secret Garden library
+
+	huwon_map_pond.jpg
+	Secret Garden pond in shape of Korea
+
+	gwangjang1.jpg
+	Gwangjang Market
+
+	gwangjang_costume.jpg
+	Costume shop in market
+
+	gwangjang_fish.jpg
+	Fish in market
+
+	gwangjang_pancakes.jpg
+	Korean pancakes in market
+
+	gwangjang_shoes.jpg
+	Market shop
+
+	gwangjang_stall.jpg
+	Food stall in market
+
+	gwangjang_towels.jpg
+	Towels in market
+
+	gwangjang_veg.jpg
+	Vegetables in market
+
+	seoul_menu.jpg
+	Seoul restaurant menu
+
+	naengmyeon.jpg
+	The frozen noodle soup
+
+

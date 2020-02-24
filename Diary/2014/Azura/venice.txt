@@ -4,9 +4,6 @@ Date:
 Anchor:
   Venice
   
-Right:
-	doge_palace.JPG
-
 Text:
 	I will remember Venice as the highlight of this cruise, and especially the
 	enchanting ride on a gondola.  This really gave me an impression of Venice as an ancient city 
@@ -21,10 +18,6 @@ Text:
 	There were seven cruise ships in and Venice was packed. People said this was the last
 	time cruise ships could sail up the Grand Canal.
 
-Left:
-	canal1.JPG
-
-Text:
 	We didn't however beat the dire massive queue to get back on board though, or the massive
 	walk from where the shuttle boat dropped us off to the cruise terminal. The system just
 	couldn't cope with the sheer numbers even without the Italians doing everything in their
@@ -33,3 +26,57 @@ Text:
 	Even back on board our problems weren't over - we were too late for proper food, the
 	buffet was crowded and slow.  So we had a good lamb burger in the Glass House albeit
 	it took ages to come.
+
+Gallery:
+	st_marks_square.JPG
+	St Marks Square Venice from Azura sailing in
+	
+	bridge_of_sighs.JPG
+	Bridge of Sighs in Venice
+
+	lion.JPG
+	Lion on pedestal at St Marks Square
+	
+	parties.JPG
+	15 was our tour party
+	
+	doge_palace1.JPG
+	Doge's Palace in Venice exterior
+
+	doge_palace.JPG
+	Doge's Palace interior
+	
+	denounce.JPG
+	Where to post denunciations in the Doge's Palace
+	
+	venice_clock.JPG
+	24-hour clock in Doge's Palace
+	
+	zodiac.JPG
+	Zodiac clock in Doge's Palace
+	
+	gondolas1.JPG
+	Gondolas for the gondola ride in Venice
+	
+	gondolas2.JPG
+	Us on our gondola
+	
+	gondolier.JPG
+	Our gondolier
+	
+	canal1.JPG
+	Gondola ride
+
+	canal2.JPG
+	Gondola ride
+
+	ristorante.JPG
+	Gondola ride passing restaurant
+	
+	canal3.JPG
+	Gondola ride on Grand Canal
+	
+	basilica.JPG
+	St Marks Basilica in Venice
+	
+

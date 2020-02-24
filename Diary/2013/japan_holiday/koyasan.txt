@@ -4,9 +4,6 @@ Date:
 Anchor:
   Fukuchi-In
   
-Right:
-    p92_train.JPG
-
 Text:
     I wasn't sure when I dropped off my main case that the front desk
     staff at the Karasuma understood me (I was very relieved to see my case
@@ -26,10 +23,6 @@ Text:
     A good chat with the guide, her English wasn't bad but I had to expand
     some questions like "How long have you been a guide".
 
-Left:
-    p112_inn.JPG
-
-Text:
     Quite a trip still after the guide left me to my fate at Shin Imamiya,
     the train went through very scenic hills and then we had a funicular
     railway up to Koyasan.  I could have done without two fellow tourists 
@@ -56,10 +49,6 @@ Text:
     wasn't brave enough to try it.  And the Fukuchi-In also had very
     good Wifi!
 
-Right:
-    p97_temple.JPG
-
-Text:
     I couldn't check in until 3pm so I went to tour the Koyasan site
     as much as I could in a rainy afternoon, after having some Kitsune
     udon for lunch.  Koyasan has plenty of shops (both normal and
@@ -88,3 +77,93 @@ Text:
     with others but in a way eating alone made it more meditative.
     The Fukuchi-In does cater for feeding passing coachloads, they
     had a gang of Germans to cope with in the morning.
+
+Gallery:
+	p92_train.JPG
+	Train to Osaka Universal Studios theme park
+
+	p93_rural.JPG
+	Rural scenery near Osaka
+
+	p94_railway.JPG
+	Funicular railway to Koyasan
+
+	p95_lunch.JPG
+	Lunch at Koyasan restaurant
+
+	p96_temple.JPG
+	Koyasan temple
+
+	p97_temple.JPG
+	Koyasan temple
+
+	p98_pagoda.JPG
+	Koyasan temple
+
+	p99_wheelchair.JPG
+	Ceremonial washing at Koyasan temple
+
+	p100_pilgrims.JPG
+	Buddhist faithful on a tour of Koyasan
+
+	p101_temple.JPG
+	Koyasan temple
+
+	p103_rocks.JPG
+	Koyasan rock garden
+
+	p104_rocks.JPG
+	Koyasan rock garden
+
+	p105_temple.JPG
+	Koyasan temple
+
+	p106_umbrellas.JPG
+	Koyasan umbrellas for sale
+
+	p107_telephones.JPG
+	Koyasan telephone boxes
+
+	p108_cemetery.JPG
+	Koyasan cemetery which is very big
+
+	p109_memorial.JPG
+	Unusual memorial at Koyasan cemetery
+
+	p110_road.JPG
+	Road digging in Koyasan
+
+	p111_inn.JPG
+	Fukuchi-In inn in Koyasan
+
+	p112_inn.JPG
+	Fukuchi-In inn
+
+	p113_slippers.JPG
+	Fukuchi-In inn
+
+	p114_rocks.JPG
+	Fukuchi-In inn
+	
+	p115_fountain.JPG
+	Fukuchi-In inn
+
+	p116_inn.JPG
+	Fukuchi-In inn
+
+	p117_inn.JPG
+	Fukuchi-In inn
+
+	p118_room.JPG
+	Fukuchi-In inn room
+
+	p119_bed.JPG
+	Fukuchi-In inn room bed
+
+	p120_breakfast.JPG
+	Fukuchi-In inn breakfast
+
+	p121_cable.JPG
+	Funicular railway station at Koyasan
+
+

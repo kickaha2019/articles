@@ -6,9 +6,6 @@ Anchor:
   Kronborg
   The Little Mermaid
   
-Right:
-	copenhagen_6.JPG
-
 Text:
 	We went to see the impressive [http://dnm.dk/uk/forside.htm Frederiksborg Castle]
 	in Hellir&oslash;d which had to be rebuilt after a monarch set it alight because his mistress felt cold.
@@ -26,4 +23,24 @@ Text:
 	the [https://www.visitcopenhagen.com/copenhagen/little-mermaid-gdk586951 Little Mermaid]
 	despite a lot of competing tourists. Happily she was her normal colour after various
 	acts of recent vandalisation.
+
+Image:
+	copenhagen_1.JPG
+	Frederiksborg Castle gardens in Denmark
+
+	copenhagen_2.JPG
+	Frederiksborg Castle in Denmark
+
+	copenhagen_3.JPG
+	Frederiksborg Castle chapel in Denmark
+
+	copenhagen_4.JPG
+	Ceiling imitating roots in cave roof in the castle
+
+	copenhagen_5.JPG
+	Kronborg Castle in Denmark
+
+	copenhagen_6.JPG
+	Little Mermaid
+
 

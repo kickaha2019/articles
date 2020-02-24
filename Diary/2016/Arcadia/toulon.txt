@@ -7,9 +7,6 @@ Anchor:
 Date:
 	October 16th 2016
 
-Right:
-	aix.jpg
-
 Text:
 	We docked at La Seyne sur Mer then after a very early breakfast caught coach 5 (moving from 
 	coach 4 which we were at the back after they filled the coach without counting how many were on it) 
@@ -23,11 +20,7 @@ Text:
 	party tried sitting on a rising bollard which slowly descended under him and he slowly 
 	fell to the ground! 
 
-Left:
-	aix2.jpg
-
-Text:
-	Aix has artistic connections - Cezanne walked each day to paint 
+	Aix has artistic connections - Cezanne walked each day to paint
 	hills and his path is now marked by gold nails in streets. Emile Zola and Darius Milhaud
 	and others have plaques to them. On our tour of the artistic streets we saw
 	an elderly Frenchman 'park' by bashing his well damaged car 
@@ -38,3 +31,20 @@ Text:
 	something to take back for work and family. The biscuit shop sold empty boxes
 	which you could fill yourself. We had a drink in a cafe on the Mirabeau avenue,
 	I admired the electrical wiring in the section we sat in.
+
+Image:
+	aix.jpg
+	Aix En Provence
+
+	aix2.jpg
+	Cezanne's path in Aix
+
+	aix3.jpg
+	Aix cathedral
+
+	aix4.jpg
+	Aix biscuit shop
+
+	aix5.jpg
+	Aix cafe
+

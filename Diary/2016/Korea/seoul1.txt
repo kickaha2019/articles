@@ -7,9 +7,6 @@ Anchor:
 Date:
 	May 9th 2016
 
-Right:
-	seoul_jongno_tower.jpg
-
 Text:
 	We landed late, immigration took a time as there were loads of Chinese tourists (who viewed the queueing
 	system as more guidance than something to follow 100%). A driver was waiting for me, and it took an hour
@@ -25,3 +22,21 @@ Text:
 	extent its feet still in a traditional past. We drove past stylish buildings and far reaching bridges and
 	shiny stainless steel artwork but also rice paddies and greenhouses and villages needing renovation. The
 	[Aventree Hotel] is close to a Buddhist Temple which I'll investigate tomorrow given time.
+
+Image:
+	bidet.jpg
+	Toilets at the Aventree Hotel in Seoul
+
+	bidet_control.jpg
+	Toilet control panel
+
+	seoul_laundry.jpg
+	Coin laundry in the Aventree Hotel
+
+	seoul_jongno_tower.jpg
+	Jongno Tower near the Aventree Hotel
+
+	seoul_brushes.jpg
+	Shop selling calligraphy paper and brushes
+
+

@@ -1,11 +1,41 @@
 Date:
 	September 30th 2014
 
-Right:
-	clock.JPG
-
 Text:
 	Many days of the cruise I had a stroll on deck, both as exercise and as a quiet time.
 	Virginia each time warned me not to fall overboard.  One of the shames of the Azura is that 
 	you can't walk all round the ship properly so I only walked up and down the port side (the
 	starboard side people smoked on).
+
+Gallery:
+	clock.JPG
+	Promenade deck side clock
+	
+	deck_chairs.JPG
+	Deck chairs
+	
+	hoses.JPG
+	Hoses
+	
+	ladder.JPG
+	Ladder
+	
+	lamp.JPG
+	Lamp
+	
+	life_jackets.JPG
+	Life jackets
+	
+	lifebelt.JPG
+	Lifebelt
+	
+	painter.JPG
+	Painter of the rope variety
+	
+	wet_floor.JPG
+	Wet floor indicator
+	
+	wire.JPG
+	Wire
+
+

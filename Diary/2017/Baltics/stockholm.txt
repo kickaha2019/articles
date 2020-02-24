@@ -4,9 +4,6 @@ Date:
 Anchor:
   ABBA The Museum
 
-Right:
-	stockholm_1.JPG
-
 Text:
 	I'm an [https://abbasite.com/ Abba] fan so I was happy that Virginia and I went to the
 	[http://www.abbathemuseum.com/en/ Abba museum] in
@@ -17,3 +14,9 @@ Text:
 	history. I also got postcards there which I sent back home.
 
 	I still listen to music by Abba among others when I need to drown noise at work.
+
+Image:
+	stockholm_1.JPG
+	Abba museum
+
+

@@ -4,10 +4,7 @@ Title:
 Date:
 	October 6th 2016
 
-Right:
-	promenade2.jpg
-
-Text:	
+Text:
 	We did trivia quizzes in the Rising Sun 'pub', our best score being 15 out of 20 - 
 	I doubted some of the 
 	answers like Adolf Hitler being Times magazine's man of the year for 1938, but perhaps it was so. 
@@ -27,10 +24,6 @@ Text:
 	troupe doing various compendium performances. There was an opera singer who while being
 	good didn't sing in languages I could understand. 
 
-Left:
-	captain.jpg
-
-Text:
 	Virginia didn't learn any tips or tricks from a cookery demonstration, rather
 	it was eat in one of our special restaurants. The port presentation on Messina stressed
 	the virtues of the excursions. The captain's reception was oddly by the Neptune Pool in the 
@@ -47,3 +40,52 @@ Text:
 	reminded me of the Queen of England who had to be buried in a square coffin. One jogger
 	had so many wires hanging off him I thought he might be a Dalek Roboman or a struldbrug.
 	
+Image:
+	art_gallery.jpg
+	Art gallery on the Arcadia
+
+	atrium.jpg
+	The Arcadia atrium
+
+	caffe_vivo.jpg
+	Coffee bar
+
+	crows_nest.jpg
+	Crows Nest bar
+
+	captain.jpg
+	The gallant captain
+
+	ocean_grill.jpg
+	Ocean Grill
+
+	ocean_grill2.jpg
+	Ocean Grill
+
+	palladium.jpg
+	Palladium Theatre
+
+	promenade.jpg
+	Promenade deck
+
+	promenade2.jpg
+	Promenade deck
+
+	sindhu.jpg
+	Sindhu
+
+	sindhu2.jpg
+	Sindhu
+
+	sindhu3.jpg
+	Sindhu
+
+	stairwell.jpg
+	Arcadia stairwell
+
+	sun_deck.jpg
+	Sun deck
+
+	sun_deck2.jpg
+	Sun deck
+

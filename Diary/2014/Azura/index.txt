@@ -7,9 +7,6 @@ Icon:
 Date:
 	September 14th 2014
 
-Right:
-	terminal.JPG
-
 Text:
 	Holidays are stressful.  That's why we like to go on cruises.  You reach the terminal,
 	the bags vanish, the car vanishes, and you walk through the glass maze onto the ship. And
@@ -32,10 +29,6 @@ Text:
 	[https://www.kfc.co.uk/ KFC],
 	then the Satnav got us to the right terminal despite my distrust.
 
-Left:
-	atrium.JPG
-
-Text:
 	The bags and car vanished thanks to [https://www.cruiseparking.co.uk Cruise Parking Services].  After sitting a while at the terminal
 	green letter L was paraded, and we got our boarding cards at the desk.  Through security, and a
 	simple glass maze then onto the massive [https://www.pocruises.com/cruise-ships/azura/ Azura]!  Similar but much pleasanter than the analogue at
@@ -48,3 +41,26 @@ Text:
 	first sitting, very pleasant table companions.  Having to slow do as one does on a ship makes most
 	people more genial. The first of the special surprises on this cruise took place while we were
 	eating - the captain announced Code Alpha in Meridian restaurant.
+  
+Gallery:
+	terminal.JPG
+	The terminal in Southampton with the huge Azura behind it
+	
+	unloading.JPG
+	Cars being unloaded
+	
+	cases.JPG
+	Baggage waiting to be shipped onboard
+	
+	processing.JPG
+	Waiting to go to a desk to be processed
+	
+	end_of_maze.JPG
+	The end of the maze and onto the ship!
+	
+	atrium.JPG
+	The impressive atrium on the Azura
+	
+	muster.JPG
+	The muster drill - a dress rehearsal for abandoning ship
+

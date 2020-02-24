@@ -6,9 +6,6 @@ Anchor:
   Nourlangie Rock
   Ubirr
 
-Right:
-	sunset.JPG
-
 Text:
 	The Top End is the top end of the Northern Territory in Australia.  I landed at ''Darwin'' its capital city where I had been recommended to try mud crab. I did try to try mud crab but either it was Sunday and the restaurant was closed or the pier was closed by the police or ... My sole Darwin activity (apart from buying tinned possum and the like as presents) was to see "Spiderman" at a local cinema. Oddly the refreshments counter sold the tickets which caused queueing problems.
 
@@ -20,3 +17,46 @@ Text:
 
   Important Aboriginal sites here including [https://parksaustralia.gov.au/kakadu/discover/regions/burrungkuy/ Nourlangie], and
   [https://parksaustralia.gov.au/kakadu/do/walks/ubirr-walk/ Ubirr].
+
+Gallery:
+	aboriginal_calendar.JPG
+	Aboriginal calendar
+
+	road_train.JPG
+	Road train in Kakadu
+
+	termite_mound.JPG
+	Termite mound
+
+	meat_ants.JPG
+	Meat ants invading a termite mound
+
+	dragonfly.JPG
+	A dragonfly which kindly stayed still for a while
+
+	rock_wallaby.JPG
+	Rock wallaby?
+
+	pandanus.JPG
+	Pandanus recovering quickly from a recent fire
+
+	leaves.JPG
+	Just some leaves that caught my eye
+
+	cockatoo.JPG
+	Cockatoo on a lunch-break
+
+	common_egret.JPG
+	Common egret but I'll take what I can on the camera
+
+	finch.JPG
+	Finch
+
+	nourlangie.JPG
+	Nourlangie - an easily accessible Aboriginal site
+
+	sunset.JPG
+	Nourlangie is a good sunset viewing place
+
+	ubirr.JPG
+	Ubirr - another Aboriginal site

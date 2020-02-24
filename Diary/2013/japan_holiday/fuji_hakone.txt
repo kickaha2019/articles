@@ -26,10 +26,6 @@ Text:
     noticing again the cramped graveyards where families share
     the gravestone.
 
-Right:
-    p41_mount.JPG
-
-Text:
     I was glad two voluble US servicemen left for another tour
     bus (in foreign lands I'm embarrassed almost to be with other
     foreigners!) but we gained new tour members who shot hundreds
@@ -45,10 +41,6 @@ Text:
     not as impressive as seeing the mountain from further away on a
     clear day.
 
-Left:
-    p43_pirate.JPG
-
-Text:
     Keiko demonstrated a 12-step Japanese puzzle box on the way to
     Hakone, and I was so taken by this I bought one at a souvenir
     shop.  Puzzles fascinate me, though I'm not always good at
@@ -71,10 +63,6 @@ Text:
     cup of tea came with a toy thimble of milk which was smaller than
     the container of syrup I had with the pancakes.
 
-Right:
-    p46_train.JPG
-
-Text:
     More time was killed before we ventured onto the platform.  The
     bullet trains really whizz pass, not enough time for me to get a camera
     out and be ready to snap!  Travelling with a large case only just worked,
@@ -96,3 +84,26 @@ Text:
     after the Tokyo luxury - the lobby being patronised by westerners
     didn't help.  My single room is rather cramped, bearing in mind
     our pet cats I won't make the normal comparison.
+
+Gallery:
+	p40_fuji.JPG
+	Best view of Mount Fuji we got
+
+	p41_mount.JPG
+	Mount Fuji from as far as coach went
+
+	p42_cable.JPG
+	Owakudani Boiling Valley on a very foggy day
+
+	p43_pirate.JPG
+	Pirate boat cruise on Lake Ashi
+
+	p44_tearooms.JPG
+	Odawara tea rooms
+	
+	p45_coffee.JPG
+	Note miniscule thimble of milk for coffee
+
+	p46_train.JPG
+	Trains including the bullet train in Japan run to time
+

@@ -17,9 +17,6 @@ Anchor:
 Title:
 	Week in Kent
 
-Right:
-	P1000485.JPG
-
 Text:
 	Tabitha and Amelia were delivered safely to their new cattery in Hardwick,
 	the [Angelite Cats Hotel]! No pond but bird feeders
@@ -37,10 +34,6 @@ Text:
 	also failed to get soap which we didn't know would have come in handy at our holiday
 	cottage.
 
-Left:
-	P1380038.JPG
-
-Text:
 	It was quicker over the Queen Elizabeth Bridge on the eay to Kent than ever before, we wait and see how
 	well the Dart charges go as the old toll-booths have gone replaced by a snapping
 	licence plate scheme. We found [http://cranbrook.kent-towns.co.uk/directory/22509/etchinghill-barn/ Etchinghall Barn] with the normal amount of fun. It's a
@@ -66,10 +59,6 @@ Text:
 	there was a heart-warming beep . . . But no charging!
 	In desperation tried her second charger and this one miraculously did work!
 
-Right:
-	P1380003.JPG
-
-Text:
 	We made full use of our [https://www.nationaltrust.org.uk/ National Trust] membership -
 	we saw [https://www.nationaltrust.org.uk/bodiam-castle Bodiam Castle] (a fine castle ruin
 	with a decent sized moat where Virginia used to be taken by
@@ -90,10 +79,6 @@ Text:
 	owned by socialites. Interesting seeing book repairers at work. One day it just tipped
 	down constantly and we stayed indoors apart from venturing out for food.
 
-Left:
-	P1380025.JPG
-
-Text:
 	It was a fine day however, a nice sunny day and warm when we navigated through Tunbridge
 	Wells to get to [https://www.groombridgeplace.com/ Groombridge Place], which was seemingly
 	in its off season, or not open to visitors. Neat formal gardens, we also had a long walk
@@ -134,3 +119,53 @@ Text:
 	car in the darkness so I could try to turn it around was close to panic. The Satnav for once
 	behaved and found us another way back to the hotel. Returning to Cambridge the next day was
 	almost as bad - the M6 was blocked and we had to take a tedious scenic tour round Coventry.
+
+Image:
+	P1000485.JPG
+	The cats new holiday home
+
+	P1000486.JPG
+	Tabitha reluctant to leave the carrier
+
+	P1000487.JPG
+	The rooms in the cat hotel
+
+	P1380038.JPG
+	Our holiday cottage
+
+	P1380010.JPG
+	Our holiday cottage lounge
+
+	P1380012.JPG
+	The cottage door closures
+
+	P1380003.JPG
+	Bodiam Castle
+
+	P1380005.JPG
+	Bodiam Castle well
+
+	P1380006.JPG
+	Kipling's home Bateman's
+
+	P1380007.JPG
+	Me at Bateman's
+
+	P1380008.JPG
+	Virginia with Kipling at Bateman's
+
+	P1380020.JPG
+	Sissinghurst gardens
+
+	P1380021.JPG
+	Sissinghurst gardens
+
+	P1380025.JPG
+	Groombridge Place
+
+	P1380029.JPG
+	Groombridge Place
+
+	P1380032.JPG
+	Scotney Castle mansion
+

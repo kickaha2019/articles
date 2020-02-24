@@ -5,9 +5,6 @@ Anchor:
   Voergaard Slot
   Den Tilsandede Kirke
   
-Right:
-	skagen_buried.JPG
-
 Text:
 	Skagen (said more like skein) is an attractive small seaside town at the tip of
 	Denmark. It attracted a school of artists in the past, it now attracts a lot of
@@ -35,3 +32,14 @@ Text:
 	the sand dunes covered it, and the way the remaining Church tower is presented
 	is not as picturesque as it could be. It looks rather ordinary. Now if the sand
 	had piled up against it . . .
+
+Image:
+	skagen_ent.JPG
+	Wannabee Ent in Skagen area
+
+	skagen_castle.JPG
+	Voergaard Castle
+
+	skagen_buried.JPG
+	Buried Church in Skagen
+

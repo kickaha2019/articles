@@ -8,9 +8,6 @@ Anchor:
 Date:
 	October 8th 2016
 
-Right:
-	vejer.jpg
-
 Text:
 	Our first port and first excursion! Cadiz (which the locals say more like Kar-dith, Kay-diss is 
 	the French way) has beautiful wide long beaches, one originally for women only (called beach of the 
@@ -24,4 +21,21 @@ Text:
 	(sandy dunes, lighthouse which Germans have converted into a B&B, but no mention of
 	the historic naval engagement). Very dry here but they have plenty of water thanks to rain which 
 	falls on nearby mountains.
+
+Image:
+	trafalgar.jpg
+	Cape Trafalgar
+
+	vejer.jpg
+	Vejer
+
+	vejer2.jpg
+	Vejer
+
+	vejer3.jpg
+	Vejer
+
+	vejer4.jpg
+	Vejer
+
 
