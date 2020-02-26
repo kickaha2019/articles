@@ -6,13 +6,13 @@ Text:
 	It started off as HTML pages generated from text files, then I tried
 	[https://support.apple.com/kb/PH5291 iWeb], then HTML pages generated 
 	from data in [https://www.filemaker.com/ Filemaker]'s ''Bento'',
-	then [https://www.joomla.org/ Joomla],
+	then [Joomla],
 	then back to [iWeb], and currently it's HTML pages statically generated
 	from text files.  This time I've rearranged the deck chairs to make the
 	website more blog-like, and to enable multiple paths to the same page.
 
 	Why static generation rather than using something dynamic like [https://wordpress.com/ Wordpress]
-	or [https://www.drupal.org/ Drupal] or [Joomla]? Those are good tools for
+	or [Drupal] or [Joomla]? Those are good tools for
 	the right website, but the static approach reduces worries about keeping
 	one's website secure, about having to apply updates to the software
 	running the website. The static approach is likely to be faster, less
@@ -31,7 +31,7 @@ Text:
 	text is content.
 
 	So why not use one of the established static website generators
-	like [https://jekyllrb.com/ Jekyll] or [https://gohugo.io/ Hugo]?
+	like [Jekyll] or [https://gohugo.io/ Hugo]?
 	Those are also good tools for the right website, with plenty of
 	functionality. One answer is computing is a hobby of mine, and
 	implementing a website generator is fun in its way to me. None of

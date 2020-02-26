@@ -102,14 +102,7 @@ Text:
 
 	The image is
 	generated inside a link which can be clicked to display the full
-	image using [https://www.lokeshdhakar.com/projects/lightbox2/ Lightbox2].
-	There's a helpful IBM [https://www.ibm.com/developerworks/web/library/wa-ltbox/ article] on using [Lightbox2].
-
-	I modified ''lightbox.css'' (full web URLs for the previous and
-	next images) ''screen.css'' (full web URL for the ''bg-checker.png''
-	image) and ''lightbox.js'' (full URLs for ''loading.gif''
-	''close.png'' images).  With these changes different directories
-	seem able to use the same lightbox installation. 
+	image.
 
 Heading:
 	End of lines

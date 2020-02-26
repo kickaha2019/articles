@@ -5,6 +5,10 @@ Icon:
 	news.jpg
 
 Link:
+  2020/website
+  Changing look and feel of this website
+
+Link:
   2020/New_Zealand
   To the other side and back
 

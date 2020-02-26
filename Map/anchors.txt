@@ -29,7 +29,7 @@ Table:
   Babbacombe Model Village|50.482835|-3.52076599999998|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Baddesley Clinton|52.3409501|-1.70852020000007|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
   Banham Zoo|52.4462819|1.02538400000003|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
-  Barna Mia|-32.7674229|116.9263651|/Users/peter/Website/Articles/Diary/2003/dryandra/index.html#1
+  Barna Mia|-32.7674229|116.9263651|/Users/peter/Website/Articles/Diary/2003/australia/dryandra/index.html#1
   Basilica Of Saint John|37.9528691|27.3675619000001|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
   Bateman's|50.9893081|0.379480699999931|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
   Bathampton|51.395142|-2.32059100000004|/Users/peter/Website/Articles/Diary/2012/bath_long_weekend/index.html#1
@@ -70,7 +70,7 @@ Table:
   Cathedral Cove|-36.8287083|175.7906293|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
   Catherine Palace|59.716123|30.3956531|/Users/peter/Website/Articles/Diary/2017/Baltics/st_petersburg.html#1
   Cedar Breaks|37.6359544|-112.8450248|/Users/peter/Website/Articles/Diary/2001/Utah/index.html#1
-  Cervantes|-30.505162|115.0665341|/Users/peter/Website/Articles/Diary/2003/pinnacles/index.html#1
+  Cervantes|-30.505162|115.0665341|/Users/peter/Website/Articles/Diary/2003/australia/pinnacles/index.html#1
   Ceuta|35.8893874|-5.32134550000001|/Users/peter/Website/Articles/Diary/2016/Arcadia/ceuta.html#1
   Chambers Wildlife Rainforest Lodges|-17.2860841|145.635521|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
   Changdeokgung Palace|37.5793982|126.9910617|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#1
@@ -83,7 +83,7 @@ Table:
   Cologne Cathedral|50.9412784|6.95828140000003|/Users/peter/Website/Articles/Diary/2013/rhine_cruise/index.html#1
   Commodore Hotel Gyeongju|35.8446642|129.285081|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju1.html#1
   Coniston Water|54.343243|-3.07162659999995|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
-  Conspicuous Cliffs|-35.0389989|116.8432987|/Users/peter/Website/Articles/Diary/2003/walpole/index.html#1
+  Conspicuous Cliffs|-35.0389989|116.8432987|/Users/peter/Website/Articles/Diary/2003/australia/walpole/index.html#1
   Cooper Creek Wilderness|-16.171689|145.419137|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#1
   Corfe Castle|50.6384021|-2.05771329999993|/Users/peter/Website/Articles/Diary/2019/Dorset/index.html#1
   Corfu|39.6249838|19.9223461|/Users/peter/Website/Articles/Diary/2014/Azura/corfu.html#1
@@ -100,7 +100,7 @@ Table:
   Darwin|-12.4634403|130.8456418|/Users/peter/Website/Articles/Diary/2002/kakadu/index.html#1
   Den Tilsandede Kirke|57.7136405|10.550614|/Users/peter/Website/Articles/Diary/2017/Baltics/skagen.html#1
   Denby Pottery Village|53.0225742|-1.41421300000002|/Users/peter/Website/Articles/Diary/2012/derbyshire/index.html#1
-  Denham|-25.927196|113.5423745|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
+  Denham|-25.927196|113.5423745|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#1
   Dimmuborgir|65.6030357|-16.9291591|/Users/peter/Website/Articles/Diary/2019/Iceland/iceland/index.html#1
   Dinosaur Isle|50.659197|-1.14275900000007|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
   Discovery Lodge Tongariro|-39.1673353|175.4807568|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#1
@@ -129,17 +129,17 @@ Table:
   Forest of Dean|51.7999835|-2.55191690000004|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#1
   Fox Glacier|-43.4644799|170.0175878|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Foxton Locks|52.49879|-0.982143700000051|/Users/peter/Website/Articles/Diary/2019/Foxton_Locks/index.html#1
-  Francois Peron National Park|-25.8370706|113.6233155|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
+  Francois Peron National Park|-25.8370706|113.6233155|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#1
   Franz Josef Glacier|-43.3873293|170.1832884|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Frederiksborg Castle|55.9349652|12.3012724|/Users/peter/Website/Articles/Diary/2017/Baltics/copenhagen.html#1
   Fregatten Jylland|56.1991809|10.6738776|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#1
-  Fremantle|-32.0518191|115.7551085|/Users/peter/Website/Articles/Diary/2003/Perth/index.html#1
+  Fremantle|-32.0518191|115.7551085|/Users/peter/Website/Articles/Diary/2003/australia/Perth/index.html#1
   Fukuchi-In|34.215951|135.584843|/Users/peter/Website/Articles/Diary/2013/japan_holiday/koyasan.html#1
   Funchal|32.6669328|-16.9240554|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#1
-  Gagadju Crocodile Hotel|-12.670456|132.831877|/Users/peter/Website/Articles/Diary/2003/arnhemland/index.html#1
+  Gagadju Crocodile Hotel|-12.670456|132.831877|/Users/peter/Website/Articles/Diary/2003/australia/arnhemland/index.html#1
   Gamle Stavanger|58.9716156|5.72625389999996|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Gardens by the Bay|1.2815683|103.8636132|/Users/peter/Website/Articles/Diary/2020/New_Zealand/12_Singapore_and_home/index.html#1
-  Geraldton|-28.7773715|114.6149715|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
+  Geraldton|-28.7773715|114.6149715|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#1
   Ghibli Museum|35.696238|139.5704317|/Users/peter/Website/Articles/Diary/2013/japan_holiday/tokyo.html#1
   Gibraltar|36.140751|-5.35358500000007|/Users/peter/Website/Articles/Diary/2014/Azura/gibraltar.html#1
   Gion Corner|35.001658|135.7751316|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto.html#1
@@ -155,7 +155,7 @@ Table:
   Great Sphinx of Giza|29.9752687|31.1375674|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
   Green Cross Inn|51.1085454|0.43996930000003|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
   Green Island|-16.7597228|145.9738016|/Users/peter/Website/Articles/Diary/2002/cairns/index.html#1
-  Greengables Lodge|-28.7061968|114.6662755|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
+  Greengables Lodge|-28.7061968|114.6662755|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#1
   Grime's Graves|52.4768698|0.676311599999963|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Grizedale Forest|54.354267|-3.00028999999995|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#1
   Groombridge Place|51.1182756|0.188899200000037|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
@@ -167,7 +167,7 @@ Table:
   Haast Pass|-44.1|169.35|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Haddon Hall|53.193965|-1.64959299999998|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Hallgrim's Church|64.1417149|-21.926637|/Users/peter/Website/Articles/Diary/2019/Iceland/iceland/index.html#1
-  Hamelin Pool|-26.4092839|114.4625194|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
+  Hamelin Pool|-26.4092839|114.4625194|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#1
   Hankone Pirate Cruise|35.2238473|138.9995576|/Users/peter/Website/Articles/Diary/2013/japan_holiday/fuji_hakone.html#1
   Hellisheidi|64.0372869|-21.401011|/Users/peter/Website/Articles/Diary/2019/Iceland/iceland/index.html#1
   Herculaneum|40.8061435|14.3473721|/Users/peter/Website/Articles/Diary/2016/Arcadia/salerno.html#1
@@ -186,13 +186,13 @@ Table:
   Hotel Gracery Shinjuku|35.695306|139.7020539|/Users/peter/Website/Articles/Diary/2020/New_Zealand/2_Godzilla_Hotel/index.html#1
   Houghton Hall|52.826846|0.65781579999998|/Users/peter/Website/Articles/Diary/2005/houghton_hall/index.html#1
   Hunstanton Sea Life|52.9349242|0.483348599999999|/Users/peter/Website/Articles/Diary/2016/Hunstanton/index.html#1
-  Hutt Lagoon|-28.1621037|114.2449937|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
+  Hutt Lagoon|-28.1621037|114.2449937|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#1
   Hverir|65.6409144|-16.809311|/Users/peter/Website/Articles/Diary/2019/Iceland/iceland/index.html#1
   Jagalchi Market|35.0967055|129.0304885|/Users/peter/Website/Articles/Diary/2016/Korea/busan.html#1
   Jane Austen's House Museum|51.133093|-0.98900500000002|/Users/peter/Website/Articles/Diary/2016/Hampshire/index.html#1
   Jervaulx Abbey & Tearoom|54.2664072|-1.74220300000002|/Users/peter/Website/Articles/Diary/2018/Yorkshire/index.html#1
   Jongno Tower|37.5707717|126.9835203|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#1
-  Kalbarri National Park|-27.7543546|114.3714731|/Users/peter/Website/Articles/Diary/2003/Kalbarri/index.html#1
+  Kalbarri National Park|-27.7543546|114.3714731|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#1
   Karasuma Kyoto Hotel|35.0019621|135.7593548|/Users/peter/Website/Articles/Diary/2013/japan_holiday/fuji_hakone.html#1
   Karekare Beach|-36.9879115|174.4730589|/Users/peter/Website/Articles/Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html#1
   Kasuga Taisha Shrine|34.6813804|135.8483856|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto_nara.html#1
@@ -217,7 +217,7 @@ Table:
   La Spezia|44.1024504|9.8240826|/Users/peter/Website/Articles/Diary/2016/Arcadia/la_spezia.html#1
   Lahemaa National Park|59.5676617|25.7810188|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#1
   Lake Barrine|-17.2460689|145.6390511|/Users/peter/Website/Articles/Diary/2002/lake_barrine/index.html#1
-  Lake Thetis|-30.5072222|115.0805556|/Users/peter/Website/Articles/Diary/2003/pinnacles/index.html#1
+  Lake Thetis|-30.5072222|115.0805556|/Users/peter/Website/Articles/Diary/2003/australia/pinnacles/index.html#1
   Lakeland Motor Museum|54.2587173|-2.9891394|/Users/peter/Website/Articles/Diary/2014/LakeDistrict/index.html#1
   Lakes Aquarium|54.2783179|-2.95591239999999|/Users/peter/Website/Articles/Diary/2014/LakeDistrict/index.html#1
   Las Palmas de Gran Canaria|28.1235459|-15.4362573999999|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#1
@@ -251,7 +251,7 @@ Table:
   Milford Sound|-44.6414024|167.8973801|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Millaa-Millaa Falls|-17.4955744|145.6108135|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
   Mirror Lake|-44.8172888|167.7847842|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
-  Monkey Mia|-25.7943082|113.7187569|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
+  Monkey Mia|-25.7943082|113.7187569|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#1
   Monkey World - Ape Rescue Centre|50.6976002|-2.21715589999997|/Users/peter/Website/Articles/Diary/2019/Dorset/index.html#1
   Monmouth and Brecon canal|51.8270628|-3.10269010000002|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#1
   Mottisfont|51.0398988|-1.53324350000003|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#1
@@ -301,7 +301,7 @@ Table:
   Park Guell|41.4144948|2.15269450000005|/Users/peter/Website/Articles/Diary/2016/Arcadia/barcelona.html#1
   ParkRoyal on Pickering|1.2858085|103.8460908|/Users/peter/Website/Articles/Diary/2020/New_Zealand/12_Singapore_and_home/index.html#1
   Pembury Baptist Church|51.1475239|0.328106899999966|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
-  Perth|-31.9505269|115.8604572|/Users/peter/Website/Articles/Diary/2003/Perth/index.html#1
+  Perth|-31.9505269|115.8604572|/Users/peter/Website/Articles/Diary/2003/australia/Perth/index.html#1
   Peter Beales Roses|52.4983844|0.988335300000017|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Peterhof|59.8863041|29.9085976|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#1
   Philosopher's Path|35.0268199|135.7953591|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto.html#1
@@ -327,7 +327,7 @@ Table:
   Robinson College|52.2049386|0.104233399999998|/Users/peter/Website/Articles/Diary/2012/twelfth_night.html#1
   Robot Restaurant|35.6943187|139.7028432|/Users/peter/Website/Articles/Diary/2020/New_Zealand/3_Robot_Restaurant/index.html#1
   Roman Town House|50.717268|-2.44109900000001|/Users/peter/Website/Articles/Diary/2019/Dorset/index.html#1
-  Rottnest Island|-32.0063677|115.5073002|/Users/peter/Website/Articles/Diary/2003/Perth/index.html#1
+  Rottnest Island|-32.0063677|115.5073002|/Users/peter/Website/Articles/Diary/2003/australia/Perth/index.html#1
   Royal Delft|52.0013998|4.36695169999996|/Users/peter/Website/Articles/Diary/2017/Baltics/delft.html#1
   Ruakuri Cave|-38.2680529|175.0785166|/Users/peter/Website/Articles/Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html#1
   Rudesheim|49.9821443|7.93011239999998|/Users/peter/Website/Articles/Diary/2013/rhine_cruise/index.html#1
@@ -343,7 +343,7 @@ Table:
   Seaton Tramway|50.7050832|-3.06779470000004|/Users/peter/Website/Articles/Diary/2010/devon/index.html#1
   Seokguram|35.7950858|129.3496981|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju2.html#1
   Seoul Tower|37.5511694|126.9882266|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#1
-  Shell Beach|-26.215|113.7736111|/Users/peter/Website/Articles/Diary/2003/shark_bay/index.html#1
+  Shell Beach|-26.215|113.7736111|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#1
   Shinjuku Gyoen National Garden|35.6851763|139.7100517|/Users/peter/Website/Articles/Diary/2020/New_Zealand/4_Teahouses_and_Go/index.html#1
   Ship Creek|-43.7594038|169.1494901|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Shire's Rest|-37.8720905|175.6829096|/Users/peter/Website/Articles/Diary/2020/New_Zealand/9_Hobbiton/index.html#1
@@ -388,7 +388,7 @@ Table:
   The Little Mermaid|55.69286|12.5992828|/Users/peter/Website/Articles/Diary/2017/Baltics/copenhagen.html#1
   The Needles|50.6626024|-1.58983950000004|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
   The Phoenix Bar & Restaurant|52.2514557|0.108269800000016|/Users/peter/Website/Articles/Dining_out/phoenix_histon/index.html#1
-  The Pinnacles|-30.6472222|115.2111111|/Users/peter/Website/Articles/Diary/2003/pinnacles/index.html#1
+  The Pinnacles|-30.6472222|115.2111111|/Users/peter/Website/Articles/Diary/2003/australia/pinnacles/index.html#1
   The Roman Baths|51.381072|-2.35961900000007|/Users/peter/Website/Articles/Diary/2012/bath_long_weekend/index.html#1
   The Roses B&B|57.4235356|-6.18948669999997|/Users/peter/Website/Articles/Diary/2018/Columbus/skye.html#1
   The Royal Crescent|51.3866274|-2.36708499999997|/Users/peter/Website/Articles/Diary/2012/bath_long_weekend/index.html#1
@@ -422,7 +422,7 @@ Table:
   Undara Volcanic National Park|-18.2651052|144.5531284|/Users/peter/Website/Articles/Diary/2002/undara/index.html#1
   Unmunsa|35.661273|128.960278|/Users/peter/Website/Articles/Diary/2016/Korea/busan.html#1
   Uppark House and Garden - National Trust|50.9524027|-0.891257600000017|/Users/peter/Website/Articles/Diary/2016/Hampshire/index.html#1
-  Valley of the Giants|-34.9780479|116.8935444|/Users/peter/Website/Articles/Diary/2003/walpole/index.html#1
+  Valley of the Giants|-34.9780479|116.8935444|/Users/peter/Website/Articles/Diary/2003/australia/walpole/index.html#1
   Vasa Museum|59.3280233|18.0913964|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#1
   Vatnahalsen|60.7435346|7.12986550000005|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
   Vejer de la Frontera|36.252034|-5.9667359|/Users/peter/Website/Articles/Diary/2016/Arcadia/cadiz.html#1
@@ -437,7 +437,7 @@ Table:
   Waitomo|-38.2615305|175.1145451|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#1
   Waitomo Caves Guest Lodge|-38.260658|175.110435|/Users/peter/Website/Articles/Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html#1
   Waitomo Glowworm Caves|-38.260783|175.1035985|/Users/peter/Website/Articles/Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html#1
-  Walpole-Nornalup inlet|-35.003558|116.7319649|/Users/peter/Website/Articles/Diary/2003/walpole/index.html#1
+  Walpole-Nornalup inlet|-35.003558|116.7319649|/Users/peter/Website/Articles/Diary/2003/australia/walpole/index.html#1
   Walton-on-the-Naze|51.848186|1.26773600000001|/Users/peter/Website/Articles/Diary/2008/walton/index.html#1
   Waltzing Waters|50.7105509|-1.14075790000004|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#1
   Warnemunde|54.170342|12.0784438000001|/Users/peter/Website/Articles/Diary/2017/Baltics/warnemunde.html#1
