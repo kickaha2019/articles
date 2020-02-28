@@ -7,8 +7,9 @@ Anchor:
 Title:
 	Guernsey
 
-Right:
+Image:
   guernsey1.jpg
+  Guernsey
   
 Text:
 	The swell meant it was very slow getting people ashore by tender

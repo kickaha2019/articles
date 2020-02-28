@@ -7,8 +7,9 @@ Anchor:
 Title:
 	Mull
 
-Right:
+Image:
   mull1.jpg
+  Tobermory
   
 Text:
 	A tender ride to Tobermory but at least they could dock 2 tenders at the pier.

@@ -4,9 +4,10 @@ Date:
 Title:
 	The ship
 
-Right:
+Image:
   ship3.jpg
-
+  Columbus ship
+  
 Text:
 	What shall we say about the good and bad ship [Columbus]?
 
@@ -20,9 +21,10 @@ Text:
   Water did drain away rather slowly in the shower unit. I confess I spilt water
   on the floor and blanket one night while watching a film on my iPad, sorry.
 
-Left:
+Image:
   ship1.jpg
-
+  Grill restaurant
+  
 Text:
   The staff work very hard and very long - our cabin steward Florian was pleasant
   and spoke to us, the entertainers were energetic, waiters talked as well as waited.
@@ -31,9 +33,10 @@ Text:
   poured into the glass - confusion caused by the same wine being available in both
   colours.
 
-Right:
+Image:
   ship2.jpg
-
+  Waterfront restaurant
+  
 Text:
   We had our evening meals mainly in the Waterfront restaurant which was laid
   out nicely, the space broken up by dividers and walls, though in some seats you
@@ -42,9 +45,10 @@ Text:
   hadn't seen who sat down with us, they had transferred from the second sitting. The
   first sitting was too early at 5.45pm, the second sitting too late at 8.30pm.
 
-Left:
+Image:
   ship4.jpg
-
+  Hemingways
+  
 Text:
   Hemingways on deck 5 wasn't a bad place to sit and have a chocolate and almond
   muffin and read a book - though one waiter was over-talkative. We tried our hand at
@@ -57,8 +61,9 @@ Text:
   some cruise lines which shrink the laundrettes to get more cabins for more
   passengers.
 
-Right:
+Image:
   ship5.jpg
+  Palladium Lounge
 
 Text:
   The evening shows were held in the Palladium lounge but to get a decent view you

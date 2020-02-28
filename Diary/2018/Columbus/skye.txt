@@ -10,9 +10,10 @@ Anchor:
 Title:
 	Skye
 
-Right:
+Image:
   skye1.jpg
-
+  Dunvegan Castle
+  
 Text:
 	We had a very pleasant time with our friends Andy and Lianna on
  the Isle of Skye, they run [https://www.therosesbb.co.uk/en-GB The Roses B&B] there.
@@ -20,9 +21,10 @@ Text:
  roads, Lianna had injured herself driving in the rain by thinking a
  pothole was only a puddle because of the water on the road.
 
-Left:
+Image:
   skye2.jpg
-
+  Dunvegan Castle
+  
 Text:
  They took us to [https://www.dunvegancastle.com/ Dunvegan Castle] which is
  another castle with plenty of history, and connections to Flora Macdonald
@@ -34,9 +36,10 @@ Text:
  which was a challenge for Andy to park at. Good place to eat at. Old school is
  good school to me.
 
-Right:
+Image:
   skye3.jpg
-
+  Kilt Rock
+  
 Text:
  Andy and Lianna took us on a tour of some of Skye which has a lot of
  windswept hills and lochs, rugged landscapes. We managed to park at the very busy

@@ -6,9 +6,6 @@ Anchor:
   Giske Church
   Alesund
   
-Right:
-	alesund_town2.JPG
-
 Text:
 	At 3am in the morning we were awoken by kettles and telephones and
 	bottles flying around the cabin. A storm the captain had told us about
@@ -24,9 +21,6 @@ Text:
 	A man walked illegally along one such tunnel, the coach driver honked and
 	we later saw police going to arrest him.
 
-Left:
-	alesund_lh2.JPG
-	
 Text:
 	Giske Church was interesting. Pre-reformation it was Catholic, the Church had
 	kissing crosses on it which pilgrims could kiss to get 100 days of time off purgatory.

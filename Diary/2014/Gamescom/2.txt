@@ -4,9 +4,10 @@ Title:
 Date:
 	12th August 2014
 
-Right:
+Image:
 	IceTrain.JPG
-	
+	ICE Train
+  
 Text:
 	Virginia took me to Waterbeach station, and I caught the 7.57am
 	train to Kings Cross. 1st class didn't seem too different to 2nd class,

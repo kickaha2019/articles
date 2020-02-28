@@ -4,8 +4,9 @@ Date:
 Anchor:
   Thursford Collection
   
-Right:
+Image:
 	DSCF7241.JPG
+  Virginia at Fantasy Land
 
 Text:
 	Time for the [Thursford Christmas Spectacular] again!
@@ -21,8 +22,9 @@ Text:
 	you. Santa's Magical Journey looked pretty much like it did last year, in fact Thursford as
 	a whole did though there is a new toy shop there.
 
-Left:
+Image:
 	DSCF7246.JPG
+  Carousel
 
 Text:
 	We killed the time before 2pm by squeezing through the bustle in the shops (the coaches had
@@ -36,9 +38,10 @@ Text:
 	modern days. I enjoyed the first half - just more variety. The doves continued to fly at the
 	end of the performance. It was the 40th so looking back.
 
-Right:
+Image:
 	DSCF7252.JPG
-	
+	Illuminated trees
+  
 Text:
 	After the show we were fortunate to meet up with my cousin Pat and her husband
 	Richard in the marquee for a bite to eat before we left. We had thought they weren't going to

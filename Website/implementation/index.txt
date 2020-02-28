@@ -39,12 +39,6 @@ Text:
 Code:
 	ORDER=Name
 	TITLE=Peter's Pages
-	CENTRE_WIDTH=360
-	CENTRE_HEIGHT=270
-	FLOAT_WIDTH=204
-	FLOAT_HEIGHT=153
-	IMAGE_MAX_WIDTH=800
-	IMAGE_MAX_HEIGHT=600
 	TABLE_CLASS=table
 	URL=http://www.alofmethbin.com/
 
@@ -52,26 +46,11 @@ Text:
   The settings in one "parameters.txt" file apply to the current directory
   and sub-directories unless overriden by a lower-level "parameters.txt" file.
 
-  ''CENTRE_WIDTH'' and ''CENTRE_HEIGHT'' control the display size of images 
-  for the ''Centre'' declaration.
-
-  ''FLOAT_WIDTH'' and ''FLOAT_HEIGHT'' control the display size of images 
-  for the ''Left'' and ''Right'' declarations.	
-
-  ''GALLERY_HEIGHT'' and ''GALLERY_WIDTH'' control the display size of images 
-  for the ''Gallery'' declarations.
-
   ''INDEX'' if set to "image" specifies that images are used
   for index entries rather than text.
 
   ''INDEX_CHILDREN'' if set to "true" specifies that child pages
   are indexed.
-
-  ''INDEX_WIDTH'' and ''INDEX_HEIGHT'' control the display size of images
-  used for images as indexes.
-
-  ''IMAGE_MAX_WIDTH'' and ''IMAGE_MAX_HEIGHT'' limit the size of images
-  copied or scaled into the website from the articles.
 
   ''ORDER'' gives the order that the children are to be displayed in.
   Options are ''Name'' (alphabetical order), ''Date'' (date order),
@@ -90,17 +69,14 @@ Heading:
 	Handling images
 	
 Text:
-	The ''Centre'', ''Gallery'', ''Left'', and
-	''Right'' declarations add images to the article page.
+	The ''Image'' declaration add images to the article page.
 	The images can either be files inside the directory for the
 	target website, or files relative to the file for the article page.
 
-	If the image is relative to the article then it will be copied
-	to the website directory, scaling it if necessary so it is
-	no larger than the dimensions given by parameters
-	"IMAGE_MAX_WIDTH" and "IMAGE_MAX_HEIGHT".
+	The image will be scaled (at different resolutions) for display
+  on the web.
 
-	The image is
+	If the image is an inset then it will
 	generated inside a link which can be clicked to display the full
 	image.
 

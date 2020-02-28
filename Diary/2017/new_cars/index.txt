@@ -4,9 +4,10 @@ Date:
 Title:
 	New cars on the drive
 
-Right:
+Image:
 	P1380066.JPG
-
+  Our new Kia cars
+  
 Text:
 	The Skodas we were driving had been declining for some while - the grating
 	noises and screaming bearings from my car in particular urged us to a drastic

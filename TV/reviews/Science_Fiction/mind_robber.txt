@@ -9,9 +9,10 @@ Table:
 	Cast|Patrick Troughton, Frazer Hines, Wendy Padbury
 	Length|5 25 minute episodes
 
-Right:
+Image:
 	mind_robber.jpg
-	
+	Mind Robber
+  
 Text:
 	Plot: the Doctor is trapped in the land of fiction
 	and must contend in a place where reality is very

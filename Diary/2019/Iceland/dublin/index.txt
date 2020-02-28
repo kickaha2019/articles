@@ -5,9 +5,10 @@ Anchor:
   St Patrick's Cathedral
   Arlington Hotel
   
-Right:
+Image:
   cathedral.jpg
-
+  St Patrick's Cathedral
+  
 Text:
   We did an excursion in Dublin which took us round some of Dublin including a stop
   to snap St Patrick's Cathedral, together with narration about various statues.
@@ -19,9 +20,10 @@ Text:
   at the Gaiety Theatre in Dublin, but that got cancelled so we booked
   this excursion instead.
 
-Left:
+Image:
   dancing.jpg
-
+  Celtic Nights show
+  
 Text:
   The dancing and singing being done in a pub-like setting made
   the show more immediate, closer, cosier. There was more rapport between

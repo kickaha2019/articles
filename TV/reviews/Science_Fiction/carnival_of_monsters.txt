@@ -9,9 +9,10 @@ Table:
 	Cast|Jon Pertwee, Katy Manning, Leslie Dwyer
 	Length|4 25 minute episodes
 	
-Right:
+Image:
 	carnival_of_monsters.jpg
-	
+	Carnival of Monsters
+  
 Text:
 	Plot: the Doctor finds himself trapped in an
 	inter-galactic peepshow, where different life-forms

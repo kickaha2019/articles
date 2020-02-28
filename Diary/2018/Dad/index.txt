@@ -4,8 +4,9 @@ Date:
 Title:
 	My father
 
-Right:
+Image:
 	cringleford.JPG
+  Dad at Cringleford
 
 Text:
 	My father John Sidney Smith died this evening. Oscar Wilde quipped that "All women become like their mothers.
@@ -24,8 +25,9 @@ Text:
 	(the last after being
 	taken to hear a Russian balalaika orchestra visiting Norwich).
 
-Left:
+Image:
 	wedding.jpg
+  Dad at our wedding
 
 Text:
 	My father had taste and talent in art. He won a prize at age 17.
@@ -40,8 +42,9 @@ Text:
 	Cambridge camera club. I like taking pictures, but am really grateful for auto-focus.
 
 
-Right:
+Image:
 	dad.jpg
+  Dad in later years
 
 Text:
 	He worked hard to provide for his family. He studied statistics in evening
@@ -64,8 +67,9 @@ Text:
 	introduced me to films like Kurosawa's "Seven Samurai", and Jacques Tati's
 	"Playtime" and "Traffic". He expanded my horizons.
 
-Left:
+Image:
 	sunset.JPG
+  Dad on a mobility scooter at Anglesey Abbey
 
 Text:
 	He also introduced me to Eastern thought like Zen and koans, to the deeply

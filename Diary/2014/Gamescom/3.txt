@@ -4,9 +4,10 @@ Title:
 Date:
 	13th August 2014
 
-Right:
+Image:
 	LovePadlocks.JPG
-
+  Love padlocks
+  
 Text:
 	Had my one and only breakfast at the hotel then sent off the
 	postcards from Cologne main station (after a hunt for the post office 
@@ -27,9 +28,10 @@ Text:
 	it sounded.  I saw Agust&iacute;n later and he recognised who I had to be!  
 	I felt a momentary glow of fame!
 
-Left:
+Image:
 	KresimirSpes.JPG
-
+  Kresimir Spes
+  
 Text:
 	Interviewed [http://www.gameboomers.com/interviews/KSpesInterview/KSpesInterview.htm Kre&#353;imir &#352;pes] of
 	''Cateia Games'' at the Croatian booth - Kaptain Brawe should be said
@@ -43,9 +45,10 @@ Text:
 	[https://www.perilsofman.com Perils of Man] -
 	a promising multi platform Adventure game.
 
-Right:
+Image:
 	AgustinCordes.JPG
-	
+  Agustin Cordes
+  
 Text:
 	Talked to [http://www.gameboomers.com/interviews/AgustinCordes/AgustinCordes.htm Agust&iacute;n Cordes] of [https://talk.senscape.io Senscape] who showed me
 	the Unity improvements to "Asylum", as well as what a new Kickstarter 

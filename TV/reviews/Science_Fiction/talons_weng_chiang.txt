@@ -9,9 +9,10 @@ Table:
 	Cast|Tom Baker, Louise Jameson, John Bennett
 	Length|6 25 minute episodes
 
-Right:
+Image:
 	talons_weng_chiang.jpg
-	
+	The Talons of Weng Chiang
+  
 Text:
 	Plot: in Victorian London a Chinese magician has
 	something nasty hidden in the cellar.

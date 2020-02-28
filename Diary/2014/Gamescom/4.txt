@@ -4,9 +4,10 @@ Title:
 Date:
 	14th August 2014
 
-Right:
+Image:
 	CharlesCecil.JPG
-
+  Charles Cecil
+  
 Text:
 	Started the day with sausage and egg muffin and OJ from the station 
 	Macdonalds - I preferred it to the hotel breakfast.
@@ -32,9 +33,10 @@ Text:
 	(Agust&iacute;n's help was significant - he told me Jonas Kyratzes was here, 
 	as well as relaying messages to Jan and encouraging me to try Charles Cecil.)
 
-Left:
+Image:
 	JanTheysen.JPG
-
+  Jan Theysen
+  
 Text:
 	I interviewed [http://www.gameboomers.com/interviews/JanTheysen/JanTheysen.htm Jan Theysen] of [King Art Games] after short demo of BOUT 2.
 
@@ -55,9 +57,10 @@ Text:
 	But I'm not interested in football or cricket so this was a little myopic
 	to think every Korean is interested in everything Korean.
 
-Right:
+Image:
 	Cafe2.JPG
-	
+	Gamescom cafe
+  
 Text:
 	I descended twice into the hell of Hall 10.1 in search of Jonas Kyratzes.
 	Crowded dark formless young roaming swirling around platforms with

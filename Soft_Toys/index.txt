@@ -10,9 +10,10 @@ Text:
 Heading:
   Beatrix
 
-Right:
+Image:
   Beatrix.JPG
-
+  Beatrix
+  
 Text:
   Beatrix was got as a present for my mother on our
   [../Diary/2011/black_watch/index.html cruise] to the Baltics with Dad in
@@ -21,18 +22,20 @@ Text:
 
 Heading:
   Benjamin
-
-Left:
+  
+Image:
   Benjamin.jpg
+  Benjamin
 
 Text:
   Virginia got this smaller version of Sebastian from a Post Office.
 
 Heading:
   Daisy
-
-Right:
+  
+Image:
   Daisy.jpg
+  Daisy
 
 Text:
   Virginia has had several [https://www.chocolate-parties.com Chocoholics] parties
@@ -42,8 +45,9 @@ Text:
 Heading:
   Figment
 
-Left:
+Image:
   Figment.jpg
+  Figment
 
 Text:
   Figment was my mother's souvenir of seeing the magical original
@@ -52,8 +56,9 @@ Text:
 Heading:
   Fleur
 
-Right:
+Image:
   Fleur.JPG
+  Fleur
 
 Text:
   Fleur we got from a Butlins shop on one visit to [https://springharvest.org/ Spring Harvest].
@@ -61,8 +66,9 @@ Text:
 Heading:
   Hamilton
 
-Left:
+Image:
   Hamilton.jpg
+  Hamilton
 
 Text:
   Decades ago Virginia's mother worked at the Central News Agency department store
@@ -77,8 +83,9 @@ Text:
 Heading:
   Helena
 
-Right:
+Image:
   helena.JPG
+  Helena
 
 Text:
   A gift from Virginia's sister Justine.
@@ -86,8 +93,9 @@ Text:
 Heading:
   Horton
 
-Left:
+Image:
   Horton.jpg
+  Horton
 
 Text:
   Horton came out of a box of tea bags as a promotion for
@@ -96,8 +104,9 @@ Text:
 Heading:
   Katie
 
-Right:
+Image:
   Katie.JPG
+  Katie
 
 Text:
   Katie is a kiwi I brought back from a trip to New Zealand.
@@ -105,8 +114,9 @@ Text:
 Heading:
   Keeley
 
-Left:
+Image:
   Keeley.jpg
+  Keeley
 
 Text:
   Keeley is a koala I brought back from an antipodean trip. She spent
@@ -116,8 +126,9 @@ Text:
 Heading:
   Oswald
 
-Right:
+Image:
   Oswald.jpg
+  Oswald
 
 Text:
   At my work one team I was on each got given a puffin soft toy as
@@ -126,8 +137,9 @@ Text:
 Heading:
   Peter Junior
 
-Left:
+Image:
   PeterJr.jpg
+  Peter Junior
 
 Text:
   Peter Junior was toynapped from a hotel Virginia and I stayed at.
@@ -137,8 +149,9 @@ Text:
 Heading:
   Rachel
 
-Right:
+Image:
   Rachel.jpg
+  Rachel
 
 Text:
   A gift from Virginia's sister Justine.
@@ -146,8 +159,9 @@ Text:
 Heading:
   Rhys
 
-Left:
+Image:
   Rhys.jpg
+  Rhys
 
 Text:
   Rhys we got as a result of buying a copy of
@@ -156,8 +170,9 @@ Text:
 Heading:
   Sebastian
 
-Right:
+Image:
   Sebastian.jpg
+  Sebastian
 
 Text:
   Virginia used to work at Careforce in Waterbeach. People used to come round

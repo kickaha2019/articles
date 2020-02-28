@@ -9,9 +9,10 @@ Table:
 	Cast|Tom Baker, Ian Marter, Elisabeth Sladen, Michael Wisher
 	Length|6 25 minute episodes
 
-Right:
+Image:
 	genesis_daleks.jpg
-	
+	Genesis of the Daleks
+  
 Text:
 	Plot: the Time Lords send the Doctor back in
 	time to Skaro to stop the Daleks being created,

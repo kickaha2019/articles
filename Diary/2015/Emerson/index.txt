@@ -4,9 +4,10 @@ Title:
 Date:
 	10th July 2015
 
-Right:
+Image:
 	tarkus.jpg
-
+  Tarkus album cover
+  
 Text:
 	In a different time and place I was a pupil at [https://www.norwich-school.org.uk/ Norwich School].
 	We had a music teacher called Bernard Burrell
@@ -23,8 +24,9 @@ Text:
 	the piano (I'm not sure my piano teachers and examiners consider that a good thing). To this day I still listen
 	to progressive rock, and especially ELP. But I never saw them live in concert, only in dreams.
 
-Left:
+Image:
 	pictures.jpg
+  Pictures album cover
 
 Text:
 	The years turned. Internet and Facebook became part of my existence, I followed Keith Emerson's
@@ -51,8 +53,9 @@ Text:
 	plenty of places to sit down and wait. There are shops too, and on the spur of the moment
 	I got a birthday card.
 
-Right:
+Image:
 	trilogy.jpg
+  Trilogy album cover
 
 Text:
 	With a quarter of an hour to go I joined the rest of the audience in the hall, there was only a sheet of
@@ -79,3 +82,6 @@ Text:
 	I left after the second encore, hoping they didn't do more. I had been lucky enough to see one of my
 	heroes in action, still going strong. Great!
   
+Image:
+  debut.jpg
+  Debut album cover

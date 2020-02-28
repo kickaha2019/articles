@@ -8,8 +8,9 @@ Anchor:
 Title:
 	Kirkwall
 
-Right:
+Image:
   orkney1.jpg
+  Ring of Brodgar
 
 Text:
 	We did an excursion on the tree bare, windswept, Orkneys to see some striking
@@ -23,8 +24,9 @@ Text:
   spiritual dimension to the speechless rocks, some of which have fallen asleep.
   The constant supply of visitors made taking pictures difficult!
 
-Left:
+Image:
   orkney2.jpg
+  Skara Brae
 
 Text:
   The prize of the excursion was

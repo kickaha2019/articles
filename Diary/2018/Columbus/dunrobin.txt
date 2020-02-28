@@ -7,8 +7,9 @@ Anchor:
 Title:
 	Invergordon
 
-Right:
+Image:
   dunrobin2.jpg
+  Dunrobin Castle
 
 Text:
 	We did an excursion from Invergordon to see
@@ -19,9 +20,10 @@ Text:
  robber barons through ruthless opportunists during the Highland clearances to
  respected cultured nobility.
 
-Left:
+Image:
   dunrobin1.jpg
-
+  Dunrobin Castle
+  
 Text:
  The Castle has a well laid out garden in which a fascinating falconry display
  took place. The guy doing it was very easy to listen to, and eager to share his

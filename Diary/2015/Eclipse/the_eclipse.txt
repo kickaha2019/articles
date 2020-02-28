@@ -30,7 +30,7 @@ Text:
 	Virginia admired the pens the waiters had which had small lights at the nib end,
 	would have made a good souvenir!
 
-Gallery:
+Image:
 	eclipse_figure.JPG
 	Waiting for the Eclipse
 

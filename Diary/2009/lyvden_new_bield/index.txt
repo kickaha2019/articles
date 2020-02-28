@@ -7,9 +7,6 @@ Anchor:
 Date:
 	Wednesday, 7 October 2009
 
-Right:
-	outside.JPG
-
 Text:
 	Virginia and I went to see the unfinished Elizabethan mansion of 
 	[https://www.nationaltrust.org.uk/lyveden Lyveden New Bield]

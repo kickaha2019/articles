@@ -4,8 +4,9 @@ Date:
 Anchor:
   Audley End House and Gardens
   
-Right:
+Image:
   P1390037.jpg
+  Audley End House
 
 Text:
 	I used up one of the days of holiday I had to use before the end of the year
@@ -14,8 +15,9 @@ Text:
   parterre, nature forced into unnatural lines and arcs. A fountain fitfully
   and thinly spouted.
 
-Left:
+Image:
   P1390029.jpg
+  Nursery in Audley End House
 
 Text:
   The house is impressive, some stunning rooms. A pea-green bare room where once
@@ -26,8 +28,9 @@ Text:
   diagram telling of all the kinds of wood used in it. A nursery the only room
   photographs were allowed. A gallery of coal.
 
-Right:
+Image:
   P1390035.jpg
+  Audley End House
 
 Text:
   We went on the pantry tour which told of Mr Lincoln, a butler to the landed

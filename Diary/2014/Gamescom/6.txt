@@ -1,9 +1,10 @@
 Title:
 	6: Conclusions
 
-Right:
+Image:
 	GamescomSouthEntrance.JPG
-
+  Gamescom South Entrance
+  
 Text:
 	My grateful thanks go to Agustin Cordes who inspired this, 
 	Laura Macdonald who helped and advised and connected, 

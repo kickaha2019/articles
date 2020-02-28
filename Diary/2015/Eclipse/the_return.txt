@@ -1,9 +1,6 @@
 Date:
 	March 24th 2015
 
-Right:
-	boud_baked_alaska.JPG
-
 Text:
 	Now back in the UK!
 
@@ -27,7 +24,7 @@ Text:
 	show our passports which was strange. Easy journey back apart from Macdonalds
 	near Baldock doing an awful imitation of a cup of chocolate.
 
-Gallery:
+Image:
   boud_baked_alaska.JPG
   Baked Alaska procession
 

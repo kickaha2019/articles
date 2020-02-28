@@ -1,5 +1,6 @@
-Right:
+Image:
 	background/Atlantis3.jpg
+  Atlantis 3
 
 Text:
 	''Words'' will be a lot of pages of words to read. What background
@@ -16,8 +17,9 @@ Text:
 	the foreground text. Thoughts kept coming, about wavering Escher
 	staircases or Margritte apples and umbrellas bobbing around.
 
-Left:
+Image:
 	background/cathedral.png
+  Cathedral
 
 Text:
 	The next serious thought came when I watched a music video for
@@ -34,8 +36,9 @@ Text:
 	still ate up the CPU on our iMac. So it wouldn't have worked well
 	on a tablet. Sigh.
 
-Right:
+Image:
 	background/unity.jpg
+  Unity
 
 Text:
 	I began looking at [https://unity3d.com Unity] as a means of implementing the game,

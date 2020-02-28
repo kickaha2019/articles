@@ -7,9 +7,10 @@ Anchor:
 Title:
 	Belfast
 
-Right:
+Image:
   belfast1.jpg
-
+  Titanic Exhibition
+  
 Text:
 	We took a taxi from what we were told was Stormont Wharf to see the
  [https://titanicbelfast.com/ Titanic Exhibition] in Belfast. A lot of
@@ -18,9 +19,10 @@ Text:
  is striking. The exhibition stressed the importance of Belfast itself
  at the time that the Titanic was built and sent on her tragic way.
 
-Left:
+Image:
   belfast2.jpg
-
+  The Nomadic
+  
 Text:
  We also walked the decks of the Nomadic in a dry dock near the
  exhibition, a tender used to ferry passengers to the Titanic. A slice

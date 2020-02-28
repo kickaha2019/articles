@@ -7,8 +7,9 @@ Anchor:
 Title:
 	Cork
 
-Right:
+Image:
   cork1.jpg
+  English Market Cork
   
 Text:
 	We caught the shuttle bus from the port at Ringaskiddy

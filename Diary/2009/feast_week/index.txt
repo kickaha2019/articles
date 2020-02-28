@@ -7,9 +7,6 @@ Anchor:
 Date:
 	Saturday, 4 July 2009
 
-Right:
-	moonlit_mandolins.jpg
-
 Text:
 	Histon has its 
 	[http://hisimp.com/feast/ Feast Week]
@@ -18,9 +15,6 @@ Text:
 	We went to a concert by the 
 	[https://www.moonlightmandolins.org/ Moonlight Mandolins],
 	an enthusiastic and competent amateur group who played on a variety of instruments including mandolins, lutes, guitars, and mandora. Had tried several times before to see (and hear) them so this was pleasant. Good to do different things, and as I listened I thought it's good to have outlets for one's energies. If I didn't have hobbies I would be a sadder person.  
-
-Left:
-	window_display.JPG
 
 Text:
 	One regular event in Feast Week is the Flower Festival held at the [St Andrews Histon] parish church.

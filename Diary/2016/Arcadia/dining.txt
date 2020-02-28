@@ -4,8 +4,9 @@ Title:
 Date:
 	October 7th 2016
 
-Right:
+Image:
 	sindhu.jpg
+  Sindhu
 
 Text:
 	We often went up to the 
@@ -20,8 +21,9 @@ Text:
 	one time we did skip the tea and coffee. The food was varied in the Meridian, and there
 	was good choice.
 
-Left:
+Image:
 	sindhu2.jpg
+  Sindhu
 
 Text:
 	We had one meal in the Ocean Grill, and one in the Sindhu restaurants. They're oddly shaped

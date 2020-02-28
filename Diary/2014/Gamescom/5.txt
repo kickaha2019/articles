@@ -4,9 +4,10 @@ Title:
 Date:
 	15th August 2014
 
-Right:
+Image:
 	SushiBar.JPG
-
+  Gamescom sushi bar
+  
 Text:
 	Four helpful German m&auml;dchen tried to assist me buying a tourist U bahn ticket
 	but the machine didn't like my credit card. I didn't have enough coinage to
@@ -25,9 +26,10 @@ Text:
 	I frequented the sushi bar again to keep me going through lunchtime, 
 	this time having more pieces, and a cereal bar for dessert.
 
-Left:
+Image:
 	KevinMentz.JPG
-
+  Kevin Mentz
+  
 Text:
 	The lunchtime belonged to 
 	[Daedalic Entertainment]. A presentation of
@@ -49,9 +51,10 @@ Text:
 	[https://z-software.net/site/history-in-letters-the-eternal-alchemist/ History in Letters - The Eternal Alchemist]
 	which is what I would call an Adventure lite game.
 
-Right:
+Image:
 	JonasKyratzes.JPG
-	
+	Jonas Kyratzes
+  
 Text:
 	The last interview of Gamescom was with
 	[http://www.gameboomers.com/interviews/JonasKyratzes/JonasKyratzes.htm Jonas Kyratzes], who's
