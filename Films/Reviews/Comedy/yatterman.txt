@@ -6,8 +6,9 @@ Table:
 	Cast|Sho Sakurai, Sadao Abe, Kyoko Fukada
 	Details|Colour 119 mins
 
-Centre:
+Image:
 	yatterman.jpg
+ Yatterman
 
 Text:
 	A live-action adaptation of an earlier cartoon series.  The film features the son of a toy store and his girlfriend who spend their time building giant robots, but transform into Yatterman 1 and Yatterman 2 when it's time to go fighting evil.  Evil in this film comes in the attractive form of Lady Doronjo who with her evil sidekicks are seeking some skulls.

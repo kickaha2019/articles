@@ -1,5 +1,6 @@
-Right:
+Image:
 	od_magic.jpg
+ Od Magic
 
 Text:
 	''Od Magic'' (2005) is a wondrous many-threaded narrative.

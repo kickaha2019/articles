@@ -1,8 +1,9 @@
 Title:
 	Eschalon Book 2
 
-Centre:
+Image:
 	Eschalon2.jpg
+ Eschalon Book 2
 
 Text:
 	[http://basiliskgames.com/eschalon-book-ii/ Eschalon Book 2]

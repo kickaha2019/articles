@@ -1,8 +1,9 @@
 Title:
 	Nightmare Adventures: Witch's Prison
 
-Centre:
+Image:
 	WitchPrison.jpg
+ Nightmare Adventures: Witch's Prison
 
 Text:
 	"Nightmare Adventures: Witch's Prison" (

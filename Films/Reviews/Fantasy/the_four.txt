@@ -6,8 +6,9 @@ Table:
 	Cast| Chao Deng, Yifei Liu, Ronald Cheng
 	Details|Colour 118 mins
 
-Centre:
+Image:
 	the_four.jpg
+ The Four
 	
 Text:
 	A film loosely based on

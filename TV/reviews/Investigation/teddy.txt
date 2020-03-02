@@ -12,8 +12,9 @@ Table:
 	Themes|Silliness
 	Links|[https://www.fujitv.co.jp/teddygo/index.html Official website] [http://asianwiki.com/Teddy_Go!_(Japanese_Drama) Asian Wiki]
 
-Centre:
+Image:
 	teddy.jpg
+ Teddy Go
 
 Text:
 	A detective gets murdered but his soul ends up in a teddy bear. Which is

@@ -12,8 +12,9 @@ Table:
 	Themes|Law, revenge, cybercrime, trauma
 	Links|[https://www.koreandrama.org/lookout/ Korean Drama] [http://asianwiki.com/Lookout_(Korean_Drama) Asian Wiki]
 
-Centre:
+Image:
 	lookout.jpg
+ Lookout
 
 Text:
 	One synopsis on offer is "People lose loved ones in crimes and the criminals are not punished. The daily lives of these people are completely broken. They form a group to realize justice."

@@ -9,8 +9,9 @@ Table:
 	Themes|Robin Hood style outlaw, court intrigue, love triangle
 	Links|[http://asianwiki.com/Hong_Gil-Dong,_The_Hero Asian Wiki] [https://www.koreandrama.org/hong-gil-dong/ Korean Drama]
 
-Centre:
+Image:
 	hong_gil_dong.jpg
+ Hong Gil Dong
 
 Text:
 	"Hong Gil Dong" is a fusion sageuk TV mini-series written by the Hong sisters,

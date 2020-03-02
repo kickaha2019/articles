@@ -1,8 +1,9 @@
 Title:
 	And The Devil Will Drag You Under
 
-Right:
+Image:
 	and_the_devil.jpg
+ And The Devil Will Drag You Under
 
 Text:
 	''And The Devil Will Drag You Under'' (Jack Chalker 1979) is about an alcoholic demon's

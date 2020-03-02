@@ -1,5 +1,6 @@
-Right:
+Image:
 	Children_of_the_Nameless.png
+ Children of the Nameless
 
 Text:
 	[Children of the Nameless] (2018)

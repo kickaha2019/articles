@@ -1,8 +1,9 @@
 Title:
 	The Rithmatist
 
-Right:
+Image:
 	The_Rithmatist.jpg
+ The Rithmatist
 
 Text:
 	[The Rithmatist] (2013)

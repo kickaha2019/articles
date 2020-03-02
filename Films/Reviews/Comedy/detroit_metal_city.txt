@@ -6,8 +6,9 @@ Table:
 	Cast|Kenichi Matsuyama, Yoshihiko Hosoda
 	Details|Colour 104  minutes
 
-Centre:
+Image:
 	detroit_metal_city.jpg
+ Detroit Metal City
 	
 Text:
 	A delicious black comedy about a well-meaning nerd,

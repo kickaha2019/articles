@@ -9,8 +9,9 @@ Table:
 	Cast|Ryosei Konishi, Yuki Kubota, Keiko Matsuzaka
 	Details|Colour 96 mins
 
-Centre:
+Image:
 	garo.jpg
+ Garo and the Wailing Dragon
 
 Text:
 	A fantasy film about this heroic guy Kouga who makes a deal with

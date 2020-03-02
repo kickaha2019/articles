@@ -5,8 +5,9 @@ Table:
 	Cast|Nathan Fillon, Gina Torres, Alan Tudyk
 	Length|14 44 minute episodes
 
-Centre:
+Image:
 	firefly.jpg
+ Firefly
 
 Text:
 	A fusion between the mythic Wild West and a high tech

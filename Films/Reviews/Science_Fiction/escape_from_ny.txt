@@ -9,8 +9,9 @@ Table:
 	Cast|Kurt Russell, Lee Van Cleef, Ernest Borgnine
 	Details|Colour 99 mins
 
-Centre:
+Image:
 	escape_from_ny.jpg
+ Escape from New York
 	
 Text:
 	The directory John Carpenter also wrote the story and the music.

@@ -12,8 +12,9 @@ Table:
 	Themes|Ghosts, possession, corporate shenanigans
   Links|[https://programs.sbs.co.kr/drama/49days/about/51832/ Official website] [http://asianwiki.com/49_Days_-_Korean_Drama Asian Wiki] [https://www.koreandrama.org/49-days/ Korean Drama]
 
-Centre:
+Image:
 	49_days.jpg
+ 49 Days
 
 Text:
 	A naive nice optimistic chaebol heiress ends up in the body of

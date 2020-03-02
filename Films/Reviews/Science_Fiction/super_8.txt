@@ -6,8 +6,9 @@ Table:
 	Cast|Elle Fanning, AJ Michalka, Kyle Chandler
 	Details|Colour 112 mins
 
-Centre:
+Image:
 	Super8.jpg
+ Super 8
 
 Text:
 	A movie whose

@@ -9,8 +9,9 @@ Table:
 	Cast|Jennifer Ehle, Colin Firth, David Bamber, Alison Steadman
 	Details|Colour 300 minutes
 
-Centre:
+Image:
 	pride_prejudice.jpg
+ Pride and Prejudice
 
 Text:
 	Plot: read the Jane Austen book.

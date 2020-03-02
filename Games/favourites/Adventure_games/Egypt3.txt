@@ -1,8 +1,9 @@
 Title:
 	Egypt 3: The Egyptian Prophecy
 
-Centre:
+Image:
 	Egypt3.jpg
+ Egypt 3: The Egyptian Prophecy
 
 Text:
 	"Egypt 3: The Egyptian Prophecy" (2004) is the third game in the Egypt series

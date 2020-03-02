@@ -9,8 +9,9 @@ Table:
 	Cast|Rina Takeda, Kentaro Shimazu, Takamasa Suga
 	Details|Colour 92 mins
 
-Centre:
+Image:
 	dead_sushi.jpg
+ Dead Sushi
 
 Text:
 	Tasteless comic film exploitation.  The plot has a disgraced

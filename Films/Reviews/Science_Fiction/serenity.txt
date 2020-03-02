@@ -6,8 +6,9 @@ Table:
 	Cast|Nathan Fillion, Gina Torres, Chiwetel Ejiofor
 	Details|Colour 119 mins
 
-Centre:
+Image:
 	serenity.jpg
+ Serenity
 	
 Text:
 	"Serenity" is Joss Whedon's

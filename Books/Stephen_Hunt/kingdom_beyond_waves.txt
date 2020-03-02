@@ -1,9 +1,10 @@
 Title:
 	The Kingdom Beyond the Waves
 
-Right:
+Image:
 	KingdomBeyondWaves.jpg
-
+  The Kingdom Beyond the Waves
+  
 Text:
 	''The Kingdom Beyond the Waves'' (2008) is the second book in 
 	[Stephen Hunt]'s 

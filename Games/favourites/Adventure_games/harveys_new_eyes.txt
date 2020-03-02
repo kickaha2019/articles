@@ -1,8 +1,9 @@
 Title:
 	Edna and Harvey: Harvey's New Eyes
 
-Centre:
+Image:
 	harveys_new_eyes.jpg
+ Edna and Harvey: Harvey's New Eyes
 
 Text:
 	[https://www.daedalic.com/games Edna and Harvey: Harvey's New Eyes]

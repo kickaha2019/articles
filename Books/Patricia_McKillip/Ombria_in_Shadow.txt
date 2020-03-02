@@ -1,5 +1,6 @@
-Right:
+Image:
 	Ombria.jpg
+ Ombria in Shadow
 
 Text:
 	''Ombria in Shadow'' (2002) is the story of Ombria, and its shadows.

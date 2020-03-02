@@ -9,8 +9,9 @@ Table:
 	Cast|Margaret Lockwood, Michael Redgrave
 	Details|B/W 97 minutes
 
-Centre:
+Image:
 	lady_vanishes.jpg
+ The Lady Vanishes
 
 Text:
 	Plot: spy thriller where Margaret Lockwood's

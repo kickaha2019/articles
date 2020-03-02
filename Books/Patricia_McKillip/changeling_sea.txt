@@ -1,8 +1,9 @@
 Title:
 	The Changeling Sea
 
-Right:
+Image:
 	changeling_sea.jpg
+ The Changeling Sea
 
 Text:
 	''The Changeling Sea'' (1988) is a small book with a rich large

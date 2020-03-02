@@ -9,8 +9,9 @@ Table:
 	Cast|Shuji Kashiwabara, Mika Hijii, Ben Hiura
 	Details|Colour 80 mins
 
-Centre:
+Image:
 	alien_vs_ninja.jpg
+ Alien vs. Ninja
 
 Text:
 	A collision between "Alien" and "Predator" and

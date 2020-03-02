@@ -12,8 +12,9 @@ Table:
 	Themes|Fantasy, Young Adult, Adventure, Romance
 	Links|
 
-Centre:
+Image:
 	shannara_chronicles.jpg
+ Shannara Chronicles
 	
 Text:
 	Three young adults in a fantasy world find themselves on a quest

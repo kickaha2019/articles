@@ -6,8 +6,9 @@ Table:
 	Cast|Cheng Yu-Ling, Fung Shiu-Fan, Kwok Kam-Yan
 	Details|Colour 90 minutes
 
-Centre:
+Image:
 	all_night_long.jpg
+ All Night Long
 	
 Text:
 	Plot: an ill-assorted group of women suddenly find

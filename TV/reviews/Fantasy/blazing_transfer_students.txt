@@ -11,8 +11,9 @@ Table:
 	Details|8 episodes
 	Themes|School, anime
 
-Centre:
+Image:
 	blazing_transfer_students.jpg
+ Blazing transfer students
 
 Text:
 	Totally nuts TV series based on a Japanese anime about the Blazing

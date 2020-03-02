@@ -1,5 +1,6 @@
-Centre:
+Image:
 	a_Grain_of_Truth.jpg
+ a Grain of Truth
 
 Text:
 	[http://www.zamolski.com/agot/ a Grain of Truth]

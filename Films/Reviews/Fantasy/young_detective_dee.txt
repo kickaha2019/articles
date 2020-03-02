@@ -9,8 +9,9 @@ Table:
 	Cast|Angelababy, Mark Chao, Kun Chen
 	Details|Colour 134 mins
 
-Centre:
+Image:
 	young_detective_dee.jpg
+ Young Detective Dee: Rise of the Sea Dragon
 
 Text:
 	Prequel to [https://www.imdb.com/title/tt1123373/ Detective Dee And The Phantom Menace].

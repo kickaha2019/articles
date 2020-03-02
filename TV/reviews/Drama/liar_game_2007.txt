@@ -12,8 +12,9 @@ Table:
 	Themes|Swindling, debt, trust
 	Links|[http://asianwiki.com/Liar_Game Asian Wiki]
 
-Centre:
+Image:
 	liar_game_2007.jpg
+ Liar Game
 	
 Text:
 	Based on a Japanese manga about a naive college student who gets enmeshed

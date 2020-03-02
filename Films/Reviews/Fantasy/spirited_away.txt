@@ -5,8 +5,9 @@ Table:
 	Year|2001
 	Details|Colour 125 mins
 
-Centre:
+Image:
 	spirited_away.jpg
+ Spirited Away
 
 Text:
 	An

@@ -12,8 +12,9 @@ Table:
 	Details|10 15-minute episodes
 	Links|[https://tv.naver.com/sim2005 Official website] [https://www.koreandrama.org/prince-of-prince/ Korean Drama] [https://www.hancinema.net/korean_drama_Prince_of_Prince.php Han Cinema]
 
-Centre:
+Image:
 	princes_prince.jpg
+ Prince of Prince
 
 Text:
 	This is based on a web cartoon, and perhaps if I could read Korean and had read

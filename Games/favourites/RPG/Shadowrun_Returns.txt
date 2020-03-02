@@ -1,8 +1,9 @@
 Title:
 	Shadowrun Returns
 
-Centre:
+Image:
 	Shadowrun_Returns.jpg
+ Shadowrun Returns
 
 Text:
 	[http://harebrained-schemes.com/games/ Shadowrun Returns]

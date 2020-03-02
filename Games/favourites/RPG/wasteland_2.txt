@@ -1,5 +1,6 @@
-Centre:
+Image:
 	wasteland_2.jpg
+ Wasteland 2
 
 Text:
 	[Wasteland 2]

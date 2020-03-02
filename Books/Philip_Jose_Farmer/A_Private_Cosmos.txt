@@ -1,5 +1,6 @@
-Right:
+Image:
 	A_Private_Cosmos.jpg
+ A Private Cosmos
 
 Text:
 	"A Private Cosmos" (1968) is the third novel in the ''World of Tiers''

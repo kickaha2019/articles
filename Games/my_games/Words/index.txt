@@ -1,8 +1,9 @@
 Date:
 	May 31st 2015
 
-Centre:
+Image:
 	words.jpg
+ Words
 	
 Text:
 	My mother died on June 10th, 2012.  We had the funeral service, and

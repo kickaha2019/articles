@@ -1,8 +1,9 @@
 Title:
 	The Luck of Relian Kru
 
-Right:
+Image:
 	relian_kru.jpg
+ The Luck of Relian Kru
 
 Text:
 	''The Luck of Relian Kru'' (1987) is set in a fanciful fantasy world.

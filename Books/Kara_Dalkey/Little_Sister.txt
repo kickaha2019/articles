@@ -1,5 +1,6 @@
-Right:
+Image:
 	little_sister.jpg
+ Little Sister
 
 Text:
 	''Little Sister'' (1998) is the story of Mitsuko, the little sister

@@ -12,8 +12,9 @@ Table:
 	Themes|Love triangles, impersonation
 	Links|[http://allvod.sbs.co.kr/allvod/vodProgramDetail.do?pgmId=00000322657 Official website] [http://asianwiki.com/My_Girl_(Korean_Drama) Asian Wiki] [https://www.koreandrama.org/my-girl/ Korean Drama] [http://english.visitkorea.or.kr/enu/CU/CU_EN_8_5_1_15.jsp Korea Tourism Guide]
 
-Centre:
+Image:
 	my_girl.jpg
+ My Girl
 
 Text:
 	The confidence trickster daughter of a gambling swindler is persuaded

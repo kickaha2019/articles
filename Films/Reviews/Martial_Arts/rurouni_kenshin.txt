@@ -6,8 +6,9 @@ Table:
 	Cast|Yu Aoi, Takeru Sato, Teruyuki Kagawa
 	Details|Colour 134 mins
 
-Centre:
+Image:
 	rurouni_kenshin.jpg
+ Rurouni Kenshin
 
 Text:
 	A Japanese film in a well-established vein.  A

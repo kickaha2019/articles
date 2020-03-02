@@ -6,8 +6,9 @@ Table:
 	Cast|Michael Hui, Sam Hui, Ricky Hui
 	Details|Colour 90 minutes
 
-Centre:
+Image:
 	security_unlimited.jpg
+ Security Unlimited
 	
 Text:
 	Plot: Michael Hui is a petty-minded manager in a

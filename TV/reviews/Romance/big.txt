@@ -12,8 +12,9 @@ Table:
 	Themes|Body swap, sham marriage
 	Links|[http://program.kbs.co.kr/2tv/drama/big/mobile/ Official website] [http://asianwiki.com/Big_(Korean_Drama) Asian Wiki] [https://www.koreandrama.org/big/ Korean Drama]
 
-Centre:
+Image:
 	big.jpg
+ Big
 
 Text:
 	A teacher is engaged to be married to a doctor who caused her to

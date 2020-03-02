@@ -9,8 +9,9 @@ Table:
 	Themes|Joseon period, love triangles, slavery, underground rebellion
 	Links|[http://tv.jtbc.joins.com/housemaid/ Official website] [http://asianwiki.com/Maids Asian Wiki] [https://www.hancinema.net/korean_drama_Maids.php HanCinema] [https://www.koreandrama.org/maids/ Korean Drama]
 
-Centre:
+Image:
 	maids.jpg
+ Maids
 
 Text:
 	The heroine starts off as a privileged nobleman's daughter in Joseon

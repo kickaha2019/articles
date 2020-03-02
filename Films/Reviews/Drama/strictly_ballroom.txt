@@ -9,8 +9,9 @@ Table:
 	Cast|Paul Mercurio, Tara Morice, Bill Hunter
 	Details|Colour 94 mins
 
-Centre:
+Image:
 	strictly_ballroom.jpg
+ Strictly Ballroom
 
 Text:
 	 A film set in the tinselled tawdriness of ballroom dancing in Oz. Scott has been raised to be a champion by his dance mad mother, but he has this slight flaw. He wants to dance his own steps not follow the rules. Can he succeed against the establishment, particularly when saddled with a beginner for a parner?

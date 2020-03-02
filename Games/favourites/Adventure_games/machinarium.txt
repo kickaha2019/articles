@@ -1,5 +1,6 @@
-Centre:
+Image:
 	Machinarium.jpg
+ Machinarium
 
 Text:
 	[http://amanita-design.net/games/machinarium.html Machinarium]

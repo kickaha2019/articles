@@ -12,8 +12,9 @@ Table:
 	Themes|School, love square
 	Links|[http://asianwiki.com/Sassy_Girl_Chun-hyang Asian Wiki] [https://www.koreandrama.org/delightful-girl-choon-hyang/ Korean Drama]
 
-Centre:
+Image:
 	choon_hyang.jpg
+ Sassy Girl Chun-hyang
 
 Text:
 	This drama also gets called "My Delightful Girl Choon Hyang".  It's an

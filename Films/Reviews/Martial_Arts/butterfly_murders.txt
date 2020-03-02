@@ -9,8 +9,9 @@ Table:
 	Cast|Lau Siu Ming, Michelle Mee
 	Details|Colour 90 minutes
 
-Centre:
+Image:
 	butterfly_murders.jpg
+ The Butterfly Murders
 	
 Text:
 	Plot: a writer seeks to record the happenings

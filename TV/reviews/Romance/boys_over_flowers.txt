@@ -12,8 +12,9 @@ Table:
 	Themes|School, love triangle, rich meeting poor
 	Links|[http://asianwiki.com/Boys_Over_Flowers_-_Korean_Drama Asian Wiki] [https://www.koreandrama.org/boys-before-flowers/ Korean Drama]
 
-Centre:
+Image:
 	boys_over_flowers.jpg
+ Boys Over Flowers
 
 Text:
 	A Korean TV drama based on a Japanese manga "Hana yori Dango", whose

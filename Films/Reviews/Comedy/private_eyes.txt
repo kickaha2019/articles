@@ -9,8 +9,9 @@ Table:
 	Cast|Michael Hui, Sam Hui, Ricky Hui
 	Details|Colour 94 minutes
 
-Centre:
+Image:
 	private_eyes.jpg
+ The Private Eyes
 	
 Text:
 	Plot: the adventures (or rather mis-adventures) of

@@ -1,5 +1,6 @@
-Centre:
+Image:
 	Blackguards.jpg
+ Blackguards
 
 Text:
 	''Blackguards''

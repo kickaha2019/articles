@@ -12,8 +12,9 @@ Table:
 	Themes|School, dreams, fantasy, mystery
 	Links|[http://www.ntv.co.jp/akumu/ Official website] [http://asianwiki.com/My_Little_Nightmare_-_Akumu-chan Asian Wiki]
 
-Centre:
+Image:
 	akumu_chan.jpg
+ My Little Nightmare
 
 Text:
 	A cold-hearted school teacher finds herself enmeshed with a strange new

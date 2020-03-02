@@ -9,8 +9,9 @@ Table:
 	Cast|Louise Bourgoin, Mathieu Amalric, Gilles Lellouche
 	Details|Colour 107 mins
 
-Centre:
+Image:
 	AdeleBlanc-Sec.jpg
+ The Extraordinary Adventures of Adele Blanc-Sec
 
 Text:
 

@@ -6,8 +6,9 @@ Table:
 	Cast|Ching Wan Lau, Kelly Lin, Mia Yam
 	Details|Colour 85 mins
 
-Centre:
+Image:
 	WrittenBy.jpg
+ Written By
 
 Text:
 	 A film set in contemporary Hong Kong, around a family trying to cope with tragedy and loss. The father died in a car accident 10 years ago, and the daughter was blinded. The daughter tries to heal the wounds by writing a novel about an alternate reality in which the father survived and was blinded but the rest of the family died.

@@ -12,8 +12,9 @@ Table:
 	Details|17 episodes
 	Links|[http://tv.sbs.co.kr/juguntaeyang/ Official website] [http://asianwiki.com/The_Master%27s_Sun Asian Wiki] [https://www.koreandrama.org/the-masters-sun/ Korean Drama]
 
-Centre:
+Image:
 	masters_sun.jpg
+ The Master's Sun
 	
 Text:
 	"The Master's Sun"

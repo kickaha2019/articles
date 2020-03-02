@@ -9,8 +9,9 @@ Table:
 	Cast|Johnny Depp, Orlando Bloom, Kiera Knightley, Geoffrey Rush
 	Details|Colour 143 minutes
 
-Right:
+Image:
 	pirates.jpg
+ Pirates of the Caribbean
 	
 Text:
 	Plot: Film based on the Disneyworld ride "Pirates of the

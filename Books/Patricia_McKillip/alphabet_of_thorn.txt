@@ -1,8 +1,9 @@
 Title:
 	Alphabet of Thorn
 
-Right:
+Image:
 	alphabet_of_thorn.jpg
+ Alphabet of Thorn
 
 Text:
 	''Alphabet of Thorn'' (Alphabet of Thorn) is the tale of

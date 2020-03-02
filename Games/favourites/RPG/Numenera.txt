@@ -1,8 +1,9 @@
 Title:
   Torment: Tides of Numenera
 
-Centre:
+Image:
 	Numenera.jpg
+ Torment: Tides of Numenera
 
 Text:
 	[Torment: Tides of Numenera]

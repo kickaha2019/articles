@@ -9,8 +9,9 @@ Table:
 	Cast|Mikako Ichikawa, Reiko Kusamura, Ken Mitsuishi
 	Details|Colour 110 mins
 
-Centre:
+Image:
 	rent-a-cat.jpg
+ Rent-A-Cat
 
 Text:
 	A series of episodes about a lonely woman Sayoko who attracts cats. She runs a service renting

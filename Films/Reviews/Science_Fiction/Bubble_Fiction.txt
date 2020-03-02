@@ -6,8 +6,9 @@ Table:
 	Cast|Hiroshi Abe, Ryoko Hirosue, Hiroko Yakushimaru
 	Details|Colour 116 mins
 
-Centre:
+Image:
 	BubbleFiction.jpg
+ Bubble Fiction
 
 Text:
 	 A time-travel comedy which sees a deeply indebted bar-girl jump back to the boom years of the Japanese economy. Courtesy of a washing machine modified by her genius mother who has got lost in the past trying to rescue the Japanese financial system. (Coincidentally or not "Back to the Future" was originally going to use a domestic appliance as time machine.)

@@ -1,8 +1,9 @@
 Title:
 	The Horse and his Boy
 
-Right:
+Image:
 	horse_and_boy.jpg
+ The Horse and his Boy
 
 Text:
 	''The Horse and his Boy'' (1954) is a Narnia story by C S Lewis 

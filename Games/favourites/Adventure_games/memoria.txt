@@ -1,5 +1,6 @@
-Centre:
+Image:
 	Memoria.jpg
+ Memoria
 
 Text:
 	''Memoria'' (2013) from [https://www.daedalic.com/ Daedalic Entertainment]

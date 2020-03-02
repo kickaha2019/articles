@@ -12,8 +12,9 @@ Table:
 	Details|20 episodes
 	Links|[http://asianwiki.com/Kill_Me Asian Wiki] [https://www.koreandrama.org/kill-me-heal-me/ Korean Drama] [https://www.hancinema.net/korean_drama_Kill_Me_v__Heal_Me.php Han Cinema]
 
-Centre:
+Image:
 	kill_me_heal_me.jpg
+ Kill Me, Heal Me
 
 Text:
 	The son of a powerful rich family has split personalities as the result of

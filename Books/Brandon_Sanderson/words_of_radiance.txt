@@ -1,8 +1,9 @@
 Title:
 	Words of Radiance
 
-Right:
+Image:
 	words_of_radiance.jpg
+ Words of Radiance
 
 Text:
 	[Words of Radiance] (2014)

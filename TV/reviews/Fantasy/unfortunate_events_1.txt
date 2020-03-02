@@ -12,8 +12,9 @@ Table:
 	Themes|Fantastical Victorian fantasy
 	Links|[https://www.netflix.com/title/80050008 Official website]
 
-Centre:
+Image:
 	unfortunate_events_1.jpg
+ A Series of Unfortunate Events
 	
 Text:
 	The start of the tragic history of the Baudelaire children, orphaned

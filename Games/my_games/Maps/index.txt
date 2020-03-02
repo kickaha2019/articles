@@ -1,6 +1,7 @@
-Centre:
+Image:
 	maps.jpg
-	
+	Maps
+  
 Date:
 	March 9th 2016
 

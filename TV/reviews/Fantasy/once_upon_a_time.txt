@@ -9,8 +9,9 @@ Table:
 	Themes|Fairy tales, crime
 	Links|[https://abc.go.com/shows/once-upon-a-time Official website]
 
-Centre:
+Image:
 	once_upon_a_time.jpg
+ Once Upon A Time
 	
 Text:
 	A grand collision of a load of fairy tales with an adult context.

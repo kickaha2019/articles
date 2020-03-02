@@ -4,8 +4,9 @@ Title:
 Date:
 	Wednesday, 14 September 2005
 
-Centre:
+Image:
 	jigsaw.jpg
+ Jigsaw triumph
 
 Text:
 	Jigsaws are a very pleasant way of passing the time.

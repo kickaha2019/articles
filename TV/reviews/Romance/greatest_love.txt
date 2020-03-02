@@ -12,8 +12,9 @@ Table:
 	Themes|Reality shows, idol groups, Internet rumours, love square
 	Links|[http://www.imbc.com/broad/tv/drama/greatestlove/ Official website] [http://asianwiki.com/The_Greatest_Love_-_Korean_Drama Asian Wiki] [https://www.koreandrama.org/the-greatest-love/ Korean Drama]
 
-Centre:
+Image:
 	greatest_love.jpg
+ The Greatest Love
 
 Text:
 	"The Greatest Love" 

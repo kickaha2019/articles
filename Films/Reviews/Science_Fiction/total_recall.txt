@@ -9,8 +9,9 @@ Table:
 	Cast|Arnold Schwarzenegger, Sharon Stone, Michael Ironside
 	Details|Colour 113 mins
 
-Centre:
+Image:
 	TotalRecall.jpg
+ Total Recall
 
 Text:
 	A film inspired by a story by Philip K.

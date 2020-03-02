@@ -12,8 +12,9 @@ Table:
 	Themes|Fantasy, mystery
 	Links|[https://www.netflix.com/title/80241234 Netflix]
 
-Centre:
+Image:
 	the_ghost_bride.jpg
+ The Ghost Bride
 
 Text:
 	A six part series about poor Pan Li Lan who becomes enmeshed

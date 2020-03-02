@@ -9,8 +9,9 @@ Table:
 	Cast|Jackie Chan, Maggie Cheung, Brigitte Lin
 	Details|Colour 99 mins
 
-Centre:
+Image:
 	police_story.jpg
+ Police Story
 
 Text:
 	 Directed by and stars Jackie Chan in full flow action. The plot (films tend to be saddled with them) is about a lone Hong Kong cop taking on a drug king-pin. The story provides enough excuses for great action sequences interleaved with comedy.

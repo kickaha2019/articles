@@ -4,8 +4,9 @@ Title:
 Date:
 	September 4th 2016
 
-Centre:
+Image:
 	cap.jpg
+ My baseball cap
 
 Text:
 	One of these days I'm going to lose this. I've left it behind in so many places,

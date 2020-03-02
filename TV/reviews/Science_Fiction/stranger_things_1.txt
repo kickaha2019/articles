@@ -5,8 +5,9 @@ Table:
 	Cast|Winona Ryder, David Harbour, Finn Wolfhard
 	Length|8 50~ minute episodes
 
-Centre:
+Image:
 	stranger_things_1.jpg
+ Stranger Things
 
 Text:
 	Mysterious government organisations, super powers,

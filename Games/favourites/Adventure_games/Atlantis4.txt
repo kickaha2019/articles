@@ -1,8 +1,9 @@
 Title:
 	Atlantis 4: Evolution
 
-Centre:
+Image:
 	Atlantis4.jpg
+ Atlantis 4: Evolution
 
 Text:
 	"Atlantis 4: Evolution" (2004) is the fourth game in the Atlantis series originally

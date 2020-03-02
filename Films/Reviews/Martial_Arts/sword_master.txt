@@ -9,8 +9,9 @@ Table:
 	Cast|Kenny Lin, Peter Ho, Yiyan Jiang
 	Details|Colour 108 mins
 
-Centre:
+Image:
 	sword_master.jpg
+ Sword Master
 
 Text:
 	A 'remake' of a Shaw Bros film "Death Duel", both based on

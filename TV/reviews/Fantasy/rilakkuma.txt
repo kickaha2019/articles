@@ -12,8 +12,9 @@ Table:
 	Themes|Soft toys, cuteness
 	Links|[https://www.netflix.com/title/80196883 Netflix] [http://www.san-x.jp/characters/rilakkuma.html Sanrio]
 
-Centre:
+Image:
 	rilakkuma.jpg
+ Rilakkuma and Kaoru
 
 Text:
 	A totally adorable stop motion animation series starring perpetual

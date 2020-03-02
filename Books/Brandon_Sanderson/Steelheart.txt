@@ -1,5 +1,6 @@
-Right:
+Image:
 	Steelheart.jpg
+ Steelheart
 
 Text:
 	[Steelheart] (2014)

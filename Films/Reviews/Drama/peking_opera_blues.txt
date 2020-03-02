@@ -9,8 +9,9 @@ Table:
 	Cast|Brigitte Lin, Sally Yeh, Cherie Chung
 	Details|Colour 102 minutes
 
-Centre:
+Image:
 	peking_opera_blues.jpg
+ Peking Opera Blues
 	
 Text:
 	Plot: China after the fall of the Qing dynasty is

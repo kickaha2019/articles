@@ -5,8 +5,9 @@ Table:
 	Cast|Burkely Duffield, Dilan Gwyn, Romy Rosemont, Jordan Calloway
 	Length|10 42 minute episodes
 
-Centre:
+Image:
 	beyond_1.jpg
+ Beyond
 
 Text:
 	Young guy wakes up from a 12-year coma with super-powers.

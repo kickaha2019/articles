@@ -6,8 +6,9 @@ Table:
 	Cast|George Lam, Teddy Robin, Karl Maka
 	Details|Colour 94 minutes
 
-Centre:
+Image:
 	all_the_wrong_clues.jpg
+ All the Wrong Clues
 	
 Text:
 	Plot: gangsters swindlers comic police private

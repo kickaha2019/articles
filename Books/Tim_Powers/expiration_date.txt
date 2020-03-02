@@ -1,5 +1,6 @@
-Right:
+Image:
 	expiration_date.jpg
+ Expiration Date
 	
 Text:
 	"Expiration Date" (Tim Powers 1996) is a strange strange tale of ghosts and

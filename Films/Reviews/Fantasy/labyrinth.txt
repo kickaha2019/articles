@@ -6,8 +6,9 @@ Table:
 	Cast|David Bowie, Jennifer Connelly, Toby Froud
 	Details|Colour 101 mins
 
-Centre:
+Image:
 	labyrinth.jpg
+ Labyrinth
 
 Text:
 	 A worthy film from Jim Henson of Muppets fame which mixes live actors with puppetry. Made as digital effects were beginning to make an impact (the owl is partly digitally animated) the film is a showcase of what can be done by skilled and imaginative puppeteers.

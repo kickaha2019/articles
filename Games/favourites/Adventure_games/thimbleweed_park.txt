@@ -1,5 +1,6 @@
-Centre:
+Image:
 	thimbleweed_park.jpg
+ Thimbleweed Park
 
 Text:
 	[https://thimbleweedpark.com/ Thimbleweed Park] (2017) is a Kickstarted

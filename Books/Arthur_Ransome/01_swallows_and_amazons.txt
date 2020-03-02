@@ -1,8 +1,9 @@
 Title:
 	Swallows and Amazons
 
-Right:
+Image:
 	SwallowsAndAmazons.jpg
+ Swallows and Amazons
 
 Text:
 	"Swallows and Amazons" (1930) is the first book in the much-loved series by

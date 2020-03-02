@@ -9,8 +9,9 @@ Table:
 	Cast|Xueqi Wang, Tony Leung Ka Fai, Jun Hu, Donnie Yen
 	Details|Colour 139 mins
 
-Centre:
+Image:
 	BodyguardsAssassins.jpg
+ Bodyguards and Assassins
 
 Text:
 	 This film tells the heroic tale of the bodyguards who sacrificed themselves so Sun Yatsen could come to Hong Kong in 1906. He was a key figure in the overthrow of the Qing dynasty, inspired by western ideas of democracy to bring China into the 20th century. Sun Yatsen had come to Hong Kong to address fellow revolutionaries, but the Dowager Empress Cixi ordered his assassination. As the British running Hong Kong chose to keep out of a Chinese versus Chinese disagreement it was up to a motley group of locals to keep Sun alive.

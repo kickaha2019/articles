@@ -1,8 +1,9 @@
 Title:
 	Avernum: Escape from the Pit
 
-Centre:
+Image:
 	Avernum.jpg
+ Avernum: Escape from the Pit
 
 Text:
 	[http://www.avernum.com/avernum/index.html Avernum: Escape from the Pit]

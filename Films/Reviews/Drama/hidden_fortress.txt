@@ -9,8 +9,9 @@ Table:
 	Cast|Toshiro Mifune, Misa Uehara
 	Details|B&amp;W 138 minutes
 
-Centre:
+Image:
 	hidden_fortress.jpg
+ The Hidden Fortress
 	
 Text:
 	Plot: in feudal Japan a loyal general tries to see

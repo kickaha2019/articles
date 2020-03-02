@@ -12,8 +12,9 @@ Table:
 	Themes|Romance
 	Links|[https://tv.naver.com/noblemylove Official website] [https://www.koreandrama.org/noble-my-love/ Korean Drama]
 
-Centre:
+Image:
 	noble_my_love.jpg
+ Noble My Love
 
 Text:
 	A very standard Korean romance with rich chaebol heir, poor

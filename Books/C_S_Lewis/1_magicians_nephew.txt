@@ -1,8 +1,9 @@
 Title:
 	The Magician's Nephew
 
-Right:
+Image:
 	magicians_nephew.jpg
+ The Magician's Nephew
 
 Text:
 	''The Magician's Nephew'' (1955) is C S Lewis writing a genesis

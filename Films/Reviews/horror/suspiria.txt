@@ -6,8 +6,9 @@ Table:
 	Cast|Jessica Harper, Stefania Casini, Flavio Bucci
 	Details|Colour 98 mins
 
-Centre:
+Image:
 	suspiria.jpg
+ Suspiria
 
 Text:
 	 A film by Dario Argento known for his florid horror shows.  It stars American actress Jessica Harper as a young ingenue who comes to study at a German dance academy. But this is a dance academy with a dark and fantastic secret. She will follow the clues to the centre of the web of evil.

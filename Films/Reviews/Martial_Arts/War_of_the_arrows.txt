@@ -9,8 +9,9 @@ Table:
 	Cast|Park Hae-il, Ryu Seung-Ryong, Moon Chae-won
 	Details|Colour 122 mins
 
-Centre:
+Image:
 	War_of_the_arrows.jpg
+ War of the Arrows
 	
 Text:
 	The best archer in Korea has to fight Chinese invaders to rescue his sister.  But

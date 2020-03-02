@@ -6,8 +6,9 @@ Table:
 	Cast|Go Hyun-jung, Yoo Hae-jin, Ha Jae-suk
 	Details|Colour 115 mins
 
-Centre:
+Image:
 	miss_conspiracy.jpg
+ Miss Conspiracy
 	
 Text:
 	A comedy thriller about a withdrawn young woman who suffers

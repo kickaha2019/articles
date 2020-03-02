@@ -6,8 +6,9 @@ Table:
 	Cast|Kurt Russell, James Spader, Jaye Davidson
 	Details|Colour 121 mins
 
-Centre:
+Image:
 	stargate.jpg
+ Stargate
 
 Text:
 	 "Stargate" is a film that continues to spawn TV series as the idea of a 'stargate' has proved to be a useful story device. The plot has a mysterious device found in an archaeological dig in Egypt which proves to be a portal to a strange world. In this world live the descendants of ancient Egyptians transplanted to be slaves for the androgynous Ra. The team sent through the portal find themselves opposing Ra and his superior technology.

@@ -9,8 +9,9 @@ Table:
 	Cast|Tae-hyun Cha, Ji-ho Oh, Hyo-rin Min
 	Details|Colour 121 mins
 
-Centre:
+Image:
 	the_grand_heist.jpg
+ The Grand Heist
 	
 Text:
 	A crime heist comedy.  What makes it different from other such films is that it's

@@ -9,8 +9,9 @@ Table:
 	Cast|Antonio Banderas, Carla Guigino, Alexa Vega, Daryl Sabara
 	Details|Colour 88 minutes
 
-Centre:
+Image:
 	spy_kids.jpg
+ Spy Kids
 
 Text:
 	Plot: Carmen and Juni Cortez have no idea their

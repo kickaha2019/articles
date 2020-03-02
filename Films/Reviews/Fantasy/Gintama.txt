@@ -6,8 +6,9 @@ Table:
 	Cast|Oguri Shun, Hashimoto Kanna, Suda Masaki
 	Details|Colour 131 mins
 
-Centre:
+Image:
 	Gintama.jpg
+ Gintama
 
 Text:
   Based on a manga by Sorachi Hideaki this is one crazy and crazily enjoyable film.

@@ -9,8 +9,9 @@ Table:
 	Cast|Jim Carrey, Laura Linney, Ed Harris
 	Details|Colour 103 minutes
 
-Centre:
+Image:
 	the_truman_show.jpg
+ The Truman Show
 
 Text:
 	A profound film about

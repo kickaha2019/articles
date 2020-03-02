@@ -12,8 +12,9 @@ Table:
 	Details|16 episodes
 	Links|[http://asianwiki.com/Sweden_Laundry Asian Wiki] [https://www.koreandrama.org/swedish-laundry/ Korean Drama] [https://www.hancinema.net/korean_drama_Swedish_Laundry.php Han Cinema]
 
-Centre:
+Image:
 	sweden_laundry.jpg
+ Sweden Laundry
 
 Text:
 	The put-upon middle child of a family gets given a supernatural power by her dead grandmother.

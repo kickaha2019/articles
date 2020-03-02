@@ -4,8 +4,9 @@ Title:
 Date:
 	December 15th 2013
 
-Centre:
+Image:
   Card2013.jpg
+  Card 2013
 
 Text:
 	"Card 2013" is a Christmas card for 2013 masquerading as a sequence of

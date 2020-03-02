@@ -1,8 +1,9 @@
 Title:
 	The Grand Ellipse
 
-Right:
+Image:
 	Grand_Ellipse.jpg
+  The Grand Ellipse
 
 Text:
 	''The Grand Ellipse'' (2000) is set in the fantasy world

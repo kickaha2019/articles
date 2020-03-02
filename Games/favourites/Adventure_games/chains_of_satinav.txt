@@ -1,8 +1,9 @@
 Title:
 	The Dark Eye: Chains of Satinav
 
-Centre:
+Image:
 	chains_of_satinav.jpg
+ The Dark Eye: Chains of Satinav
 
 Text:
 	[https://www.daedalic.com/ The Dark Eye: Chains of Satinav]
