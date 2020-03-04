@@ -6,26 +6,26 @@ Link:
   2019/Toy_trips
   2019 Toy trips
   
-HTML:
-	<center>Released</center>
-	<dl>
-	<dt><a href="Maps/index.html">Present Hunt</a>
-	<dd>A Christmas present hunt for Virginia.
-	<p>
-	<dt><a href="Words/index.html">Words</a>
-	<dd>A way of saying how much I owe my late mother.
-	<p>
-	<dt><a href="Card2013/index.html">Card 2013</a> (December 2013)
-	<dd>A cross between a Christmas card and a hidden object game
-	playable in a browser.
-	<p>
-	<dt><a href="Journeys/index.html">Journeys</a> (August 2013)
-	<dd>A browser based game using pictures from a cruise ship.
-	<p>
-	<dt><a href="Armageddon/index.html">Armageddon</a> (December 2011)
-	<dd>Adobe Flash based game about choosing a suitable
-	end of the world.
-	<p>
-	<dt><a href="see_the_world/index.html">See The World</a> (December 2009)
-	<dd>Browser based game of word puzzles done in a CYOA style.
-	</dl>
+Link:
+  my_games/Maps
+  2016 Present Hunt
+  
+Link:
+  my_games/Words
+  2015 Words
+  
+Link:
+  my_games/Card2013
+  Card 2013
+
+Link:
+  my_games/Journeys
+  2013 Journeys
+  
+Link:
+  my_games/Armageddon
+  2011 Armageddon
+  
+Link:
+  my_games/see_the_world
+  2009 See The World

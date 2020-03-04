@@ -1,0 +1,5 @@
+@media all and (max-width: 1279px) {
+  .indexes {display: none}
+  .payload {justify-content: center}
+  .story {padding-left: 0px}
+}

@@ -8,15 +8,3 @@ Text:
 	but some the links on the subtitle websites go to places that well behaved
 	browsers shouldn't go to. Places that will try to infect your computer by
 	various means.
-
-	I've become interested in the different subtitle file formats, and here
-	is a list of the ones I've come into contact with:
-
-Table:
-	Name|Extension(s)|Format|Comments
-	Advanced SubStation Alpha|.ass|Text|Widely used by fans who do subtitles
-	Synchronized Accessible Media Interchange|.smi|Text|Microsoft format now happily rare
-	PGS subtitle format|.sup|Binary|Subtitle format used on Blu-Ray movie
-	SubRip Text|.srt|Text|Basic but very useful subtitle file format
-  VobSub format|.idx/.sub|Text / Binary|Subtitle format used on DVD movies
-

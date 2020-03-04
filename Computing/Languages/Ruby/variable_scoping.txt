@@ -1,14 +1,0 @@
-Text:
-	Variable scoping in Ruby can be a little surprising, 
-	especially as it's not consistent between versions of Ruby. 
-
-	So code like:
-
-Code:
-	 (1..10).each do |i|	 	(1..10).each { |i| }	 	puts i	 end
-
-Text:
-	on the Mac using Ruby 1.8.7 perversely gives as output:
-
-Code:
-	10	10	10	10	10	10	10	10	10	10

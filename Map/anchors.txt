@@ -5,7 +5,7 @@ Table:
   Name|Lat|Lon|Link
   ABBA The Museum|59.324893|18.0965639|/Users/peter/Website/Articles/Diary/2017/Baltics/stockholm.html#1
   Acle|52.638278|1.55064300000004|/Users/peter/Website/Articles/Diary/2013/broads/index.html#1
-  Acropolis Athens|37.9666667|23.7333333|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Acropolis Athens|37.9666667|23.7333333|/Users/peter/Website/Articles/Diary/2009/eastern_med/athens/index.html#1
   Africa Alive!|52.4140061|1.70075250000002|/Users/peter/Website/Articles/Diary/2017/Lowestoft/index.html#1
   Ahrweiler|50.5418199|7.11977000000002|/Users/peter/Website/Articles/Diary/2013/rhine_cruise/index.html#1
   Aix en Provence|43.529742|5.44742700000006|/Users/peter/Website/Articles/Diary/2016/Arcadia/toulon.html#1
@@ -30,7 +30,7 @@ Table:
   Baddesley Clinton|52.3409501|-1.70852020000007|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
   Banham Zoo|52.4462819|1.02538400000003|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Barna Mia|-32.7674229|116.9263651|/Users/peter/Website/Articles/Diary/2003/australia/dryandra/index.html#1
-  Basilica Of Saint John|37.9528691|27.3675619000001|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Basilica Of Saint John|37.9528691|27.3675619000001|/Users/peter/Website/Articles/Diary/2009/eastern_med/ephesus/index.html#1
   Bateman's|50.9893081|0.379480699999931|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
   Bathampton|51.395142|-2.32059100000004|/Users/peter/Website/Articles/Diary/2012/bath_long_weekend/index.html#1
   Beefeater Travellers Rest - Cambridge|52.2222647|0.0936804000000393|/Users/peter/Website/Articles/Dining_out/beefeater_girton/index.html#1
@@ -120,7 +120,7 @@ Table:
   Ellinjaa Falls|-17.4938523|145.6557694|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#1
   Elton Hall|52.5238629|-0.39647089999994|/Users/peter/Website/Articles/Diary/2008/elton_hall/index.html#1
   English Market Cork|51.898|-8.47399999999993|/Users/peter/Website/Articles/Diary/2018/Columbus/cork.html#1
-  Ephesus|37.9409487|27.3414703999999|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Ephesus|37.9409487|27.3414703999999|/Users/peter/Website/Articles/Diary/2009/eastern_med/ephesus/index.html#1
   Faberge Museum|59.9347205|30.3428812|/Users/peter/Website/Articles/Diary/2017/Baltics/st_petersburg.html#1
   Felbrigg Hall|52.9144158|1.27724820000003|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
   Flam|60.8607716|7.11178489999998|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#1
@@ -144,7 +144,7 @@ Table:
   Gibraltar|36.140751|-5.35358500000007|/Users/peter/Website/Articles/Diary/2014/Azura/gibraltar.html#1
   Gion Corner|35.001658|135.7751316|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto.html#1
   Giske Church|62.4986567|6.05023970000002|/Users/peter/Website/Articles/Diary/2015/Eclipse/alesund.html#1
-  Giza Necropolis|29.9772962|31.1324955|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Giza Necropolis|29.9772962|31.1324955|/Users/peter/Website/Articles/Diary/2009/eastern_med/egypt/index.html#1
   Godafoss|65.6827782|-17.5501918|/Users/peter/Website/Articles/Diary/2019/Iceland/iceland/index.html#1
   Gooderstone Water Gardens|52.58854|0.605031000000054|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#1
   Gorleston Baptist Church|52.5772838|1.72654060000002|/Users/peter/Website/Articles/Diary/2018/GreatYarmouth/index.html#1
@@ -152,7 +152,7 @@ Table:
   Gough's Cave|51.2819341|-2.76574640000001|/Users/peter/Website/Articles/Diary/2015/Somerset/index.html#1
   Grand Prince Hotel New Takanawa|35.630053|139.73349|/Users/peter/Website/Articles/Diary/2013/japan_holiday/japan_arrival.html#1
   Grand Union Canal|52.1247757|-0.886416999999938|/Users/peter/Website/Articles/Diary/2009/grand_union/index.html#1
-  Great Sphinx of Giza|29.9752687|31.1375674|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Great Sphinx of Giza|29.9752687|31.1375674|/Users/peter/Website/Articles/Diary/2009/eastern_med/egypt/index.html#1
   Green Cross Inn|51.1085454|0.43996930000003|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
   Green Island|-16.7597228|145.9738016|/Users/peter/Website/Articles/Diary/2002/cairns/index.html#1
   Greengables Lodge|-28.7061968|114.6662755|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#1
@@ -225,7 +225,7 @@ Table:
   Legoland Windsor|51.4638338|-0.650027499999965|/Users/peter/Website/Articles/Diary/2005/windsor/index.html#1
   Lindholm H&oslash;je|57.078249|9.91007289999993|/Users/peter/Website/Articles/Diary/2003/Denmark/index.html#1
   Lindisfarne Abbey|55.6691551|-1.80089450000003|/Users/peter/Website/Articles/Diary/2006/holy_isle/index.html#1
-  Lindos|36.0918486|28.0856654|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Lindos|36.0918486|28.0856654|/Users/peter/Website/Articles/Diary/2009/eastern_med/rhodes/index.html#1
   Lisbon|38.7222524|-9.13933659999998|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#1
   Little Moreton Hall|53.1271607|-2.25174659999993|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#1
   Little Walsingham|52.8959389|0.875399099999981|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#1
@@ -297,7 +297,7 @@ Table:
   Packwood House|52.3479118|-1.74669740000002|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#1
   Paks Margareeta|59.4425579|24.7495473|/Users/peter/Website/Articles/Diary/2017/Baltics/tallinn.html#1
   Palazzo Parisio|35.9148964|14.4441529000001|/Users/peter/Website/Articles/Diary/2014/Azura/malta.html#1
-  Paphos|34.7720133|32.4297369|/Users/peter/Website/Articles/Diary/2009/eastern_med/index.html#1
+  Paphos|34.7720133|32.4297369|/Users/peter/Website/Articles/Diary/2009/eastern_med/cyprus/index.html#1
   Park Guell|41.4144948|2.15269450000005|/Users/peter/Website/Articles/Diary/2016/Arcadia/barcelona.html#1
   ParkRoyal on Pickering|1.2858085|103.8460908|/Users/peter/Website/Articles/Diary/2020/New_Zealand/12_Singapore_and_home/index.html#1
   Pembury Baptist Church|51.1475239|0.328106899999966|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#1
