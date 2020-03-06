@@ -20,7 +20,7 @@ Text:
 
 	[https://www.nps.gov/zion/index.htm Zion Canyon] you have to use the bus to get around as you're not supposed to drive in unlike Bryce.   There is a trade-off between enabling people to see nature and preserving   nature.   We weren't able to do the trails in Zion (the heat was oppressive for one thing.)   I did walk to see Weeping Rock where in the midst of barren dryness water falls down like rain.   Courtesy of the rock here being porous and holding masses of water.
 
-Gallery:
+Image:
 	sunrise_point1.JPG
 	Sunrise Point Bryce Canyon
 
