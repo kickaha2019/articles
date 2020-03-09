@@ -1,7 +1,7 @@
 Title:
 	The Mind Robber
 	
-Table:
+List:
 	Serial|The Mind Robber
 	Doctor|Patrick Troughton
 	Writer|Peter Ling

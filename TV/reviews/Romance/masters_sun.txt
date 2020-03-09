@@ -1,7 +1,7 @@
 Title:
 	The Master's Sun
 
-Table:
+List:
 	Drama|&#51452;&#44400;&#51032; &#53468;&#50577; / The Master's Sun
 	Country|South Korea
 	Director|Jin Hyeok

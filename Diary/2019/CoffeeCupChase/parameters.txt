@@ -1,2 +1,0 @@
-LOGO=/Users/peter/Sites/Games/MugMissing/start.jpg
-INDEX=text

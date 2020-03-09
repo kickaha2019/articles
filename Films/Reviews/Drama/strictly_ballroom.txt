@@ -1,7 +1,7 @@
 Title:
 	Strictly Ballroom
 	
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt0105488/ Strictly Ballroom]
 	Country|Australia
 	Director|Baz Luhrmann

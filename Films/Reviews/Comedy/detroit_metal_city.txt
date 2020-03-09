@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|&#12487;&#12488;&#12525;&#12452;&#12488;&#12539;&#12513;&#12479;&#12523;&#12539;&#12471;&#12486;&#12451; (Detroit Metal City)
 	Country|Japan
 	Director|Toshio Lee

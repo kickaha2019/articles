@@ -1,4 +1,4 @@
-Table:
+List:
 	Series|[Stranger Things 1]
 	Creator|The Duffer Brothers
 	Broadcast|2016

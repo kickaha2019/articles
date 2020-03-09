@@ -1,7 +1,7 @@
 Title:
 	Sassy Girl Chun-hyang
 
-Table:
+List:
 	Drama|&#53132;&#44152; &#52632;&#54693; / Sassy Girl Chun-hyang
 	Country|South Korea
 	Director|Jeon Ki-Sang, Ji Byeong-Hyeon

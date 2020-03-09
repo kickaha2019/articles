@@ -1,2 +1,0 @@
-ORDER=Name
-TAG=Arthur Ransome

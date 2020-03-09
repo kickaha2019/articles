@@ -5,7 +5,7 @@ Text:
   I keep forgetting their names so here is a page about the soft toys that
   Virginia and I have, and a short biography for each. The soft toys are
   part of our household, taking part in [../Diary/2005/christmas/index.html Christmas] and
-  starring in [../Games/my_games/Card2013/index.html one] of my gamelets.
+  starring in [../Diary/2013/Card2013/index.html one] of my gamelets.
 
 Heading:
   Beatrix

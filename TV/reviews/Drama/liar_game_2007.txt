@@ -1,7 +1,7 @@
 Title:
 	Liar Game (2007)
 	
-Table:
+List:
 	Name|&#12521;&#12452;&#12450;&#12540;&#12466;&#12540;&#12512; / Liar Game
 	Country|Japan
 	Director|Hiroaki Matsuyama, Ayako Oki, Yasushi Ueda

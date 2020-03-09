@@ -1,2 +1,0 @@
-TAG=Pagoda
-ICON=/Users/peter/Website/Articles/Games/Pagoda/pagoda.png

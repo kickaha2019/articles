@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt0076786/ Suspiria]
 	Country|Italy
 	Director|Dario Argento

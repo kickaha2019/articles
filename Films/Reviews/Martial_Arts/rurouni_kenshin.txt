@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt1979319/ Rurouni Kenshin]
 	Country|Japan
 	Director|Keishi Ohtomo

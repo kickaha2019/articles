@@ -1,6 +1,6 @@
 Text:
 	The ''Table'' declaration can be used to create a tabular section on
-	an article page.  So for example:
+	an article page where the headings are across the top.  So for example:
 	
 Code:
 	Table:

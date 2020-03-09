@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt0111282/ Stargate]
 	Country|USA
 	Director|Roland Emmerich

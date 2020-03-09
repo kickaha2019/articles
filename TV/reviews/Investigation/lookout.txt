@@ -1,7 +1,7 @@
 Title:
 	Lookout
 
-Table:
+List:
 	Drama|&#54028;&#49688;&#44988; / Lookout / Bleak Night
 	Country|South Korea
 	Director|Son Hyung Suk, Park Seung Woo

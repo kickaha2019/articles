@@ -1,7 +1,7 @@
 Title:
 	Mischievous Kiss
 
-Table:
+List:
 	Drama|&#12452;&#12479;&#12474;&#12521;&#12394;Kiss&#65374;Love in Tokyo / Mischievous Kiss: Love in Tokyo
 	Country|Japan
 	Director|Koto Nagata, Koji Kawano

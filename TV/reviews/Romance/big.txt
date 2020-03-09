@@ -1,7 +1,7 @@
 Title:
 	Big
 
-Table:
+List:
 	Drama|&#48709; / Big
 	Country|South Korea
 	Director|Ji Byung-Hyun, Kim Sung-Yoon

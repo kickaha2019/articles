@@ -1,7 +1,7 @@
 Title:
 	Sword Master
 	
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt5269396/ Sword Master]
 	Country|China
 	Director|Derek Yee

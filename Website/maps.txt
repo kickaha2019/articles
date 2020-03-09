@@ -1,7 +1,7 @@
 Text:
 	It's useful to display some information on a map. On my website
-	for instance the places Virginia and I want to see are listed
-	at [Holidays/wish_list_map Wish List Map]. Previously this was implemented
+	for instance the places Virginia and I have seen are listed
+	at [../Map/index.html Wish List Map]. Previously this was implemented
 	using a free account with Google's Javascript API, but Google
 	announced they would only support billable accounts in the
 	future. Google are a business, it was kind of them to make this

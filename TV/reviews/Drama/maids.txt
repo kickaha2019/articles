@@ -1,4 +1,4 @@
-Table:
+List:
 	Drama|&#54616;&#45376;&#46308; / Maids
 	Country|South Korea
 	Director|Jo Hyun-Tak

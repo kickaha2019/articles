@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt1183252/ Chocolate]
 	Country|Thailand
 	Director|Prachya Pinkaew

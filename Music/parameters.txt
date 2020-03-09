@@ -1,2 +1,0 @@
-TAG=Music
-ICON=/Users/peter/Website/Articles/Music/piano.jpg

@@ -4,9 +4,9 @@ Text:
 
 Table:
 	Name|Extension(s)|Format|Comments
-	[ass Advanced SubStation Alpha]|.ass|Text|Widely used by fans who do subtitles
-	[sami Synchronized Accessible Media Interchange]|.smi|Text|Microsoft format now happily rare
-	[sup PGS subtitle format]|.sup|Binary|Subtitle format used on Blu-Ray movie
-	[srt SubRip Text]|.srt|Text|Basic but very useful subtitle file format
-  [vobsub VobSub format]|.idx/.sub|Text / Binary|Subtitle format used on DVD movies
+	[ass.html Advanced SubStation Alpha]|.ass|Text|Widely used by fans who do subtitles
+	[sami.html Synchronized Accessible Media Interchange]|.smi|Text|Microsoft format now happily rare
+	[sup.html PGS subtitle format]|.sup|Binary|Subtitle format used on Blu-Ray movie
+	[srt.html SubRip Text]|.srt|Text|Basic but very useful subtitle file format
+  [vobsub.html VobSub format]|.idx/.sub|Text / Binary|Subtitle format used on DVD movies
 

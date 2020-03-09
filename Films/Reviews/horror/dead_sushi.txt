@@ -1,7 +1,7 @@
 Title:
 	Dead Sushi
 	
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt2396429/ Dead Sushi]
 	Country|Japan
 	Director|Noboru Iguchi

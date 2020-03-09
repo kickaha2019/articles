@@ -1,7 +1,7 @@
 Title:
 	Peking Opera Blues
 	
-Table:
+List:
 	Film|&#20992;&#39340;&#26086; (Peking Opera Blues)
 	Country|Hong Kong
 	Director|Tsui Hark

@@ -1,2 +1,0 @@
-TAG=Dining out
-ICON=/Users/peter/Website/Articles/Dining_out/plate.jpg

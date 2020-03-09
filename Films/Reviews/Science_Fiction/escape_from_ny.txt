@@ -1,7 +1,7 @@
 Title:
 	Escape from New York
 
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt0082340/ Escape from New York]
 	Country|USA
 	Director|John Carpenter

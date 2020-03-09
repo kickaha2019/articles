@@ -1,7 +1,7 @@
 Title:
 	Spy Kids
 	
-Table:
+List:
 	Film|Spy Kids
 	Country|USA
 	Director|Robert Rodriguez

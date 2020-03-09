@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|Zatoichi
 	Country|Japan
 	Director|Takeshi Kitano

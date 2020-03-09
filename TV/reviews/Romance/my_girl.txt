@@ -1,7 +1,7 @@
 Title:
 	My Girl
 
-Table:
+List:
 	Drama|&#47560;&#51060; &#44152; / My Girl
 	Country|South Korea
 	Director|Jeon Ki-Sang, Bae Tae-Sub

@@ -1,4 +1,4 @@
-Table:
+List:
 	Series|[Beyond]
 	Creator|Adam Nussdorf
 	Broadcast|2017

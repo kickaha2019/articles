@@ -1,7 +1,7 @@
 Title:
 	Boys Over Flowers
 
-Table:
+List:
 	Drama|&#44867;&#48372;&#45796; &#45224;&#51088; / Boys Over Flowers
 	Country|South Korea
 	Director|Jeon Ki-Sang

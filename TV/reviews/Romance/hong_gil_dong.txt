@@ -1,4 +1,4 @@
-Table:
+List:
 	Drama|&#53132;&#46020; &#54861;&#44600;&#46041; / Hong Gil Dong
 	Country|South Korea
 	Director|Lee Jung-Sub, Kim Yeong-Jo

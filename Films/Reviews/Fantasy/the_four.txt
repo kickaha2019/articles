@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|&#22235;&#22823;&#21517; ([https://www.imdb.com/title/tt2204340/ The Four])
 	Country|China
 	Director|Gordon Chan

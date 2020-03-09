@@ -1,7 +1,7 @@
 Title:
 	Bodyguards and Assassins
 
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt1403130/ Bodyguards and Assassins]
 	Country|Hong Kong
 	Director|Teddy Chan

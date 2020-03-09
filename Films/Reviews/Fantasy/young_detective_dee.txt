@@ -1,7 +1,7 @@
 Title:
 	Young Detective Dee
 	
-Table:
+List:
 	Film|&#29380;&#20161;&#20625;&#20043;&#31070;&#37117;&#40845;&#29579; ([https://www.imdb.com/title/tt2992146/ Young Detective Dee: Rise of the Sea Dragon])
 	Country|Hong Kong
 	Director|Tsui Hark

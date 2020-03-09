@@ -1,7 +1,7 @@
 Title:
 	Negative Happy Chainsaw Edge
 
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt1024856/ Negative Happy Chainsaw Edge]
 	Country|Japan
 	Director|

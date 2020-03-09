@@ -1,7 +1,7 @@
 Title:
 	Spiderwick Chronicles
 	
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt0416236/ Spiderwick Chronicles]
 	Country|USA
 	Director|Mark Waters

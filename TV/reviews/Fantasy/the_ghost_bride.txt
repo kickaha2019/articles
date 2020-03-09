@@ -1,7 +1,7 @@
 Title:
 	The Ghost Bride
 
-Table:
+List:
 	Drama|The Ghost Bride
 	Country|Taiwan, Malaysia
 	Director|Quek Shio-chuan, Ho Yu-hang

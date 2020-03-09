@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt0091369/ Labyrinth]
 	Country|USA
 	Director|Jim Henson

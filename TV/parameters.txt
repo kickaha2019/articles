@@ -1,4 +1,0 @@
-SITE_INDEX_DEPTH=3
-TABLE_CLASS=border list
-TAG=TV
-ICON=/Users/peter/Website/Articles/TV/tv.jpg

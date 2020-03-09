@@ -1,3 +1,0 @@
-LOGO=/Users/peter/Sites/Games/Armageddon/resources/logo.jpg
-TITLE=Armageddon
-TAG=Armageddon

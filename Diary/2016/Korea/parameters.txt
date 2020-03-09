@@ -1,3 +1,0 @@
-ORDER=Date
-TAG=South Korea
-ICON=/Users/peter/Website/Articles/Diary/2016/Korea/busan_tower2.jpg

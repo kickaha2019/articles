@@ -1,9 +1,6 @@
 Title:
 	caffeinate - stop machine sleeping while running scripts
 
-Date:
-	September 12th 2017
-	
 Title:
 	caffeinate
 

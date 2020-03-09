@@ -1,4 +1,4 @@
-Table:
+List:
 	Series|[https://www.imdb.com/title/tt0303461/ Firefly]
 	Writer|Joss Whedon
 	Broadcast|2002-2003

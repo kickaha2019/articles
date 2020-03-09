@@ -1,4 +1,0 @@
-LOGO=/Users/peter/Sites/Games/Memoriam/resources/logo.jpg
-ICON=/Users/peter/Website/Articles/Games/my_games/Words/words.jpg
-TAG=Words
-TITLE=Words

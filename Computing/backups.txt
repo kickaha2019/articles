@@ -4,9 +4,6 @@ Title:
 Icon:
 	time_machine.jpg
 	
-Date:
-	September 13th 2017
-	
 Title:
 	Backups
 

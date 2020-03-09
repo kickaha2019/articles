@@ -1,7 +1,7 @@
 Title:
 	A Series of Unfortunate Events (Season 1)
 
-Table:
+List:
 	Drama|A Series of Unfortunate Events (Season 1)
 	Country|USA
 	Director|Barry Sonnenfeld

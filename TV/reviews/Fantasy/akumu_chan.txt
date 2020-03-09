@@ -1,7 +1,7 @@
 Title:
 	My Little Nightmare
 
-Table:
+List:
 	Drama|&#24746;&#22818;&#12385;&#12419;&#12435; / My Little Nightmare (Akumu Chan)
 	Country|Japan
 	Director|Noriyoshi Sakuma, Ryuichi Inomata, Shintaro Sugawara

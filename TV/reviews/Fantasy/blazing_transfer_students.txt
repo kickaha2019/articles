@@ -1,7 +1,7 @@
 Title:
 	Blazing transfer students
 
-Table:
+List:
 	Drama|&#28814;&#12398;&#36578;&#26657;&#29983; (Blazing transfer students)
 	Country|Japan
 	Director|Toshio Lee

@@ -1,7 +1,7 @@
 Title:
 	The Butterfly Murders
 	
-Table:
+List:
 	Film|The Butterfly Murders
 	Country|Hong Kong
 	Director|Tsui Hark

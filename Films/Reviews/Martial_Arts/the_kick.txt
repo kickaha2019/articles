@@ -1,7 +1,7 @@
 Title:
 	The Kick
 	
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt2020110/ The Kick]
 	Country|Thailand
 	Director|Prachya Pinkaew

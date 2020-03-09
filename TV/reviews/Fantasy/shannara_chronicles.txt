@@ -1,7 +1,7 @@
 Title:
 	Shannara Chronicles (Series 1)
 
-Table:
+List:
 	Drama|Shannara Chronicles (Series 1)
 	Country|USA
 	Director|Various

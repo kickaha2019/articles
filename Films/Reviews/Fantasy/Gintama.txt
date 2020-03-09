@@ -1,4 +1,4 @@
-Table:
+List:
 	Film| &#37504;&#39746; ([https://www.imdb.com/title/tt5805470/ Gintama])
 	Country|Japan
 	Director|Fukuda Yuichi

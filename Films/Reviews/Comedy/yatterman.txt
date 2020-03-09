@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|&#12516;&#12483;&#12479;&#12540;&#12510;&#12531; ([https://www.imdb.com/title/tt1010055/ Yatterman])
 	Country|Japan
 	Director|Takashi Miike

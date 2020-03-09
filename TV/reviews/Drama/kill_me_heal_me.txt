@@ -1,7 +1,7 @@
 Title:
 	Kill Me, Heal Me
 
-Table:
+List:
 	Drama|&#53420;&#48120;, &#55184;&#48120; / Kill Me, Heal Me
 	Country|South Korea
 	Director|Kim Jin Man, Kim Dae Jin

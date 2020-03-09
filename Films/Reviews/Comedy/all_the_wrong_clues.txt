@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|&#39740;&#39340;&#26234;&#22810;&#26143; (All the Wrong Clues)
 	Country|Hong Kong
 	Director|Tsui Hark

@@ -1,7 +1,7 @@
 Title:
 	The Extraordinary Adventures of Adele Blanc-Sec
 
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt1179025/ The Extraordinary Adventures of Adele Blanc-Sec]
 	Country|France
 	Director|Luc Besson

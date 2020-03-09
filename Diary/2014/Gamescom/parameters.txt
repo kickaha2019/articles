@@ -1,3 +1,0 @@
-ORDER=Name
-TAG=Gamescom
-TITLE=Gamescom 2014

@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|[https://www.imdb.com/title/tt1650062/ Super 8]
 	Country|USA
 	Director|J.J. Abrams

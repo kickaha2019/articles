@@ -1,3 +1,0 @@
-LOGO=/Users/peter/Sites/Games/SeeTheWorld/resources/logo.jpg
-TITLE=Tabitha and Amelia see the world
-TAG=See the world

@@ -7,25 +7,25 @@ Link:
   2019 Toy trips
   
 Link:
-  my_games/Maps
+  2016/Maps
   2016 Present Hunt
   
 Link:
-  my_games/Words
+  2015/Words
   2015 Words
   
 Link:
-  my_games/Card2013
+  2013/Card2013
   Card 2013
 
 Link:
-  my_games/Journeys
+  2013/Journeys
   2013 Journeys
   
 Link:
-  my_games/Armageddon
-  2011 Armageddon
+  2012/Armageddon
+  2012 Armageddon
   
 Link:
-  my_games/see_the_world
+  2009/see_the_world
   2009 See The World

@@ -1,7 +1,7 @@
 Title:
 	Teddy Go!
 
-Table:
+List:
 	Drama|&#12486;&#12487;&#12451;&#12539;&#12468;&#12540; / Teddy Go!
 	Country|Japan
 	Director|Mizuki Nishizaka, Mineya Tanaka

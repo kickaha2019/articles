@@ -1,7 +1,7 @@
 Title:
 	The Avengers (Series 5)
 
-Table:
+List:
 	Drama|The Avengers (Series 5)
 	Country|UK
 	Directors|Robert Day, Gordon Flemyng, and others

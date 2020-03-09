@@ -1,7 +1,7 @@
 Title:
 	The 39 Steps
 	
-Table:
+List:
 	Film|The 39 Steps
 	Country|UK
 	Director|Alfred Hitchcock

@@ -1,7 +1,7 @@
 Title:
 	The Hidden Fortress
 	
-Table:
+List:
 	Film|&#38560;&#12375;&#30758;&#12398;&#19977;&#24746;&#20154; (The Hidden Fortress)
 	Country|Japan
 	Director|Akira Kurosawa

@@ -1,4 +1,4 @@
-Table:
+List:
 	Film|&#48120;&#50416; GO ([https://www.imdb.com/title/tt2384794/ Miss Conspiracy])
 	Country|South Korea
 	Director|Park Chul Kwan

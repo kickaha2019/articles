@@ -1,7 +1,7 @@
 Title:
 	Liar Game (2014)
 	
-Table:
+List:
 	Name|&#46972;&#51060;&#50612; &#44172;&#51076; / Liar Game
 	Country|South Korea
 	Director|Kim Hong Sun

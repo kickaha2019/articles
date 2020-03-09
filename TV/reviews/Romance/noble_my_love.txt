@@ -1,7 +1,7 @@
 Title:
 	Noble My Love
 
-Table:
+List:
 	Drama|&#44256;&#44208;&#54620; &#44536;&#45824; (Noble, My Love)
 	Country|South Korea
 	Director|Kim Yang Hee

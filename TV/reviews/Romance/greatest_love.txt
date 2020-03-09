@@ -1,7 +1,7 @@
 Title:
 	The Greatest Love
 
-Table:
+List:
 	Drama|&#52572;&#44256;&#51032; &#49324;&#46993; / The Greatest Love
 	Country|South Korea
 	Director|Park Hong-Kyun, Lee Dong-Yoon

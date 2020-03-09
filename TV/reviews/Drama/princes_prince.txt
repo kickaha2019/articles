@@ -1,7 +1,7 @@
 Title:
 	Prince of Prince
 
-Table:
+List:
 	Drama|&#54532;&#47536;&#49828;&#51032; &#50773;&#51088; / Prince of Prince
 	Country|South Korea
 	Director|Choi Hyung Joon, Shin Joo Hwan
