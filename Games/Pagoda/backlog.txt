@@ -1,7 +1,7 @@
 Text:
 	This is a list of possible changes to ''Pagoda'' which I'm
 	putting online in the hope of getting comments from people.
-	If you do have comments please [../../contact/index.html contact] me.  I'd
+	If you do have comments please [contact contact] me.  I'd
 	appreciate hearing from you.
 
 	''Idea 1'': Change the background and colours on the Pagoda

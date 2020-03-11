@@ -1,2 +1,0 @@
-ICON=/Users/peter/Website/Articles/Map/map.jpg
-INDEX_CHILDREN=false

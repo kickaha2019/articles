@@ -14,9 +14,9 @@ HTML:
   <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
           integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
           crossorigin=""></script>
-    <div id="map" style="width: 950px; height: 950px;"></div>
+    <div id="map" class="map"></div>
   <script>
-    var map = L.map('map').setView([-82.214,-14.062],1);
+    var map = L.map('map').setView([-5.214,-14.062],1);
     L.tileLayer( 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
        detectRetina:true

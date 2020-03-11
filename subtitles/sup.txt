@@ -14,7 +14,7 @@ Text:
 	English subtitles in SRT format.  A possible approach is to first convert the
 	SUP Japanese subtitles to be a set of PNG files for the subtitles, and a SRT file
 	which has the filenames instead of the text. An experimental Java program to do
-	this - [SupExtract.zip SupExtract].
+	this - SupExtract.
 
 	Next step is to use OCR (optical character recognition) on those PNG images
 	to convert them to Japanese text.
@@ -25,6 +25,6 @@ Text:
 	So far so good. Let's say we now have a SRT file with names of .PNG files for the
 	text, and a set of parallel named .TXT files containing the scanned OCR text.
 	We can run each OCR text through [https://translate.google.co.uk Google Translate]
-	using a script like [srt_merge_txt.rb srt_merge_txt.rb]. The hiccup is while Google Translate is
+	using a script like srt_merge_txt.rb srt_merge_txt.rb. The hiccup is while Google Translate is
 	free, and it does an amazing job, the subtitles are for something like Japanese
 	rather chaotic.

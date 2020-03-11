@@ -1,2 +1,0 @@
-INDEX=text
-SITE_INDEX_DEPTH=2

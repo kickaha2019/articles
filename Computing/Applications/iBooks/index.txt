@@ -29,6 +29,3 @@ Text:
 	This only works for books that have been manually added,
 	not for books bought from ''iTunes'' for instance. Those can
 	and should be deleted just inside ''iBooks'' itself.
-
-	The Ruby script is [empty_ibooks_trash.rb Empty iBooks trash].
-	Use at your own risk.

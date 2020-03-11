@@ -4,8 +4,8 @@ Title:
 Text:
   I keep forgetting their names so here is a page about the soft toys that
   Virginia and I have, and a short biography for each. The soft toys are
-  part of our household, taking part in [../Diary/2005/christmas/index.html Christmas] and
-  starring in [../Diary/2013/Card2013/index.html one] of my gamelets.
+  part of our household, taking part in [Diary/2005/christmas Christmas] and
+  starring in [Diary/2013/Card2013 one] of my gamelets.
 
 Heading:
   Beatrix
@@ -16,7 +16,7 @@ Image:
   
 Text:
   Beatrix was got as a present for my mother on our
-  [../Diary/2011/black_watch/index.html cruise] to the Baltics with Dad in
+  [Diary/2011/black_watch cruise] to the Baltics with Dad in
   2011. After she died in 2012 we gave Beatrice a home. As Beatrice is dressed
   for sea voyages we have taken her with us on later cruises.
 
@@ -178,4 +178,4 @@ Text:
   Virginia used to work at Careforce in Waterbeach. People used to come round
   Careforce regulary trying to sell books. One time not only was it books on
   offer but also large soft toy tigers. So Sebastian joined the household.
-  He reminds me of a [../Diary/2005/triumph/index.html jigsaw] Virginia did.
+  He reminds me of a [Diary/2005/triumph jigsaw] Virginia did.
