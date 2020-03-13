@@ -5,13 +5,14 @@ Icon:
 	affinity_photo.png
 
 Text:
-	I've just installed [Affinity Photo] (October 2017)
-	to use for editing images on
+	I've been using [Affinity Photo] since October 2017
+	for editing images on
 	the iMac. I used to use [Adobe]'s ''Photoshop Elements'', but the version I was using had
 	problems on the latest version of the Mac operating system and I didn't want
 	to move to a subscription model that [Adobe] now favour. I'm not a
 	professional photographer, or even a serious amateur one. [Affinity Photo]
 	also has an iPad version which is attractive.
 
-	So far [Affinity Photo] looks like it will do what I need it to do.
+	So far [Affinity Photo] has done what I needed to do, it's a little
+  complicated in places.
 	

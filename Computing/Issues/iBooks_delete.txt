@@ -1,3 +1,6 @@
+Title:
+  Deleting from iBooks
+  
 Text:
 	Apple re-engineered ''iBooks'' in Mavericks, but it's a little 
 	under-implemented. One omission is that you can't delete from

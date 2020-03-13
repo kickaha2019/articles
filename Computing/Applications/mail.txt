@@ -1,15 +1,8 @@
 Text:
 	I use Apple's 
-	[Mail] for handling email
-	on the computer.  Mail in ''Mountain Lion'' is no longer so
-	good IMHO as Mail was in Snow Leopard.  The default list view 
-	displays very few items unlike the old Mail.
-
-	It is also really dumb
-	now about choosing the From Address when you send or reply.
-	Instead of taking the From Address based on the email you're
-	looking at, Mail takes it from whatever Mail account it comes
-	to first.
-
-	As a workaround I'm looking at the ''VIP'' feature inside
-	Mail which looks handy.  
+	[Mail] for handling email. Again a big plus is the way
+  the iMac and iPad and iPhone all inter-communicate about
+  the mail being read.
+  
+  I'm not crazy about [Mail], for a time I used [https://www.postbox-inc.com/ Postbox].
+  

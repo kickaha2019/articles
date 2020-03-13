@@ -16,6 +16,7 @@ Text:
   makes them tick.
 
   Brandon Sanderson wrote this story for Wizards of the Coast, the
-  people behind ''Magic The Gathering''. The story is available
+  people behind [https://magic.wizards.com/en Magic The Gathering].
+  The story is available
   for free, and the author wrote it for free (he's a fan of the
   card game). A real Christmas present!

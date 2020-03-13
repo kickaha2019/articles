@@ -2,53 +2,53 @@ Title:
 	Pictures of landmarks
 
 Gallery:
-	landmarks/mclean_falls.jpg
+	mclean_falls.jpg
 	McLean Falls in The Catlins
 
-	landmarks/ulva_beach.jpg
+	ulva_beach.jpg
 	Ulva Island landing beach
 
-	landmarks/the_chasm1.jpg
+	the_chasm1.jpg
 	The Chasm (on way to Milford Sound)
 
-	landmarks/the_chasm2.jpg
+	the_chasm2.jpg
 	The Chasm (on way to Milford Sound)
 
-	landmarks/milford_rainbow.jpg
+	milford_rainbow.jpg
 	Milford Sound rainbows close to base of waterfall
 
-	landmarks/franz_josef1.jpg
+	franz_josef1.jpg
 	Franz Josef glacier
 
-	landmarks/glacier_closeup.jpg
+	glacier_closeup.jpg
 	Franz Josef glacier
 
-	landmarks/glacier_near.jpg
+	glacier_near.jpg
 	Franz Josef glacier
 
-	landmarks/kura_tawhiti.jpg
+	kura_tawhiti.jpg
 	Arthur's Pass: Kura Tawhiti
 
-	landmarks/kura_tawhiti2.jpg
+	kura_tawhiti2.jpg
 	Arthur's Pass: Kura Tawhiti
 
-	landmarks/mud_pool1.jpg
+	mud_pool1.jpg
 	Rotorua Te Puia: mud pool
 
-	landmarks/mud_pool2.jpg
+	mud_pool2.jpg
 	Rotorua Te Puia: mud pool
 
-	landmarks/geysers.jpg
+	geysers.jpg
 	Rotorua Te Puia: geysers
 
-	landmarks/hot_lake.jpg
+	hot_lake.jpg
 	Rotorua Te Puia: hot lake
 
-	landmarks/geysers2.jpg
+	geysers2.jpg
 	Rotorua Te Puia: geysers
 
-	landmarks/mud_pool3.jpg
+	mud_pool3.jpg
 	Rotorua Te Puia: mud pool
 
-	landmarks/waitomo_cave.jpg
+	waitomo_cave.jpg
 	Waitomo cave

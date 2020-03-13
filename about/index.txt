@@ -17,8 +17,8 @@ Text:
 
 	I'm married to Virginia who has made some [Cakes cakes].
 	We like [Dining_out eating out].  Virginia likes yoghurt and rhubarb,
-	I prefer peanut butter.  We have a couple of lovely
-	cats, Tabitha and Amelia.  We belong at
+	I prefer peanut butter.  We have one cat Amelia, sadly we lost
+  Tabitha in [2018/Tabitha 2018].  We belong at
 	[Girton Baptist Church].
 
 	There's a [Diary diary] on this website of notable events,

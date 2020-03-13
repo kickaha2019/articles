@@ -1,0 +1,7 @@
+Text:
+	[JUnit4] tests inside [https://netbeans.org/ Netbeans] ran slowly. Seemed to be a 5-second
+	overhead per test class.
+
+Code:
+	''/etc/hosts'' needs to contain the hostname for the computer mapped to
+	127.0.0.1 and ::1. See [https://stackoverflow.com/questions/33289695/inetaddress-getlocalhost-slow-to-run-30-seconds/33289897 Stack Overflow].
