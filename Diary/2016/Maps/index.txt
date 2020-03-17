@@ -16,5 +16,8 @@ Text:
 	kind of Google to provide such a facility for free. At each location
 	there are some pictures. The menu lets you see a welcome page,
 	the current clue, or the map. Nothing too elaborate.
+ 
+  (Update in March 2020: this game is currently broken, Google started
+  charging for use of their Map API in the way this game uses it.)
 
 

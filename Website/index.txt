@@ -1,5 +1,5 @@
 Title:
-	My personal website
+	Website development
 
 Text:
 	I have spent numerous hours tinkering with my personal website.  
@@ -25,7 +25,7 @@ Text:
 
 	I can edit the website from the comfort of my 
 	[https://www.apple.com/uk/ipad/ iPad] while I'm
-	lapsitting our cat Tabitha.  The website can be re-structured by
+	lapsitting a cat.  The website can be re-structured by
 	moving and renaming files and directories around.  The text files
 	have a simplistic format so I can just type away, and most of the
 	text is content.
