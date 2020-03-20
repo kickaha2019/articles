@@ -1,4 +1,2 @@
-Text:
-	I don't watch much TV, but recently I've been getting into
-	Korean TV mini-series so felt I ought to start a TV section
-	as TV dramas are different animals to films.
+Icon:
+  tv.jpg

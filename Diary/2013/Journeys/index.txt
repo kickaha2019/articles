@@ -1,6 +1,9 @@
 Date:
 	3rd August 2013
 
+Icon:
+  z75.jpg
+  
 Text:
 	"Journeys" is a game based on pictures of the P&O cruise ship
 	"Oriana" taken during a 
