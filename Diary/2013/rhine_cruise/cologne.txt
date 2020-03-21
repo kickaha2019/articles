@@ -1,6 +1,9 @@
 Anchor:
   Cologne Cathedral
   
+Icon:
+  DSCF4661.JPG
+  
 Date:
 	14th October 2013
 

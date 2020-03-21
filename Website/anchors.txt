@@ -15,26 +15,26 @@ Table:
   Alternative Theatre|35.673596|139.7634519|/Users/peter/Website/Articles/Diary/2020/New_Zealand/5_Drum_Tao/index.html#a1
   Andalsnes|62.5674461|7.68722000000002|/Users/peter/Website/Articles/Diary/2019/Iceland/norway/index.html#a1
   Anglesey Abbey|52.2365077|0.244010300000014|/Users/peter/Website/Articles/Diary/2013/snowdrops_again/index.html#a1
-  Anne Hathaway's cottage|52.190746|-1.73192300000005|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
+  Anne Hathaway's cottage|52.190746|-1.73192300000005|/Users/peter/Website/Articles/Diary/2010/stratford/friday.html#a1
   Arataki Visitor Centre|-36.9468718|174.6066123|/Users/peter/Website/Articles/Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html#a1
   Arctic Cathedral|69.6480287|18.9874922|/Users/peter/Website/Articles/Diary/2015/Eclipse/tromso.html#a1
   Arlington Hotel|53.3473053|-6.26068620000001|/Users/peter/Website/Articles/Diary/2019/Iceland/dublin/index.html#a1
   Arrowtown|-44.9416876|168.8358624|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Athelhampton House and Gardens|50.7476283|-2.32654160000004|/Users/peter/Website/Articles/Diary/2019/Dorset/tuesday.html#a1
   Audley End House and Gardens|52.0207851|0.220600999999988|/Users/peter/Website/Articles/Diary/2018/Audley_End/index.html#a1
-  Avebury Stone Circle|51.4289196|-1.85489080000002|/Users/peter/Website/Articles/Diary/2009/longleat/index.html#a1
+  Avebury Stone Circle|51.4289196|-1.85489080000002|/Users/peter/Website/Articles/Diary/2009/longleat/sunday.html#a1
   Aventree Hotel|37.5730642|126.9833239|/Users/peter/Website/Articles/Diary/2016/Korea/seoul1.html#a1
   Axbridge|51.28442|-2.81935199999998|/Users/peter/Website/Articles/Diary/2015/Somerset/index.html#a1
   Aysgarth Falls Hotel|54.290612|-1.98426599999993|/Users/peter/Website/Articles/Diary/2018/Yorkshire/index.html#a1
-  Babbacombe Model Village|50.482835|-3.52076599999998|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
-  Baddesley Clinton|52.3409501|-1.70852020000007|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
+  Babbacombe Model Village|50.482835|-3.52076599999998|/Users/peter/Website/Articles/Diary/2010/devon/torquay.html#a1
+  Baddesley Clinton|52.3409501|-1.70852020000007|/Users/peter/Website/Articles/Diary/2010/stratford/saturday.html#a1
   Banham Zoo|52.4462819|1.02538400000003|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#a1
   Barna Mia|-32.7674229|116.9263651|/Users/peter/Website/Articles/Diary/2003/australia/dryandra/index.html#a1
   Basilica Of Saint John|37.9528691|27.3675619000001|/Users/peter/Website/Articles/Diary/2009/eastern_med/ephesus/index.html#a1
   Bateman's|50.9893081|0.379480699999931|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#a1
   Bathampton|51.395142|-2.32059100000004|/Users/peter/Website/Articles/Diary/2012/bath_long_weekend/index.html#a1
   Beefeater Travellers Rest - Cambridge|52.2222647|0.0936804000000393|/Users/peter/Website/Articles/Dining_out/beefeater_girton/index.html#a1
-  Bicton Gardens|50.664164|-3.31032800000003|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
+  Bicton Gardens|50.664164|-3.31032800000003|/Users/peter/Website/Articles/Diary/2010/devon/killerton.html#a1
   Biddulph Grange Garden|53.129376|-2.16230599999994|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#a1
   Biggin Hill|51.3318849|0.0287677000000031|/Users/peter/Website/Articles/Diary/2005/biggin_hill/index.html#a1
   Blakeney Point|52.9666526|0.961510299999986|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#a1
@@ -47,10 +47,10 @@ Table:
   Brading Roman Villa|50.6730117|-1.15274539999996|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#a1
   Brewery Square Dorchester|50.7094537|-2.43810150000002|/Users/peter/Website/Articles/Diary/2019/Dorset/saturday.html#a1
   Bridewell Museum|52.6301269|1.29514549999999|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#a1
-  Briksdal Glacier|61.6660182|6.89020159999995|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#a1
+  Briksdal Glacier|61.6660182|6.89020159999995|/Users/peter/Website/Articles/Diary/2007/Norway/olden.html#a1
   Bruce Belcher's Daintree River Cruises|-16.2601457|145.3647323|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#a1
   Bryce Canyon|37.5930377|-112.1870895|/Users/peter/Website/Articles/Diary/2001/Utah/index.html#a1
-  Budleigh Salterton|50.630998|-3.32021399999996|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
+  Budleigh Salterton|50.630998|-3.32021399999996|/Users/peter/Website/Articles/Diary/2010/devon/killerton.html#a1
   Buksnes church|68.1171948|13.5603599|/Users/peter/Website/Articles/Diary/2015/Eclipse/leknes.html#a1
   Bulguksa|35.7900971|129.3320924|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju1.html#a1
   Burghley House|52.6424935|-0.452531300000032|/Users/peter/Website/Articles/Diary/2014/Burghley/index.html#a1
@@ -74,20 +74,20 @@ Table:
   Ceuta|35.8893874|-5.32134550000001|/Users/peter/Website/Articles/Diary/2016/Arcadia/ceuta.html#a1
   Chambers Wildlife Rainforest Lodges|-17.2860841|145.635521|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#a1
   Changdeokgung Palace|37.5793982|126.9910617|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#a1
-  Charminster St Mary's Church|50.7329456|-2.45591739999998|/Users/peter/Website/Articles/Diary/2019/Dorset/index.html#a1
+  Charminster St Mary's Church|50.7329456|-2.45591739999998|/Users/peter/Website/Articles/Diary/2019/Dorset/friday.html#a1
   Chatsworth House|53.2275433|-1.61142740000003|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#a1
   Cheomseongdae|35.8346828|129.2190631|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju1.html#a1
   Cheonmachong|35.8387356|129.2103867|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju1.html#a1
-  Church of the Spilled Blood|59.9401|30.3289|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Church of the Spilled Blood|59.9401|30.3289|/Users/peter/Website/Articles/Diary/2011/black_watch/st_petersburg.html#a1
   Clearwell Caves|51.771064|-2.614327|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#a1
-  Cologne Cathedral|50.9412784|6.95828140000003|/Users/peter/Website/Articles/Diary/2013/rhine_cruise/index.html#a1
+  Cologne Cathedral|50.9412784|6.95828140000003|/Users/peter/Website/Articles/Diary/2013/rhine_cruise/koblenz.html#a1
   Commodore Hotel Gyeongju|35.8446642|129.285081|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju1.html#a1
   Coniston Water|54.343243|-3.07162659999995|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#a1
   Conspicuous Cliffs|-35.0389989|116.8432987|/Users/peter/Website/Articles/Diary/2003/australia/walpole/index.html#a1
   Cooper Creek Wilderness|-16.171689|145.419137|/Users/peter/Website/Articles/Diary/2002/daintree/index.html#a1
   Corfe Castle|50.6384021|-2.05771329999993|/Users/peter/Website/Articles/Diary/2019/Dorset/saturday.html#a1
   Corfu|39.6249838|19.9223461|/Users/peter/Website/Articles/Diary/2014/Azura/corfu.html#a1
-  Coughton Court|52.2436808|-1.87931930000002|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
+  Coughton Court|52.2436808|-1.87931930000002|/Users/peter/Website/Articles/Diary/2010/stratford/sunday.html#a1
   Crich Tramway Museum|53.0903012|-1.48666930000002|/Users/peter/Website/Articles/Diary/2001/peak_district/index.html#a1
   Cromford Mill|53.1088642|-1.5554783|/Users/peter/Website/Articles/Diary/2012/derbyshire/index.html#a1
   Curio Bay|-46.6614691|169.1081446|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
@@ -107,14 +107,14 @@ Table:
   Disneyworld|28.385233|-81.563874|/Users/peter/Website/Articles/Diary/2001/Florida/index.html#a1
   Dorset Teddy Bear Museum|50.7155199|-2.43286990000001|/Users/peter/Website/Articles/Diary/2019/Dorset/monday.html#a1
   Dover Castle|51.128771|1.32339100000002|/Users/peter/Website/Articles/Diary/2005/kent/index.html#a1
-  Dover Cruise Terminal 1|51.1137696|1.3145346|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Dover Cruise Terminal 1|51.1137696|1.3145346|/Users/peter/Website/Articles/Diary/2011/black_watch/departure.html#a1
   Dubrovnik|42.6506606|18.0944238|/Users/peter/Website/Articles/Diary/2014/Azura/dubrovnik.html#a1
   Dunedin|-45.8787605|170.5027976|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Dunrobin Castle|57.9818445|-3.94549729999994|/Users/peter/Website/Articles/Diary/2018/Columbus/dunrobin.html#a1
   Dunvegan Castle|57.4484436|-6.59006410000006|/Users/peter/Website/Articles/Diary/2018/Columbus/skye.html#a1
   Dunwich Heath|52.25889|1.62671499999999|/Users/peter/Website/Articles/Diary/2004/christmas/index.html#a1
   Dyrham Park|51.4801143|-2.37320769999997|/Users/peter/Website/Articles/Diary/2012/bath_long_weekend/index.html#a1
-  East Meon|50.994361|-1.03771299999994|/Users/peter/Website/Articles/Diary/2016/Hampshire/index.html#a1
+  East Meon|50.994361|-1.03771299999994|/Users/peter/Website/Articles/Diary/2016/Hampshire/east_meon.html#a1
   Eastbourne|50.768035|0.290472000000022|/Users/peter/Website/Articles/Diary/2004/eastbourne/index.html#a1
   Elba|42.7781867|10.1927389|/Users/peter/Website/Articles/Diary/2016/Arcadia/elba.html#a1
   Ellinjaa Falls|-17.4938523|145.6557694|/Users/peter/Website/Articles/Diary/2002/atherton/index.html#a1
@@ -123,21 +123,21 @@ Table:
   Ephesus|37.9409487|27.3414703999999|/Users/peter/Website/Articles/Diary/2009/eastern_med/ephesus/index.html#a1
   Faberge Museum|59.9347205|30.3428812|/Users/peter/Website/Articles/Diary/2017/Baltics/st_petersburg.html#a1
   Felbrigg Hall|52.9144158|1.27724820000003|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#a1
-  Flam|60.8607716|7.11178489999998|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#a1
+  Flam|60.8607716|7.11178489999998|/Users/peter/Website/Articles/Diary/2007/Norway/flam.html#a1
   Fondation Monet in Giverny|49.0753898|1.53370219999999|/Users/peter/Website/Articles/Diary/2018/Columbus/honfleur.html#a1
-  Forde Abbey|50.8428677|-2.91116|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
+  Forde Abbey|50.8428677|-2.91116|/Users/peter/Website/Articles/Diary/2010/devon/seaton.html#a1
   Forest of Dean|51.7999835|-2.55191690000004|/Users/peter/Website/Articles/Diary/2008/gloucestershire/index.html#a1
   Fox Glacier|-43.4644799|170.0175878|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Foxton Locks|52.49879|-0.982143700000051|/Users/peter/Website/Articles/Diary/2019/Foxton_Locks/index.html#a1
   Francois Peron National Park|-25.8370706|113.6233155|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#a1
   Franz Josef Glacier|-43.3873293|170.1832884|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Frederiksborg Castle|55.9349652|12.3012724|/Users/peter/Website/Articles/Diary/2017/Baltics/copenhagen.html#a1
-  Fregatten Jylland|56.1991809|10.6738776|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Fregatten Jylland|56.1991809|10.6738776|/Users/peter/Website/Articles/Diary/2011/black_watch/Aarhus.html#a1
   Fremantle|-32.0518191|115.7551085|/Users/peter/Website/Articles/Diary/2003/australia/Perth/index.html#a1
   Fukuchi-In|34.215951|135.584843|/Users/peter/Website/Articles/Diary/2013/japan_holiday/koyasan.html#a1
   Funchal|32.6669328|-16.9240554|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#a1
   Gagadju Crocodile Hotel|-12.670456|132.831877|/Users/peter/Website/Articles/Diary/2003/australia/arnhemland/index.html#a1
-  Gamle Stavanger|58.9716156|5.72625389999996|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#a1
+  Gamle Stavanger|58.9716156|5.72625389999996|/Users/peter/Website/Articles/Diary/2007/Norway/stavanger.html#a1
   Gardens by the Bay|1.2815683|103.8636132|/Users/peter/Website/Articles/Diary/2020/New_Zealand/12_Singapore_and_home/index.html#a1
   Geraldton|-28.7773715|114.6149715|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#a1
   Ghibli Museum|35.696238|139.5704317|/Users/peter/Website/Articles/Diary/2013/japan_holiday/tokyo.html#a1
@@ -189,7 +189,7 @@ Table:
   Hutt Lagoon|-28.1621037|114.2449937|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#a1
   Hverir|65.6409144|-16.809311|/Users/peter/Website/Articles/Diary/2019/Iceland/iceland/index.html#a1
   Jagalchi Market|35.0967055|129.0304885|/Users/peter/Website/Articles/Diary/2016/Korea/busan.html#a1
-  Jane Austen's House Museum|51.133093|-0.98900500000002|/Users/peter/Website/Articles/Diary/2016/Hampshire/index.html#a1
+  Jane Austen's House Museum|51.133093|-0.98900500000002|/Users/peter/Website/Articles/Diary/2016/Hampshire/hinton_ampner.html#a1
   Jervaulx Abbey & Tearoom|54.2664072|-1.74220300000002|/Users/peter/Website/Articles/Diary/2018/Yorkshire/index.html#a1
   Jongno Tower|37.5707717|126.9835203|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#a1
   Kalbarri National Park|-27.7543546|114.3714731|/Users/peter/Website/Articles/Diary/2003/australia/Kalbarri/index.html#a1
@@ -200,9 +200,9 @@ Table:
   Kawaii Monster Cafe|35.6691492|139.706113|/Users/peter/Website/Articles/Diary/2020/New_Zealand/6_Kawaii_Monster_Cafe/index.html#a1
   Kedleston Hall|52.9593247|-1.53696160000004|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#a1
   Kegon waterfall|36.738597|139.5037497|/Users/peter/Website/Articles/Diary/2013/japan_holiday/nikko.html#a1
-  Kenilworth Castle|52.3482086|-1.59210729999995|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
-  Kents Cavern Prehistoric Caves|50.4677195|-3.50265460000003|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
-  Killerton House|50.7912881|-3.45788779999998|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
+  Kenilworth Castle|52.3482086|-1.59210729999995|/Users/peter/Website/Articles/Diary/2010/stratford/saturday.html#a1
+  Kents Cavern Prehistoric Caves|50.4677195|-3.50265460000003|/Users/peter/Website/Articles/Diary/2010/devon/torquay.html#a1
+  Killerton House|50.7912881|-3.45788779999998|/Users/peter/Website/Articles/Diary/2010/devon/killerton.html#a1
   Kilt Rock|57.6107719|-6.17190479999999|/Users/peter/Website/Articles/Diary/2018/Columbus/skye.html#a1
   Kings Canyon|-24.2506812|131.5800424|/Users/peter/Website/Articles/Diary/2002/kings_canyon/index.html#a1
   Kinkaku-ji|35.03937|135.7292431|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto_nara.html#a1
@@ -215,7 +215,7 @@ Table:
   Kuranda|-16.816667|145.633333|/Users/peter/Website/Articles/Diary/2002/cairns/index.html#a1
   Kyoto Imperial Palace|35.0254135|135.7621246|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto_nara.html#a1
   La Spezia|44.1024504|9.8240826|/Users/peter/Website/Articles/Diary/2016/Arcadia/la_spezia.html#a1
-  Lahemaa National Park|59.5676617|25.7810188|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Lahemaa National Park|59.5676617|25.7810188|/Users/peter/Website/Articles/Diary/2011/black_watch/estonia.html#a1
   Lake Barrine|-17.2460689|145.6390511|/Users/peter/Website/Articles/Diary/2002/lake_barrine/index.html#a1
   Lake Thetis|-30.5072222|115.0805556|/Users/peter/Website/Articles/Diary/2003/australia/pinnacles/index.html#a1
   Lakeland Motor Museum|54.2587173|-2.9891394|/Users/peter/Website/Articles/Diary/2014/LakeDistrict/index.html#a1
@@ -230,14 +230,14 @@ Table:
   Little Moreton Hall|53.1271607|-2.25174659999993|/Users/peter/Website/Articles/Diary/2007/Derbyshire/index.html#a1
   Little Walsingham|52.8959389|0.875399099999981|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#a1
   Lofotr Viking Museum|68.2444321|13.7555695|/Users/peter/Website/Articles/Diary/2015/Eclipse/leknes.html#a1
-  Longleat|51.1886251|-2.2630077|/Users/peter/Website/Articles/Diary/2009/longleat/index.html#a1
+  Longleat|51.1886251|-2.2630077|/Users/peter/Website/Articles/Diary/2009/longleat/saturday.html#a1
   Lotte Department Store Busan|35.1569665|129.0560965|/Users/peter/Website/Articles/Diary/2016/Korea/busan.html#a1
   Loughton Baptist Church|51.6442753|0.050617099999954|/Users/peter/Website/Articles/Diary/2004/wedding/index.html#a1
   LynnMall|-36.9079483|174.6860723|/Users/peter/Website/Articles/Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html#a1
   Lyveden New Bield|52.4620037|-0.556600099999969|/Users/peter/Website/Articles/Diary/2009/lyvden_new_bield/index.html#a1
   Maasmechelen Village|51.0028656|5.70723899999996|/Users/peter/Website/Articles/Diary/2013/rhine_cruise/ahrweiler.html#a1
   Maiden Castle|50.695886|-2.46956599999999|/Users/peter/Website/Articles/Diary/2019/Dorset/tuesday.html#a1
-  Manor Farm Soton|50.903796|-1.27746500000001|/Users/peter/Website/Articles/Diary/2017/Baltics/index.html#a1
+  Manor Farm Soton|50.903796|-1.27746500000001|/Users/peter/Website/Articles/Diary/2017/Baltics/departure.html#a1
   Marwell Zoo|50.9910678|-1.28335849999996|/Users/peter/Website/Articles/Diary/2016/Hampshire/winchester.html#a1
   Masson Mills|53.1126478|-1.5619236|/Users/peter/Website/Articles/Diary/2012/derbyshire/index.html#a1
   Matamata|-37.8108803|175.7764607|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
@@ -271,8 +271,8 @@ Table:
   National Museum of Ireland - Natural History Museum|53.3398848|-6.25334780000003|/Users/peter/Website/Articles/Diary/2018/Columbus/dublin.html#a1
   National Museum of Korea|37.5238506|126.9804702|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#a1
   National Railway Museum York|53.9605467|-1.09636599999999|/Users/peter/Website/Articles/Diary/2006/york/index.html#a1
-  National Trust - Greenway|50.3818977|-3.587805|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
-  National Trust - Hinton Ampner|51.0436058|-1.15070909999997|/Users/peter/Website/Articles/Diary/2016/Hampshire/index.html#a1
+  National Trust - Greenway|50.3818977|-3.587805|/Users/peter/Website/Articles/Diary/2010/devon/torquay.html#a1
+  National Trust - Hinton Ampner|51.0436058|-1.15070909999997|/Users/peter/Website/Articles/Diary/2016/Hampshire/hinton_ampner.html#a1
   National Trust Hardy's Cottage|50.7314505|-2.38630349999994|/Users/peter/Website/Articles/Diary/2019/Dorset/wednesday.html#a1
   Nevill Arms Inn - Restaurant & Accommodation|52.5283098|-0.82443539999997|/Users/peter/Website/Articles/Diary/2019/Foxton_Locks/index.html#a1
   New Hankyu Hotel Osaka|34.7070243|135.4972786|/Users/peter/Website/Articles/Diary/2013/japan_holiday/osaka.html#a1
@@ -287,14 +287,14 @@ Table:
   Nugget Point|-46.4452711|169.8092228|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Old Crown Girton|52.2425867|0.0814947000000075|/Users/peter/Website/Articles/Dining_out/old_crown_girton/index.html#a1
   Old School Restaurant|57.4321147|-6.57292649999999|/Users/peter/Website/Articles/Diary/2018/Columbus/skye.html#a1
-  Olden|61.8350282|6.80655560000002|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#a1
+  Olden|61.8350282|6.80655560000002|/Users/peter/Website/Articles/Diary/2007/Norway/olden.html#a1
   Osaka Aquarium Kaiyukan|34.6545182|135.4289645|/Users/peter/Website/Articles/Diary/2013/japan_holiday/osaka.html#a1
   Osaka Castle|34.6873333|135.5259555|/Users/peter/Website/Articles/Diary/2013/japan_holiday/osaka.html#a1
   Osborne House|50.750372|-1.26943099999994|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#a1
   Otago Peninsula|-45.8666667|170.6666667|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Owakudani|35.2434489|139.0193538|/Users/peter/Website/Articles/Diary/2013/japan_holiday/fuji_hakone.html#a1
   Oxburgh Hall|52.5810368|0.570369199999959|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#a1
-  Packwood House|52.3479118|-1.74669740000002|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
+  Packwood House|52.3479118|-1.74669740000002|/Users/peter/Website/Articles/Diary/2010/stratford/saturday.html#a1
   Paks Margareeta|59.4425579|24.7495473|/Users/peter/Website/Articles/Diary/2017/Baltics/tallinn.html#a1
   Palazzo Parisio|35.9148964|14.4441529000001|/Users/peter/Website/Articles/Diary/2014/Azura/malta.html#a1
   Paphos|34.7720133|32.4297369|/Users/peter/Website/Articles/Diary/2009/eastern_med/cyprus/index.html#a1
@@ -303,21 +303,21 @@ Table:
   Pembury Baptist Church|51.1475239|0.328106899999966|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#a1
   Perth|-31.9505269|115.8604572|/Users/peter/Website/Articles/Diary/2003/australia/Perth/index.html#a1
   Peter Beales Roses|52.4983844|0.988335300000017|/Users/peter/Website/Articles/Diary/2019/Norfolk/index.html#a1
-  Peterhof|59.8863041|29.9085976|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Peterhof|59.8863041|29.9085976|/Users/peter/Website/Articles/Diary/2011/black_watch/st_petersburg.html#a1
   Philosopher's Path|35.0268199|135.7953591|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto.html#a1
   Pirates Cove Adventure Golf|52.6057511|1.73713529999998|/Users/peter/Website/Articles/Diary/2018/GreatYarmouth/index.html#a1
   Ponta Delgada|37.7394207|-25.6686725|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#a1
   Poole's Cavern|53.24997|-1.9251782|/Users/peter/Website/Articles/Diary/2001/peak_district/index.html#a1
   Porpoise Bay|-46.6491468|169.1171787|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Portsmouth Historic Dockyard|50.800531|-1.10946590000003|/Users/peter/Website/Articles/Diary/2016/Arcadia/2.html#a1
-  Prora|54.4390642|13.5747259|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Prora|54.4390642|13.5747259|/Users/peter/Website/Articles/Diary/2011/black_watch/Aarhus.html#a1
   Punakaiki|-42.1084146|171.3363126|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Pushkin Art Gallery|59.931685|30.295709|/Users/peter/Website/Articles/Diary/2017/Baltics/st_petersburg.html#a1
   Puzzling World|-44.696992|169.161698|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Quiet Waters|52.4443634|1.43344769999999|/Users/peter/Website/Articles/Diary/2008/quiet_waters/index.html#a1
   R&aring;jberg Mile|57.6486111|10.4066667|/Users/peter/Website/Articles/Diary/2003/Denmark/index.html#a1
   Raffles Hotel|1.2948829|103.8544791|/Users/peter/Website/Articles/Diary/2002/singapore/index.html#a1
-  Ragley Hall|52.198|-1.89599999999996|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
+  Ragley Hall|52.198|-1.89599999999996|/Users/peter/Website/Articles/Diary/2010/stratford/sunday.html#a1
   Rakuu-tei Tea House|35.6858152|139.7071145|/Users/peter/Website/Articles/Diary/2020/New_Zealand/4_Teahouses_and_Go/index.html#a1
   Regent of Rotorua|-38.133542|176.250697|/Users/peter/Website/Articles/Diary/2020/New_Zealand/10_Rotorua/index.html#a1
   Regus - Cambridge Vision Park|52.2435879|0.109668800000009|/Users/peter/Website/Articles/Diary/2019/Vision_Park_Pond/index.html#a1
@@ -340,7 +340,7 @@ Table:
   Sanbon-ro|37.3613089|126.9388145|/Users/peter/Website/Articles/Diary/2016/Korea/gunpo.html#a1
   Sandringham|52.8296856|0.512488899999994|/Users/peter/Website/Articles/Diary/2005/north_norfolk/index.html#a1
   Scotney Castle - National Trust|51.0928332|0.408233600000017|/Users/peter/Website/Articles/Diary/2017/Kent/index.html#a1
-  Seaton Tramway|50.7050832|-3.06779470000004|/Users/peter/Website/Articles/Diary/2010/devon/index.html#a1
+  Seaton Tramway|50.7050832|-3.06779470000004|/Users/peter/Website/Articles/Diary/2010/devon/seaton.html#a1
   Seokguram|35.7950858|129.3496981|/Users/peter/Website/Articles/Diary/2016/Korea/gyeongju2.html#a1
   Seoul Tower|37.5511694|126.9882266|/Users/peter/Website/Articles/Diary/2016/Korea/seoul2.html#a1
   Shell Beach|-26.215|113.7736111|/Users/peter/Website/Articles/Diary/2003/australia/shark_bay/index.html#a1
@@ -360,14 +360,14 @@ Table:
   St. Andrews Hall Norwich|52.63112|1.29571169999997|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#a1
   St. Benet's Abbey|52.687429|1.52051200000005|/Users/peter/Website/Articles/Diary/2013/broads/index.html#a1
   St. Isaac's Cathedral|59.933905|30.3064850000001|/Users/peter/Website/Articles/Diary/2017/Baltics/st_petersburg.html#a1
-  State Hermitage Museum|59.9398317|30.3145597|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  State Hermitage Museum|59.9398317|30.3145597|/Users/peter/Website/Articles/Diary/2011/black_watch/st_petersburg.html#a1
   Stewart Island|-46.9580693|167.8078432|/Users/peter/Website/Articles/Diary/2006/new_zealand/index.html#a1
   Stokesby|52.638172|1.594877|/Users/peter/Website/Articles/Diary/2013/broads/index.html#a1
-  Stonehenge|51.178882|-1.82621500000005|/Users/peter/Website/Articles/Diary/2009/longleat/index.html#a1
+  Stonehenge|51.178882|-1.82621500000005|/Users/peter/Website/Articles/Diary/2009/longleat/friday.html#a1
   Strangers' Hall|52.6307068|1.29248080000002|/Users/peter/Website/Articles/Diary/2008/norwich/index.html#a1
   Stratford Butterfly Farm|52.1895188|-1.70009709999999|/Users/peter/Website/Articles/Diary/2016/Stratford/index.html#a1
   Stratford MAD museum|52.1931177|-1.70702819999997|/Users/peter/Website/Articles/Diary/2016/Stratford/index.html#a1
-  Stratford-upon-Avon Baptist Church|52.1945983|-1.70488150000006|/Users/peter/Website/Articles/Diary/2010/stratford/index.html#a1
+  Stratford-upon-Avon Baptist Church|52.1945983|-1.70488150000006|/Users/peter/Website/Articles/Diary/2010/stratford/sunday.html#a1
   Stretham Old Engine|52.3343426|0.22426710000002|/Users/peter/Website/Articles/Diary/2010/stretham/index.html#a1
   Sutton Hoo|52.0944505|1.3407962|/Users/peter/Website/Articles/Diary/2004/christmas/index.html#a1
   Swan's Nest Hotel|52.190801|-1.69950700000004|/Users/peter/Website/Articles/Diary/2016/Stratford/index.html#a1
@@ -402,7 +402,7 @@ Table:
   Time and Tide Museum of Great Yarmouth Life|52.6017183|1.73130149999997|/Users/peter/Website/Articles/Diary/2017/Lowestoft/index.html#a1
   Tiritiri Matangi Island|-36.6012403|174.8893617|/Users/peter/Website/Articles/Diary/2010/new_zealand/index.html#a1
   Titanic Belfast|54.60807|-5.90997240000002|/Users/peter/Website/Articles/Diary/2018/Columbus/belfast.html#a1
-  Tivoli Gardens|55.6736841|12.5681471|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Tivoli Gardens|55.6736841|12.5681471|/Users/peter/Website/Articles/Diary/2011/black_watch/copenhagen.html#a1
   Toad Hole Cottage Museum|52.7176517|1.50785680000001|/Users/peter/Website/Articles/Diary/2013/broads/index.html#a1
   Tobermory|56.6227813|-6.07230040000002|/Users/peter/Website/Articles/Diary/2018/Columbus/mull.html#a1
   Todaiji Temple|34.6913035|135.8377434|/Users/peter/Website/Articles/Diary/2013/japan_holiday/kyoto_nara.html#a1
@@ -412,7 +412,7 @@ Table:
   Trading Post Kettering|52.3921206|-0.74614059999999|/Users/peter/Website/Articles/Dining_out/trading_post/index.html#a1
   Tree Church|-37.90852|175.329699|/Users/peter/Website/Articles/Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html#a1
   Tresco Abbey Garden|49.9465289|-6.33296369999994|/Users/peter/Website/Articles/Diary/2018/Columbus/tresco.html#a1
-  Troldhaugen|60.319625|5.32944699999996|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#a1
+  Troldhaugen|60.319625|5.32944699999996|/Users/peter/Website/Articles/Diary/2007/Norway/bergen.html#a1
   Tromso|69.6492047|18.9553238999999|/Users/peter/Website/Articles/Diary/2015/Eclipse/tromso.html#a1
   Tyneham|50.622448|-2.16875000000005|/Users/peter/Website/Articles/Diary/2019/Dorset/saturday.html#a1
   Ubirr|-12.4082056|132.9559355|/Users/peter/Website/Articles/Diary/2002/kakadu/index.html#a1
@@ -423,13 +423,13 @@ Table:
   Unmunsa|35.661273|128.960278|/Users/peter/Website/Articles/Diary/2016/Korea/busan.html#a1
   Uppark House and Garden - National Trust|50.9524027|-0.891257600000017|/Users/peter/Website/Articles/Diary/2016/Hampshire/uppark.html#a1
   Valley of the Giants|-34.9780479|116.8935444|/Users/peter/Website/Articles/Diary/2003/australia/walpole/index.html#a1
-  Vasa Museum|59.3280233|18.0913964|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
-  Vatnahalsen|60.7435346|7.12986550000005|/Users/peter/Website/Articles/Diary/2007/Norway/index.html#a1
+  Vasa Museum|59.3280233|18.0913964|/Users/peter/Website/Articles/Diary/2011/black_watch/stockholm.html#a1
+  Vatnahalsen|60.7435346|7.12986550000005|/Users/peter/Website/Articles/Diary/2007/Norway/flam.html#a1
   Vejer de la Frontera|36.252034|-5.9667359|/Users/peter/Website/Articles/Diary/2016/Arcadia/cadiz.html#a1
   Venice|45.4408474|12.3155151|/Users/peter/Website/Articles/Diary/2014/Azura/venice.html#a1
   Ventnor Botanic Garden|50.5895122|-1.22664810000003|/Users/peter/Website/Articles/Diary/2006/isle_of_wight/index.html#a1
   Vigo|42.2405989|-8.72072679999997|/Users/peter/Website/Articles/Diary/2012/azores_cruise/index.html#a1
-  Viru Bog|59.4707697|25.6371589|/Users/peter/Website/Articles/Diary/2011/black_watch/index.html#a1
+  Viru Bog|59.4707697|25.6371589|/Users/peter/Website/Articles/Diary/2011/black_watch/estonia.html#a1
   Voergaard Slot|57.242532|10.335428|/Users/peter/Website/Articles/Diary/2017/Baltics/skagen.html#a1
   WWT Welney|52.5269435|0.278716199999963|/Users/peter/Website/Articles/Diary/2010/bats/index.html#a1
   Wai-O-Tapu|-38.358256|176.3689844|/Users/peter/Website/Articles/Diary/2020/New_Zealand/10_Rotorua/index.html#a1

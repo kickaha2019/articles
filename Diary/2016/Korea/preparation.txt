@@ -1,8 +1,5 @@
 Title:
-	Why South Korea
-
-Date:
-	May 7th 2016
+	1:Why South Korea
 
 Text:
 	Sometimes the start, the cause, the trigger is hard to write down. Perhaps it was watching the Korean TV

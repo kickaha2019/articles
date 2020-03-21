@@ -1,8 +1,5 @@
-Date:
-	August 31st 2018
-
 Title:
-	The ship
+	2:The ship
 
 Image:
   ship3.jpg
