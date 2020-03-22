@@ -42,6 +42,10 @@ a, a div {color: #00DDDD}
 .t0 {text-decoration: none}
 a:hover, a:hover div, span, b {color: white}
 
+blockquote {border-left: 1px solid #CCCC00; margin-left: 0px; padding-left: 20px}
+em {color: magenta}
+strong {color: white}
+
 @media all and (min-width: 768px) {
   div.page {width: 768px; border-radius: 10px}
   .content {width: 748px; padding-top: 10px}

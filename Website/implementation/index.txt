@@ -61,7 +61,7 @@ Heading:
 Text:
 	The text for my website comes from a number of sources.
 	Some of it I enter in text editors, some of it is pasted
-	from other programs like [https://support.apple.com/kb/PH5291 iWeb].  As such the text can
+	from other programs like ''iWeb''.  As such the text can
 	contain special characters in a variety of text encodings.
 	
 	The downside of this, unless I took corrective action, 

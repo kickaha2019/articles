@@ -11,8 +11,8 @@ Link:
 	2002 Australia
 
 Link:
-	2003
-	2003 Australia Denmark
+	2003/australia
+	2003 Australia
 
 Link:
 	2005/uganda

@@ -4,10 +4,10 @@ Title:
 Text:
 	I have spent numerous hours tinkering with my personal website.  
 	It started off as HTML pages generated from text files, then I tried
-	[https://support.apple.com/kb/PH5291 iWeb], then HTML pages generated 
+	''iWeb'', then HTML pages generated
 	from data in [https://www.filemaker.com/ Filemaker]'s ''Bento'',
 	then [Joomla],
-	then back to [iWeb], and currently it's HTML pages statically generated
+	then back to ''iWeb'', and currently it's HTML pages statically generated
 	from text files.  This time I've rearranged the deck chairs to make the
 	website more blog-like, and to enable multiple paths to the same page.
 
