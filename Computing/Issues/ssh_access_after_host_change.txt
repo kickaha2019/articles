@@ -1,9 +1,0 @@
-Title:
-	SSH access after domain host changed
-
-Text:
-	SSH access failed to my website after domain moved to new server,
-  complaining about possible spoofing.
-
-Code:
-	Simplest answer is to remove the ''known_hosts'' file in the user's .ssh folder.
