@@ -45,6 +45,7 @@ a:hover, a:hover div, span, b {color: white}
 blockquote {border-left: 1px solid #CCCC00; margin-left: 0px; padding-left: 20px}
 em {color: magenta}
 strong {color: #66FF66}
+pre {background: white; color: black; margin-left: 20px; font-size: 12px; padding-left: 3px}
 
 @media all and (min-width: 768px) {
   div.page {width: 768px; border-radius: 10px}
@@ -52,6 +53,7 @@ strong {color: #66FF66}
   .size0 {display: none}
   .size1 {display: block}
   .t0, .t1 {font-size: 18px}
+  pre {font-size: 14px}
   .indexes {min-width: 300px}
   .story {min-width: 440px}
   .map {width: 738px}
@@ -73,6 +75,7 @@ strong {color: #66FF66}
   .size2 {display: none}
   .size3 {display: block}
   .t0, .t1 {font-size: 22px}
+  pre {font-size: 16px}
   .indexes {min-width: 624px}
   .story {min-width: 1250px}
   .map {width: 1230px}

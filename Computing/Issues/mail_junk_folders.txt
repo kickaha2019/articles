@@ -1,8 +1,0 @@
-Title:
-  Error moving mail to junk folders
-  
-Text:
-  Unable to move to Junk folder because Mailbox ??? does not exist.
-
-Code:
-  In Mail Preferences/Accounts check that Junk mailboxes are properly defined.
