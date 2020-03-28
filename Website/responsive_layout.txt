@@ -1,5 +1,5 @@
 Title:
-	Responsive layout
+  Responsive layout
 
 Text:
 	There were a number of reasons to overhaul the HTML / CSS. One was

@@ -1,4 +1,0 @@
----
-template: anchor_map.erb
-title: Where we've been
-tiles: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
