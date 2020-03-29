@@ -3,7 +3,7 @@ Peter Rootham-Smith (Peter is fine.)  Welcome! That's not a picture of me
 of course but instead our late beloved cat Tabitha. Much more photogenic than I am.
 
 I drive a Kia, and my favourite colour is blue.
-My interest include [TV](Links/TV),
+My interest include [TV](/TV),
 [music](Music), [computer games](Games), [Go](Go),
 and [software](Computing).
 
