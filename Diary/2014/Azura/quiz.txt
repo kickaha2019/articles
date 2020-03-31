@@ -1,6 +1,9 @@
 Date:
 	September 30th 2014
 
+Icon:
+  java_bar.JPG
+  
 Text:
 	We've started going to some of the quizzes that are run by the
 	Entertainment Team on board the ships we cruise on.  Most days we

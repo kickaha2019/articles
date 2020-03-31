@@ -1,6 +1,9 @@
 Title:
 	1:Why South Korea
 
+Icon:
+  biba3.jpg
+  
 Text:
 	Sometimes the start, the cause, the trigger is hard to write down. Perhaps it was watching the Korean TV
 	dramas I was doing which provoked me to want to visit South Korea. Dramas like "The Greatest Love" and

@@ -1,6 +1,9 @@
 Date:
 	September 7th 2018
 
+Icon:
+  dublin.jpeg
+  
 Anchor:
   National Museum of Ireland - Natural History Museum
   
