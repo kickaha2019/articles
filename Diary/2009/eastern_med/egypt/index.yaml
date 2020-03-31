@@ -1,7 +1,7 @@
 ---
 anchors:
-- "  Giza Necropolis"
-- "  Great Sphinx of Giza"
+- Giza Necropolis
+- Great Sphinx of Giza
 date: 24 November 2009
 images:
 - path: giza.JPG
