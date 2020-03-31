@@ -1,6 +1,0 @@
-Icon:
-	go.jpg
-
-Text:
-	For relaxation I play [http://www.britgo.org/about/index.html Go], one of the
-	few things I've shown any sign of aptitude for. 

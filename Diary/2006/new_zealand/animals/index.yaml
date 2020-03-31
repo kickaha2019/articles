@@ -1,0 +1,29 @@
+---
+title: Pictures of animals
+images:
+- path: sea_anemones.jpg
+  tag: Sea anemones (out of water so closed)
+- path: sea_lions_curio1.jpg
+  tag: Sea lions at Curio Point
+- path: sea_lions_curio2.jpg
+  tag: Sea lions closeup at Curio Point
+- path: sea_lions_curio3.jpg
+  tag: Sea lion closeup at Curio Point
+- path: sea_lions_curio4.jpg
+  tag: Sea lion at Curio Point
+- path: tuatara1.jpg
+  tag: Tuatara at Invercargill museum
+- path: tuatara2.jpg
+  tag: Henry - Tuatara born in the 1880s in Invercargill museum
+- path: elephant_seal.jpg
+  tag: Elephant seal on Ulva Island
+- path: elephant_seal_spot.jpg
+  tag: Elephant seal's spot on Ulva Island
+- path: butterfly.jpg
+  tag: Butterfly at Homer Tunnel entrance
+- path: milford_seals.jpg
+  tag: Seals in Milford Sound
+- path: glow_worms.jpg
+  tag: Glow-worms in Waitomo caves
+- path: cave_weta.jpg
+  tag: Cave weta in Waitomo caves

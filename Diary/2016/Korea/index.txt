@@ -1,8 +1,0 @@
-Icon:
-	silla_tumuli.jpg
-	
-Title:
-	South Korea
-
-Date:
-	May 8th 2016

@@ -1,9 +1,0 @@
-Date:
-	July 14th 2017
-
-Icon:
-  ship_outside.JPG
-  
-Title:
-	Baltics Cruise
-

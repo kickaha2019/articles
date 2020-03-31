@@ -1,8 +1,0 @@
-Title:
-	Western Med cruise
-
-Icon:
-	sagrada3.jpg
-
-Date:
-	October 4th 2016

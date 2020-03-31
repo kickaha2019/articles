@@ -1,8 +1,0 @@
-Title:
-	Western Med cruise
-
-Icon:
-	gondolas1.JPG
-	
-Date:
-	September 14th 2014

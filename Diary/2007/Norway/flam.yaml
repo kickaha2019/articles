@@ -1,0 +1,18 @@
+---
+anchors:
+- "  Flam"
+- "  Vatnahalsen"
+date: 21st May 2007
+images:
+- path: flam.JPG
+  tag: Flam
+- path: flam_valley.JPG
+  tag: Flam valley
+- path: waterfall.JPG
+  tag: Nature reigns
+- path: station.JPG
+  tag: Vatnalhausen Station
+- path: train.JPG
+  tag: Flamsbana
+- path: artemis_at_flam.JPG
+  tag: Artemis docked at Flam

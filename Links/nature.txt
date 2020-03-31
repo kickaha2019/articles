@@ -1,7 +1,0 @@
-Text:
-	[Birdwatch Northumbria]
-	- I've enjoyed their birding trips.
-		
-	[https://www.naturequest.co.nz/ Nature Quest New Zealand]
-	- helped me on a high-speed tour of New Zealand to see what I wouldn't have otherwise have seen.
-		

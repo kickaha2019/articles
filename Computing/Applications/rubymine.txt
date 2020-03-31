@@ -1,6 +1,0 @@
-Title:
-  RubyMine
-  
-Text:
-	I use [https://www.jetbrains.com/ruby/ RubyMine] to help with writing Ruby code.
-  It isn't free but I feel worth it.
