@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt1650062/ Super 8]
+Film|[Super 8](https://www.imdb.com/title/tt1650062/)
 Country|USA
 Director|J.J. Abrams
 Year|2011

@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|&#20877;&#29983;&#34399; ([https://www.imdb.com/title/tt1451620/ Written By])
+Film|&#20877;&#29983;&#34399; ([Written By](https://www.imdb.com/title/tt1451620/))
 Country|Hong Kong
 Director|Wai Ka-Fai
 Year|2009

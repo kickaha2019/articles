@@ -8,7 +8,7 @@ Transmitted|29th March to 19th July 2013
 Cast|Honoka Miki, Yuki Furukawa, Yuki Yamada
 Details|16 episodes
 Themes|Adolescence, crushes
-Links|[http://asianwiki.com/Mischievous_Kiss:_Love_in_Tokyo Asian Wiki]
+Links|[Asian Wiki](http://asianwiki.com/Mischievous_Kiss:_Love_in_Tokyo)
 
 F-grade naive school-girl Kotoko gets a crush on the school's star
 student Naoki, but her wishful approach to him gets a crushing snubbing.

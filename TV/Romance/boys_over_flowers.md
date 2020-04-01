@@ -8,7 +8,7 @@ Transmitted|5th January to 31st March 2009
 Cast|Lee Min-Ho, Ku Hye-Seon, Kim Hyun-Joong
 Details|25 episodes
 Themes|School, love triangle, rich meeting poor
-Links|[http://asianwiki.com/Boys_Over_Flowers_-_Korean_Drama Asian Wiki] [https://www.koreandrama.org/boys-before-flowers/ Korean Drama]
+Links|[Asian Wiki](http://asianwiki.com/Boys_Over_Flowers_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/boys-before-flowers/)
 
 A Korean TV drama based on a Japanese manga "Hana yori Dango", whose
 title (literally Boys over Flowers) is a pun on a Japanese saying of

@@ -11,7 +11,7 @@ Transmitted|21st April to 30th June 2012
 Cast|Masaki Okada, Ayame Gouriki, Kanata Hongo, Mayuko Fukuda
 Details|11 episodes
 Themes|Mystery, virtual reality
-Links|[http://www.ntv.co.jp/akumu/ Official website] [http://asianwiki.com/Future_Diary_(Mirai_Nikki) Asian Wiki]
+Links|[Official website](http://www.ntv.co.jp/akumu/) [Asian Wiki](http://asianwiki.com/Future_Diary_(Mirai_Nikki))
 
 A lackadaisical student has his life turned upside down when he
 receives a strange phone with a diary that tells the future. He finds

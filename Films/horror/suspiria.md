@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0076786/ Suspiria]
+Film|[Suspiria](https://www.imdb.com/title/tt0076786/)
 Country|Italy
 Director|Dario Argento
 Year|1977
@@ -16,7 +16,6 @@ What lifts this above the stock shocker is the pacing, the use of sound and colo
 So is "Suspiria" just slasher entertainment for the arthouse? Curiously there are old-fashioned morals amidst the mayhem. Innocence triumphs over corruption and greed. But "Suspiria" is a film to experience not to analyse. IMHO.
 
 The climax of the film is surrealist and transcendental - like Jessica we have reached a place of symbols which we cannot decode. A trip to take.
-
 
 
 

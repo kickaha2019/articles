@@ -4,7 +4,7 @@ offerings.
 
 Program|Protocol|OS|Comments
 -|-|-|-
-[http://www.godrago.net/ Drago]|gtp|Windows|Works very nicely and very simply.
+[Drago](http://www.godrago.net/)|gtp|Windows|Works very nicely and very simply.
 GoGui|gtp|Windows|
-[http://www.sente.ch/software/goban3/ Goban]|gtp|Mac OSX|Runs Go engines inside a sandbox which stopped my code in its tracks
-[https://www.smartgo.com/ SmartGo]|gtp|Windows|Failed to start my code
+[Goban](http://www.sente.ch/software/goban3/)|gtp|Mac OSX|Runs Go engines inside a sandbox which stopped my code in its tracks
+[SmartGo](https://www.smartgo.com/)|gtp|Windows|Failed to start my code

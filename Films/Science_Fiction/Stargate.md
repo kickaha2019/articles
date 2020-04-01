@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0111282/ Stargate]
+Film|[Stargate](https://www.imdb.com/title/tt0111282/)
 Country|USA
 Director|Roland Emmerich
 Year|1994

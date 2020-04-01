@@ -3,8 +3,8 @@ is a list of the ones I've come into contact with:
 
 Name|Extension(s)|Format|Comments
 -|-|-|-
-[ass Advanced SubStation Alpha]|.ass|Text|Widely used by fans who do subtitles
-[sami Synchronized Accessible Media Interchange]|.smi|Text|Microsoft format now happily rare
-[sup PGS subtitle format]|.sup|Binary|Subtitle format used on Blu-Ray movie
-[srt SubRip Text]|.srt|Text|Basic but very useful subtitle file format
-[vobsub VobSub format]|.idx/.sub|Text / Binary|Subtitle format used on DVD movies
+[Advanced SubStation Alpha](ass)|.ass|Text|Widely used by fans who do subtitles
+[Synchronized Accessible Media Interchange](sami)|.smi|Text|Microsoft format now happily rare
+[PGS subtitle format](sup)|.sup|Binary|Subtitle format used on Blu-Ray movie
+[SubRip Text](srt)|.srt|Text|Basic but very useful subtitle file format
+[VobSub format](vobsub)|.idx/.sub|Text / Binary|Subtitle format used on DVD movies

@@ -8,7 +8,7 @@ Transmitted|2011
 Cast|Jennifer Morrison, Lana Parilla, Robert Carlyle et al
 Details|22 episodes
 Themes|Fairy tales, crime
-Links|[https://abc.go.com/shows/once-upon-a-time Official website]
+Links|[Official website](https://abc.go.com/shows/once-upon-a-time)
 
 A grand collision of a load of fairy tales with an adult context.
 The plot has an evil queen enacting a curse which sends all

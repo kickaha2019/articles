@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0120382/ The Truman Show]
+Film|[The Truman Show](https://www.imdb.com/title/tt0120382/)
 Country|USA
 Director|Peter Weir
 Year|1998

@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0089374/ Police Story]
+Film|[Police Story](https://www.imdb.com/title/tt0089374/)
 Country|Hong Kong
 Director|Jackie Chan
 Year|1985

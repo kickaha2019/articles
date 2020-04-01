@@ -8,7 +8,7 @@ Transmitted|13th October to 22nd December 2012
 Cast|Keiko Kitagawa, Yuka, Gackt, Fumiyo Kohinata
 Details|11 episodes
 Themes|School, dreams, fantasy, mystery
-Links|[http://www.ntv.co.jp/akumu/ Official website] [http://asianwiki.com/My_Little_Nightmare_-_Akumu-chan Asian Wiki]
+Links|[Official website](http://www.ntv.co.jp/akumu/) [Asian Wiki](http://asianwiki.com/My_Little_Nightmare_-_Akumu-chan)
 
 A cold-hearted school teacher finds herself enmeshed with a strange new
 pupil who has fantastical prophetic dreams. Try as she may to avoid it

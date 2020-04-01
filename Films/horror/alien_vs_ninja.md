@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt1592503/ Alien vs. Ninja]
+Film|[Alien vs. Ninja](https://www.imdb.com/title/tt1592503/)
 Country|Japan
 Director|Seiji Chiba
 Year|2010

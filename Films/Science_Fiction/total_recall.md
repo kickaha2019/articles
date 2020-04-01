@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0100802/ Total Recall]
+Film|[Total Recall](https://www.imdb.com/title/tt0100802/)
 Country|USA
 Director|Paul Verhoeven
 Year|1990

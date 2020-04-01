@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0033717/ High Sierra]
+Film|[High Sierra](https://www.imdb.com/title/tt0033717/)
 Country|USA
 Director|Raoul Walsh
 Year|1941

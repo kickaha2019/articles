@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0482930/ Dragon Tiger Gate]
+Film|[Dragon Tiger Gate](https://www.imdb.com/title/tt0482930/)
 Country|Hong Kong
 Director|Wilson Yip
 Year|2006

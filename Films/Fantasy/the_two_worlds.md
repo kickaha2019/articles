@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|&#49888;&#44284;&#54632;&#44760;-&#51396;&#50752; &#48268; ([https://www.imdb.com/title/tt7160070/ Along with the Gods: The Two Worlds])
+Film|&#49888;&#44284;&#54632;&#44760;-&#51396;&#50752; &#48268; ([Along with the Gods: The Two Worlds](https://www.imdb.com/title/tt7160070/))
 Country|South Korea
 Director|Kim Yong-hua
 Year|2017
@@ -21,4 +21,3 @@ the trials (for their own shot at reincarnation) contend with the
 prosecutors. There is some comedy. The heroic firefighter may not be so much
 of a paragon as it appears. Really glad I chanced upon this film on a
 long-distance plane flight.
-

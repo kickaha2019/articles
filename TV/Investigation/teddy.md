@@ -8,7 +8,7 @@ Transmitted|10th October to 31st October 2015
 Cast|Aoi Morikawa, Sho Aikawa, Yuta Hiraoka
 Details|4 episodes of 20 minutes each
 Themes|Silliness
-Links|[https://www.fujitv.co.jp/teddygo/index.html Official website] [http://asianwiki.com/Teddy_Go!_(Japanese_Drama) Asian Wiki]
+Links|[Official website](https://www.fujitv.co.jp/teddygo/index.html) [Asian Wiki](http://asianwiki.com/Teddy_Go!_(Japanese_Drama))
 
 A detective gets murdered but his soul ends up in a teddy bear. Which is
 won by a freeter girl trying to get over losing her boyfriend. Together

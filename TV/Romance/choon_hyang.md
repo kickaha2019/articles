@@ -8,7 +8,7 @@ Transmitted|2nd January to 1st March 2005
 Cast|Han Chae-Young, Jae Hee, Uhm Tae-Woong
 Details|17 episodes
 Themes|School, love square
-Links|[http://asianwiki.com/Sassy_Girl_Chun-hyang Asian Wiki] [https://www.koreandrama.org/delightful-girl-choon-hyang/ Korean Drama]
+Links|[Asian Wiki](http://asianwiki.com/Sassy_Girl_Chun-hyang) [Korean Drama](https://www.koreandrama.org/delightful-girl-choon-hyang/)
 
 This drama also gets called "My Delightful Girl Choon Hyang".  It's an
 adaptation of a classical Korean drama about a girl Choon Hyang born

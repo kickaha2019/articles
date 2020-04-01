@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|&#48120;&#50416; GO ([https://www.imdb.com/title/tt2384794/ Miss Conspiracy])
+Film|&#48120;&#50416; GO ([Miss Conspiracy](https://www.imdb.com/title/tt2384794/))
 Country|South Korea
 Director|Park Chul Kwan
 Year|2012

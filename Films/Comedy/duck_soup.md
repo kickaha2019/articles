@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0023969/ Duck Soup]
+Film|[Duck Soup](https://www.imdb.com/title/tt0023969/)
 Country|USA
 Director|Leo McCarey
 Year|1933

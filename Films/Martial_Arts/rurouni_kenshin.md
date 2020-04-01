@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt1979319/ Rurouni Kenshin]
+Film|[Rurouni Kenshin](https://www.imdb.com/title/tt1979319/)
 Country|Japan
 Director|Keishi Ohtomo
 Year|2012
@@ -37,4 +37,3 @@ A lot of varied fights, good set-pieces.  Lone swordsmen
 chopping their way through tens of opponents.  Villains
 who know how to dress.  A certain amount of mysticism
 around "sword-spirit".  Great.
-

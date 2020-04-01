@@ -8,7 +8,7 @@ Transmitted|7th August to 3rd October 2013
 Cast|So Ji-Sub, Kong Hyo-Jin, Seo In-Guk, Kim Yoo-Ri
 Themes|Ghosts, love square, wealthy family, identical twins
 Details|17 episodes
-Links|[http://tv.sbs.co.kr/juguntaeyang/ Official website] [http://asianwiki.com/The_Master%27s_Sun Asian Wiki] [https://www.koreandrama.org/the-masters-sun/ Korean Drama]
+Links|[Official website](http://tv.sbs.co.kr/juguntaeyang/) [Asian Wiki](http://asianwiki.com/The_Master%27s_Sun) [Korean Drama](https://www.koreandrama.org/the-masters-sun/)
 
 "The Master's Sun"
 is a TV mini-series written by the Hong sisters who have written

@@ -8,7 +8,7 @@ Released|23rd January 2020
 Cast|Huang Pei-jia, Wu Kang-jen, Ludi Lin, Kuang Tian
 Details|6 episodes
 Themes|Fantasy, mystery
-Links|[https://www.netflix.com/title/80241234 Netflix]
+Links|[Netflix](https://www.netflix.com/title/80241234)
 
 A six part series about poor Pan Li Lan who becomes enmeshed
 with the dead son of a rich family in 1890s Malacca. This dead son Lim Tian Ching from

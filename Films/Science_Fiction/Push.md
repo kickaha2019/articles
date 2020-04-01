@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0465580/ Push]
+Film|[Push](https://www.imdb.com/title/tt0465580/)
 Country|USA
 Director|Paul McGuigan
 Year|2009

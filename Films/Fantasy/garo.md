@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|&#29273;&#29436;&#12296;GARO&#12297;&#65374;&#33980;&#21741;&#12494;&#39764;&#31452;&#65374; ([https://www.imdb.com/title/tt2476436/ Garo and the Wailing Dragon])
+Film|&#29273;&#29436;&#12296;GARO&#12297;&#65374;&#33980;&#21741;&#12494;&#39764;&#31452;&#65374; ([Garo and the Wailing Dragon](https://www.imdb.com/title/tt2476436/))
 Country|Japan
 Director|Keita Amemiya
 Year|2012

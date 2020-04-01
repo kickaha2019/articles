@@ -8,7 +8,7 @@ Transmitted|21st November 2014 to 6th March 2015
 Cast|Song Ha-Yoon, Bae Noo-Ri, Hwang Young-Hee
 Themes|Supernatural powers, romance
 Details|16 episodes
-Links|[http://asianwiki.com/Sweden_Laundry Asian Wiki] [https://www.koreandrama.org/swedish-laundry/ Korean Drama] [https://www.hancinema.net/korean_drama_Swedish_Laundry.php Han Cinema]
+Links|[Asian Wiki](http://asianwiki.com/Sweden_Laundry) [Korean Drama](https://www.koreandrama.org/swedish-laundry/) [Han Cinema](https://www.hancinema.net/korean_drama_Swedish_Laundry.php)
 
 The put-upon middle child of a family gets given a supernatural power by her dead grandmother.
 The power to tell from people's clothes what they're worried about. The downside is

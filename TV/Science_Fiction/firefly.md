@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Series|[https://www.imdb.com/title/tt0303461/ Firefly]
+Series|[Firefly](https://www.imdb.com/title/tt0303461/)
 Writer|Joss Whedon
 Broadcast|2002-2003
 Cast|Nathan Fillon, Gina Torres, Alan Tudyk

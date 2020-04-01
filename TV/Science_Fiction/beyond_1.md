@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Series|[Beyond]
+Series|[Beyond](Beyond)
 Creator|Adam Nussdorf
 Broadcast|2017
 Cast|Burkely Duffield, Dilan Gwyn, Romy Rosemont, Jordan Calloway

@@ -8,7 +8,7 @@ Transmitted|22nd May to 11th July 2017
 Cast|Kim Young Kwang, Lee Si Young, Kim Seul Gi
 Details|32 episodes of 30 minutes each
 Themes|Law, revenge, cybercrime, trauma
-Links|[https://www.koreandrama.org/lookout/ Korean Drama] [http://asianwiki.com/Lookout_(Korean_Drama) Asian Wiki]
+Links|[Korean Drama](https://www.koreandrama.org/lookout/) [Asian Wiki](http://asianwiki.com/Lookout_(Korean_Drama))
 
 One synopsis on offer is "People lose loved ones in crimes and the criminals are not punished. The daily lives of these people are completely broken. They form a group to realize justice."
 Or young kid traumatised by miscarriage of justice grows up to seek revenge

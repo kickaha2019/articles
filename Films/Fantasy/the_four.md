@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|&#22235;&#22823;&#21517; ([https://www.imdb.com/title/tt2204340/ The Four])
+Film|&#22235;&#22823;&#21517; ([The Four](https://www.imdb.com/title/tt2204340/))
 Country|China
 Director|Gordon Chan
 Year|2012
@@ -30,7 +30,6 @@ The English translation I saw was slightly wonky.  So Merciless gets rendered as
 Emotionless which isn't as effective as a name.  But I'm used to the English
 sub-titles being unintentionally interesting in Far East movies.  There are apparently
 sequels in the works and I'm looking forward to them.
-
 
 
 

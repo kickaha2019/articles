@@ -14,6 +14,6 @@ A list of games which run under Windows 8 inside Parallels.
 
 Game|Status
 -|-
-[https://www.daedalic.com/ The Dark Eye: Chains of Satinav]|Occasionally hung Parallels on exiting the game or suspending Windows 8
-[https://www.daedalic.com/ Deponia]|Played not full-screen plus lower resolution video
-[http://www.mysterymanor.net/Cliffhouse/index.htm Haunting At Cliffhouse]|Ran pretty well
+[The Dark Eye: Chains of Satinav](https://www.daedalic.com/)|Occasionally hung Parallels on exiting the game or suspending Windows 8
+[Deponia](https://www.daedalic.com/)|Played not full-screen plus lower resolution video
+[Haunting At Cliffhouse](http://www.mysterymanor.net/Cliffhouse/index.htm)|Ran pretty well

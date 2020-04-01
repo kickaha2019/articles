@@ -1,8 +1,8 @@
 Link|Comment
 -|-
-[http://www.britgo.org BGA]|British Go Association - I think I'm still a member
-[https://gogodonline.co.uk GoGoD]|Very useful collection of Go games
-[https://www.red-bean.com/sgf/ SGF]|Smart Game Format - file format for holding game records
-[https://senseis.xmp.net Sensei's Library]|Good material here
-[http://www.lysator.liu.se/~gunnar/gtp/ GTP]|Go Transfer Protocol for communication between computer programs
-[https://www.smartgo.com SmartGo]|SmartGo is a Go program with nice features
+[BGA](http://www.britgo.org)|British Go Association - I think I'm still a member
+[GoGoD](https://gogodonline.co.uk)|Very useful collection of Go games
+[SGF](https://www.red-bean.com/sgf/)|Smart Game Format - file format for holding game records
+[Sensei's Library](https://senseis.xmp.net)|Good material here
+[GTP](http://www.lysator.liu.se/~gunnar/gtp/)|Go Transfer Protocol for communication between computer programs
+[SmartGo](https://www.smartgo.com)|SmartGo is a Go program with nice features

@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0105488/ Strictly Ballroom]
+Film|[Strictly Ballroom](https://www.imdb.com/title/tt0105488/)
 Country|Australia
 Director|Baz Luhrmann
 Year|1992

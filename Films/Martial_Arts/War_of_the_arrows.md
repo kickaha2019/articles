@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt2025526/ War of the Arrows]
+Film|[War of the Arrows](https://www.imdb.com/title/tt2025526/)
 Country|South Korea
 Director|Kim Han-min
 Year|2011

@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Series|[Stranger Things 1]
+Series|[Stranger Things 1](Stranger_Things_1)
 Creator|The Duffer Brothers
 Broadcast|2016
 Cast|Winona Ryder, David Harbour, Finn Wolfhard

@@ -8,7 +8,7 @@ Released|April 19th 2019
 Cast|Mikako Tabe, Takayuki Yamada, Souki Matsumoto, Mai Kanazawa
 Details|13 episodes
 Themes|Soft toys, cuteness
-Links|[https://www.netflix.com/title/80196883 Netflix] [http://www.san-x.jp/characters/rilakkuma.html Sanrio]
+Links|[Netflix](https://www.netflix.com/title/80196883) [Sanrio](http://www.san-x.jp/characters/rilakkuma.html)
 
 A totally adorable stop motion animation series starring perpetual
 loser Kaoru and the soft toys (Rilakkuma Korilakkuma and Kiiroitori)

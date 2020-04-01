@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|&#12516;&#12483;&#12479;&#12540;&#12510;&#12531; ([https://www.imdb.com/title/tt1010055/ Yatterman])
+Film|&#12516;&#12483;&#12479;&#12540;&#12510;&#12531; ([Yatterman](https://www.imdb.com/title/tt1010055/))
 Country|Japan
 Director|Takashi Miike
 Year|2006

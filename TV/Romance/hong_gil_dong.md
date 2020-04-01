@@ -8,7 +8,7 @@ Transmitted|2nd January to 26th March 2008
 Cast|Kang Ji-Hwan, Sung Yu-Ri, Yoon Kye-Sang
 Details|24 episodes
 Themes|Robin Hood style outlaw, court intrigue, love triangle
-Links|[http://asianwiki.com/Hong_Gil-Dong,_The_Hero Asian Wiki] [https://www.koreandrama.org/hong-gil-dong/ Korean Drama]
+Links|[Asian Wiki](http://asianwiki.com/Hong_Gil-Dong,_The_Hero) [Korean Drama](https://www.koreandrama.org/hong-gil-dong/)
 
 "Hong Gil Dong" is a fusion sageuk TV mini-series written by the Hong sisters,
 with as its titular hero a Korean version of Robin Hood called Hong Gil Dong.

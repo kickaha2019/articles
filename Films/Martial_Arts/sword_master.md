@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt5269396/ Sword Master]
+Film|[Sword Master](https://www.imdb.com/title/tt5269396/)
 Country|China
 Director|Derek Yee
 Year|2016

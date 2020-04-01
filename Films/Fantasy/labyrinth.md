@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0091369/ Labyrinth]
+Film|[Labyrinth](https://www.imdb.com/title/tt0091369/)
 Country|USA
 Director|Jim Henson
 Year|1986
@@ -14,6 +14,5 @@ The plot has young Sarah who annoyed at being left to look after baby Toby wishe
 The film is full of little brilliances, from a well of helping hands to Jareth juggling with crystal spheres. Some of the effects don't quite work, or would have been done better digitally - the dance of the fiery creatures who toss heads around is iffy, and the Escher staircases aren't quite there. But taken as a souped up Muppet show this is splendid stuff.
 
 The elements of the film do fight against each other. The theme is potentially quite adult but there's rather puerile touches too. The film is potentially profound but has very trivial moments too. The sheer range of situations confuse rather than emphasize a message. But this is a masterwork of puppetry.
-
 
 

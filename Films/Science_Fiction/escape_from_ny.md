@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0082340/ Escape from New York]
+Film|[Escape from New York](https://www.imdb.com/title/tt0082340/)
 Country|USA
 Director|John Carpenter
 Year|1981

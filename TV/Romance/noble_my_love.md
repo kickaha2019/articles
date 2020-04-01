@@ -8,7 +8,7 @@ Transmitted|23rd August 2015 to 16th September 2015
 Cast|Sung Hoon, Kim Jae Kying
 Details|20 episodes
 Themes|Romance
-Links|[https://tv.naver.com/noblemylove Official website] [https://www.koreandrama.org/noble-my-love/ Korean Drama]
+Links|[Official website](https://tv.naver.com/noblemylove) [Korean Drama](https://www.koreandrama.org/noble-my-love/)
 
 A very standard Korean romance with rich chaebol heir, poor
 girl, a contract fake marriage, etc. But nicely done and

@@ -11,7 +11,7 @@ Transmitted|25th September to 14th November 2013
 Cast|Ji Sung, Hwang Jung-Eum, Bae Soo-Bin, Lee Da-Hee
 Themes|Revenge, love square, sacrifice, wealthy family, disability
 Details|16 episodes
-Links|[http://asianwiki.com/Secret_Love Asian Wiki] [https://www.koreandrama.org/secret-secret-love/ Korean Drama]
+Links|[Asian Wiki](http://asianwiki.com/Secret_Love) [Korean Drama](https://www.koreandrama.org/secret-secret-love/)
 
 "Secret Love"
 is a highly melodramatic tale of love and revenge.  Just as

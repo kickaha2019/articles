@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0379786/ Serenity]
+Film|[Serenity](https://www.imdb.com/title/tt0379786/)
 Country|USA
 Director|Joss Whedon
 Year|2005

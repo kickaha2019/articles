@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt1403130/ Bodyguards and Assassins]
+Film|[Bodyguards and Assassins](https://www.imdb.com/title/tt1403130/)
 Country|Hong Kong
 Director|Teddy Chan
 Year|2009

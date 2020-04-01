@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt0416236/ Spiderwick Chronicles]
+Film|[Spiderwick Chronicles](https://www.imdb.com/title/tt0416236/)
 Country|USA
 Director|Mark Waters
 Year|2008

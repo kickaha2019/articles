@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film| &#37504;&#39746; ([https://www.imdb.com/title/tt5805470/ Gintama])
+Film| &#37504;&#39746; ([Gintama](https://www.imdb.com/title/tt5805470/))
 Country|Japan
 Director|Fukuda Yuichi
 Year|2017
@@ -19,6 +19,5 @@ fourth wall with wild abandon, for instance pointing out that the giant white ?d
 is a man in a suit.
 
 For me this is a must-see film. Totally silly and non-serious, so bad it's great!
-
 
 

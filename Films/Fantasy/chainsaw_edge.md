@@ -1,6 +1,6 @@
 | | |
 |-|-|
-Film|[https://www.imdb.com/title/tt1024856/ Negative Happy Chainsaw Edge]
+Film|[Negative Happy Chainsaw Edge](https://www.imdb.com/title/tt1024856/)
 Country|Japan
 Director|
 Year|2007

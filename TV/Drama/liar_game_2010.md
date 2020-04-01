@@ -8,7 +8,7 @@ Transmitted|10th November 2009 to 19th January 2010
 Cast|Toda Erika, Matsuda Shota, Rinko Kikuchi
 Details|9 episodes
 Themes|Swindling, debt, trust
-Links|[http://asianwiki.com/Liar_Game_2 Asian Wiki]
+Links|[Asian Wiki](http://asianwiki.com/Liar_Game_2)
 
 A sequel series to the original *Liar Game* which is more of the
 same fun. Our innocent college student played by Toda Erika gets

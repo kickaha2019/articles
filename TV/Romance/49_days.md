@@ -8,7 +8,7 @@ Transmitted|16th March to 19th May 2011
 Cast|Lee Yo-Won, Nam Gyu-Ri, Bae Soo-Bin
 Details|20 episodes
 Themes|Ghosts, possession, corporate shenanigans
-Links|[https://programs.sbs.co.kr/drama/49days/about/51832/ Official website] [http://asianwiki.com/49_Days_-_Korean_Drama Asian Wiki] [https://www.koreandrama.org/49-days/ Korean Drama]
+Links|[Official website](https://programs.sbs.co.kr/drama/49days/about/51832/) [Asian Wiki](http://asianwiki.com/49_Days_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/49-days/)
 
 A naive nice optimistic chaebol heiress ends up in the body of
 a suicidal woman who's lost hope after losing her adored.

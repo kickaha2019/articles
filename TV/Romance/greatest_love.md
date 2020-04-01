@@ -8,7 +8,7 @@ Transmitted|4th May to 23rd June 2011
 Cast|Kong Hyo-Jin, Cha Seung-Won, Yoon Kye-Sang, Yoo In-Na
 Details|16 episodes
 Themes|Reality shows, idol groups, Internet rumours, love square
-Links|[http://www.imbc.com/broad/tv/drama/greatestlove/ Official website] [http://asianwiki.com/The_Greatest_Love_-_Korean_Drama Asian Wiki] [https://www.koreandrama.org/the-greatest-love/ Korean Drama]
+Links|[Official website](http://www.imbc.com/broad/tv/drama/greatestlove/) [Asian Wiki](http://asianwiki.com/The_Greatest_Love_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/the-greatest-love/)
 
 "The Greatest Love"
 is a TV mini-series written by the Hong sisters, perhaps their best.

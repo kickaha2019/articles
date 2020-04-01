@@ -11,5 +11,5 @@ flags *caffeinate*  takes.
 Example *caffeinate* command:
 
 ~~~
-false
+caffeinate -i java -classpath some.jar some.class.name some arguments for java
 ~~~

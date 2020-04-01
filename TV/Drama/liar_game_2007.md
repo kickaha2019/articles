@@ -8,7 +8,7 @@ Transmitted|14th April 2007 to 23rd June 2014
 Cast|Toda Erika, Matsuda Shota, Suzuke Kosuke
 Details|11 episodes
 Themes|Swindling, debt, trust
-Links|[http://asianwiki.com/Liar_Game Asian Wiki]
+Links|[Asian Wiki](http://asianwiki.com/Liar_Game)
 
 Based on a Japanese manga about a naive college student who gets enmeshed
 into a mysterious game where the players lie and cheat each other for
