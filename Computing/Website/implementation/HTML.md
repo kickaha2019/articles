@@ -5,9 +5,9 @@ is assumed to be valid HTML code.
 Example:
 
 ~~~
-false
-false
-false
+HTML:
+	<i>Hello World</i>
+	
 ~~~
 Which gives:
 

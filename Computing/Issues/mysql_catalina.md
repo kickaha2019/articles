@@ -8,16 +8,16 @@ Exporting or importing data tended to get the error message
 Created a /etc/mysql/my.cnf file containing:
 
 ~~~
-false
-false
-false
-true
-false
-false
-true
-false
-false
-false
+[mysqld]
+local-infile=1
+secure-file-priv = ""
+
+[mysql]
+local-infile=1
+
+[mysqldump]
+lock-tables=1
+
 ~~~
 Inside the Preference pane for MySQL set this file to be read on MySQL startup.
 
@@ -30,5 +30,5 @@ Trying to load a database dump from MySQL 8 into a MySQL 5 database got the erro
 to utf8 for the database by:
 
 ~~~
-false
+ALTER DATABASE <database_name> CHARACTER SET utf8 COLLATE utf8_general_ci; 
 ~~~

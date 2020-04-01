@@ -9,6 +9,6 @@ the parent article.  To override the name used for the last two places the "Titl
 can be used.  As an example:
 
 ~~~
-false
-false
+Title:
+	This is a longer title for an article page
 ~~~

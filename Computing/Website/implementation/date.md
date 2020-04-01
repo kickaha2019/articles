@@ -10,12 +10,12 @@ and the month is derived by finding a word starting with a 3-letter month.
 So some valid "Date" declarations are:
 
 ~~~
-false
-false
-false
-false
-false
-false
-false
-false
+Date:
+	30th September 2012
+	
+Date:
+	Sunday, September 30th 2012
+	
+Date:
+	2012 sep 29
 ~~~

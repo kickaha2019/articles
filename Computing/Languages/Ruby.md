@@ -11,10 +11,10 @@ to using blocks and saying more in less lines of code.  So to
 look for "Error" in a log file one can go:
 
 ~~~
-false
-false
-false
-true
+IO.readlines( "run.log").each do |line|
+	raise "Error" if /Error/ =~ line
+end
+
 ~~~
 Ruby has numerous helpful shortcuts, for example in the code
 above there's an
@@ -27,8 +27,8 @@ One can subtract arrays and get something sensible so
 for instance:
 
 ~~~
-false
-true
+[1,2,3] - [2] => [1,3]
+
 ~~~
 that is element 2 has been removed from elements 1,2,3.
 

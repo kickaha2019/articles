@@ -21,7 +21,7 @@ Name|Comments
 [Crunchyroll](https://www.crunchyroll.com/videos/drama)|Japanese anime and drama
 [DramaFever](https://www.dramafever.com/)|Offers PayPal to avoid ads
 [Soompi](https://www.soompi.com/)|UK not supported
-[Viki]|
+[Viki](https://www.viki.com/)|
 
 # DVD publishers
 Name|Comments

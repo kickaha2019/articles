@@ -21,19 +21,19 @@ DSLs which I find useful.  One is for scraping information
 off webpages.  An example of this 'DSL':
 
 ~~~
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-true
+every TD
+attribute class Class
+match Class "dataRowL"
+text Date
+next TD
+text Description
+next TD
+text Amount
+if
+	match Amount "\D*(\d+.\d+)\D*" Value
+	write Account Date Description Value ""
+endif
+
 ~~~
 This code snippet goes through every TD in a HTML
 page, check for those with class "dataRowL", then
@@ -45,34 +45,34 @@ These webpages also use a very simple DSL.  For illustration
 here is this webpage as coded:
 
 ~~~
-false
-false
-true
-false
-false
-true
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
-true
-false
-false
-false
-true
-false
-false
+Date:
+	September 8th 2012
+
+Title:
+	Domain Specific Languages
+
+Text:
+	A domain specific language (DSL) is a great way of 
+	...
+
+Code:
+	every TD
+	attribute class Class
+	match Class "dataRowL"
+	text Date
+	next TD
+	text Description
+	next TD
+	text Amount
+	if
+		match Amount "\D*(\d+.\d+)\D*" Value
+		write Account Date Description Value ""
+	endif
+
+Text:
+	This code snippet goes through every TD in a HTML 
+	...
+
+Code:
+	...
 ~~~

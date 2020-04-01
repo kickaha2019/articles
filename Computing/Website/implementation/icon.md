@@ -4,6 +4,6 @@ in the indexes on another page.
 An example:
 
 ~~~
-false
-false
+Icon:
+	../about/about.jpg
 ~~~

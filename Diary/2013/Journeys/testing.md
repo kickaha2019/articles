@@ -32,17 +32,17 @@ Here is the start of the feature file as it stood at the time of
 writing:
 
 ~~~
-false
-false
-false
-true
-false
-false
-true
-false
-false
-false
-true
+Feature: Walkthroughs
+	To prove the game works check that solutions work for each
+	difficulty level
+
+	Background:
+		Given menu page is displayed in browser
+
+	Scenario: No puzzles at all
+		When I click on texts "New game" "Calm" "Decks" "122" "122"
+		Then I see text "The journey of a thousand miles"
+
 ~~~
 So in the scenario what we want to happen is the browser
 be started, the menu page for the game displayed, then clicks
@@ -57,47 +57,47 @@ So the feature steps have to be wired up using step
 definitions.  For the step:
 
 ~~~
-false
-false
+  Given menu page is displayed in browser
+  
 ~~~
 The step definition is:
 
 ~~~
-false
-false
-false
-false
-true
+  Given /^menu page is displayed in browser$/ do
+	open_menu
+	sleep 5
+  end
+
 ~~~
 Where *open_menu* is a method added to the World.
 
 For the step:
 
 ~~~
-false
-false
+  Then I see text "The journey of a thousand miles"
+          
 ~~~
 The step definition is:
 
 ~~~
-false
-false
-false
-true
+  Then /^I see text "(.*)"$/ do |text|
+	find_text( text).should_not be_nil
+  end
+
 ~~~
 Having got our step definitions we then need to wire those up
 to the browser using Selenium.  So the method *open_menu*
 is implemented as:
 
 ~~~
-false
-false
-false
-false
-false
-false
-false
-false
+  def open_menu
+	@@driver = Selenium::WebDriver.for :firefox
+	@@driver.navigate.to "file://localhost" + ENV["MENU"]
+	mask = @@driver.find_element( :id, 'mask')
+	@@x_offset = mask.location.x
+	@@y_offset = mask.location.y
+  end
+  
 ~~~
 where we pass the file location of the game's index.html
 page as an environment variable.

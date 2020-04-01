@@ -6,11 +6,11 @@ are applied to articles in that directory and below
 An example "parameters.txt":
 
 ~~~
-false
-false
-false
-false
-true
+ORDER=Name
+TITLE=Peter's Pages
+TABLE_CLASS=table
+URL=http://www.alofmethbin.com/
+
 ~~~
 The settings in one "parameters.txt" file apply to the current directory
 and sub-directories unless overriden by a lower-level "parameters.txt" file.

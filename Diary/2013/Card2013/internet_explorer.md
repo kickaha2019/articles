@@ -11,11 +11,11 @@ on the new Canvas element to give it the Canvas behaviour.
 So I'm using code like:
 
 ~~~
-false
-false
-false
-false
-false
-true
+var c = document.createElement( "canvas");
+if(typeof G_vmlCanvasManager  != 'undefined' )
+{
+	c = G_vmlCanvasManager.initElement(c);
+}
+
 ~~~
 To get a canvas element in *c*.

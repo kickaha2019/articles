@@ -2,11 +2,11 @@ The *Table* declaration can be used to create a tabular section on
 an article page where the headings are across the top.  So for example:
 
 ~~~
-false
-false
-false
-false
-false
+Table:
+	Fruit|Colour
+	Banana|Yellow
+	Cherry|Red
+
 ~~~
 Comes out as:
 

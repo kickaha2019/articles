@@ -5,11 +5,11 @@ geographical map on the website.
 Example:
 
 ~~~
-false
-false
-false
-false
-false
+Anchor:
+  Bryce Canyon
+  Zion National Park
+  Cedar Breaks
+	
 ~~~
 For each "Anchor" declaration a target <a name=""> is added to the generated
 page.

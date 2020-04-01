@@ -10,8 +10,8 @@ The script first finds the *sqlite3* database containing the *iBooks*
 data. This at the moment will be beneath:
 
 ~~~
-false
-false
+~/Library/Containers/com.apple.iBooksX/Data/Documents/BKLibrary
+
 ~~~
 Next we look in the *ZBKCOLLECTION* table to find the *Trash*
 collection, and get its *ZCOLLECTIONID*.

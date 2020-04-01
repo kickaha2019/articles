@@ -5,19 +5,19 @@ in the article text file will be newlines in the HTML.
 So:
 
 ~~~
-false
-false
-false
-false
-false
+Code:
+	if (a > b) {
+		b = a
+	}
+	
 ~~~
 Comes out as:
 
 ~~~
-false
-false
-false
-true
+if (a > b) {
+	b = a
+}
+
 ~~~
 For both the "Text" and "Code" declarations strange characters will be replaced by
 HTML entities or standard ASCII characters.  So "&" is replaced by "&amp;", and

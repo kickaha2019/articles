@@ -2,11 +2,11 @@ The *List* declaration can be used to create a tabular section on
 an article page where the headings are down the first column.  So for example:
 
 ~~~
-false
-false
-false
-false
-false
+List:
+	Fruit|Banana
+	Colour|Yellow
+	Shape|Curved
+
 ~~~
 Comes out as:
 

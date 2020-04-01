@@ -9,8 +9,8 @@ language is similar to a lot of other languages with
 some gotchas.  For instance:
 
 ~~~
-false
-false
+"Hello " + "World"
+
 ~~~
 does not give "Hello World" but 0.  The string concatenation
 operator is "." not "+".  I fall over that every time.

@@ -14,16 +14,16 @@ can be absolutely positioned elements or a centred TABLE.
 So the HTML is like:
 
 ~~~
-false
-false
-false
-false
-false
-false
-false
-false
-false
-false
+<HTML>
+    <BODY>
+	<CENTER>
+	    <DIV STYLE="width: 800; position: relative">
+		...
+	    </DIV>
+	<CENTER>
+    </BODY>
+</HTML>
+
 ~~~
 It's not fashionable but I use TABLEs a lot for layout.
 I just find them easier for me to work with.  Your

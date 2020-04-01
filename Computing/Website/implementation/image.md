@@ -7,9 +7,9 @@ with captions.
 Example:
 
 ~~~
-false
-false
-false
-false
+Image:
+	logo_550.jpg
+  The old logo
+	
 ~~~
 Which gives:

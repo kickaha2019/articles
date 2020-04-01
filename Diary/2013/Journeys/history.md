@@ -83,11 +83,11 @@ setting the load callback then setting the src on the ing element.
 Code:
 
 ~~~
-false
-false
-false
-false
-true
+      this.element = document.createElement( "img");
+z_frozen += 1;
+$(this.element).load( z_warm);
+      this.element.setAttribute( "src", this.filename);
+
 ~~~
 *z_frozen* is a count of events we're waiting for before the page
 can be displayed.  *z_warm* is the callback for one event.

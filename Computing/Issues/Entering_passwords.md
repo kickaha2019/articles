@@ -5,19 +5,19 @@ Googling got to me to pages like
 This was exactly what I needed.  My version of the script is:
 
 ~~~
-false
-true
-false
-false
-false
-false
-true
-false
-true
-false
-false
-false
-false
-true
+ -- Paste clipboard into Safari protected field
+
+-- Pick whatever web browser you are using.
+tell application "Safari"
+	activate
+end tell
+
+set theClip to the clipboard
+
+-- Type out what is on the clipboard
+tell application "System Events"
+	keystroke theClip
+end tell
+
 ~~~
 which I run when I have copied the password to the clipboard.

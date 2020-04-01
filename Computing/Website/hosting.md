@@ -9,9 +9,9 @@ PHP 7 broke my website but that's not their fault.
 
 Hosting company|From|To|Comments
 -|-|-|-
-[Dreamhost]|April 2018||
+[Dreamhost](https://www.dreamhost.com/hosting/shared/)|April 2018||
 ''Virtual Names''|May 2012|April 2018|Excellent UK company but sadly got taken over.
-[DowntownHost]|August 2010|July 2012|Left them when they served up truncated files and blamed me.
-[LunarPages]|January 2005|September 2012|
-[Your-Site]|March 2004|October 2007|
+[DowntownHost](http://www.downtownhost.com)|August 2010|July 2012|Left them when they served up truncated files and blamed me.
+[LunarPages](https://lunarpages.com/)|January 2005|September 2012|
+[Your-Site](https://www.your-site.com)|March 2004|October 2007|
 Destiny|September 2003|July 2005|UK outfit who got taken over

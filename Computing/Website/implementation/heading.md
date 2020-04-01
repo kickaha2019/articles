@@ -1,9 +1,9 @@
 Example "Heading" declaration:
 
 ~~~
-false
-false
-true
+Heading:
+	I am a heading
+
 ~~~
 gives
 

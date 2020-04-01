@@ -4,30 +4,30 @@ unformatted apart from blank lines will cause gaps in the
 article webpage itself.  So for example:
 
 ~~~
-false
-false
-false
-false
-false
-false
-false
-false
-false
+Text:
+	The
+	first
+	paragraph.
+	
+	The 
+	second
+	paragraph.
+
 ~~~
 Comes out as:
 
 ~~~
-false
-false
-false
-false
+The first paragraph.
+	
+The second paragraph.
+
 ~~~
 Words can be bolded by surrounding them with pairs of
 apostrophes.  So:
 
 ~~~
-false
-true
+Normal text.  *Bold text.*
+
 ~~~
 appears as "Normal text.  *Bold text.*"
 
@@ -36,8 +36,8 @@ delimited by square brackets.  The first kind of link is an explicit
 HTTP reference.  So example:
 
 ~~~
-false
-false
+[https://www.apple.com/ Apple] is a link to Apple's website.
+
 ~~~
 Comes out as:
 
@@ -47,8 +47,8 @@ The next kind of link is a link to another file in the website
 the articles are being generated into.  So for example:
 
 ~~~
-false
-false
+[/Users/peter/Sites/index.html index.html] is an absolute link to the website home page.
+
 ~~~
 Comes out as:
 
@@ -57,8 +57,8 @@ Comes out as:
 The link can be relative.  So:
 
 ~~~
-false
-false
+[about Contact] is a link to the Contact article.
+
 ~~~
 Gives a link to the "Title" article:
 
@@ -70,8 +70,8 @@ element can be omitted and the article will reuse the last link.
 So:
 
 ~~~
-false
-false
+[Apple] goes to what "Apple" was linked to higher on the page.
+
 ~~~
 Which gives:
 
