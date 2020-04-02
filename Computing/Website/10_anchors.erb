@@ -1,5 +1,5 @@
 A conceit but there is an
-[interactive map](../../Map/index.html) on this website. It displays markers
+[interactive map](/Users/peter/Sites/Articles/Map/index.html) on this website. It displays markers
 on a zoomable map of places visited. The markers link to webpages
 describing visits to those places. This depends on metadata for the
 webpages (as well as kml data from [Google Maps](Google Maps)).

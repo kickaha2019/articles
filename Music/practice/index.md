@@ -1,3 +1,4 @@
+<?php
 $keys = array("A flat",  "A", "B flat", "B", "C",
 "C sharp", "D", "E flat", "E", "F",
 "F sharp", "G");
@@ -37,11 +38,11 @@ function choose( $data, $offset)
 global $day;
 if ($offset > count($data)) {die( "Offset bad");}
 $index = (((($day % count($data)) + 1) * $offset) % (count($data) + 1)) - 1;
-return $data [$index] ($index);
+return $data[$index];
 }
 
 function line( $text) {
-if ($text != *) {
+if ($text != '') {
 echo( '<TR><TD>' . $text . '</TD></TR>');
 }
 }
@@ -91,3 +92,4 @@ line( "Arpeggio in F sharp major");
 line( choose( $sight_reading, 1));
 
 echo( '</TABLE></CENTER>');
+?>
