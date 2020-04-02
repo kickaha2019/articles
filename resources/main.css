@@ -37,7 +37,7 @@ div.legend {margin-left: 10px; min-width: 270px}
 .size3, .size2, .size1 {display: none}
 .size0 {display: block}
 
-.t0, .t1 {font-family: Tahoma, sans-serif; font-size: 14px; color: #CCCC00}
+.t0, .t1, h1 {font-family: Tahoma, sans-serif; font-size: 14px; color: #CCCC00}
 a, a div {color: #00DDDD}
 .t0 {text-decoration: none}
 a:hover, a:hover div, span, b {color: white}
@@ -79,7 +79,7 @@ table {padding-bottom: 20px}
   .content {width: 748px; padding-top: 10px}
   .size0 {display: none}
   .size1 {display: block}
-  .t0, .t1 {font-size: 18px}
+  .t0, .t1, h1 {font-size: 18px}
   pre {font-size: 14px}
   .indexes {min-width: 300px}
   .story {min-width: 440px}
@@ -101,7 +101,7 @@ table {padding-bottom: 20px}
   .content {width: 1880px; padding-top: 20px}
   .size2 {display: none}
   .size3 {display: block}
-  .t0, .t1 {font-size: 22px}
+  .t0, .t1, h1 {font-size: 22px}
   pre {font-size: 16px}
   .indexes {min-width: 624px}
   .story {min-width: 1250px}

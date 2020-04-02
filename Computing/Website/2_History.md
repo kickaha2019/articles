@@ -1,13 +1,18 @@
-I have spent numerous hours tinkering with my personal website.
-It started off as HTML pages generated from text files, then I tried
-*iWeb*, then HTML pages generated
-from data in [Filemaker](https://www.filemaker.com/)'s *Bento*,
-then [Joomla](https://www.joomla.org/),
-then back to *iWeb*, and currently it's HTML pages statically generated
-from text files.  This time I've rearranged the deck chairs to make the
-website more blog-like, and to enable multiple paths to the same page.
+I have spent numerous hours tinkering with my personal website,
+perhaps more on the way it is defined and generated than on the
+actual content!
 
-Why static generation rather than using something dynamic like [Wordpress](https://wordpress.com/)
+|Date|Page source|Comments|
+|-|-|-|
+|2000|Text files|PHP got used rather than HTML
+|2008|[Apple](Apple)'s *iWeb*|Didn't support a complex site
+|2009|[Filemaker](https://www.filemaker.com/)'s *Bento*|It seemed like a good idea at the time
+|2010|[Joomla](https://www.joomla.org/)|Too complicated for me
+|2011|[Apple](Apple)'s *iWeb* again|Apple killed *iWeb* anyway
+|2013|Text files again|Worked well but limited styling of text
+|2020|Markdown|More styling possibilities
+
+I prefer static generation rather than using something dynamic like [Wordpress](https://wordpress.com/)
 or [Drupal](https://www.drupal.org/) or [Joomla](https://www.joomla.org/)? Those are good tools for
 the right website, but the static approach reduces worries about keeping
 one's website secure, about having to apply updates to the software
@@ -15,9 +20,10 @@ running the website. The static approach is likely to be faster, less
 demanding on the web server, but that hasn't been a concern to me at
 least.
 
-Having the website defined as text files on one's local machine
+Having the website defined as data files on one's local machine
 rather in MySQL database tables is a lot easier to backup, and also
-less at risk at being locked into one particular technology.
+less at risk at being locked into one particular technology. So something like [Wix](https://www.wix.com/)
+would nmake uneasy about having a website in.
 
 I can edit the website from the comfort of my
 [iPad](https://www.apple.com/uk/ipad/) while I'm
