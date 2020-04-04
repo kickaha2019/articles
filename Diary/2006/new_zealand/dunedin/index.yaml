@@ -1,6 +1,14 @@
 ---
-title: Pictures of birds
+anchors:
+- Dunedin
+- Taiaroa Head
+- Otago Peninsula
+date: 20th February 2006
 images:
+- path: dunedin_centre.jpg
+  tag: Dunedin centre with statue of Robert Burns
+- path: dunedin_station.jpg
+  tag: Dunedin Railway Station
 - path: black_swan.jpg
   tag: Black swan (imported from Australia) near Dunedin
 - path: spoonbills_shelducks.jpg
@@ -21,28 +29,9 @@ images:
   tag: Yellow eyed penguin colony at Otago Peninsula
 - path: penguin_in_from_sea.jpg
   tag: Yellow eyed penguin coming in from feeding at sea at Otago Peninsula
-- path: nz_robin.jpg
-  tag: New Zealand robin on Ulva Island
-- path: weka1.jpg
-  tag: Weka on beach at Ulva Island
-- path: weka2.jpg
-  tag: Weka on Ulva Island
-- path: nz_robin2.jpg
-  tag: New Zealand robin on Ulva Island
-- path: kea.jpg
-  tag: Kea at Cascade Creek on road to Milford Sound - keas (a mountain parrot) are
-    supposedly the most intelligent animal
-- path: black_billed_gulls.jpg
-  tag: Black-billed gulls at Wanaka
-- path: greymouth_pukeko.jpg
-  tag: Pukeko at Greymouth - white tail ruff is warning sign
-- path: shags.jpg
-  tag: Shags south of Kaikoura
-- path: shag.jpg
-  tag: Shag south of Kaikoura
-- path: moa_bones.jpg
-  tag: Bones of Moa in Waitomo cave
-- path: gannets1.jpg
-  tag: Gannets at Murawai
-- path: gannets2.jpg
-  tag: Gannets at Murawai
+- path: otago_peninsula1.jpg
+  tag: Otago peninsula scenery
+- path: otago_peninsula2.jpg
+  tag: Otago peninsula scenery
+- path: taiaroa_head.jpg
+  tag: Taiaroa Head

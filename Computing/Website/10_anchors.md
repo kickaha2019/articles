@@ -32,7 +32,7 @@ Anne Hathaway's cottage|52.190746|-1.73192300000005|../../Diary/2010/stratford/f
 Arataki Visitor Centre|-36.9468718|174.6066123|../../Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html
 Arctic Cathedral|69.6480287|18.9874922|../../Diary/2015/Eclipse/tromso.html
 Arlington Hotel|53.3473053|-6.26068620000001|../../Diary/2019/Iceland/dublin/index.html
-Arrowtown|-44.9416876|168.8358624|../../Diary/2006/new_zealand/index.html
+Arrowtown|-44.9416876|168.8358624|../../Diary/2006/new_zealand/wanaka/index.html
 Athelhampton House and Gardens|50.7476283|-2.32654160000004|../../Diary/2019/Dorset/tuesday.html
 Audley End House and Gardens|52.0207851|0.220600999999988|../../Diary/2018/Audley_End/index.html
 Avebury Stone Circle|51.4289196|-1.85489080000002|../../Diary/2009/longleat/sunday.html
@@ -76,11 +76,11 @@ Caithness Crystal Kings Lynn|52.742053|0.409890000000019|../../Diary/2005/north_
 Canterbury Cathedral|51.2797971|1.08279979999998|../../Diary/2005/kent/index.html
 Cape Trafalgar|36.1886033|-6.0321884|../../Diary/2016/Arcadia/cadiz.html
 Capelle|51.6915836|4.98294639999995|../../Diary/2008/capelle.html
-Cardrona Pass|-44.9923868|168.938739|../../Diary/2006/new_zealand/index.html
+Cardrona Pass|-44.9923868|168.938739|../../Diary/2006/new_zealand/fox_glacier/index.html
 Carrow Road|52.6221139|1.30915329999993|../../Diary/2008/norwich/index.html
-Cascade Creek|-44.8959434|168.0807425|../../Diary/2006/new_zealand/index.html
+Cascade Creek|-44.8959434|168.0807425|../../Diary/2006/new_zealand/te_anau/index.html
 Castlerigg Stone Circle|54.602824|-3.09840199999996|../../Diary/2004/wedding/index.html
-Cathedral Cove|-36.8287083|175.7906293|../../Diary/2010/new_zealand/index.html
+Cathedral Cove|-36.8287083|175.7906293|../../Diary/2010/new_zealand/coromandel/index.html
 Catherine Palace|59.716123|30.3956531|../../Diary/2017/Baltics/st_petersburg.html
 Cedar Breaks|37.6359544|-112.8450248|../../Diary/2001/Utah/index.html
 Cervantes|-30.505162|115.0665341|../../Diary/2003/australia/pinnacles/index.html
@@ -103,7 +103,7 @@ Corfu|39.6249838|19.9223461|../../Diary/2014/Azura/corfu.html
 Coughton Court|52.2436808|-1.87931930000002|../../Diary/2010/stratford/sunday.html
 Crich Tramway Museum|53.0903012|-1.48666930000002|../../Diary/2001/peak_district/index.html
 Cromford Mill|53.1088642|-1.5554783|../../Diary/2012/derbyshire/index.html
-Curio Bay|-46.6614691|169.1081446|../../Diary/2006/new_zealand/index.html
+Curio Bay|-46.6614691|169.1081446|../../Diary/2006/new_zealand/invercargill/index.html
 Curtain Fig Tree|-17.2860213|145.5739344|../../Diary/2002/atherton/index.html
 Dads Army Museum|52.4129961|0.750547900000015|../../Diary/2019/Norfolk/index.html
 Daegu Grand Hotel|35.8577179|128.6253193|../../Diary/2016/Korea/daegu.html
@@ -116,13 +116,13 @@ Denby Pottery Village|53.0225742|-1.41421300000002|../../Diary/2012/derbyshire/i
 Denham|-25.927196|113.5423745|../../Diary/2003/australia/shark_bay/index.html
 Dimmuborgir|65.6030357|-16.9291591|../../Diary/2019/Iceland/iceland/index.html
 Dinosaur Isle|50.659197|-1.14275900000007|../../Diary/2006/isle_of_wight/index.html
-Discovery Lodge Tongariro|-39.1673353|175.4807568|../../Diary/2010/new_zealand/index.html
+Discovery Lodge Tongariro|-39.1673353|175.4807568|../../Diary/2010/new_zealand/tongariro/index.html
 Disneyworld|28.385233|-81.563874|../../Diary/2001/Florida/index.html
 Dorset Teddy Bear Museum|50.7155199|-2.43286990000001|../../Diary/2019/Dorset/monday.html
 Dover Castle|51.128771|1.32339100000002|../../Diary/2005/kent/index.html
 Dover Cruise Terminal 1|51.1137696|1.3145346|../../Diary/2011/black_watch/departure.html
 Dubrovnik|42.6506606|18.0944238|../../Diary/2014/Azura/dubrovnik.html
-Dunedin|-45.8787605|170.5027976|../../Diary/2006/new_zealand/index.html
+Dunedin|-45.8787605|170.5027976|../../Diary/2006/new_zealand/dunedin/index.html
 Dunrobin Castle|57.9818445|-3.94549729999994|../../Diary/2018/Columbus/dunrobin.html
 Dunvegan Castle|57.4484436|-6.59006410000006|../../Diary/2018/Columbus/skye.html
 Dunwich Heath|52.25889|1.62671499999999|../../Diary/2004/christmas/index.html
@@ -140,10 +140,10 @@ Flam|60.8607716|7.11178489999998|../../Diary/2007/Norway/flam.html
 Fondation Monet in Giverny|49.0753898|1.53370219999999|../../Diary/2018/Columbus/honfleur.html
 Forde Abbey|50.8428677|-2.91116|../../Diary/2010/devon/seaton.html
 Forest of Dean|51.7999835|-2.55191690000004|../../Diary/2008/gloucestershire/index.html
-Fox Glacier|-43.4644799|170.0175878|../../Diary/2006/new_zealand/index.html
+Fox Glacier|-43.4644799|170.0175878|../../Diary/2006/new_zealand/fox_glacier/index.html
 Foxton Locks|52.49879|-0.982143700000051|../../Diary/2019/Foxton_Locks/index.html
 Francois Peron National Park|-25.8370706|113.6233155|../../Diary/2003/australia/shark_bay/index.html
-Franz Josef Glacier|-43.3873293|170.1832884|../../Diary/2006/new_zealand/index.html
+Franz Josef Glacier|-43.3873293|170.1832884|../../Diary/2006/new_zealand/punakaiki/index.html
 Frederiksborg Castle|55.9349652|12.3012724|../../Diary/2017/Baltics/copenhagen.html
 Fregatten Jylland|56.1991809|10.6738776|../../Diary/2011/black_watch/Aarhus.html
 Fremantle|-32.0518191|115.7551085|../../Diary/2003/australia/Perth/index.html
@@ -177,7 +177,7 @@ Gwangjang Market|37.5701527|126.9993404|../../Diary/2016/Korea/seoul2.html
 Gyeongju National Museum|35.8293965|129.2279056|../../Diary/2016/Korea/gyeongju1.html
 Gyeongju Seongdong Market|35.845475|129.2163083|../../Diary/2016/Korea/gyeongju2.html
 HUHU Cafe|-38.260398|175.110483|../../Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html
-Haast Pass|-44.1|169.35|../../Diary/2006/new_zealand/index.html
+Haast Pass|-44.1|169.35|../../Diary/2006/new_zealand/fox_glacier/index.html
 Haddon Hall|53.193965|-1.64959299999998|../../Diary/2007/Derbyshire/index.html
 Hallgrim's Church|64.1417149|-21.926637|../../Diary/2019/Iceland/iceland/index.html
 Hamelin Pool|-26.4092839|114.4625194|../../Diary/2003/australia/shark_bay/index.html
@@ -219,12 +219,12 @@ Killerton House|50.7912881|-3.45788779999998|../../Diary/2010/devon/killerton.ht
 Kilt Rock|57.6107719|-6.17190479999999|../../Diary/2018/Columbus/skye.html
 Kings Canyon|-24.2506812|131.5800424|../../Diary/2002/kings_canyon/index.html
 Kinkaku-ji|35.03937|135.7292431|../../Diary/2013/japan_holiday/kyoto_nara.html
-Knights Point|-43.715752|169.225502|../../Diary/2006/new_zealand/index.html
+Knights Point|-43.715752|169.225502|../../Diary/2006/new_zealand/fox_glacier/index.html
 Koblenz|50.3569429|7.58899589999999|../../Diary/2013/rhine_cruise/koblenz.html
 Korean Folk Village|37.2584488|127.1170034|../../Diary/2016/Korea/daegu.html
 Kronborg|56.0390142|12.6211552|../../Diary/2017/Baltics/copenhagen.html
 Kuchu Teien Observatory|34.7052509|135.4903263|../../Diary/2013/japan_holiday/osaka.html
-Kura Tawhiti|-43.2300399|171.7159871|../../Diary/2006/new_zealand/index.html
+Kura Tawhiti|-43.2300399|171.7159871|../../Diary/2006/new_zealand/christchurch/index.html
 Kuranda|-16.816667|145.633333|../../Diary/2002/cairns/index.html
 Kyoto Imperial Palace|35.0254135|135.7621246|../../Diary/2013/japan_holiday/kyoto_nara.html
 La Spezia|44.1024504|9.8240826|../../Diary/2016/Arcadia/la_spezia.html
@@ -253,7 +253,7 @@ Maiden Castle|50.695886|-2.46956599999999|../../Diary/2019/Dorset/tuesday.html
 Manor Farm Soton|50.903796|-1.27746500000001|../../Diary/2017/Baltics/departure.html
 Marwell Zoo|50.9910678|-1.28335849999996|../../Diary/2016/Hampshire/winchester.html
 Masson Mills|53.1126478|-1.5619236|../../Diary/2012/derbyshire/index.html
-Matamata|-37.8108803|175.7764607|../../Diary/2006/new_zealand/index.html
+Matamata|-37.8108803|175.7764607|../../Diary/2006/new_zealand/matamata/index.html
 Matlock Bath|53.121576|-1.562861|../../Diary/2012/derbyshire/index.html
 Max Gate|50.7081396|-2.41998739999997|../../Diary/2019/Dorset/thursday.html
 Mdina|35.888093|14.4068357|../../Diary/2014/Azura/malta.html
@@ -261,21 +261,21 @@ Meiji Jingu|35.6763976|139.6993259|../../Diary/2013/japan_holiday/tokyo.html
 Merrivale Model Village|52.598591|1.73622369999998|../../Diary/2018/GreatYarmouth/index.html
 Messina|38.1937335|15.5542057|../../Diary/2016/Arcadia/messina.html
 Middleham Castle|54.284083|-1.80683920000001|../../Diary/2018/Yorkshire/index.html
-Milford Sound|-44.6414024|167.8973801|../../Diary/2006/new_zealand/index.html
+Milford Sound|-44.6414024|167.8973801|../../Diary/2006/new_zealand/te_anau/index.html
 Millaa-Millaa Falls|-17.4955744|145.6108135|../../Diary/2002/atherton/index.html
-Mirror Lake|-44.8172888|167.7847842|../../Diary/2006/new_zealand/index.html
+Mirror Lake|-44.8172888|167.7847842|../../Diary/2006/new_zealand/te_anau/index.html
 Monkey Mia|-25.7943082|113.7187569|../../Diary/2003/australia/shark_bay/index.html
 Monkey World - Ape Rescue Centre|50.6976002|-2.21715589999997|../../Diary/2019/Dorset/wednesday.html
 Monmouth and Brecon canal|51.8270628|-3.10269010000002|../../Diary/2008/gloucestershire/index.html
 Mottisfont|51.0398988|-1.53324350000003|../../Diary/2012/azores_cruise/index.html
 Mottistone Manor|50.65246|-1.42704800000001|../../Diary/2006/isle_of_wight/index.html
 Mount Borradaile|-12.0833333|132.85|../../Diary/2002/arnhemland/index.html
-Mount Eden Auckland|-36.8812605|174.7493313|../../Diary/2006/new_zealand/index.html
+Mount Eden Auckland|-36.8812605|174.7493313|../../Diary/2006/new_zealand/auckland/index.html
 Mount Etna|37.751005|14.9934349|../../Diary/2014/Azura/Sicily.html
 Mount Fuji|35.3606255|138.7273634|../../Diary/2013/japan_holiday/fuji_hakone.html
 Mount Hypipamee Crater|-17.4258883|145.4865208|../../Diary/2002/atherton/index.html
 Mountfitchet Castle|51.9021458|0.201252000000068|../../Diary/2018/Mountfitchet/index.html
-Muriwai Gannet Colony|-36.8327358|174.4243151|../../Diary/2006/new_zealand/index.html
+Muriwai Gannet Colony|-36.8327358|174.4243151|../../Diary/2006/new_zealand/auckland_again/index.html
 Murrays Bay Beach|-36.7328052|174.7535809|../../Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html
 Museum of New Zealand Te Papa Tongarewa|-41.2904563|174.7820894|../../Diary/2020/New_Zealand/11_Wellington/index.html
 Mutford|52.435578|1.65292590000001|../../Diary/2017/Lowestoft/index.html
@@ -297,14 +297,14 @@ Northern Lights Cathedral|69.9651409|23.2669722000001|../../Diary/2015/Eclipse/a
 Norwich Castle|52.6287796|1.29631900000004|../../Diary/2008/norwich/index.html
 Norwich Cathedral|52.6318974|1.30118259999995|../../Diary/2008/norwich/index.html
 Nourlangie Rock|-12.8620638|132.8120939|../../Diary/2002/kakadu/index.html
-Nugget Point|-46.4452711|169.8092228|../../Diary/2006/new_zealand/index.html
+Nugget Point|-46.4452711|169.8092228|../../Diary/2006/new_zealand/invercargill/index.html
 Old Crown Girton|52.2425867|0.0814947000000075|../../Dining_out/old_crown_girton/index.html
 Old School Restaurant|57.4321147|-6.57292649999999|../../Diary/2018/Columbus/skye.html
 Olden|61.8350282|6.80655560000002|../../Diary/2007/Norway/olden.html
 Osaka Aquarium Kaiyukan|34.6545182|135.4289645|../../Diary/2013/japan_holiday/osaka.html
 Osaka Castle|34.6873333|135.5259555|../../Diary/2013/japan_holiday/osaka.html
 Osborne House|50.750372|-1.26943099999994|../../Diary/2006/isle_of_wight/index.html
-Otago Peninsula|-45.8666667|170.6666667|../../Diary/2006/new_zealand/index.html
+Otago Peninsula|-45.8666667|170.6666667|../../Diary/2006/new_zealand/dunedin/index.html
 Owakudani|35.2434489|139.0193538|../../Diary/2013/japan_holiday/fuji_hakone.html
 Oxburgh Hall|52.5810368|0.570369199999959|../../Diary/2019/Norfolk/index.html
 Packwood House|52.3479118|-1.74669740000002|../../Diary/2010/stratford/saturday.html
@@ -321,12 +321,12 @@ Philosopher's Path|35.0268199|135.7953591|../../Diary/2013/japan_holiday/kyoto.h
 Pirates Cove Adventure Golf|52.6057511|1.73713529999998|../../Diary/2018/GreatYarmouth/index.html
 Ponta Delgada|37.7394207|-25.6686725|../../Diary/2012/azores_cruise/index.html
 Poole's Cavern|53.24997|-1.9251782|../../Diary/2001/peak_district/index.html
-Porpoise Bay|-46.6491468|169.1171787|../../Diary/2006/new_zealand/index.html
+Porpoise Bay|-46.6491468|169.1171787|../../Diary/2006/new_zealand/invercargill/index.html
 Portsmouth Historic Dockyard|50.800531|-1.10946590000003|../../Diary/2016/Arcadia/2.html
 Prora|54.4390642|13.5747259|../../Diary/2011/black_watch/Aarhus.html
-Punakaiki|-42.1084146|171.3363126|../../Diary/2006/new_zealand/index.html
+Punakaiki|-42.1084146|171.3363126|../../Diary/2006/new_zealand/punakaiki/index.html
 Pushkin Art Gallery|59.931685|30.295709|../../Diary/2017/Baltics/st_petersburg.html
-Puzzling World|-44.696992|169.161698|../../Diary/2006/new_zealand/index.html
+Puzzling World|-44.696992|169.161698|../../Diary/2006/new_zealand/wanaka/index.html
 Quiet Waters|52.4443634|1.43344769999999|../../Diary/2008/quiet_waters/index.html
 R&aring;jberg Mile|57.6486111|10.4066667|../../Diary/2003/Denmark/index.html
 Raffles Hotel|1.2948829|103.8544791|../../Diary/2002/singapore/index.html
@@ -358,7 +358,7 @@ Seokguram|35.7950858|129.3496981|../../Diary/2016/Korea/gyeongju2.html
 Seoul Tower|37.5511694|126.9882266|../../Diary/2016/Korea/seoul2.html
 Shell Beach|-26.215|113.7736111|../../Diary/2003/australia/shark_bay/index.html
 Shinjuku Gyoen National Garden|35.6851763|139.7100517|../../Diary/2020/New_Zealand/4_Teahouses_and_Go/index.html
-Ship Creek|-43.7594038|169.1494901|../../Diary/2006/new_zealand/index.html
+Ship Creek|-43.7594038|169.1494901|../../Diary/2006/new_zealand/fox_glacier/index.html
 Shire's Rest|-37.8720905|175.6829096|../../Diary/2020/New_Zealand/9_Hobbiton/index.html
 Sidholme Hotel|50.685705|-3.23926000000006|../../Diary/2010/devon/index.html
 Sissinghurst Castle Gardens|51.1153408|0.582359099999962|../../Diary/2017/Kent/index.html
@@ -374,7 +374,7 @@ St. Andrews Hall Norwich|52.63112|1.29571169999997|../../Diary/2008/norwich/inde
 St. Benet's Abbey|52.687429|1.52051200000005|../../Diary/2013/broads/index.html
 St. Isaac's Cathedral|59.933905|30.3064850000001|../../Diary/2017/Baltics/st_petersburg.html
 State Hermitage Museum|59.9398317|30.3145597|../../Diary/2011/black_watch/st_petersburg.html
-Stewart Island|-46.9580693|167.8078432|../../Diary/2006/new_zealand/index.html
+Stewart Island|-46.9580693|167.8078432|../../Diary/2006/new_zealand/stewart_island/index.html
 Stokesby|52.638172|1.594877|../../Diary/2013/broads/index.html
 Stonehenge|51.178882|-1.82621500000005|../../Diary/2009/longleat/friday.html
 Strangers' Hall|52.6307068|1.29248080000002|../../Diary/2008/norwich/index.html
@@ -386,15 +386,15 @@ Sutton Hoo|52.0944505|1.3407962|../../Diary/2004/christmas/index.html
 Swan's Nest Hotel|52.190801|-1.69950700000004|../../Diary/2016/Stratford/index.html
 Swarthmoor Hall|54.18636|-3.10197600000004|../../Diary/2014/LakeDistrict/index.html
 Symonds Yat|51.8463095|-2.64627940000003|../../Diary/2008/gloucestershire/index.html
-Taiaroa Head|-45.7828398|170.7332869|../../Diary/2006/new_zealand/index.html
+Taiaroa Head|-45.7828398|170.7332869|../../Diary/2006/new_zealand/dunedin/index.html
 Tamozawa Imperial Villa|36.752452|139.591189|../../Diary/2013/japan_holiday/nikko.html
-Tautuku Estuary|-46.5849372|169.4188534|../../Diary/2006/new_zealand/index.html
-Te Puia|-38.163513|176.250529|../../Diary/2006/new_zealand/index.html
+Tautuku Estuary|-46.5849372|169.4188534|../../Diary/2006/new_zealand/invercargill/index.html
+Te Puia|-38.163513|176.250529|../../Diary/2006/new_zealand/waitomo/index.html
 Tempura Abe Honten|35.6720749|139.7644904|../../Diary/2020/New_Zealand/4_Teahouses_and_Go/index.html
 Terracotta Warrior Museum|50.7155199|-2.43286990000001|../../Diary/2019/Dorset/monday.html
 The Boot|52.2515323|0.106169700000009|../../Dining_out/boot_histon/index.html
 The Bridge, Clayhithe|52.2580204|0.198258200000055|../../Dining_out/bridge_clayhithe/index.html
-The Chasm|-44.7214297|167.9508305|../../Diary/2006/new_zealand/index.html
+The Chasm|-44.7214297|167.9508305|../../Diary/2006/new_zealand/te_anau/index.html
 The Dinosaur Museum|50.714914|-2.4341167|../../Diary/2019/Dorset/monday.html
 The Fourteas|52.1914881|-1.70467610000003|../../Diary/2016/Stratford/index.html
 The Jane Austen Centre|51.384053|-2.36298599999998|../../Diary/2012/bath_long_weekend/index.html
@@ -413,14 +413,14 @@ Thingvellir Visitor Center|64.2559785|-21.1310156|../../Diary/2019/Iceland/icela
 Thornton Beach|-16.173092|145.4412624|../../Diary/2002/daintree/index.html
 Thursford Collection|52.8710396|0.94048650000002|../../Diary/2013/thursford.html
 Time and Tide Museum of Great Yarmouth Life|52.6017183|1.73130149999997|../../Diary/2017/Lowestoft/index.html
-Tiritiri Matangi Island|-36.6012403|174.8893617|../../Diary/2010/new_zealand/index.html
+Tiritiri Matangi Island|-36.6012403|174.8893617|../../Diary/2010/new_zealand/tiritiri_matangi/index.html
 Titanic Belfast|54.60807|-5.90997240000002|../../Diary/2018/Columbus/belfast.html
 Tivoli Gardens|55.6736841|12.5681471|../../Diary/2011/black_watch/copenhagen.html
 Toad Hole Cottage Museum|52.7176517|1.50785680000001|../../Diary/2013/broads/index.html
 Tobermory|56.6227813|-6.07230040000002|../../Diary/2018/Columbus/mull.html
 Todaiji Temple|34.6913035|135.8377434|../../Diary/2013/japan_holiday/kyoto_nara.html
 Tokyo Tower|35.6585805|139.7454329|../../Diary/2013/japan_holiday/tokyo.html
-Tongariro Alpine Crossing|-39.0660659|175.6668381|../../Diary/2010/new_zealand/index.html
+Tongariro Alpine Crossing|-39.0660659|175.6668381|../../Diary/2010/new_zealand/tongariro/index.html
 Toshugu shrine|36.7578036|139.5993576|../../Diary/2013/japan_holiday/nikko.html
 Trading Post Kettering|52.3921206|-0.74614059999999|../../Dining_out/trading_post/index.html
 Tree Church|-37.90852|175.329699|../../Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html
@@ -431,7 +431,7 @@ Tyneham|50.622448|-2.16875000000005|../../Diary/2019/Dorset/saturday.html
 Ubirr|-12.4082056|132.9559355|../../Diary/2002/kakadu/index.html
 Uganda|1.373333|32.2902750000001|../../Diary/2005/uganda/index.html
 Uluru|-25.3444277|131.0368822|../../Diary/2002/uluru/index.html
-Ulva Island|-46.9318318|168.1253399|../../Diary/2006/new_zealand/index.html
+Ulva Island|-46.9318318|168.1253399|../../Diary/2006/new_zealand/stewart_island/index.html
 Undara Volcanic National Park|-18.2651052|144.5531284|../../Diary/2002/undara/index.html
 Unmunsa|35.661273|128.960278|../../Diary/2016/Korea/busan.html
 Uppark House and Garden - National Trust|50.9524027|-0.891257600000017|../../Diary/2016/Hampshire/uppark.html
@@ -446,8 +446,8 @@ Viru Bog|59.4707697|25.6371589|../../Diary/2011/black_watch/estonia.html
 Voergaard Slot|57.242532|10.335428|../../Diary/2017/Baltics/skagen.html
 WWT Welney|52.5269435|0.278716199999963|../../Diary/2010/bats/index.html
 Wai-O-Tapu|-38.358256|176.3689844|../../Diary/2020/New_Zealand/10_Rotorua/index.html
-Waimangu Volcanic Valley|-38.285254|176.386259|../../Diary/2010/new_zealand/index.html
-Waitomo|-38.2615305|175.1145451|../../Diary/2006/new_zealand/index.html
+Waimangu Volcanic Valley|-38.285254|176.386259|../../Diary/2010/new_zealand/rotorua/index.html
+Waitomo|-38.2615305|175.1145451|../../Diary/2006/new_zealand/waitomo/index.html
 Waitomo Caves Guest Lodge|-38.260658|175.110435|../../Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html
 Waitomo Glowworm Caves|-38.260783|175.1035985|../../Diary/2020/New_Zealand/8_Going_to_the_glow_worms/index.html
 Walpole-Nornalup inlet|-35.003558|116.7319649|../../Diary/2003/australia/walpole/index.html
@@ -459,8 +459,8 @@ Wellington Botanic Garden|-41.2823079|174.7674514|../../Diary/2020/New_Zealand/1
 Wensleydale Creamery|54.3018483|-2.2003555|../../Diary/2018/Yorkshire/index.html
 Weta Workshop|-41.305862|174.8234761|../../Diary/2020/New_Zealand/11_Wellington/index.html
 White Cliffs of Dover|51.1344689|1.35730280000007|../../Diary/2005/kent/index.html
-White Island|-37.522567|177.1796793|../../Diary/2010/new_zealand/index.html
-White Island Rendezvous Motel|-37.9497833|177.0019723|../../Diary/2010/new_zealand/index.html
+White Island|-37.522567|177.1796793|../../Diary/2010/new_zealand/white_island/index.html
+White Island Rendezvous Motel|-37.9497833|177.0019723|../../Diary/2010/new_zealand/white_island/index.html
 White Scar Cave|54.1655977|-2.44170919999999|../../Diary/2018/Yorkshire/index.html
 Willersley Castle|53.1137985|-1.55287279999993|../../Diary/2012/derbyshire/index.html
 Winchester Cathedral|51.0606892|-1.31315380000001|../../Diary/2016/Hampshire/punctured.html
