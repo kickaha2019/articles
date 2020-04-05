@@ -44,7 +44,7 @@ Baddesley Clinton|52.3409501|-1.70852020000007|../../Diary/2010/stratford/saturd
 Banham Zoo|52.4462819|1.02538400000003|../../Diary/2019/Norfolk/index.html
 Barna Mia|-32.7674229|116.9263651|../../Diary/2003/australia/dryandra/index.html
 Basilica Of Saint John|37.9528691|27.3675619000001|../../Diary/2009/eastern_med/ephesus/index.html
-Bateman's|50.9893081|0.379480699999931|../../Diary/2017/Kent/index.html
+Bateman's|50.9893081|0.379480699999931|../../Diary/2017/Kent/tourism/index.html
 Bathampton|51.395142|-2.32059100000004|../../Diary/2012/bath_long_weekend/index.html
 Beefeater Travellers Rest - Cambridge|52.2222647|0.0936804000000393|../../Dining_out/beefeater_girton/index.html
 Bicton Gardens|50.664164|-3.31032800000003|../../Diary/2010/devon/killerton.html
@@ -53,10 +53,10 @@ Biggin Hill|51.3318849|0.0287677000000031|../../Diary/2005/biggin_hill/index.htm
 Blakeney Point|52.9666526|0.961510299999986|../../Diary/2005/north_norfolk/index.html
 Blickling Estate|52.811731|1.23164700000007|../../Diary/2005/north_norfolk/index.html
 Blockhouse Bay Community Church|-36.9128568|174.7151695|../../Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html
-Bodiam Castle|51.002266|0.543548999999985|../../Diary/2017/Kent/index.html
+Bodiam Castle|51.002266|0.543548999999985|../../Diary/2017/Kent/tourism/index.html
 Bolton Castle|54.3221452|-1.94953510000005|../../Diary/2018/Yorkshire/index.html
 Bolton Hotel Wellington|-41.2794019|174.7746699|../../Diary/2020/New_Zealand/11_Wellington/index.html
-Bowness-on-Windermere|54.364703|-2.91962699999999|../../Diary/2014/LakeDistrict/index.html
+Bowness-on-Windermere|54.364703|-2.91962699999999|../../Diary/2014/LakeDistrict/wednesday.html
 Brading Roman Villa|50.6730117|-1.15274539999996|../../Diary/2006/isle_of_wight/index.html
 Brewery Square Dorchester|50.7094537|-2.43810150000002|../../Diary/2019/Dorset/saturday.html
 Bridewell Museum|52.6301269|1.29514549999999|../../Diary/2008/norwich/index.html
@@ -161,17 +161,17 @@ Giza Necropolis|29.9772962|31.1324955|../../Diary/2009/eastern_med/egypt/index.h
 Godafoss|65.6827782|-17.5501918|../../Diary/2019/Iceland/iceland/index.html
 Gooderstone Water Gardens|52.58854|0.605031000000054|../../Diary/2019/Norfolk/index.html
 Gorleston Baptist Church|52.5772838|1.72654060000002|../../Diary/2018/GreatYarmouth/index.html
-Goudhurst Inn|51.113801|0.472084999999993|../../Diary/2017/Kent/index.html
+Goudhurst Inn|51.113801|0.472084999999993|../../Diary/2017/Kent/eating/index.html
 Gough's Cave|51.2819341|-2.76574640000001|../../Diary/2015/Somerset/index.html
 Grand Prince Hotel New Takanawa|35.630053|139.73349|../../Diary/2013/japan_holiday/tokyo.html
 Grand Union Canal|52.1247757|-0.886416999999938|../../Diary/2009/grand_union/index.html
 Great Sphinx of Giza|29.9752687|31.1375674|../../Diary/2009/eastern_med/egypt/index.html
-Green Cross Inn|51.1085454|0.43996930000003|../../Diary/2017/Kent/index.html
+Green Cross Inn|51.1085454|0.43996930000003|../../Diary/2017/Kent/eating/index.html
 Green Island|-16.7597228|145.9738016|../../Diary/2002/cairns/index.html
 Greengables Lodge|-28.7061968|114.6662755|../../Diary/2003/australia/Kalbarri/index.html
 Grime's Graves|52.4768698|0.676311599999963|../../Diary/2019/Norfolk/index.html
 Grizedale Forest|54.354267|-3.00028999999995|../../Diary/2004/wedding/index.html
-Groombridge Place|51.1182756|0.188899200000037|../../Diary/2017/Kent/index.html
+Groombridge Place|51.1182756|0.188899200000037|../../Diary/2017/Kent/tourism/index.html
 Guryongpo|35.985168|129.5577999|../../Diary/2016/Korea/gyeongju2.html
 Gwangjang Market|37.5701527|126.9993404|../../Diary/2016/Korea/seoul2.html
 Gyeongju National Museum|35.8293965|129.2279056|../../Diary/2016/Korea/gyeongju1.html
@@ -186,11 +186,11 @@ Hellisheidi|64.0372869|-21.401011|../../Diary/2019/Iceland/iceland/index.html
 Herculaneum|40.8061435|14.3473721|../../Diary/2016/Arcadia/salerno.html
 Herstmonceux Observatory|50.8702576|0.3456218|../../Diary/2004/eastbourne/index.html
 Higashiyama Jisho-ji|35.0270213|135.7982058|../../Diary/2013/japan_holiday/kyoto.html
-Hill Top Beatrix Potter House|54.3517112|-2.97057150000001|../../Diary/2014/LakeDistrict/index.html
+Hill Top Beatrix Potter House|54.3517112|-2.97057150000001|../../Diary/2014/LakeDistrict/tuesday.html
 Histon|52.254867|0.103711999999973|../../Diary/2014/walk_to_work/index.html
 Hobbiton Village|-37.8577046|175.6807567|../../Diary/2020/New_Zealand/9_Hobbiton/index.html
 Holiday Inn Express Southampton|50.9266979|-1.32329019999997|../../Diary/2012/azores_cruise/index.html
-Holker Hall|54.188739|-2.98260900000002|../../Diary/2014/LakeDistrict/index.html
+Holker Hall|54.188739|-2.98260900000002|../../Diary/2014/LakeDistrict/monday.html
 Holkham Hall|52.949851|0.803676999999993|../../Diary/2005/north_norfolk/index.html
 Holy Isle|55.525063|-5.07310860000007|../../Diary/2007/HolyIsle/index.html
 Homigot Sunrise Square|36.0767825|129.5677374|../../Diary/2016/Korea/gyeongju2.html
@@ -231,8 +231,8 @@ La Spezia|44.1024504|9.8240826|../../Diary/2016/Arcadia/la_spezia.html
 Lahemaa National Park|59.5676617|25.7810188|../../Diary/2011/black_watch/estonia.html
 Lake Barrine|-17.2460689|145.6390511|../../Diary/2002/lake_barrine/index.html
 Lake Thetis|-30.5072222|115.0805556|../../Diary/2003/australia/pinnacles/index.html
-Lakeland Motor Museum|54.2587173|-2.9891394|../../Diary/2014/LakeDistrict/index.html
-Lakes Aquarium|54.2783179|-2.95591239999999|../../Diary/2014/LakeDistrict/index.html
+Lakeland Motor Museum|54.2587173|-2.9891394|../../Diary/2014/LakeDistrict/wednesday.html
+Lakes Aquarium|54.2783179|-2.95591239999999|../../Diary/2014/LakeDistrict/wednesday.html
 Las Palmas de Gran Canaria|28.1235459|-15.4362573999999|../../Diary/2012/azores_cruise/index.html
 Leeds Castle|51.2489896|0.630464899999993|../../Diary/2005/kent/index.html
 Legoland Windsor|51.4638338|-0.650027499999965|../../Diary/2005/windsor/index.html
@@ -313,7 +313,7 @@ Palazzo Parisio|35.9148964|14.4441529000001|../../Diary/2014/Azura/malta.html
 Paphos|34.7720133|32.4297369|../../Diary/2009/eastern_med/cyprus/index.html
 Park Guell|41.4144948|2.15269450000005|../../Diary/2016/Arcadia/barcelona.html
 ParkRoyal on Pickering|1.2858085|103.8460908|../../Diary/2020/New_Zealand/12_Singapore_and_home/index.html
-Pembury Baptist Church|51.1475239|0.328106899999966|../../Diary/2017/Kent/index.html
+Pembury Baptist Church|51.1475239|0.328106899999966|../../Diary/2017/Kent/eating/index.html
 Perth|-31.9505269|115.8604572|../../Diary/2003/australia/Perth/index.html
 Peter Beales Roses|52.4983844|0.988335300000017|../../Diary/2019/Norfolk/index.html
 Peterhof|59.8863041|29.9085976|../../Diary/2011/black_watch/st_petersburg.html
@@ -352,7 +352,7 @@ Sagrada Familia|41.4036299|2.17435580000006|../../Diary/2016/Arcadia/barcelona.h
 Saint Peter Port|49.4541677|-2.54970690000005|../../Diary/2018/Columbus/guernsey.html
 Sanbon-ro|37.3613089|126.9388145|../../Diary/2016/Korea/gunpo.html
 Sandringham|52.8296856|0.512488899999994|../../Diary/2005/north_norfolk/index.html
-Scotney Castle - National Trust|51.0928332|0.408233600000017|../../Diary/2017/Kent/index.html
+Scotney Castle - National Trust|51.0928332|0.408233600000017|../../Diary/2017/Kent/tourism/index.html
 Seaton Tramway|50.7050832|-3.06779470000004|../../Diary/2010/devon/seaton.html
 Seokguram|35.7950858|129.3496981|../../Diary/2016/Korea/gyeongju2.html
 Seoul Tower|37.5511694|126.9882266|../../Diary/2016/Korea/seoul2.html
@@ -360,14 +360,14 @@ Shell Beach|-26.215|113.7736111|../../Diary/2003/australia/shark_bay/index.html
 Shinjuku Gyoen National Garden|35.6851763|139.7100517|../../Diary/2020/New_Zealand/4_Teahouses_and_Go/index.html
 Ship Creek|-43.7594038|169.1494901|../../Diary/2006/new_zealand/fox_glacier/index.html
 Shire's Rest|-37.8720905|175.6829096|../../Diary/2020/New_Zealand/9_Hobbiton/index.html
-Sidholme Hotel|50.685705|-3.23926000000006|../../Diary/2010/devon/index.html
-Sissinghurst Castle Gardens|51.1153408|0.582359099999962|../../Diary/2017/Kent/index.html
+Sidholme Hotel|50.685705|-3.23926000000006|../../Diary/2010/devon/hotel.html
+Sissinghurst Castle Gardens|51.1153408|0.582359099999962|../../Diary/2017/Kent/tourism/index.html
 Skagen Peninsula|57.7387651|10.6337889|../../Diary/2003/Denmark/index.html
 Skara Brae Prehistoric Village|59.0487479|-3.34170940000001|../../Diary/2018/Columbus/orkney.html
 Somerleyton Hall|52.5207063|1.6729186|../../Diary/2018/GreatYarmouth/index.html
 Songnisan National Park|36.51715|127.816779|../../Diary/2016/Korea/daegu.html
 Sorrisniva Igloo Hotel|69.8652318|23.3179907|../../Diary/2015/Eclipse/alta.html
-South Lakes Safari Zoo|54.1682664|-3.16338389999999|../../Diary/2014/LakeDistrict/index.html
+South Lakes Safari Zoo|54.1682664|-3.16338389999999|../../Diary/2014/LakeDistrict/thursday.html
 St Andrews Church Histon|52.255324|0.102640500000007|../../Diary/2009/feast_week/index.html
 St Patrick's Cathedral|53.3395154|-6.27147669999999|../../Diary/2019/Iceland/dublin/index.html
 St. Andrews Hall Norwich|52.63112|1.29571169999997|../../Diary/2008/norwich/index.html
@@ -384,7 +384,7 @@ Stratford-upon-Avon Baptist Church|52.1945983|-1.70488150000006|../../Diary/2010
 Stretham Old Engine|52.3343426|0.22426710000002|../../Diary/2010/stretham/index.html
 Sutton Hoo|52.0944505|1.3407962|../../Diary/2004/christmas/index.html
 Swan's Nest Hotel|52.190801|-1.69950700000004|../../Diary/2016/Stratford/index.html
-Swarthmoor Hall|54.18636|-3.10197600000004|../../Diary/2014/LakeDistrict/index.html
+Swarthmoor Hall|54.18636|-3.10197600000004|../../Diary/2014/LakeDistrict/thursday.html
 Symonds Yat|51.8463095|-2.64627940000003|../../Diary/2008/gloucestershire/index.html
 Taiaroa Head|-45.7828398|170.7332869|../../Diary/2006/new_zealand/dunedin/index.html
 Tamozawa Imperial Villa|36.752452|139.591189|../../Diary/2013/japan_holiday/nikko.html
