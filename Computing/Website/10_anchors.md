@@ -37,7 +37,7 @@ Athelhampton House and Gardens|50.7476283|-2.32654160000004|../../Diary/2019/Dor
 Audley End House and Gardens|52.0207851|0.220600999999988|../../Diary/2018/Audley_End/index.html
 Avebury Stone Circle|51.4289196|-1.85489080000002|../../Diary/2009/longleat/sunday.html
 Aventree Hotel|37.5730642|126.9833239|../../Diary/2016/Korea/seoul1.html
-Axbridge|51.28442|-2.81935199999998|../../Diary/2015/Somerset/index.html
+Axbridge|51.28442|-2.81935199999998|../../Diary/2015/Somerset/axbridge/index.html
 Aysgarth Falls Hotel|54.290612|-1.98426599999993|../../Diary/2018/Yorkshire/index.html
 Babbacombe Model Village|50.482835|-3.52076599999998|../../Diary/2010/devon/torquay.html
 Baddesley Clinton|52.3409501|-1.70852020000007|../../Diary/2010/stratford/saturday.html
@@ -148,7 +148,7 @@ Frederiksborg Castle|55.9349652|12.3012724|../../Diary/2017/Baltics/copenhagen.h
 Fregatten Jylland|56.1991809|10.6738776|../../Diary/2011/black_watch/Aarhus.html
 Fremantle|-32.0518191|115.7551085|../../Diary/2003/australia/Perth/index.html
 Fukuchi-In|34.215951|135.584843|../../Diary/2013/japan_holiday/koyasan.html
-Funchal|32.6669328|-16.9240554|../../Diary/2012/azores_cruise/index.html
+Funchal|32.6669328|-16.9240554|../../Diary/2012/azores_cruise/funchal/index.html
 Gagadju Crocodile Hotel|-12.670456|132.831877|../../Diary/2003/australia/arnhemland/index.html
 Gamle Stavanger|58.9716156|5.72625389999996|../../Diary/2007/Norway/stavanger.html
 Gardens by the Bay|1.2815683|103.8636132|../../Diary/2020/New_Zealand/12_Singapore_and_home/index.html
@@ -162,7 +162,7 @@ Godafoss|65.6827782|-17.5501918|../../Diary/2019/Iceland/iceland/index.html
 Gooderstone Water Gardens|52.58854|0.605031000000054|../../Diary/2019/Norfolk/index.html
 Gorleston Baptist Church|52.5772838|1.72654060000002|../../Diary/2018/GreatYarmouth/index.html
 Goudhurst Inn|51.113801|0.472084999999993|../../Diary/2017/Kent/eating/index.html
-Gough's Cave|51.2819341|-2.76574640000001|../../Diary/2015/Somerset/index.html
+Gough's Cave|51.2819341|-2.76574640000001|../../Diary/2015/Somerset/cheddar_gorge/index.html
 Grand Prince Hotel New Takanawa|35.630053|139.73349|../../Diary/2013/japan_holiday/tokyo.html
 Grand Union Canal|52.1247757|-0.886416999999938|../../Diary/2009/grand_union/index.html
 Great Sphinx of Giza|29.9752687|31.1375674|../../Diary/2009/eastern_med/egypt/index.html
@@ -189,12 +189,12 @@ Higashiyama Jisho-ji|35.0270213|135.7982058|../../Diary/2013/japan_holiday/kyoto
 Hill Top Beatrix Potter House|54.3517112|-2.97057150000001|../../Diary/2014/LakeDistrict/tuesday.html
 Histon|52.254867|0.103711999999973|../../Diary/2014/walk_to_work/index.html
 Hobbiton Village|-37.8577046|175.6807567|../../Diary/2020/New_Zealand/9_Hobbiton/index.html
-Holiday Inn Express Southampton|50.9266979|-1.32329019999997|../../Diary/2012/azores_cruise/index.html
+Holiday Inn Express Southampton|50.9266979|-1.32329019999997|../../Diary/2012/azores_cruise/preboarding/index.html
 Holker Hall|54.188739|-2.98260900000002|../../Diary/2014/LakeDistrict/monday.html
 Holkham Hall|52.949851|0.803676999999993|../../Diary/2005/north_norfolk/index.html
 Holy Isle|55.525063|-5.07310860000007|../../Diary/2007/HolyIsle/index.html
 Homigot Sunrise Square|36.0767825|129.5677374|../../Diary/2016/Korea/gyeongju2.html
-Horta|38.5348447|-28.6299812|../../Diary/2012/azores_cruise/index.html
+Horta|38.5348447|-28.6299812|../../Diary/2012/azores_cruise/horta/index.html
 Hotel Felix|52.2245086|0.0940918999999667|../../Dining_out/felix_girton/index.html
 Hotel Gracery Shinjuku|35.695306|139.7020539|../../Diary/2020/New_Zealand/2_Godzilla_Hotel/index.html
 Houghton Hall|52.826846|0.65781579999998|../../Diary/2005/houghton_hall/index.html
@@ -233,13 +233,13 @@ Lake Barrine|-17.2460689|145.6390511|../../Diary/2002/lake_barrine/index.html
 Lake Thetis|-30.5072222|115.0805556|../../Diary/2003/australia/pinnacles/index.html
 Lakeland Motor Museum|54.2587173|-2.9891394|../../Diary/2014/LakeDistrict/wednesday.html
 Lakes Aquarium|54.2783179|-2.95591239999999|../../Diary/2014/LakeDistrict/wednesday.html
-Las Palmas de Gran Canaria|28.1235459|-15.4362573999999|../../Diary/2012/azores_cruise/index.html
+Las Palmas de Gran Canaria|28.1235459|-15.4362573999999|../../Diary/2012/azores_cruise/gran_canaria/index.html
 Leeds Castle|51.2489896|0.630464899999993|../../Diary/2005/kent/index.html
 Legoland Windsor|51.4638338|-0.650027499999965|../../Diary/2005/windsor/index.html
 Lindholm H&oslash;je|57.078249|9.91007289999993|../../Diary/2003/Denmark/index.html
 Lindisfarne Abbey|55.6691551|-1.80089450000003|../../Diary/2006/holy_isle/index.html
 Lindos|36.0918486|28.0856654|../../Diary/2009/eastern_med/rhodes/index.html
-Lisbon|38.7222524|-9.13933659999998|../../Diary/2012/azores_cruise/index.html
+Lisbon|38.7222524|-9.13933659999998|../../Diary/2012/azores_cruise/lisbon/index.html
 Little Moreton Hall|53.1271607|-2.25174659999993|../../Diary/2007/Derbyshire/index.html
 Little Walsingham|52.8959389|0.875399099999981|../../Diary/2005/north_norfolk/index.html
 Lofotr Viking Museum|68.2444321|13.7555695|../../Diary/2015/Eclipse/leknes.html
@@ -267,7 +267,7 @@ Mirror Lake|-44.8172888|167.7847842|../../Diary/2006/new_zealand/te_anau/index.h
 Monkey Mia|-25.7943082|113.7187569|../../Diary/2003/australia/shark_bay/index.html
 Monkey World - Ape Rescue Centre|50.6976002|-2.21715589999997|../../Diary/2019/Dorset/wednesday.html
 Monmouth and Brecon canal|51.8270628|-3.10269010000002|../../Diary/2008/gloucestershire/index.html
-Mottisfont|51.0398988|-1.53324350000003|../../Diary/2012/azores_cruise/index.html
+Mottisfont|51.0398988|-1.53324350000003|../../Diary/2012/azores_cruise/preboarding/index.html
 Mottistone Manor|50.65246|-1.42704800000001|../../Diary/2006/isle_of_wight/index.html
 Mount Borradaile|-12.0833333|132.85|../../Diary/2002/arnhemland/index.html
 Mount Eden Auckland|-36.8812605|174.7493313|../../Diary/2006/new_zealand/auckland/index.html
@@ -319,7 +319,7 @@ Peter Beales Roses|52.4983844|0.988335300000017|../../Diary/2019/Norfolk/index.h
 Peterhof|59.8863041|29.9085976|../../Diary/2011/black_watch/st_petersburg.html
 Philosopher's Path|35.0268199|135.7953591|../../Diary/2013/japan_holiday/kyoto.html
 Pirates Cove Adventure Golf|52.6057511|1.73713529999998|../../Diary/2018/GreatYarmouth/index.html
-Ponta Delgada|37.7394207|-25.6686725|../../Diary/2012/azores_cruise/index.html
+Ponta Delgada|37.7394207|-25.6686725|../../Diary/2012/azores_cruise/ponta_delgada/index.html
 Poole's Cavern|53.24997|-1.9251782|../../Diary/2001/peak_district/index.html
 Porpoise Bay|-46.6491468|169.1171787|../../Diary/2006/new_zealand/invercargill/index.html
 Portsmouth Historic Dockyard|50.800531|-1.10946590000003|../../Diary/2016/Arcadia/2.html
@@ -441,7 +441,7 @@ Vatnahalsen|60.7435346|7.12986550000005|../../Diary/2007/Norway/flam.html
 Vejer de la Frontera|36.252034|-5.9667359|../../Diary/2016/Arcadia/cadiz.html
 Venice|45.4408474|12.3155151|../../Diary/2014/Azura/venice.html
 Ventnor Botanic Garden|50.5895122|-1.22664810000003|../../Diary/2006/isle_of_wight/index.html
-Vigo|42.2405989|-8.72072679999997|../../Diary/2012/azores_cruise/index.html
+Vigo|42.2405989|-8.72072679999997|../../Diary/2012/azores_cruise/lisbon/index.html
 Viru Bog|59.4707697|25.6371589|../../Diary/2011/black_watch/estonia.html
 Voergaard Slot|57.242532|10.335428|../../Diary/2017/Baltics/skagen.html
 WWT Welney|52.5269435|0.278716199999963|../../Diary/2010/bats/index.html
@@ -466,7 +466,7 @@ Willersley Castle|53.1137985|-1.55287279999993|../../Diary/2012/derbyshire/index
 Winchester Cathedral|51.0606892|-1.31315380000001|../../Diary/2016/Hampshire/punctured.html
 Winchester Science Museum|51.059373|-1.26533599999993|../../Diary/2016/Hampshire/winchester.html
 Windsor Castle|51.483894|-0.604402700000037|../../Diary/2005/windsor/index.html
-Wookey Hole Caves|51.2260953|-2.67265380000003|../../Diary/2015/Somerset/index.html
+Wookey Hole Caves|51.2260953|-2.67265380000003|../../Diary/2015/Somerset/wookey_hole/index.html
 Yellow Waters|-12.896466|132.518469|../../Diary/2002/yellow_waters/index.html
 York Minster|53.9623292|-1.08192050000002|../../Diary/2006/york/index.html
 ZEALANDIA Ecosanctuary|-41.2901575|174.7534936|../../Diary/2020/New_Zealand/11_Wellington/index.html
