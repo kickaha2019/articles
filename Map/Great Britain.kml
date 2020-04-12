@@ -8,7 +8,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
@@ -24,7 +24,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
@@ -789,15 +789,6 @@
         <Point>
           <coordinates>
             -1.70852020000007,52.3409501,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Stratford-upon-Avon Baptist Church</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -1.70488150000006,52.1945983,0
           </coordinates>
         </Point>
       </Placemark>

@@ -61,8 +61,6 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2006/new_zealand/dunedin/index.html">Taiaroa&nbsp;Head</a>');
   var marker = L.marker( [-46.5849372,169.4188534]).addTo( map);
   marker.bindPopup('<a href="../Diary/2006/new_zealand/invercargill/index.html">Tautuku&nbsp;Estuary</a>');
-  var marker = L.marker( [-38.163513,176.250529]).addTo( map);
-  marker.bindPopup('<a href="../Diary/2006/new_zealand/waitomo/index.html">Te&nbsp;Puia</a> <a href="../Diary/2020/New_Zealand/10_Rotorua/index.html">2</a>');
   var marker = L.marker( [-44.7214297,167.9508305]).addTo( map);
   marker.bindPopup('<a href="../Diary/2006/new_zealand/te_anau/index.html">The&nbsp;Chasm</a>');
   var marker = L.marker( [-46.9318318,168.1253399]).addTo( map);
@@ -99,6 +97,8 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2020/New_Zealand/9_Hobbiton/index.html">Hobbiton&nbsp;Village</a>');
   var marker = L.marker( [-38.133542,176.250697]).addTo( map);
   marker.bindPopup('<a href="../Diary/2020/New_Zealand/10_Rotorua/index.html">Regent&nbsp;of&nbsp;Rotorua</a>');
+  var marker = L.marker( [-38.163513,176.250529]).addTo( map);
+  marker.bindPopup('<a href="../Diary/2006/new_zealand/waitomo/index.html">Te&nbsp;Puia</a> <a href="../Diary/2020/New_Zealand/10_Rotorua/index.html">2</a>');
   var marker = L.marker( [-38.358256,176.3689844]).addTo( map);
   marker.bindPopup('<a href="../Diary/2020/New_Zealand/10_Rotorua/index.html">Wai-O-Tapu</a>');
   var marker = L.marker( [-41.2794019,174.7746699]).addTo( map);
@@ -455,8 +455,6 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2010/stratford/saturday.html">Packwood&nbsp;House</a>');
   var marker = L.marker( [52.3409501,-1.70852020000007]).addTo( map);
   marker.bindPopup('<a href="../Diary/2010/stratford/saturday.html">Baddesley&nbsp;Clinton</a>');
-  var marker = L.marker( [52.1945983,-1.70488150000006]).addTo( map);
-  marker.bindPopup('<a href="../Diary/2010/stratford/sunday.html">Stratford-upon-Avon&nbsp;Baptist&nbsp;Church</a> <a href="../Diary/2016/Stratford/index.html">2</a>');
   var marker = L.marker( [52.2436808,-1.87931930000002]).addTo( map);
   marker.bindPopup('<a href="../Diary/2010/stratford/sunday.html">Coughton&nbsp;Court</a>');
   var marker = L.marker( [52.198,-1.89599999999996]).addTo( map);
@@ -559,6 +557,8 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2016/Stratford/index.html">The&nbsp;Fourteas</a>');
   var marker = L.marker( [52.1931177,-1.70702819999997]).addTo( map);
   marker.bindPopup('<a href="../Diary/2016/Stratford/index.html">Stratford&nbsp;MAD&nbsp;museum</a>');
+  var marker = L.marker( [52.1945983,-1.70488150000006]).addTo( map);
+  marker.bindPopup('<a href="../Diary/2010/stratford/sunday.html">Stratford-upon-Avon&nbsp;Baptist&nbsp;Church</a> <a href="../Diary/2016/Stratford/index.html">2</a>');
   var marker = L.marker( [50.903796,-1.27746500000001]).addTo( map);
   marker.bindPopup('<a href="../Diary/2017/Baltics/departure.html">Manor&nbsp;Farm&nbsp;Soton</a>');
   var marker = L.marker( [51.6903287,-0.418059800000037]).addTo( map);
@@ -709,8 +709,6 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2007/Norway/stavanger.html">Gamle&nbsp;Stavanger</a>');
   var marker = L.marker( [60.8607716,7.11178489999998]).addTo( map);
   marker.bindPopup('<a href="../Diary/2007/Norway/flam.html">Flam</a>');
-  var marker = L.marker( [61.8350282,6.80655560000002]).addTo( map);
-  marker.bindPopup('<a href="../Diary/2007/Norway/olden.html">Olden</a> <a href="../Diary/2019/Iceland/norway/index.html">2</a>');
   var marker = L.marker( [61.6660182,6.89020159999995]).addTo( map);
   marker.bindPopup('<a href="../Diary/2007/Norway/olden.html">Briksdal&nbsp;Glacier</a>');
   var marker = L.marker( [60.319625,5.32944699999996]).addTo( map);
@@ -765,6 +763,8 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2019/Iceland/iceland/index.html">Hellisheidi</a>');
   var marker = L.marker( [64.2559785,-21.1310156]).addTo( map);
   marker.bindPopup('<a href="../Diary/2019/Iceland/iceland/index.html">Thingvellir&nbsp;Visitor&nbsp;Center</a>');
+  var marker = L.marker( [61.8350282,6.80655560000002]).addTo( map);
+  marker.bindPopup('<a href="../Diary/2007/Norway/olden.html">Olden</a> <a href="../Diary/2019/Iceland/norway/index.html">2</a>');
   var marker = L.marker( [62.5674461,7.68722000000002]).addTo( map);
   marker.bindPopup('<a href="../Diary/2019/Iceland/norway/index.html">Andalsnes</a>');
   var marker = L.marker( [-12.0833333,132.85]).addTo( map);
@@ -863,8 +863,6 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2013/japan_holiday/fuji_hakone.html">Hankone&nbsp;Pirate&nbsp;Cruise</a>');
   var marker = L.marker( [35.0019621,135.7593548]).addTo( map);
   marker.bindPopup('<a href="../Diary/2013/japan_holiday/fuji_hakone.html">Karasuma&nbsp;Kyoto&nbsp;Hotel</a>');
-  var marker = L.marker( [35.7719867,140.3928501]).addTo( map);
-  marker.bindPopup('<a href="../Diary/2013/japan_holiday/japan_arrival.html">Narita&nbsp;International&nbsp;Airport</a> <a href="../Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html">2</a>');
   var marker = L.marker( [35.630053,139.73349]).addTo( map);
   marker.bindPopup('<a href="../Diary/2013/japan_holiday/tokyo.html">Grand&nbsp;Prince&nbsp;Hotel&nbsp;New&nbsp;Takanawa</a> <a href="../Diary/2013/japan_holiday/japan_arrival.html">2</a>');
   var marker = L.marker( [34.215951,135.584843]).addTo( map);
@@ -925,4 +923,6 @@ I (and Virginia) have been. The maps herein use data from
   marker.bindPopup('<a href="../Diary/2020/New_Zealand/5_Drum_Tao/index.html">Alternative&nbsp;Theatre</a>');
   var marker = L.marker( [35.6691492,139.706113]).addTo( map);
   marker.bindPopup('<a href="../Diary/2020/New_Zealand/6_Kawaii_Monster_Cafe/index.html">Kawaii&nbsp;Monster&nbsp;Cafe</a>');
+  var marker = L.marker( [35.7719867,140.3928501]).addTo( map);
+  marker.bindPopup('<a href="../Diary/2013/japan_holiday/japan_arrival.html">Narita&nbsp;International&nbsp;Airport</a> <a href="../Diary/2020/New_Zealand/7_Sleepless_to_New_Zealand/index.html">2</a>');
 </script>

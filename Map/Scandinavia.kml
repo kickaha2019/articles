@@ -8,7 +8,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
@@ -24,7 +24,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
@@ -89,15 +89,6 @@
         <Point>
           <coordinates>
             7.11178489999998,60.8607716,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Olden</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            6.80655560000002,61.8350282,0
           </coordinates>
         </Point>
       </Placemark>
