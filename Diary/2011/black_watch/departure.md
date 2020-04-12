@@ -8,7 +8,9 @@ This time with
 [P&O](https://www.pocruises.com/). We were going to go to
 the Canary Islands in November, but my Dad decided on one last
 holiday to see the Hermitage in St Petersburg. So Virginia and I
-also booked on cruise W1111 to the Baltics to help him along.
+also booked on cruise W1111 on the
+[Black Watch](https://www.fredolsencruises.com/our-ships/black-watch)
+to the Baltics to help him along.
 
 Dad hired friendly talkative Mr Nelson senior to drive us all to
 Dover on Saturday July 30th, and to collect us at the end of the

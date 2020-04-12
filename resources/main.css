@@ -46,7 +46,7 @@ blockquote {border-left: 1px solid #CCCC00; margin-left: 0px; padding-left: 20px
 em {color: magenta}
 strong {color: #66FF66}
 pre {background: white; color: black; margin-left: 20px;
-    font-size: 12px; padding-left: 3px; tab-size: 2}
+    font-size: 12px; padding-left: 3px; tab-size: 2; overflow: scroll}
 h1 {width: 100%; text-align: center; text-decoration: underline; font-weight: normal}
 
 .table {margin-top: 20px}

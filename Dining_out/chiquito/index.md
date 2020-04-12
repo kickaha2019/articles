@@ -10,7 +10,7 @@ tasty, and presented appealingly. The staff were friendly, and indeed
 recognise us even after a few visits. We normally sat in a 'booth' which
 gives a little more privacy.
 
-Oh and they did churros - a dessert I feel in love in when I went to
+Oh and they did churros - a dessert I fell in love in when I went to
 the [Cantina](https://disneyworld.disney.go.com/en_GB/dining/epcot/cantina-de-san-angel/)
 at the Mexican pavilion
 in the World Showcase at [EPCOT](https://disneyworld.disney.go.com/en_GB/destinations/epcot/).

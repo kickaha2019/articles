@@ -25,3 +25,5 @@ images:
 where the paths are relative to the webpage definition, and the tags
 are used for alt text, as well as titles when the images are displayed
 in large size.
+
+On many pages with images the images are displayed small size inset into the text using [floats](https://www.w3schools.com/css/css_float.asp), and there is a special picture page displaying them in a larger size. Where there are more images than can be inset then using Javascript the inset images are rotated. Did hope to use CSS to achieve this but not easily possible.

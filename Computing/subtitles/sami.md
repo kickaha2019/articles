@@ -41,4 +41,4 @@ A second example excerpt showing how variable the files are:
 <SYNC Start=24690>
 
 ~~~
-A simple script to convert SAMI files to SRT files - smi2srt.rb smi2srt.rb.
+
