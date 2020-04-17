@@ -3,7 +3,7 @@ linking to a child or sibling page. To achieve this blurb can be defined
 in the metadata for the linked to page. *blurb* was less characters
 than *tooltip* to type, it felt more appropriate.
 
-So for example the [2001](2001) page has metadata:
+So for example the [2001](Diary/2001) page has metadata:
 
 ~~~
 ---
