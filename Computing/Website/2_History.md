@@ -23,7 +23,7 @@ least.
 Having the website defined as data files on one's local machine
 rather in MySQL database tables is a lot easier to backup, and also
 less at risk at being locked into one particular technology. So something like [Wix](https://www.wix.com/)
-would nmake uneasy about having a website in.
+would make me uneasy about having a website on it.
 
 I can edit the website from the comfort of my
 [iPad](https://www.apple.com/uk/ipad/) while I'm
