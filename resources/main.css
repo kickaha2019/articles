@@ -41,7 +41,13 @@ div.legend {margin-left: 10px; min-width: 270px}
 a, a div {color: #00DDDD}
 .t0 {text-decoration: none}
 a:hover, a:hover div, span, b {color: white}
-a:hover span {visibility: visible; opacity: 1.0}
+a:hover span {visibility: visible; animation-name: tooltip; animation-duration: 3s;}
+
+@keyframes tooltip {
+  0% {opacity: 0.0}
+  99% {opacity: 0.0}
+  100% {opacity: 1.0}
+}
 
 .tooltip {
   position: relative;
@@ -60,8 +66,6 @@ a:hover span {visibility: visible; opacity: 1.0}
   margin-left: -80px;
   left: 50%;
   top: 10%;
-  transition: opacity 4s;
-  opacity: 0.0;
 }
 
 blockquote {border-left: 1px solid #CCCC00; margin-left: 0px; padding-left: 20px}
