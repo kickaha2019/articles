@@ -104,3 +104,5 @@ I've backed a number of Kickstarters mainly for games.
 
 # 2020
 [Geneforge 1 - Mutagen](https://www.kickstarter.com/projects/geneforge1/geneforge-1-mutagen)
+
+[Black Book](https://www.kickstarter.com/projects/morteshka/black-book-an-rpg-rooted-in-slavic-mythology)
