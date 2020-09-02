@@ -9,3 +9,6 @@ about the format. The binary .sub data is apparently a
 [MPEG program stream](https://en.wikipedia.org/wiki/MPEG_program_stream)
 wrapping a [Packetized Elementary Stream](http://dvd.sourceforge.net/dvdinfo/pes-hdr.html)
 wrapping [run length encoded image data](http://sam.zoy.org/writings/dvd/subtitles/).
+
+Also see
+[Matro&scaron;ka](https://www.matroska.org/technical/specs/subtitles.html#images-subtitles).

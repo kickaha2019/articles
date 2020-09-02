@@ -9,10 +9,10 @@ student whose room it was studies in Seoul during the week.
 It's a short walk from the apartment to the [BIBA](http://www.bibabaduk.net/), it was only by the last day
 of my stay that I knew the twists and turns to take! One does self study at [BIBA](http://www.bibabaduk.net/)
 before 2pm when the teachers arrive, I had a kind of breakfast / lunch at a chain called
-[Paris Baguette](http://eng.paris.co.kr/new/index.html) of some pastries and green tea
+*Paris Baguette* of some pastries and green tea
 (found the iced green tea best as the hot tea was too hot in the already hot weather in
 Sanbon - glad I wasn't there in summer when temperatures are in the high thirties).
-There were multiple [Paris Baguette](http://eng.paris.co.kr/new/index.html) stores in Sanbon just as there were multiple 7-11s,
+There were multiple *Paris Baguette* stores in Sanbon just as there were multiple 7-11s,
 less than a hundred yards apart! English is less established in Sanbon than Seoul but
 I managed as necessary by pointing. There seemed to be eateries and shops everywhere
 you looked in Sanbon, many quite upmarket like the cake shops.

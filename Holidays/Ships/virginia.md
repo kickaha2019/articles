@@ -1,4 +1,4 @@
-The [Virginia](https://www.shearings.com/river-cruises/ships/mv-virginia) is a small
+The **MV Virginia** is a small
 106 passenger ship on the Rhine.
 
 |Year|Cruise|

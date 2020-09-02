@@ -106,3 +106,5 @@ I've backed a number of Kickstarters mainly for games.
 [Geneforge 1 - Mutagen](https://www.kickstarter.com/projects/geneforge1/geneforge-1-mutagen)
 
 [Black Book](https://www.kickstarter.com/projects/morteshka/black-book-an-rpg-rooted-in-slavic-mythology)
+
+[The Way of Kings 10th Anniversary Leatherbound Edition](https://www.kickstarter.com/projects/dragonsteel/the-way-of-kings-10th-anniversary-leatherbound-edition/description) I went for a digital download

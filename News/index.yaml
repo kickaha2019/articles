@@ -3,6 +3,8 @@ title: 1:News
 blurb: Some recent updates to this website
 icon: news.jpg
 links:
+- path: Cakes
+  tag: Virginia has done more cakes!
 - path: 2020/website
   tag: Changing look and feel of this website
 - path: 2020/New_Zealand
@@ -13,8 +15,6 @@ links:
   tag: A few nights in Norfolk
 - path: 2019/Iceland
   tag: We go on the P&amp;O ship Arcadia to Iceland. And back.
-- path: Cakes
-  tag: Virginia has done another cake!
 - path: 2019/Dorset
   tag: We visit a ghost village in Dorset
 - path: 2018/Toffee

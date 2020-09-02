@@ -33,13 +33,13 @@ electricity but also pipe hot water into the cities like Reykjavik. We first saw
 power station at [Hellisheidi](https://www.geothermalexhibition.com/) from where
 hot water flows in pipes on the surface which go up and down and twist and turn
 rather oddly. Next was an early lunch at a geothermal kitchen
-[Kj&ouml;t &amp; K&uacute;nst](http://www.kjotogkunst.is/) where food is cooked
+*Kj&ouml;t &amp; K&uacute;nst* where food is cooked
 apparently geothermally. This part of the excursion was badly done - people queued
 to collect the food but there wasn't enough time for those who were last to eat
 before the coach left. This was a common feature of excursions, not enough time at
 the different stops.
 
-Also in [Hverager&eth;i](https://www.hveragerdi.is/English/) is a geothermal
+Also in [Hverager&eth;i](https://www.south.is/en/inspiration/towns/hveragerdi) is a geothermal
 park where you can cook food in hot pools. Our lovely Icelandress guide said we would be
 walking in a park with creatures - there are steaming craters in the park but
 it's more of a backyard scale. Less impressive on the bubble toil and trouble front

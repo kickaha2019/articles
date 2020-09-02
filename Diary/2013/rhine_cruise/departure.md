@@ -15,7 +15,7 @@ stand in the downpour until the coach was due to come!  Virginia found
 a bus shelter not too far away, but happily the
 [Shearings](https://www.shearings.com/) feeder coach was running well ahead of time and arrived about
 9.30am.  She had booked a 'Rhine Inclusive Cruise' on the
-[MV Virginia](https://www.shearings.com/river-cruises/ships/mv-virginia) so we could sample a river cruise as opposed to the ocean
+**MV Virginia** so we could sample a river cruise as opposed to the ocean
 cruises we've done.
 
 We drove down the M11 to 60s 70s hits like "Space Oddity" and

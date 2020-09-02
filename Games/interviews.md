@@ -16,3 +16,5 @@ Site|Year|Interviewee
 [GameBoomers](http://www.gameboomers.com/interviews/JonasKyratzes/JonasKyratzes.htm)|2014|Jonas Kyratzes
 [GameBoomers](http://www.gameboomers.com/interviews/TheodorWaern/TalkwithTheodorWaern.htm)|2014|Theodor Waern
 [GameBoomers](http://www.gameboomers.com/interviews/DaveGilbert/DaveGilbert.htm)|2015|Dave Gilbert
+[Mystery Manor](https://www.mysterymanor.net/libintvkapia.htm)|2020|Anna of KAPIA team
+[Mystery Manor](https://mysterymanor.net/libintvplotofthedruid.htm)|2020|Yakir Israel 
