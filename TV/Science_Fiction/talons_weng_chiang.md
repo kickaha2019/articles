@@ -1,9 +1,6 @@
 | | |
 |-|-|
-The Talons of Weng Chiang
-
 Serial|The Talons of Weng Chiang
--|-
 Doctor|Tom Baker
 Writer|Robert Holmes
 Year|1977

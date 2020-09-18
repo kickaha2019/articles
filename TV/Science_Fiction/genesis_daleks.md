@@ -1,9 +1,6 @@
 | | |
 |-|-|
-Genesis of the Daleks
-
 Serial|Genesis of the Daleks
--|-
 Doctor|Tom Baker
 Writer|Terry Nation
 Year|1975

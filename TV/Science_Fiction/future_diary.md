@@ -1,9 +1,6 @@
 | | |
 |-|-|
-Future Diary: Another World
-
 Drama|&#26410;&#26469;&#26085;&#35352;: Another World / Future Diary: Another World
--|-
 Country|Japan
 Director|Michiko Namiki, Shogo Miyaki
 Writer|Sakae Esuno, Yusuke Watanabe, Kaeko Hayafune, Sayaka Kuwamura

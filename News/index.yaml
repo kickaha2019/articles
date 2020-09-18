@@ -3,6 +3,8 @@ title: 1:News
 blurb: Some recent updates to this website
 icon: news.jpg
 links:
+- path: 2020/Retirement
+  tag: I retire for better or for worse
 - path: Cakes
   tag: Virginia has done more cakes!
 - path: 2020/website

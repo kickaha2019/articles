@@ -1,9 +1,6 @@
 | | |
 |-|-|
-Secret Love
-
 Drama|&#48708;&#48128; / Secret Love
--|-
 Country|South Korea
 Director|Lee Eung-Bok, Baek Sang-Hoon
 Writer|Choi Ho-Chul, Yoo Bo-Ra

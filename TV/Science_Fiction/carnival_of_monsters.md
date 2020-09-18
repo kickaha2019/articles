@@ -1,9 +1,6 @@
 | | |
 |-|-|
-The Carnival of Monsters (1973)
-
-Drama|Carnival of Monsters
--|-
+Serial|Carnival of Monsters (1973)
 Doctor|Jon Pertwee
 Writer|Robert Holmes
 Year|1973
