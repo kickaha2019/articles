@@ -6,4 +6,4 @@ The gardens were pretty and varied, an odd Stonehenge like effort of hedges and 
 
 We all had chocolate and coffee and walnut cake which was very boring of us in the cafe, they took pity despite us not having booked and we had a table inside.
 
-In the evening ate at the [Nightingale](https://www.thenightingalebicester.co.uk/index) which turned out to be more a pub than a restaurant - we sat right by a screen blaring forth music videos which wasn't great. Good food and cheap, friendly staff, seemed like a strong community place. I noticed lots of Irish cars and vans in the car park.
+In the evening ate at the [Nightingale](https://www.thenightingalebicester.co.uk/index) which turned out to be more a pub than a restaurant - we sat right by a screen blaring forth music videos which wasn't great. Good food and cheap, friendly staff, seemed like a strong community place. I noticed lots of Republic of Ireland registed cars and vans in the car park.

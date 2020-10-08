@@ -14,7 +14,7 @@ body {background: black; background-image: none}
 .left {float: left; margin: 0 10px 10px 0}
 
 .story {min-width: 185px; padding-left: 15px; box-sizing: border-box; overflow: hidden}
-.gallery {min-width: 66%; width: 98%; padding-left: 5px; padding-bottom: 15px;
+.gallery {min-width: 185px; width: 98%; padding-left: 5px; padding-bottom: 15px;
           display: flex; flex-flow: column; align-items: center}
 .gallery img {padding-top: 10px}
 .gallery div {padding-top: 5px; padding-bottom: 5px}
@@ -101,7 +101,7 @@ div.list, div.table {padding-bottom: 20px}
   .t0, .t1, h1 {font-size: 18px}
   pre {font-size: 14px}
   .indexes {min-width: 300px}
-  .story {min-width: 440px}
+  .story, .gallery {min-width: 440px}
   .map {width: 738px}
 }
 
@@ -111,7 +111,7 @@ div.list, div.table {padding-bottom: 20px}
   .size1 {display: none}
   .size2 {display: block}
   .indexes {min-width: 464px}
-  .story {min-width: 780px}
+  .story, .gallery {min-width: 780px}
   .map {width: 765px}
 }
 
@@ -123,7 +123,7 @@ div.list, div.table {padding-bottom: 20px}
   .t0, .t1, h1 {font-size: 22px}
   pre {font-size: 16px}
   .indexes {min-width: 624px}
-  .story {min-width: 1250px}
+  .story, .gallery {min-width: 1250px}
   .map {width: 1230px}
 }
 
