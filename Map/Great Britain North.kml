@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Great Britain North</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Crich Tramway Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.48666930000002,53.0903012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Poole's Cavern]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9251782,53.24997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grizedale Forest</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.00028999999995,54.354267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rydal Mount</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.98199950000003,54.4488337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castlerigg Stone Circle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.09840199999996,54.602824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coniston Water</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.07162659999995,54.343243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Railway Museum York</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.09636599999999,53.9605467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>York Minster</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.08192050000002,53.9623292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willersley Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.55287279999993,53.1137985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masson Mills</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5619236,53.1126478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chatsworth House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.61142740000003,53.2275433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kedleston Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.53696160000004,52.9593247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haddon Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.64959299999998,53.193965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biddulph Grange Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.16230599999994,53.129376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Moreton Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.25174659999993,53.1271607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Isle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.07310860000007,55.525063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denby Pottery Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.41421300000002,53.0225742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matlock Bath</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.562861,53.121576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cromford Mill</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5554783,53.1088642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holker Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.98260900000002,54.188739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hill Top Beatrix Potter House</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.97057150000001,54.3517112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lakes Aquarium</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.95591239999999,54.2783179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bowness-on-Windermere</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.91962699999999,54.364703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lakeland Motor Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9891394,54.2587173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Lakes Safari Zoo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.16338389999999,54.1682664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swarthmoor Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.10197600000004,54.18636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titanic Belfast</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.90997240000002,54.60807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of Ireland - Natural History Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.25334780000003,53.3398848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunrobin Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.94549729999994,57.9818445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobermory</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.07230040000002,56.6227813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ring of Brodgar</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2297777,59.0014988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skara Brae Prehistoric Village</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.34170940000001,59.0487479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunvegan Castle
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.59006410000006,57.4484436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old School Restaurant</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.57292649999999,57.4321147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kilt Rock</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.17190479999999,57.6107719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Roses B&B]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.18948669999997,57.4235356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aysgarth Falls Hotel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.98426599999993,54.290612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jervaulx Abbey & Tearoom]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.74220300000002,54.2664072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wensleydale Creamery</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2003555,54.3018483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Scar Cave</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.44170919999999,54.1655977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ribblehead Viaduct</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.37009039999998,54.2102334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richmond Georgian Theatre
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.73802000000001,54.404127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dales Countryside Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.19237899999996,54.304568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolton Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.94953510000005,54.3221452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middleham Castle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.80683920000001,54.284083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Patrick's Cathedral]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.27147669999999,53.3395154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arlington Hotel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.26068620000001,53.3473053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lindisfarne Abbey</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.8008945,55.6691551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

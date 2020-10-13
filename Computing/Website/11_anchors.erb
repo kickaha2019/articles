@@ -14,12 +14,15 @@ anchors:
 
 Here follows a list of the anchors for this website.
 
-|Name|Lat|Lon|Link|
-|-|-|-|-|
+<div class="table">
+<table>
+<tr><th>Name</th><th>Lat</th><th>Lon</th><th>Link</th></tr>
 <%=
     html = []
     anchors.keys.sort.each do |name|
-      html << "#{name}|#{anchors[name][:lat]}|#{anchors[name][:lon]}|#{anchors[name][:links][0]}"
+      html << "<tr><td>#{name}</td><td>#{anchors[name][:lat]}</td><td>#{anchors[name][:lon]}</td><td>#{anchors[name][:links][0].gsub(/^\.\.\/\.\.\//,'').gsub('/','/<wbr>')}</td></tr>"
     end
     html.join("\n")
 %>
+</table>
+</div>
