@@ -113,6 +113,7 @@ div.list, div.table {padding-bottom: 20px}
   .indexes {min-width: 464px}
   .story, .gallery {min-width: 780px}
   .map {width: 765px}
+  .index {width: 196px}
 }
 
 @media all and (min-width: 1920px) {
@@ -122,8 +123,8 @@ div.list, div.table {padding-bottom: 20px}
   .size3 {display: block}
   .t0, .t1, h1 {font-size: 22px}
   pre {font-size: 16px}
-  .indexes {min-width: 624px}
-  .story, .gallery {min-width: 1250px}
+  .indexes {min-width: 674px}
+  .story, .gallery {min-width: 1200px}
   .map {width: 1230px}
 }
 
