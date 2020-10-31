@@ -8,7 +8,7 @@ A directory webpage has as child webpages any webpages
 for files or directories inside it. This satisfies
 most needs apart from when one needs to link
 across the website. One example of doing this is the
-[list of cruises](Holidays/Cruises) we've been on.
+[list of cruises](Holidays/1_Cruises) we've been on.
 
 This is accomplished by metadata in the relevant *index.yaml* file. So the *index.yaml* for the list of cruises webpage contains in early 2020:
 

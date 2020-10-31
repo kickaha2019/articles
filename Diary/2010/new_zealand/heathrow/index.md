@@ -3,7 +3,7 @@ This is about a two-week trip I made to New Zealand in November 2010 to see fami
 When to go is a good question. Late November is just coming into summer for New Zealand so that's good, the weather was fine for my visit (when I left it was about 25C in Auckland.) It is coming towards the end of the school year (NZ school years are calendar years) and this means school trips are in season. School parties impacted two of the trips I made (to Tiritiri Matangi and White Island.) The kids were barely supervised which didn't help. I don't know if the end of summer would be better from this point of view.
 
 The flights are painfully long and boring and uncomfortable, taking over 30 hours door to door. I changed planes in Hong Kong each way, first time I had been to the 'new' airport on Lantau Island. Going out I had 9 hours to wait there
-([Cathay Pacific](http://www.cathaypacific.com/cx/en_GB.html)
+([Cathay Pacific](https://www.cathaypacific.com/cx/en_GB.html)
 had cancelled one of my flights and put me on a later one.) While you're not allowed to carry water through the security checkpoints you can buy water to take on the planes (or fill bottles from water fountains.) For the first time I checked in online and chose a seat before getting to the airport - was bemused that just minutes after checking became available most of the seats had apparently gone. Perhaps Cathay Pacific block a lot of seats out for some reason. I went for window seats because:
 
 * You get at least one elbow rest
