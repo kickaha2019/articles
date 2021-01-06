@@ -26,8 +26,8 @@ We also dropped in to see, and have a good time at, the
 at Crich. I admired the volunteers who so freely gave their time to make the show run, it must be nice to be part of a team like that. Amusing to see that some old tram cars ended up as people's homes!
 
 On our final day we joined in a minibus tour which involved hours of bumpy uncomfortable travel. Saw well dressing at
-[Hartington](http://www.derbyshireuk.net/hart.html)
-- what remains of a pre-Christian tradition. Hartington had a nice little cheese shop and we bought some
+[Hartington](https://www.hartingtonvillage.com/well-dressings/)
+- what remains of an ancient tradition. Hartington had a nice little cheese shop and we bought some
 [Wensleydale cheese](https://www.wensleydale.co.uk/).
 I was unable to resist the Wallace and Gromit connection. Wensleydale reminded me of Cheshire cheese, not a strong taste. I almost got a slipware large mug from
 [Rookes Pottery](http://www.rookespottery.co.uk/)

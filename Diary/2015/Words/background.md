@@ -5,7 +5,7 @@ skull *Atlantis 3* but I didn't the skill or artistry for it,
 and it would have have overpowered the text in front.
 
 So my next thought was to generate artifical landscapes in something
-like [Bryce](https://www.daz3d.com/bryce), perhaps in weirdly shaped worlds
+like *Bryce*, perhaps in weirdly shaped worlds
 like something out of Philip Jos&eacute; Farmer. I spent time
 on trying to use [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
 to generate height maps. Again such a backdrop would have drowned

@@ -55,7 +55,7 @@ nautical knots.  Worth a visit.  We also wandered up to
 [Masson Mills](https://www.massonmills.co.uk/)
 where I got my picture taken with Santa Claus
 and Richard Awkwright, then on the way back had a nice stop
-at a cafe at [Cromford Mill](http://www.cromfordmill.co.uk/),
+at a cafe at *Cromford Mill*,
 I was tempted by the coffee and walnut
 but went for the lemon drizzle.
 

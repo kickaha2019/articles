@@ -1,7 +1,7 @@
 A format popular among Anime and Karaoke fans according to a
 [Multimedia Wiki](https://wiki.multimedia.cx/index.php?title=SubStation_Alpha).
 There's another page on it at
-[Matro&scaron;ka](https://www.matroska.org/technical/specs/subtitles.html#ssaass-subtitles).
+[Matro&scaron;ka](https://www.matroska.org/technical/subtitles.html#ssaass-subtitles).
 
 *ASS* files consist of a number of sections like *Script Info*,
 *V4+ Styles*, and *Events*. An example *Script Info* section:

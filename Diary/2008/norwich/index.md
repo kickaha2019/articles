@@ -10,7 +10,7 @@ On the Saturday we caught a number 35 bus from a nearby superstore up to Castle 
 [Castle Mall](https://castlemallnorwich.co.uk/) which was new to me, a split-level celebration of shopping, then went around the
 [Castle](https://www.museums.norfolk.gov.uk/norwich-castle) itself. In the Castle there was an exhibition of art by Cotman, some of which rivalled Turner in their expressiveness. A lift of metal and glass thrust itself up out of the ground by the castle, as out of place as Dr Who's Tardis inside an Aztec temple.
 
-We went to the [Bridewell Museum](http://museumsnorfolk.org.uk/norwich/the-bridewell/) - I like particularly seeing recreations of old shops and the Bridewell had a pawnbroker and chemists. The chemists included in its wares dried spiders. Went to Jarrolds department store for a cup and a slice of cake in the crowded cafe at the top. I remember the anxiety of getting separated from my parents in that store.
+We went to the [Bridewell Museum](https://www.museums.norfolk.gov.uk/museum-of-norwich/) - I like particularly seeing recreations of old shops and the Bridewell had a pawnbroker and chemists. The chemists included in its wares dried spiders. Went to Jarrolds department store for a cup and a slice of cake in the crowded cafe at the top. I remember the anxiety of getting separated from my parents in that store.
 
 Next was going to the
 [Cathedral](https://www.cathedral.org.uk/) (taking in a bag of roasted chestnuts as it was a holiday.) My

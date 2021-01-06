@@ -11,4 +11,4 @@ wrapping a [Packetized Elementary Stream](http://dvd.sourceforge.net/dvdinfo/pes
 wrapping [run length encoded image data](http://sam.zoy.org/writings/dvd/subtitles/).
 
 Also see
-[Matro&scaron;ka](https://www.matroska.org/technical/specs/subtitles.html#images-subtitles).
+[Matro&scaron;ka](https://www.matroska.org/technical/subtitles.html#images-subtitles).

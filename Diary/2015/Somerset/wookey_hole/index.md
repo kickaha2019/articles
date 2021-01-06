@@ -1,5 +1,5 @@
 It had been dry if not blazing sun, but Saturday (24th) changed that. We voyaged through
-the rain to see [Clarks Shoe Museum](https://www.the-shoe-museum.org/) in Street but they failed
+the rain to see *Clarks Shoe Museum* in Street but they failed
 to open! In desperation we went to [Wookey Hole](https://www.wookey.co.uk/) where so long ago
 I closed my eyes rather than see the 'witch'. OK the cave had some formations to admire,
 bridges over chasms, but it was clearly aimed at the kids including wearing a white safety
