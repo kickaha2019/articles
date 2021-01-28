@@ -1,3 +1,5 @@
+![Tabitha](about.jpg)
+
 This is the personal website of
 Peter Rootham-Smith (Peter is fine.)  Welcome! That's not a picture of me
 of course but instead our late beloved cat Tabitha. Much more photogenic than I am.

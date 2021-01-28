@@ -1,3 +1,5 @@
+![Dragon Tiger Gate](dragon_tiger_gate.jpg)
+
 | | |
 |-|-|
 Film|[Dragon Tiger Gate](https://www.imdb.com/title/tt0482930/)

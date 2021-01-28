@@ -1,3 +1,5 @@
+![The Ghost Bride](the_ghost_bride.jpg)
+
 | | |
 |-|-|
 Drama|The Ghost Bride

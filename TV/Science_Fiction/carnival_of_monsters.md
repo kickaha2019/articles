@@ -1,3 +1,5 @@
+![Carnival of Monsters](carnival_of_monsters.jpg)
+
 | | |
 |-|-|
 Serial|Carnival of Monsters (1973)

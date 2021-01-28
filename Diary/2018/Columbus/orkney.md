@@ -1,3 +1,4 @@
+![Ring of Brodgar](orkney1.jpg)
 We did an excursion on the tree bare, windswept, Orkneys to see some striking
 neolithic sites.
 
@@ -9,6 +10,7 @@ has faded into supposition and legend, but perhaps that taint of mystery adds a
 spiritual dimension to the speechless rocks, some of which have fallen asleep.
 The constant supply of visitors made taking pictures difficult!
 
+![Skara Brae](orkney2.jpg)
 The prize of the excursion was
 [Skara Brae](https://www.historicenvironment.scot/visit-a-place/places/skara-brae/),
 a Neolithic village preserved underneath the sands from 5000 years ago.

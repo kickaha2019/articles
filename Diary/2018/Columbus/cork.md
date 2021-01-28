@@ -1,3 +1,4 @@
+![English Market Cork](cork1.jpg)
 We caught the shuttle bus from the port at Ringaskiddy
 into Cork with our friends Terry and Cath, had a drink at
 a coffee shop, admired the odd leaning lamp posts

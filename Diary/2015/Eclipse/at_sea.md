@@ -1,3 +1,4 @@
+![Boudicca's library bar](boud_lib_bar.JPG)
 Two days at sea which established the pattern of days on board. Leave cabin with
 green please do sign so Atitaya hopefully does it while we're at breakfast.
 Kick off breakfast with porridge lubricated with maple syrup, and an orange juice.
@@ -12,6 +13,7 @@ where the Boudicca might be. Overdo lunch. Walk round the open deck wind
 permitting for fresh air and a quiet time. End to end the Boudicca is noticeably
 smaller than our last cruise ship the P&O Azura.
 
+![Lido bar](boud_lido_bar.JPG)
 In the afternoon try our hand at the quiz in the Lido Bar.  Some teams were very good,
 I felt we did well to get 50%.  The questions were questionable, and somewhat
 repetitive so by the end we all knew twelve people had walked on the moon.
@@ -22,6 +24,7 @@ through a gauntlet of photographers and officers. We did get somewhere
 to sit in the Neptune Lounge, a drink and spring rolls to eat unlike the
 same event on the Azura.
 
+![Observatory](boud_obs.JPG)
 After supper then either see a show or sit somewhere (unlike the Azura there
 were quiet places just to sit) and read more (perhaps
 indulging in a glass of sherry or Bristol Cream or Advocaat). Before turning

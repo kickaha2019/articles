@@ -1,3 +1,5 @@
+![Over The Hedge](over_the_hedge.jpg)
+
 | | |
 |-|-|
 Film|[Over The Hedge](https://www.imdb.com/title/tt0327084/)

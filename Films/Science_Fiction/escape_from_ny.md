@@ -1,3 +1,5 @@
+![Escape from New York](escape_from_ny.jpg)
+
 | | |
 |-|-|
 Film|[Escape from New York](https://www.imdb.com/title/tt0082340/)

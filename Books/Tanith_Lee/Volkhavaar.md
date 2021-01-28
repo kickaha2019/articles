@@ -1,3 +1,5 @@
+![Volkhavaar](volkhavaar.jpg)
+
 "Volkhavaar" (published 1977) is a young adult story by Tanith Lee. A young girl
 falls for an actor in a mysterious travelling theatre company.  She
 discovers that the actors and actresses in the theatre company are

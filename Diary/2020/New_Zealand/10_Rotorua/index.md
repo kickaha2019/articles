@@ -1,3 +1,4 @@
+![Hangi meal](IMG_1110.jpg)
 I checked into the posh [Regent of Rotorua](https://regentrotorua.co.nz/) hotel,
 and showered after my long black
 disaster at [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/).
@@ -16,6 +17,7 @@ hotel. There was no space in the Regent's car park so parked on street
 but had to move car before 9am.
 
 # January 15th 2020
+![Lady Knox geyser](IMG_1116.jpg)
 Had a Spanish omelette for breakfast (veg including brocolli) then drove to
 [Waiotapu](https://www.waiotapu.co.nz/).
 First stop was the Lady Knox geyser where a vast crowd had gathered to see them

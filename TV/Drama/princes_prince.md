@@ -1,3 +1,5 @@
+![Prince of Prince](princes_prince.jpg)
+
 | | |
 |-|-|
 Drama|&#54532;&#47536;&#49828;&#51032; &#50773;&#51088; / Prince of Prince

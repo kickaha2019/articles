@@ -1,3 +1,6 @@
+![Noble My Love](noble_my_love.jpg)
+
+
 | | |
 |-|-|
 Drama|&#44256;&#44208;&#54620; &#44536;&#45824; (Noble, My Love)

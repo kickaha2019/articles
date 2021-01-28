@@ -1,3 +1,4 @@
+![Virginia in Tivoli Gardens](tivoli_ginny.JPG)
 We arrived late in Copenhagen on the Monday due to a power outage on
 board ship just before we went through the Kiel Canal. This was the only
 real hiccup on the cruise. So instead of the planned excursion we got a

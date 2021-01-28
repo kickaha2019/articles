@@ -1,3 +1,4 @@
+![Cats at Country Cattery](DSCF4640.JPG)
 It was unearthly quiet on the Saturday (12th)
 when we had dropped Tabitha and Amelia
 off at the Country Cattery in Waterbeach, at the end of a long
@@ -18,6 +19,7 @@ a bus shelter not too far away, but happily the
 **MV Virginia** so we could sample a river cruise as opposed to the ocean
 cruises we've done.
 
+![Shearings Hythe Interchange](DSCF4643.JPG)
 We drove down the M11 to 60s 70s hits like "Space Oddity" and
 "Pinball Wizard" and "Sunny Afternoon" and "I'll Never Fall
 In Love Again".  There was plenty of leg-room in the gold coloured
@@ -44,6 +46,7 @@ I started my intense session of reading Edgar Wallace novels on
 the iPad.  I got through nearly twenty in all by the end of the
 holiday.
 
+![Novotel at Lille](DSCF4648.JPG)
 Vance drove us through a sodden and depressing looking France
 to the [Novotel Lille hotel](https://www.accorhotels.com/gb/hotel-0427-novotel-lille-airport/index.shtml) at Lille Aeroport.  Room not bad though it felt odd to
 me having a separate toilet and bathroom.  They gave us a decent

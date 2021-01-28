@@ -1,3 +1,5 @@
+![The Grand Ellipse](Grand_Ellipse.jpg)
+
 *The Grand Ellipse* (2000) is set in the fantasy world
 in which Paula Volsky had set others of her books like
 *The White Tribunal* and *Illusion*.  As far as I know it

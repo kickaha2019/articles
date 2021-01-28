@@ -1,3 +1,4 @@
+![Daintree River Cruise boat](belcher_boat.JPG)
 I took a river cruise with Bruce Belcher of
 [Daintree River Cruise](https://www.daintreerivercruisecentre.com.au/)
 before the ferry across the Daintree River. Very good. Not all the passengers paid - we had two green tree frogs for company!  If I had worried about not seeing any crocodiles I needn't have done. Learnt how to tell freshwater from saltwater crocodiles - the freshies have narrow snouts where the salties have broad ones.
@@ -6,10 +7,12 @@ The Daintree is an ancient rainforest still surviving despite the inroads of civ
 The Daintree is also unusual for a rainforest which meets the sea (at beaches like
 *Thornton Beach*).
 
+![Heritage Lodge reception](heritage_reception.JPG)
 The [Daintree Heritage Lodge](https://www.heritagelodge.net.au/) was my first taste of eco-tourism. The restaurant was amazing - at night getting there in the dark was an adventure. When you did get there it was more like tables had been set out among the trees. Candles provided token illumination and if you heard a rustling in the undergrowth you feared for the other diners.
 
 In the morning you could see one edge of it overlooked a secret stream winding its way through a leafy gorge below. To supplement the restaurant fare I tried the green ants you can find on the trees. If you lick their posteriors it's like lemon-flavoured battery acid. Has a happy zing to it! Homely off the beaten track stuff.
 
+![Flying foxes](flying_foxes.JPG)
 The Lodge is set in a rainforest which feels suprisingly empty, and dim as the canopy cuts down on the light reaching the ground. You hear sounds of the life in the canopy (including the noisome flying foxes.)
 
 I didn't see any rare cassowaries as I hoped but I did go on two good walks with

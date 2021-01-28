@@ -1,3 +1,4 @@
+![Lindors Hotel](lindors.JPG)
 Virginia and I went for a themed week at
 [Lindors](https://www.christianguild.co.uk/lindors/index.php)
 in Gloucestershire. The theme was walking and waterways, but we didn't really do any walking meaning I didn't need my new half-price boots after all! [Lindors](https://www.christianguild.co.uk/lindors/index.php) is a lovely place, landscaped grounds with gentle rills running through them.
@@ -9,6 +10,7 @@ before we went I wouldn't have been able to say where that was. The Forest has b
 festooned boat beneath Symonds Yat. Yat is Yorkshire dialect for gate, and the name comes from a guy from Yorkshire who extorted tolls for boats to pass on the River Wye. We went to the top of Symonds Yat with its great views over the bend in the Wye - sadly no views of peregrine falcons that day. The
 [RSPB](https://www.rspb.org.uk/) had a lookout spot with telescopes trained on the cliff crevices where the falcons nest.
 
+![Clearwell Caves](clearwell_caves.JPG)
 Went down [Clearwell Caves](https://www.clearwellcaves.com/)
 - another mine where in centuries past even young boys worked underground in appalling conditions. Before explosives they used to set fires underground to break up the rock for digging.
 
@@ -17,6 +19,7 @@ The hosts for the week were keen on narrow boats (barges are an incorrect term a
 a new revolutionary (in more sense than one) lock linking two canals in Scotland. Something added to the to-see list. Had a trip on a
 [Redline](http://www.redlineboats.co.uk/) narrow boat on the Monmouth and Brecon canal. This canal has been cut in two by the canal wall collapsing, and the slowness in repairing it is really hurting boat hire and the like companies.
 
+![Narrow boat odyssey](narrow_boat.JPG)
 I had some experience of plying the tiller as the narrow boat slowly threaded its way along the canal. Your turn the tiller in the opposite direction to where you want the boat to turn, the boat pivots in the middle, it takes a time to react. I never got happy at trying to shoot through the tight bridges, hitting the sides often particularly when I tried to steer under the bridge.
 
 We had a shambolic experience when we went past the winding hole we should have turned round in, and had to turn round in the normal canal. Dire really dire. A winding hole (wind as in the wind which blows) is a large area where narrow boats were turned round, the operators would use the wind to help turn the boats.

@@ -1,3 +1,4 @@
+![The terminal in Southampton with the huge Azura behind it](terminal.JPG)
 Holidays are stressful.  That's why we like to go on cruises.  You reach the terminal,
 the bags vanish, the car vanishes, and you walk through the glass maze onto the ship. And
 relax.  No need to find where you're staying each night.  No need to find somewhere to
@@ -9,6 +10,7 @@ a side street in the wrong direction, or worrying if you got all the documents n
 or worrying that all the cases will appear outside the cabin, etc. There's always something to
 worry about.)
 
+![Cars being unloaded](unloading.JPG)
 We drove down the day before, having dropped the cats off with
 Auntie Phyllis of *Grange Boarding Cattery*.  Less worry
 about getting there on time the day itself.  We stayed at the
@@ -26,8 +28,9 @@ an airport.  We were too early to go straight to our cabin so
 had the first of an expensive series of drinks at an alfresco bar before 2pm came, and we could do
 the next ritual. Waiting in the cabin for the bags to appear.
 
+![The muster drill - a dress rehearsal for abandoning ship](muster.JPG)
 We're old hands for the next ritual (the muster with life-jacket drill) for which you get there early.
 The Azura has more room so few if any stood. Found ourselves on table 2 in the Oriental Restaurant
-first sitting, very pleasant table companions.  Having to slow do as one does on a ship makes most
+first sitting, very pleasant table companions.  Having to slow down as one does on a ship makes most
 people more genial. The first of the special surprises on this cruise took place while we were
 eating - the captain announced Code Alpha in Meridian restaurant.

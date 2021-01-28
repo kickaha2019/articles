@@ -31,3 +31,8 @@ remember to not wear my watch and phone?
 
 Did it change me myself? No, but it was something I needed to do for
 completeness, for harmony.
+
+![A testimony of sorts](baptism1.jpg)
+![The answer is yes](baptism2.jpg)
+![I get dunked](baptism3.jpg)
+![Damp all over but alive](baptism4.jpg)

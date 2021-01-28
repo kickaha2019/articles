@@ -1,3 +1,4 @@
+![The showroom](p02_showroom.JPG)
 Leaving the cats in charge of the homestead we drove up the A14
 to Derbyshire.  We stopped at the
 [Little Chef](http://www.littlechef.co.uk/) Kettering West
@@ -18,6 +19,7 @@ factory shop rather than the showroom upstairs.  I
 admired the various displays as if they were exhibits in
 an art exhibition.
 
+![Willersley Castle](p05_willersley.JPG)
 The Satnav got us pretty close to
 [Willersley Castle](https://www.christianguild.co.uk/willersley/)
 where we were staying, but for the
@@ -46,6 +48,7 @@ proper.  Which was definitely end of
 season, most places shut up, cafes with chairs on tables
 and lights off.
 
+![The Aquarium](p12_aquarium.JPG)
 Virginia suggested we try the
 [Aquarium](http://www.matlockbathaquarium.co.uk/)
 which had foreign fish imprisoned in tanks, a 'well' displaying

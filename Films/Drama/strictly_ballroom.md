@@ -1,3 +1,5 @@
+![Strictly Ballroom](strictly_ballroom.jpg)
+
 | | |
 |-|-|
 Film|[Strictly Ballroom](https://www.imdb.com/title/tt0105488/)

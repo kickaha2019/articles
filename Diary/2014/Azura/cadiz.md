@@ -1,3 +1,4 @@
+![A handy municipal fountain in Cadiz](fountain.JPG)
 We used footpower to see Cadiz rather than go on an excursion.  To my
 surprise Cadiz was pretty and mostly clean - though I involuntarily side-stepped into
 something undesirable and had to use a municipal fountain to clean a sandal.
@@ -9,4 +10,4 @@ and ethnic.
 
 Reportedly some of our ship got pickpocketed in Cadiz - I have no reason to
 think Cadiz any worse than London or even Cambridge (tourists are regarded as
-legitimate prey by some locals here).
+legitimate prey by some locals there).

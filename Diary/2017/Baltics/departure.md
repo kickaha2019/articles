@@ -1,3 +1,4 @@
+![Church at Manor Park Farm](manor_1.JPG)
 Virginia and I stayed the night before the cruise at the [Holiday Inn Express Southampton M27](https://www.ihg.com/holidayinnexpress/hotels/us/en/southampton/soabr/hoteldetail), eating out at a
 nearby [Pizza Hut](https://www.pizzahut.co.uk/restaurants/find-a-hut/southampton/hedge-end/).
 Tabitha and Amelia had been parked in Hardwick at the
@@ -18,6 +19,7 @@ ship! Happenstance? I don't know. One of Virginia's cases lost its luggage label
 pleasant hard-working cabin stewardess Virna tracked it down for us. The staff work very hard and
 long hours - I noted one vacuuming with the vacuum cleaner on her back.
 
+![Queen Elizabeth](ship_outside.JPG)
 There was more of a mix of nationalities on board - we had an Arab captain and plenty of
 American and German and other passengers. The Americans did complain about the ethnocentric
 bias of the quizzes which we enjoyed doing, particularly enjoying those led by a Lancashire lass Laura who was fun.
@@ -34,6 +36,7 @@ during the cruise a common occurrence) at the muster drill. They also
 use dollars on board which makes the final accounts more frightening. Perhaps spending dollars
 may encourage more spending if you remember when it was 3 dollars to the pound?
 
+![Vanilla souffle on Queen Elizabeth](ship_souffle.JPG)
 Cunard didn't have casual wear in the evenings unlike other cruise lines. We were on the early
 evening sitting in the Britannia restaurant and had a very good table, really friendly table
 companions. Table 600 had good views but for me the sun was a problem there, and also people

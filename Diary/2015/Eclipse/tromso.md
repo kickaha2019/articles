@@ -1,3 +1,4 @@
+![Crusing through the fjords](fjord1.JPG)
 We stayed two days in Tromso inside the Arctic Circle, reaching there by
 sailing through majestic fjords where trees cling surreptitiously to white capped
 mountains. Houses where houses should not be, a mountain with a hole in it
@@ -11,6 +12,7 @@ Nothing. And then I saw a faint wisp to the right . . . colourless vague just it
 shouldn't be there. Tick. Done. Not as impressive as when captured on camera,
 but auroras must vary in strength too.
 
+![Reindeer sledging](tromso_rein_party.JPG)
 Not content with gingerly walking around Tromso on foot (piles of snow and icy paths) and
 getting postcards to send off we also went reindeer sledging, getting there by a
 tunnel with subterranean roundabout. Disconcerting the way the

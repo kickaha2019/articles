@@ -1,4 +1,5 @@
-WHolidays can be very stressful, and problems with getting around on the roads stressed me out
+![Ramada Hotel](34334_257_b.jpg)
+Holidays can be very stressful, and problems with getting around on the roads stressed me out
 this time. A foretaste was trying to get into and out of Lakeside, but what did for me was the
 Satnav favouring one track roads - I can't cope with miles of driving along one track roads
 worrying about meeting oncoming vehicles. The fun didn't stop with leaving Kent - a slow drive back

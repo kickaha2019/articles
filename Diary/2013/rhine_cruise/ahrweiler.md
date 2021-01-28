@@ -1,3 +1,4 @@
+![Ahrweiler town gates](DSCF4762.JPG)
 On Thursday (17th) we started our way back down the Rhine,
 dropping into Andernach where we had an excursion to the walled
 town of Ahrweiler.  Very pretty with a range of olden architectural
@@ -19,6 +20,7 @@ the gold coach with the late bookers fared much worse - the manager
 walked out apparently of their hotel because of having to deal
 with two coaches leaving a poor girl to do everything.
 
+![Cow outside Novotel in Valenciennes](DSCF4790.JPG)
 Saturday (19th) we had a relatively short trip to Calais after some
 frozen scrambled eggs for breakfast, took
 a long time to get through British passport control, then onto a

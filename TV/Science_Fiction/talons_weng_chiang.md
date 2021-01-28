@@ -1,3 +1,5 @@
+![The Talons of Weng Chiang](talons_weng_chiang.jpg)
+
 | | |
 |-|-|
 Serial|The Talons of Weng Chiang

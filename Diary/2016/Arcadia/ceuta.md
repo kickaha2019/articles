@@ -1,3 +1,4 @@
+![Ceuta](ceuta.jpg)
 Ceuta (Th-Euta) and the worse excursion! Oddly for a Mediterranean cruise the ship
 didn't stop at Gibraltar instead it stopped at Ceuta which is the other side of the
 Straits, a Spanish enclave in Morocco.

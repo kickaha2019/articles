@@ -1,3 +1,5 @@
+![Little Sister](little_sister.jpg)
+
 *Little Sister* (1998) is the story of Mitsuko, the little sister
 of the title.  Raised in court seclusion she comes up against
 the cruel grime of the real world on a trip.  Her brother-in-law is

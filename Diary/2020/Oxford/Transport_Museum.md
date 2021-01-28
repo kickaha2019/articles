@@ -1,3 +1,4 @@
+![Oxford Bus Transport Museum](IMG_1740.jpeg)
 We went to the [Oxford Bus Transport Museum](https://www.oxfordbusmuseum.org), hidden at the back of a train station. A small museum, staff of volunteers coping with Cov19 restrictions as best they could, tables had to be sanitised after usage, masks on site, track and trace, service at tables.
 
 The Transport Museum had a lot of buses in varying states of repair, a good history of public transport in Oxford, and the Morris Motors museum - about William Morris and the cars he made in Cowley. Virginia's folks first car was a Morris Minor estate. It rained a little while we were there, we stopped at a Co-op on the way back for some retail therapy.

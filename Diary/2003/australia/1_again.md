@@ -1,3 +1,4 @@
+![A birrida](shark_bay/birrida.jpg)
 Didn't you go to Australia last year? Yes I did. Why not go somewhere different? Perhaps I am not very imaginative. Perhaps I am a little boring. Perhaps the Australians do speak English reasonably well. Perhaps they are friendly. Perhaps I had friends there I wanted to see. But I went to Australia again for what it represents to me.
 
 Australia to me is variety. And variety I value highly! Be it in operating systems or style of worship or life in general. I like driving along dirt roads into the heart of primeval forests to fall asleep listening to hundreds of nocturnal animals. I like wandering through the bush finding flowers flourishing in hundreds of different colours. I like seeing in a red spotlight some of the hundred shapes of animals that the world was stocked with.

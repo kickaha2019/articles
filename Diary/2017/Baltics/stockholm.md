@@ -1,3 +1,4 @@
+![Abba museum](stockholm_1.JPG)
 I'm an [Abba](https://abbasite.com/) fan so I was happy that Virginia and I went to the
 [Abba museum](http://www.abbathemuseum.com/en/) in
 Stockholm, next to a Tivoli-ish fun fair. Nostalgic and a welcome change to

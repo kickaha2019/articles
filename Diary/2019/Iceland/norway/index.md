@@ -1,3 +1,4 @@
+![Arcadia moored in Olden](arcadia.jpg)
 Our first port of call was Olden, a very pretty village in a pretty fjord setting.
 We wandered ashore rather than take an excursion, we had been to Olden
 before where we did a tour to a glacier which resulted in Virginia
@@ -12,6 +13,7 @@ a chemist for Virginia to get nail varnish remover, and a supermarket where
 we got water and notebooks to write things in. Happily English is fairly
 well understood, and credit cards usable rather than having to have Euros.
 
+![Inside the railway chapel](chapel_inside.jpg)
 The most interesting thing we
 saw in &Aring;ndalsnes was a
 [railway carriage](https://visitromsdal.com/en/andalsnes-togkapell-2-en/) converted into a chapel close to where

@@ -1,3 +1,4 @@
+![My baseball cap](cap.jpg)
 One of these days I'm going to lose this. I've left it behind in so many places,
 and thought I would never see it again. I left it behind at the
 [Light Cinema Cambridge](https://cambridge.lightcinemas.co.uk/) last

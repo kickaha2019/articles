@@ -1,3 +1,4 @@
+![Blue coaches ready for the tours](DSCF4645.JPG)
 Most of us had advanced our clocks
 so we made breakfast before re-boarding our blue coach.  The plates
 for breakfast were rectangular with 3 sections, the scrambled eggs
@@ -17,6 +18,7 @@ an accountant of [National Holidays](https://www.nationalholidays.com)
 bungled paying the tax, and the German Zoll impounded a coach
 leaving drivers and passengers high and dry!
 
+![Virginia in our cabin](DSCF4653.JPG)
 We boarded the [MV Virginia](http://www.transriverline.com/our-ships/mv-virginia/)
 safely, not being given the cabin we had booked.  Cabin not very wide,
 twin beds.  At lunchtime had to make a big decision - what table should
@@ -37,6 +39,7 @@ with stepping stones in concrete, and some of old style Cologne where
 the outside cafes were putting blankets on chairs so patrons could
 wrap up if they felt cold!
 
+![Restaurant on the MV Virginia](DSCF4651.JPG)
 Dinner was four courses, the main having chicory smothered in cheese sauce,
 I guessed leek and others aubergine.  Again to my surprise at certain times
 beer and wine and soft drinks were free on the ship, including dinner

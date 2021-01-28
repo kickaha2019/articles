@@ -1,3 +1,4 @@
+![Catherine Palace in St Petersburg](russia_10.JPG)
 St. Petersburg was the centre of our cruise, a place of contrasts. In the city
 potholed roads and delapidated buildings which contrasted with the neat new motorway
 running past luxury hotels to
@@ -20,6 +21,7 @@ kittens about mice but the price was $800. We had a photo stop at
 where I saw a bridal couple getting photographed. Brides and grooms go round
 the city to be snapped on the day. Divorce rate here is 75%.
 
+![St Isaac cathedral in St Petersburg](russia_4.JPG)
 It took a long time getting through Russian border controls both ways. When there
 are queues the first queue is quickest as they let that queue use the booths for
 the opposite directions. The officer when I was returning second time kept saying some

@@ -1,3 +1,5 @@
+![Duck Soup](duck_soup.jpg)
+
 | | |
 |-|-|
 Film|[Duck Soup](https://www.imdb.com/title/tt0023969/)

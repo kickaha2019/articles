@@ -7,3 +7,9 @@ harmonious, new with glass walls yet old with clean wooden beams.
 The food and service are good, I had to have a souffle off the
 a la carte menu one time and it was great. The portions are not
 plate filling, but not artistically small either.
+
+![The front of the Boot](P1380802.JPG)
+![The back of the Boot](P1380796.JPG)
+![Part of the dining area](P1380799.JPG)
+![The kitchen area](P1380798.JPG)
+![My favourite - a pistacho souffl&eacute; with chocolate ice cream](IMG_1759.jpeg)

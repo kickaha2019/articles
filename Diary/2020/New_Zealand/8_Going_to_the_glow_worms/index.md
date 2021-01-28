@@ -1,3 +1,4 @@
+![My hire car](IMG_0921.jpg)
 Collected hire car from [Avis](https://www.avis.co.nz/en/home) at [Auckland airport](https://www.aucklandairport.co.nz).
 I did go in the wrong
 direction at first to find it. The car's an automatic which
@@ -13,6 +14,7 @@ only to find it only open on Sunday. A disappointment I should have read the web
 Had lunch at Otorohanga Macdonalds where I had been before a decade ago, quiet until a coachload
 of Chinese girls arrived, could order at a kiosk which is so convenient.
 
+![Waitomo Caves](IMG_0929.jpg)
 Got to [Waitomo Glowworm Caves](https://www.waitomo.com) early, the girl kindly booked me onto earlier trips!
 The first trip in Waitomo Cave had a pleasant boat ride where the guide relied on
 ropes to steer the boat around. The glow worms glowed strongly there,
@@ -31,6 +33,7 @@ Maori ritual washing stone. I dashed to get to Ruakuri as I thought I was on an 
 tour but it turned out to be later. Did get Virginia a Kiwi Xmas decoration as a souvenir,
 I failed on this trip to get her something more substantial or to send postcards.
 
+![Peanut butter parfait](IMG_0983.jpg)
 Stayed at the [Waitomo Caves Guest Lodge B&amp;B](https://www.waitomocavesguestlodge.co.nz/) in Waitomo. It started raining soon after
 I arrived there. Unable to park close to site, had to haul heavy case with painful finger
 up several flights of steps to Chalet 6. The toilet hiccups when it's refilling,

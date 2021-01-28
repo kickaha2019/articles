@@ -1,3 +1,5 @@
+![The Magician's Nephew](magicians_nephew.jpg)
+
 *The Magician's Nephew* (1955) is C S Lewis writing a genesis
 for the land of Narnia, and his Narnia stories.  It explains
 how Narnia was called into existence, and how evil entered the

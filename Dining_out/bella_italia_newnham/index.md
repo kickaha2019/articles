@@ -13,3 +13,7 @@ does to cats.
 
 Nice ambience and an interesting setting. In 2016 this
 restaurant was moved to Bridge Street in Cambridge.
+
+![Tables ready for a party](IMG_2737.JPG)
+![Virginia waiting patiently](IMG_2738.JPG)
+![The mill wheel intruding into the restaurant](IMG_2739.JPG)

@@ -1,3 +1,5 @@
+![The Castle of Dark](dark_castle.jpg)
+
 "The Castle of Dark" (published 1978) is a young adult story by Tanith Lee.
 A girl Lilune is kept secluded in an old deserted castle by two old
 wise women.  She summons a harper Lir who rescues her, and helps her to

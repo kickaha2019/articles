@@ -1,3 +1,5 @@
+![One Cut of the Dead](one_cut_of_the_dead.jpeg)
+
 | | |
 |-|-|
 Film|[One Cut of the Dead](https://www.imdb.com/title/tt7914416/)

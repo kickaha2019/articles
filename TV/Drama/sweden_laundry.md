@@ -1,3 +1,5 @@
+![Sweden Laundry](sweden_laundry.jpg)
+
 | | |
 |-|-|
 Drama|&#49828;&#50920;&#45940; &#49464;&#53441;&#49548; / Sweden Laundry

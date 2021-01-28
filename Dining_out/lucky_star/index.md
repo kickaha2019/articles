@@ -16,3 +16,7 @@ and being a buffet one could get fed quite quickly.  It
 was disconcerting one time when we were hovering, thinking
 about where to eat, and the manageress almost tried to
 drag us in physically.
+
+![Entrance to the Lucky Star](IMG_2717.JPG)
+![The buffet area](IMG_2714.JPG)
+![Tables for the diners](IMG_2715.JPG)

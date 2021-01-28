@@ -1,3 +1,4 @@
+![Jongno Tower near the Aventree Hotel](seoul_jongno_tower.jpg)
 We landed late, immigration took a time as there were loads of Chinese tourists (who viewed the queueing
 system as more guidance than something to follow 100%). A driver was waiting for me, and it took an hour
 from Incheon to the [Aventree Hotel](https://www.aventreehotel.com/) in Seoul. I tipped the driver 10,000 won, not sure whether that was too

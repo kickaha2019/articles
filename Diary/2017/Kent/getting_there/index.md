@@ -1,3 +1,4 @@
+![The cats new holiday home](P1000485.JPG)
 Tabitha and Amelia were delivered safely to their new cattery in Hardwick,
 the [Angelite Cats Hotel](https://www.angelitecatshotel.co.uk/)! No pond but bird feeders
 and the owner's cats strolling around for them to look at. Larger 'chalets' than at

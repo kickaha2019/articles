@@ -1,3 +1,4 @@
+![La Spezia](la_spezia.jpg)
 La Spezia we walked around a little, down a beachside promenade with signs
 advertising local shops and the like. Our explorations were curtailed by a
 thunderstorm so we legged it back to the cruise terminal. It took ages for

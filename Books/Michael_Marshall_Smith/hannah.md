@@ -1,3 +1,5 @@
+![Hannah Green and her unfeasibly mundane existence](hannah.jpg)
+
 It was the title that grabbed me, and made me try this book.
 And the book itself didn't disappoint. The plot itself,
 about Hannah and how her existence becomes anything but

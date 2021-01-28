@@ -1,3 +1,4 @@
+![The holiday cottage](P1000016.jpg)
 We dropped off Tabs and Amelia (who hid in my cupboard as the spare room bed was shut) at
 *Grange Cattery*. This took longer than normal as there were roadworks in Waterbeach near the
 new housing being built on the old Army barracks there. It may be even slower next time
@@ -12,15 +13,17 @@ We had to enter a number on a keypad to get the keys, using the keys was fiddly 
 were a bit stiff. There was a bottle of wine left for us which we had a glass of to accompany the
 Chinese meal in our quiet evening in.
 
+![Entrance to Sea Life](P1000008.jpg)
 A dismal start to the Saturday - the rain was heavy enough to wake me, and kept on pretty
 much relentlessly during the day. The bathroom mirror has a blue ghostly LCD clock in it,
-we couldn't' find the egg cups so had to improvise tearing up an egg box!
+we couldn't find the egg cups so had to improvise tearing up an egg box!
 
 Our first bit of tourism was the [Hunstanton Sea Life](https://www.visitsealife.com/hunstanton/) aquarium where they branded us on our hands as
 having paid - the branding was readable the next day despite several acts of hand-washing.
 Sea Life wasn't that big, but a variety of stuff to see including creepy-crawlies and
 adorable otters. I almost lost the lens cap off my new camera and had to search for it.
 
+![Arts and Crafts place](P1000013.jpg)
 We also strayed to see an [Lestrange Old Barns](https://www.lestrangeoldbarns.com/) arts and crafts place which was hard to park at, and which was
 without a cafe and facilities we thought it might have. More interesting was the Village Stores
 across the road from our cottage which also sold old things, Virginia got a glass fruit bowl

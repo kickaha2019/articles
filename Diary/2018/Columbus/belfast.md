@@ -1,3 +1,4 @@
+![Titanic Exhibition](belfast1.jpg)
 We took a taxi from what we were told was Stormont Wharf to see the
 [Titanic Exhibition](https://titanicbelfast.com/) in Belfast. A lot of
 effort has been put into this exhibition, and there is plenty of
@@ -12,6 +13,7 @@ pelted down as we left the Nomadic and we got rather damp, retreating to
 the bistro at the exhibition for some soup. We then caught a taxi back
 to the ship.
 
+![The Nomadic](belfast2.jpg)
 It was then we discovered that the "Columbus" had not docked at the
 Stormont Wharf as people on the ship had claimed. Luckily the taxi driver
 didn't give up but tried another dock in which our ship was actually

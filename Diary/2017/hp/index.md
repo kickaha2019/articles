@@ -1,3 +1,4 @@
+![The entrance to the studio tour](DSCF7326.jpg)
 There is a mecca for Harry Potter fans at Watford. The
 [Warner Bros studio tour](https://www.wbstudiotour.co.uk/home) where you
 can walk in the footsteps of Harry Potter, see the scenes from the
@@ -13,6 +14,7 @@ required to create the visuals and the sounds. A useful counterpoint to
 the instant gratification of our day, where eveything is a swipe away,
 where everything is superficial and cheaply obtained.
 
+![Street of magical supplies](DSCF7309.JPG)
 Secondly how for those
 working on these films how they become part of a team a second family
 of those working - an experience I envy. Perhaps a reason readers

@@ -1,3 +1,4 @@
+![Tender at Leknes](leknes_tender1.JPG)
 The Boudicca's sister ship [Braemar](https://www.fredolsencruises.com/our-ships/our-cruise-ships/braemar)
 occupied the quayside at Leknes in the Lofoten Islands so we had to use a tender (in
 practice a lifeboat) to reach land for our excursion here. This was more interesting than
@@ -9,6 +10,7 @@ combined Christian design with Viking emblems and Norwegian pride. The priest ta
 Viking heads and Roman Catholic style crucifix before playing on the
 organ for us to sing "Amazing Grace".
 
+![Borg Viking museum](leknes_borg.JPG)
 The excursions also took in the Viking museum at Borg, where we saw a short film and peered at
 exhibits armed with smart headsets (simple clicking to get the right description). A breezy walk to
 see a reconstructed Viking long house. I made one of my big mistakes in the shop there.

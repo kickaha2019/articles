@@ -1,3 +1,4 @@
+![View from our cabin complete with painter](cabin_view.jpg)
 We were in the same cabin E89 on the [Arcadia](https://www.pocruises.com/cruise-ships/arcadia/) as we had been before. [P&amp;O](https://www.pocruises.com/)
 laid on some special touches to welcome us back. To help us get going
 in the mornings when we were in port there could be enthusiastic banging
@@ -28,6 +29,7 @@ Britain cruise, but one before the [cruise](2018/Columbus) we did. The
 Columbus had problems and they didn't get to 3 ports of call! And only
 &pound;50 compensation per cabin.
 
+![Palladium Theatre](theatre.jpg)
 The [Arcadia](https://www.pocruises.com/cruise-ships/arcadia/) has a decent theatre so you don't need to be at the front
 to see something. The Headliners company of singers and dancers were as
 impressive as ever, for the energy and smiles and ability they put into the shows.

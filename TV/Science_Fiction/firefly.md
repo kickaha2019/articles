@@ -1,3 +1,5 @@
+![Firefly](firefly.jpg)
+
 | | |
 |-|-|
 Series|[Firefly](https://www.imdb.com/title/tt0303461/)

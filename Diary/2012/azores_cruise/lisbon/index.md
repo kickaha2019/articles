@@ -1,3 +1,4 @@
+![Lisbon from the Tagus river](p57_lisbon.JPG)
 Our final stops were Lisbon then Vigo on the following day.  From
 a foggy boat trip we did at least see some monuments and edifices,
 then had a coach trip to admire how Lisbon was improved after a

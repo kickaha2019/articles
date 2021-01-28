@@ -1,3 +1,4 @@
+![Flight to Singapore](IMG_1285.jpg)
 I slummed it at [Auckland Airport](https://www.aucklandairport.co.nz/) by having had sausage egg mcmuffin at Macdonalds.
 For some reason my credit card was refused so had to fall back to cash.
 There was a lady surveying what passengers thought of New Zealand tourism
@@ -11,6 +12,7 @@ didn't really click for me. [Singapore airport](https://www.changiairport.com/) 
 no queueing at immigration, so soon out that the private car hire driver wasn't there. He
 had parked at an angle in the car park and we got told off by another driver.
 
+![ParkRoyal Hotel](IMG_1339.jpg)
 My hotel in Singapore ([ParkRoyal on Pickering](https://www.panpacific.com/en/hotels-and-resorts/pr-pickering.html/)) was another luxury joint.
 I had Nasi Goreng to keep me going, and exchanged some pounds before a very helpful
 staff member advised me to use the MTR which worked brilliantly to get me to
@@ -23,6 +25,7 @@ clever waterfall effects, then saw the Rats in Chinatown for Chinese New Year
 and got some cookies to take back.
 
 # January 21st 2020
+![Back to Blighty](IMG_1352.jpg)
 Slept not too badly on the last night of the holiday, had rice congee
 for breakfast without being sure what I put in it, then had an omelette made to order.
 I tried to sprinkle cinnamon on it but it was more than a sprinkle.

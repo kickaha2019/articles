@@ -1,3 +1,5 @@
+![Suspiria](suspiria.jpg)
+
 | | |
 |-|-|
 Film|[Suspiria](https://www.imdb.com/title/tt0076786/)

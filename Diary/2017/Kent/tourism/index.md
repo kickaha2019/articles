@@ -1,3 +1,4 @@
+![Bodiam Castle](P1380003.JPG)
 We made full use of our [National Trust](https://www.nationaltrust.org.uk/) membership -
 we saw [Bodiam Castle](https://www.nationaltrust.org.uk/bodiam-castle) (a fine castle ruin
 with a decent sized moat where Virginia used to be taken by
@@ -18,6 +19,7 @@ where we had baked potatoes for lunch. The gardens were ornate and styled - the 
 owned by socialites. Interesting seeing book repairers at work. One day it just tipped
 down constantly and we stayed indoors apart from venturing out for food.
 
+![Groombridge Place](P1380025.JPG)
 It was a fine day however, a nice sunny day and warm when we navigated through Tunbridge
 Wells to get to [Groombridge Place](https://www.groombridgeplace.com/), which was seemingly
 in its off season, or not open to visitors. Neat formal gardens, we also had a long walk

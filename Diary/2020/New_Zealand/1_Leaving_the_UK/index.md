@@ -1,3 +1,4 @@
+![Cases packed](IMG_0607.jpg)
 I packed this morning after seeing Virginia off to work. I make lists of things to do,
 and things to take on holiday, and it was just as well I double checked the list of things to
 take to New Zealand. The list included driving licence, I tried to find a paper licence but
@@ -12,6 +13,7 @@ bit of a [Korean TV series](http://www.koreandrama.org/stove-league/).
 Packing took quite a time, I was worried at first I might not be
 finished by the time the Panther taxi came at 12:30!
 
+![Heathrow coach](IMG_0613.jpg)
 The [taxi driver](https://www.panthertaxis.co.uk/) was on time, quite chatty, and I reached Trumpington in plenty of time to catch
 the coach. More than enough time as it was late, I was trying to check where it was on the [National Express](https://www.nationalexpress.com/en) website
 and didn't notice it had arrived at first so a bit of a rush to catch it. The coach was pretty crowded, seemingly
@@ -28,6 +30,7 @@ to remove my ratchet belt, but it was a little awkward as I like my trousers loo
 I didn't get asked to remove my shoes as some did. After security had a bite to eat at YoYo Sushi,
 a sushi train experience. I viewed it as training for my two nights in Japan.
 
+![Food on the plane](IMG_0627.jpg)
 Boarding the plane was a little delayed, but we took off at 7:15pm. I had a window seat
 so had to clamber out to get to toilet, I was sitting next to a Japanese couple who were
 considerate. The husband gave me a wet wipe at one point! I admired how neatly he folded

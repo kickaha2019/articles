@@ -1,3 +1,4 @@
+![Hinton Ampner](hinton.JPG)
 The next day after breakfast (Ginny did the eggs well done) we went to
 [Hinton Ampner](https://www.nationaltrust.org.uk/hinton-ampner), a National Trust place. Georgian style place built in the 1960s, not massive
 but full of eclectic beauty and porcelain and semi-precious stones embedded into wood. Plenty

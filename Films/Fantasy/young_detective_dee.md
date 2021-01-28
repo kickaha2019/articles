@@ -1,3 +1,5 @@
+![Young Detective Dee: Rise of the Sea Dragon](young_detective_dee.jpg)
+
 | | |
 |-|-|
 Film|&#29380;&#20161;&#20625;&#20043;&#31070;&#37117;&#40845;&#29579; ([Young Detective Dee: Rise of the Sea Dragon](https://www.imdb.com/title/tt2992146/))

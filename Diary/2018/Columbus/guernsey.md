@@ -1,3 +1,4 @@
+![Guernsey](guernsey1.jpg)
 The swell meant it was very slow getting people ashore by tender
 from the ship. We didn't get to St Peter Port until lunchtime!
 

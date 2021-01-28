@@ -1,3 +1,5 @@
+![The White Lady](the_white_lady.jpg)
+
 *The White Lady* (2020) is by Paul Halter
 and like his other detective novels is faithful to
 the style and period of the golden age of detective fiction.

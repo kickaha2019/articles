@@ -3,3 +3,7 @@ Two fledglings were roaming about our back garden, undecided whether flying was 
 Virginia kept the cats from having their exercise in the back garden, something they complained about! And they did so want to have a present to give her . . .
 
 Two days later they were gone. Hopefully the absence of feathers means they left under their own steam rather than in the clutches of a marauding beast.
+
+![One fledgling and parents](parent_chick.JPG)
+![One fledgling and parent](parent_chick2.JPG)
+![Other fledgling - its parents love it](ugly.JPG)

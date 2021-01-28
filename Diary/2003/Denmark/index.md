@@ -1,3 +1,4 @@
+![Skagen peninsula](skagen_peninsula.jpg)
 I visited friends I knew from Waterbeach who were now living in Denmark. I will go a long way to see friends.
 
 Spent a very pleasant time seeing the evil monster sand dune which is crossing the tip of Denmark at *R&aring;jberg Mile*,

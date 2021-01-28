@@ -1,3 +1,5 @@
+![Big](big.jpg)
+
 | | |
 |-|-|
 Drama|&#48709; / Big

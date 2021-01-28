@@ -1,3 +1,5 @@
+![Dead Sushi](dead_sushi.jpg)
+
 | | |
 |-|-|
 Film|[Dead Sushi](https://www.imdb.com/title/tt2396429/)

@@ -1,3 +1,4 @@
+![Shoe rack at Nijo Castle in Kyoto](p47_rack.JPG)
 Breakfast at least is cheaper than at the New Takanawa hotel.
 I went for the continental and stoked myself up for the day.
 Couldn't find a fork so resorted to eating the pancakes with
@@ -11,6 +12,7 @@ Oriental but just means 2nd Street Castle.  This is the famous
 castle with the nightingale floor achieved by an iron bracket.
 And was it a cold floor in thin socks.
 
+![Golden Pavilion in Kyoto](p52_pavilion.JPG)
 Next up was the [Golden Pavilion](https://www.japan.travel/en/spot/1152), a very photogenic
 Buddhist site with a golden pavilion in it.  Not quite the
 original pavilion as it has been burnt down many times, lastly
@@ -25,6 +27,7 @@ alarmed walls, warned not to go out of position to take pictures.
 Pretty garden, large site, traditional grand buildings, no heating
 so not used now.
 
+![Guardian statue at Todaiji temple](p65_statue.JPG)
 After a rushed lunch it was off to Nara with new guide Yumi
 to see the deer milling
 around [Todaiji Temple](http://www.todaiji.or.jp/), which has a very large Buddha indeed in
@@ -38,6 +41,7 @@ We also saw the [Kasuga Taisha Shrine](https://www.japan.travel/en/spot/1013) as
 Fujiwara family who controlled Japan in the Heian era.
 Many many stone lanterns crowded in on the temple.
 
+![Sushi bar in Kyoto](p75_sushi.JPG)
 I went to a nearby sushi bar Sushiina, and had a 9-piece
 selection including salmon roe.  A challenge persuading my mouth
 to ahead and bite into it, and my throat to swallow, but worth it.

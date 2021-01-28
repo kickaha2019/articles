@@ -1,3 +1,5 @@
+![Spirited Away](spirited_away.jpg)
+
 | | |
 |-|-|
 Film|&#21315;&#12392;&#21315;&#23563;&#12398;&#31070;&#38560;&#12375; ([Spirited Away](https://www.imdb.com/title/tt0245429/))

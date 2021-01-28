@@ -1,3 +1,4 @@
+![Our bags packed in the boot of the car](bags_packed.jpg)
 Virginia and I drove down the day before the cruise started, packing
 the bags into the back of Virginia's Kia estate (larger than my Kia). The
 boot of the Kia estate is smaller than the Skoda she used to drive, we
@@ -20,6 +21,7 @@ they could be.
 We had an evening meal at a nearby [Pizza Hut](https://www.pizzahut.co.uk/)
 (I do like a pepperoni pizza).
 
+![The font of Mottisfont](font.jpg)
 On the Saturday morning we went to [Mottisfont](https://www.nationaltrust.org.uk/mottisfont) a [National Trust](https://www.nationaltrust.org.uk/) place.
 An interesting place for the trompe d'oeil work inside tricking the eye.
 Doors which aren't real doors, doors where there seem to be doors.

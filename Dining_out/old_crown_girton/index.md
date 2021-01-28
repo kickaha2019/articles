@@ -1,3 +1,4 @@
+![Virginia sitting at one end of the main dining room](IMG_2741.JPG)
 *The Old Crown* used
 to be famous for its very large portions.  It did
 roaring business then.  Times have changed, for a
@@ -12,6 +13,7 @@ The food isn't as special as it was a year or so
 back.  But it's reasonably close, and it offers a
 different menu to the other places we go.
 
+![The other end looking towards the bar](IMG_2742.JPG)
 As of late 2017 the *Old Crown* has gone seriously
 up-market, and the prices reflect this. Soup comes in
 a jug which gets poured into the bowl in front of you.
@@ -19,4 +21,4 @@ I wish them well but dining there is no longer a
 regular part of our dining out.
 
 In 2019 the *Old Crown* reopened and is more
-reasonable. Roast lamb on Sunday has too much fat on it.
+reasonable. Roast lamb on Sunday can have too much fat on it.

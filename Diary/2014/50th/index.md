@@ -1,3 +1,4 @@
+![Entrance to Histon Baptist Church where the event was held](church.JPG)
 The weekend saw a major milestone - Virginia turned 50!  She had chosen
 to have a barn dance to celebrate (or Ceilidh sounds more classy doesn't it!)
 So we turned up at the [Baptist Church](https://www.histonbaptist.org.uk/)
@@ -14,6 +15,7 @@ creating a dancing space.  Not just that the job got done quicker, them just
 being there was vital moral support.  To have the feeling there's other people
 there to share the load is so precious.
 
+![The caller for the Ceilidh drumming up dancers](dance1.JPG)
 We had fun too trying to work out how to get the lights on properly - happily
 among those coming to the Ceilidh were people who attended the Baptist Church
 so knew more about the illumination system than we did!  At least the daylight
@@ -38,6 +40,7 @@ the end, there was no alternative.  My sister did two cakes (one sponge one
 fruit I don't like fruit cakes) with books and cats on them, very nice.
 My niece Beth put blue cats on the icing cats which was spot on!
 
+![Some of the people there](people1.JPG)
 Virginia had invited a good range of people including our neighbours - they
 turned up early and sat right at the back, not mixing that much.  I hope
 they enjoyed themselves, they probably weren't up for too energetic
@@ -55,6 +58,7 @@ I sellotaped up in the entrance foyer!  My nephew was puzzlingly sitting
 in his car in the carpark for a while - I was told he's into tweeting and
 has hundreds of followers!
 
+![The impressive array of puddings](puddings.JPG)
 Sunday was Virginia's real birthday.  To try and do something special I
 folded paper boats out of wrapping paper and set them on the lounge floor
 on a long reach of kitchen foil, then placed our soft toys with the cards

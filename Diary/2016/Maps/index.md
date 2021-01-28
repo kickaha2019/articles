@@ -1,3 +1,4 @@
+![Maps](maps.jpg)
 My efforts at game-making have become less ambitious over the years.
 This current project was to do a present hunt for Virginia, where she
 followed a paper-trail to find where her birthday (it turned out to be
@@ -11,4 +12,3 @@ the current clue, or the map. Nothing too elaborate.
 
 (Update in March 2020: this game is currently broken, Google started
 charging for use of their Map API in the way this game uses it.)
-

@@ -1,3 +1,4 @@
+![Holiday Inn in Southampton where we stayed overnight](soton_hi.JPG)
 We checked out of the [Holiday Inn Southampton City](https://www.ihg.com/holidayinn/hotels/gb/en/southampton/soahp/hoteldetail) hotel (&pound;7 to rescue the car from the car park,
 another incentive to not use that hotel), then had breakfast at the nearby
 [Frankie and Bennys Southampton](https://www.frankieandbennys.com/restaurant/frankie-bennys-southampton).
@@ -12,6 +13,7 @@ Virginia braved the vintage monorail system too, and we saw the staff in costume
 Palace House (period kitchen, portraits on walls, stuffed birds), dipped into the
 Abbey, and had soup at the Brabazon Restaurant. Worth visiting once.
 
+![Gangway to board Boudicca in port](boud_gangway.JPG)
 Time to venture to the cruise terminal. A confusing process of stop car in one place,
 lose the luggage, then guess one was meant to move the car to another place where one handed over
 car keys in exchange for a piece of paper. Impressively our luggage all made to our cabin
@@ -31,6 +33,7 @@ restaurant.  We met our dining companions Roy and Margaret and Shirley and Barba
 who made a a good table to be on. One of the plusses of the Boudicca being a smaller ship is
 we more often bumped into them onboard.
 
+![Entrance to Boudicca](boud_entry.JPG)
 Went to the Neptune Lounge for the resident theatre company to dance and sing
 songs by Queen, Elton John, etc.  They were lively and energetic and not pretentious. The
 Neptune Lounge isn't ideal for shows as few people have a clear view of the stage.

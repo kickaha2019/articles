@@ -1,4 +1,5 @@
-The long weekend started with another telephone call from a career about Dad managing to fall out
+![Swan's Nest Hotel](hotel.jpg)
+The long weekend started with another telephone call from a carer about Dad managing to fall out
 of bed despite having a bar fitted by Phillip last night (who I envy being so good at practical things).
 I went to Milton Tesco after seeing Mum's grave on the anniversary of her death four years ago,
 and got some supplies for Dad and us on our holiday. A little bit of a rush to get Tabitha and Amelia
@@ -13,10 +14,11 @@ Which happily had parking (I like to worry about things). The hotel was very wel
 we could walk everywhere we needed to go! It was good enough but I wouldn't give it four stars.
 The hotel had wifi - to make this work one had to register / login each time.
 
+![Entrance to Buttefly Farm](farm_entrance.jpg)
 We ate at the French bistro restaurant in the hotel, I had French onion soup then chicken
 which were richly cooked perhaps too richly cooked for me. The chef was rather too fond of salt.
 
-We kicked Saturday with breakfast in the hotel - cereals and croissants not worth the price of
+We kicked off Saturday with breakfast in the hotel - cereals and croissants not worth the price of
 the buffet at &pound;9.50 really. We walked into Stratford and did some shopping at
 Marks and Spencers then visited the
 [Stratford Butterfly Farm](https://www.butterflyfarm.co.uk/attraction/index.php). Plenty of butterflies!
@@ -26,6 +28,7 @@ and also a colony of leaf cutter ants commuting over ropes - the previous colony
 chewing their way through power cables and the queen getting electrocuted. Well patronised by
 those ignoring the signs about touching the butterflies.
 
+![Menu at Fourteas](fourteas_menu.jpg)
 When we emerged it was raining, but only light rain and we were within a stones throw of the hotel.
 We had sandwiches at the charming [Fourteas](http://thefourteas.co.uk/) -
 a forties themed tea room where the waitresses were
@@ -35,6 +38,7 @@ kinetic sculptures - vibrant and eye catching.
 Made me miss the ball bearing clock I had once - and remember a visit to see work by the artist
 Jean Tinguely.
 
+![Countess of Evesham](countess.jpg)
 Hotel laid on a fire alarm for us, then we went for an evening cruise on the
 [Countess of Evesham](https://countessofevesham.co.uk/)
 down and up the River Avon. They steered the long boat with skill through the three locks,

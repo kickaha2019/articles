@@ -1,3 +1,4 @@
+![Moored at Acle](p15_acle.JPG)
 Virginia and I together with her parents hired a boat from
 [Richardsons](https://www.richardsonsboatingholidays.co.uk/) in Acle
 to do a one week cruise on the Norfolk Broads in late May.
@@ -19,6 +20,7 @@ or scalding showers on
 the boat made noises like a dentist's drills.  It was eerie and
 wrong when the boat wasn't noisy.
 
+![Water and electric supplies](p05_supplies.JPG)
 We only used the mudweight once on the cruise when we stern moored - the
 weight was too heavy for me to lift alone.  The stern mooring ropes were
 meant to be left lying along the sides of the boat, once we didn't do this
@@ -37,6 +39,7 @@ blue kingfishers and nesting swans and herons - ducks clambered all over
 the boat as it suited them.  Drainage pumps of different eras were
 scattered around like the remains of dinosaurs.
 
+![Walking to ruined Abbey](p02_abbey.JPG)
 We wandered to a few places as tourists.  There wasn't a lot to see
 at [St Benet's Abbey](https://www.norfarchtrust.org.uk/project/st-benets-abbey/) itself.
 [Toad Hole Cottage](http://howhilltrust.org.uk/toad-hole-cottage-museum/)
@@ -59,6 +62,7 @@ skilled at handling such boats, who knew how to use the fact a boat is
 very different to a car.  You can pivot a boat on a spot which you
 can't with a car.
 
+![Cruising down the Broads](p06_cruising.JPG)
 Most of the people we met were very helpful, aiding us by taking our
 mooring lines and tying up for us making it look like second nature.
 A few of the people we

@@ -1,3 +1,4 @@
+![Us on our gondola](gondolas2.JPG)
 I will remember Venice as the highlight of this cruise, and especially the
 enchanting ride on a gondola.  This really gave me an impression of Venice as an ancient city
 with rills for roads. A city where you get around in a boat, where you might take a
@@ -11,6 +12,7 @@ had just receded.  As an organised tour we beat the massive queues in St Marks S
 There were seven cruise ships in and Venice was packed. People said this was the last
 time cruise ships could sail up the Grand Canal.
 
+![15 was our tour party](parties.JPG)
 We didn't however beat the dire massive queue to get back on board though, or the massive
 walk from where the shuttle boat dropped us off to the cruise terminal. The system just
 couldn't cope with the sheer numbers even without the Italians doing everything in their

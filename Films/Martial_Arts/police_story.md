@@ -1,3 +1,5 @@
+![Police Story](police_story.jpg)
+
 | | |
 |-|-|
 Film|[Police Story](https://www.imdb.com/title/tt0089374/)

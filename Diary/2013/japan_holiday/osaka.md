@@ -1,3 +1,4 @@
+![Osaka Castle](p126_castle.JPG)
 Made my way to Osaka on the first funicular railway out of
 Koyasan, and after some fun finding my way to the hotel in
 the labyrinth by JR Osaka station was reunited with my luggage.
@@ -24,6 +25,7 @@ had buttons to get the menus in English.  At one point a woman
 was trailing a Peanuts themed bag on wheels which was squeaking -
 it proved to be a dog!
 
+![Umeda Sky Building](p137_sky_tower.JPG)
 In the evening went back to the Gourmet Museum for another food
 intake.  I had to nerve myself to plunge into a restaurant
 where I could communicate by pointing.  I have no idea of

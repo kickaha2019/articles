@@ -13,3 +13,22 @@ pond needed a makeover. This was a radical makeover which involved removing
 the fish and terrapins, digging the pond right out, laying new liners,
 reseeding the surrounding green. As something to put on my website
 here is a photographic record of the process.
+
+![February 7th](2016_02_07.jpg)
+![February 12th](2019_02_12.jpg)
+![February 13th](2019_02_13.jpg)
+![February 18th](2019_02_18.jpg)
+![February 21st](2019_02_21.jpg)
+![February 26th](2019_02_26.jpg)
+![March 4th](2019_03_04.jpg)
+![March 5th](2019_03_05.jpg)
+![March 5th](2019_03_05A.jpg)
+![March 13th](2019_03_13.jpg)
+![March 18th](2019_03_18.jpg)
+![April 4th](2019_04_04.jpg)
+![April 8th](2019_04_08.jpg)
+![April 25th](2019_04_25.jpg)
+![April 30th](2019_04_30.jpg)
+![May 13th](2019_05_13.jpg)
+![May 30th](2019_05_30.jpg)
+![June 17th](2019_06_17.jpg)

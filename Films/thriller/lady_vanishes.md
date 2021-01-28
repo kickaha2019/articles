@@ -1,3 +1,5 @@
+![The Lady Vanishes](lady_vanishes.jpg)
+
 | | |
 |-|-|
 Film|The Lady Vanishes

@@ -1,3 +1,4 @@
+![Meridian](meridian.jpeg)
 We often went up to the
 Belvedere buffet restaurant for breakfast or lunch. Pleasant views over the mostly calm seas,
 a choice of sausages for breakfast
@@ -10,6 +11,7 @@ meant the meals were done in time for us to get to the shows in the Palladium an
 one time we did skip the tea and coffee. The food was varied in the Meridian, and there
 was good choice.
 
+![Sindhu](sindhu.jpg)
 We had one meal in the Ocean Grill, and one in the Sindhu restaurants. They're oddly shaped
 like afterthoughts - the Sindhu is split between sides of the ship. In the Sindhu the
 meal started with two white buttons on a plate - we wondered what kind of food it was

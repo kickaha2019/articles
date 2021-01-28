@@ -1,3 +1,4 @@
+![Stonehenge](stonehenge1.JPG)
 Virginia's been watching these programmes on the TV about
 [Longleat](https://www.longleat.co.uk/),
 which major on the Safari park with the fun-loving animals like lions and tigers. So we duly set off for a long weekend for our personal encounter with nature. The trip didn't start very brightly - rain was pelting down as we drove down towards the M25 round London. But happily blue patches started jostling with the dark clouds, and we got some sun and sharp shadows as we voyaged westwards.

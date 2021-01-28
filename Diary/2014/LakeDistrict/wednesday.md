@@ -1,3 +1,4 @@
+![Lake Windermere cruiser](windermere_boat.JPG)
 Wednesday was the best day.  We took in the [Lakeside Aquarium](https://lakesaquarium.co.uk/),
 not the size of other aquariums I've been to true but there were things to see and learn there.
 Such as ants crawling along a rope to transport food, or the mention of sex changing fish (examples

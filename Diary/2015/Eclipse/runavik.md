@@ -1,3 +1,4 @@
+![Boudicca moored at Runavik](faroes_boudicca.JPG)
 We didn't do an excursion in the Faroe Islands, just wandered ashore and admired
 a petrol station bakers and fish hanging up to dry. Some people who did a
 coach ride said there was good scenery. The Boudicca was moored right by

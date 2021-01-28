@@ -17,3 +17,7 @@ We begin the year with seeing the snowdrops at
 A pleasant stroll in an other-worldly place, slightly
 removed from the stressful society we inhabit. Doors in walls make
 me think fondly of "The Silver Chair".
+
+![Snowdrops of Anglesey Abbey](DSCF5953.JPG)
+![Even in winter there is artistry in the gardens to behold](DSCF5954.JPG)
+![Snow has left its footprints on this walk](DSCF5955.JPG)

@@ -1,3 +1,4 @@
+![Beach with beach huts (70 pounds a week)](beach.JPG)
 Virginia's grandmother used to run a
 [Tufty Club](https://www.rospa.com/about/history/tufty/) (a long gone organisation for teaching children to cross the road safely, Tufty was a squirrel.) This [Tufty Club](https://www.rospa.com/about/history/tufty/) had an annual outing to the seaside which kept happening even after the Club itself became moribund. Virginia's mother has kept the outing going, and I felt I should go once to experience the experience.
 

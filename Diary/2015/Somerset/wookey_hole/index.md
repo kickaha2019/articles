@@ -1,3 +1,4 @@
+![Wookey Hole outside cave](wookey_hole.JPG)
 It had been dry if not blazing sun, but Saturday (24th) changed that. We voyaged through
 the rain to see *Clarks Shoe Museum* in Street but they failed
 to open! In desperation we went to [Wookey Hole](https://www.wookey.co.uk/) where so long ago

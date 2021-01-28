@@ -1,3 +1,4 @@
+![Me at Peterhof](peter_me.JPG)
 The furthest point on the cruise, and the high spot, was St Petersburg. The city is a blend of Western grand architecture, Orthodox cathedrals with their almost Disney cupolas, and Soviet era bleakness. We stopped a night there, on the first day went to Peterhof where the fountains are really something, water and gold paint sparkling. Not so busy as we were marched through the palace first, coach parties are allowed in first before ordinary visitors. Peterhof Palace had pictures of a Russian naval victory for which they blew up a real frigate so the artist could see what an exploding ship looked like!
 
 The second day in St Petersburg we did a private tour so Dad could see the

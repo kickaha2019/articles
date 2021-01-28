@@ -1,3 +1,4 @@
+![The Copper Tree Fountain in the Gardens of Surprise](metal_tree.JPG)
 After going to see my mother's gravestone in Histon Virginia and I
 then drove up to Stamford to see
 [Burghley House](https://www.burghley.co.uk/), only slightly held up by a A14 stop start standstill.
@@ -12,6 +13,7 @@ artistic water fountain themed displays.  There were devices you could
 actuate, trapped doorways which you risked a soaking going through,
 and eerie Roman busts which moved when you weren't looking.
 
+![Burghley House](house.JPG)
 The modern sculptures we mostly passed on.  The house was
 over opulent - so many rooms had a surfeit of paintings or
 painted walls and ceilings.  The kitchen impressed with the array

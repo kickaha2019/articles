@@ -16,3 +16,10 @@ at the Mexican pavilion
 in the World Showcase at [EPCOT](https://disneyworld.disney.go.com/en_GB/destinations/epcot/).
 
 Sadly Chiquitos at the Leisure Centre closed down in 2019.
+
+![The entrance to Chiquitos](DSCF5961.JPG)
+![The interior facing the bar](DSCF5964.JPG)
+![Interior view](P1380069.JPG)
+![Interior view](P1380070.JPG)
+![The irresistible churros](DSCF5965.JPG)
+![Baked enchiladas](P1380071.JPG)

@@ -1,3 +1,5 @@
+![Ombria in Shadow](Ombria.jpg)
+
 *Ombria in Shadow* (2002) is the story of Ombria, and its shadows.
 On the surface sinister Domina Pearl weaves her spiderwebs, and
 princes die.  Under the surface of Ombria the sorceress Faey

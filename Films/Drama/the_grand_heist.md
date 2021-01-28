@@ -1,3 +1,5 @@
+![The Grand Heist](the_grand_heist.jpg)
+
 | | |
 |-|-|
 Film|&#48148;&#46988;&#44284; &#54632;&#44760; &#49324;&#46972;&#51648;&#45796; ([The Grand Heist](https://www.imdb.com/title/tt2448584/))

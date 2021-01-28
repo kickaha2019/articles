@@ -1,3 +1,4 @@
+![The front of the Phoenix](DSCF4816.JPG)
 *The Phoenix* was a superior Chinese
 restaurant in Histon where we live.  It's where
 we liked to go for special occasions.  Virginia and I
@@ -12,6 +13,7 @@ it saves mental effort!  I to be different ordered the
 hot and sour soup (rather than the delicious chicken
 and sweetcorn) and then suffered how hot and spicy it is.
 
+![The area we normally eat in](IMG_2733.JPG)
 The heart of the meal for me was the crispy fried duck,
 making the pancakes with plum sauce and bamboo shoots
 and the duck.  Yum yum yum.

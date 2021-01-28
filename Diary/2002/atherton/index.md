@@ -1,7 +1,9 @@
+![Curtain Fig Tree](curtain_fig_tree_sign.JPG)
 The Atherton Tablelands are a good bit higher than the coastal area and so have quite a different climate. A very agricultural area but whereas sugar-cane dominates the coastal areas here it's cattle country.
 
 There is a lot to see here. Volcanic activity has left lakes like Lake Barrine or Lake Eacham, and vents like [Hypipamee Crater](https://parks.des.qld.gov.au/parks/mount-hypipamee/). There's wonders of nature like the [Curtain Fig Tree](https://parks.des.qld.gov.au/parks/curtain-fig/) (the strangler figs seemed like plants from another planet.) Strangler figs literally strangle whatever they grow up, leaving shapes out of Doctor Who. Came across trees which have flowers on their trunk rather than branches (called cauliflory.) Weird.
 
+![Millaa Millaa falls](millaa_millaa.JPG)
 Among the other attractions in the Tablelands are the waterfalls. There is a loop you can do which takes in three of them (*Millaa-Millaa Falls*, *Ellinjaa Falls*,
 and *Zillie Falls*.)
 It's all pleasantly rural and as yet denied the chance to catch up with the rat race.

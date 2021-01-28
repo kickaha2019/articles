@@ -1,0 +1,8 @@
+![Stretham Old Engine building](building.JPG)
+![The water wheel being driven](wheel.JPG)
+![The coal boilers](boilers.JPG)
+![Low pressure boiler](low_pressure_boiler.JPG)
+![The internal organs of the engine](innards.JPG)
+![Pistons up to the beam](pistons.JPG)
+![Beam shaft](beam.JPG)
+![The main beam](main_beam.JPG)

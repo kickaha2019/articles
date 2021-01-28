@@ -4,3 +4,9 @@ There wasn't a lot that was open which was a bind. Happily a Pizza Hut was open 
 
 On the 2nd we went to
 [Sutton Hoo](https://www.nationaltrust.org.uk/sutton-hoo), burial ground of the pagan kings at the dawn of Anglo-Saxon history. This was something I had wanted to see for some time. The actual burial ground is on the small size, and the barrows not imposing mounds of earth. But it was a window onto a time of change, and the exhibition did its best to bring that time alive.
+
+![Christmas decorations](clock.jpg)
+![in the lounge](lounge2.jpg)
+![Dunwich Heath](dunwich.jpg)
+![Sutton Hoo](sutton_hoo.jpg)
+![Raedwald's grave](grave.jpg)

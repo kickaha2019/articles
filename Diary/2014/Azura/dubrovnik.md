@@ -1,3 +1,4 @@
+![Dubrovnik's walls facing the sea](seawalls.JPG)
 We did a sea and land excursion to a crowded Dubrovnik, which proved to be
 a very pretty old walled city. Narrow passageways, old fountains, city walls one could walk on.
 Apparently in winter the old walled city is nearly empty the guide said. Didn't really

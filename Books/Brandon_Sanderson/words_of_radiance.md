@@ -1,3 +1,5 @@
+![Words of Radiance](words_of_radiance.jpg)
+
 [Words of Radiance](https://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/) (2014)
 is the second book in Brandon Sanderson's *Stormlight Archive* series.
 It's a chunky read, well constructed with multiple characters and

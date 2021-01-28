@@ -1,3 +1,4 @@
+![Our lounge](P1380489.JPG)
 Christmas begins before Christmas. Christmas begins well before Christmas.
 For us it could be said to begin with Christmas lists. Not being imaginative, or
 strongly endowed with mind-reading abilities, we solicit ideas for what to buy
@@ -13,6 +14,7 @@ parcel arrived from [YesAsia](https://www.yesasia.com/global/en/home.html) on th
 concealing the presents at home from one another - this year I used a suitcase
 which I hope hid the smells of bath stuff.
 
+![Toffee set](P1380493.JPG)
 There a number of traditions to keep going, particularly for Virginia's family.
 She makes toffee which is much appreciated down in Loughton. We take that down
 along with an apple crumble which she made this time without cinnamon to
@@ -26,6 +28,7 @@ got outside so looked around the nearby streets. But sometime later she
 re-materialised as if nothing had happened - she's obviously mastered the art
 of invisibility.
 
+![Elm Bank care home](P1380511.JPG)
 Christmas Day we managed
 to Skype one of Virginia's sisters out in New Zealand. Quite funky display and
 sound waiting for Skype to connect! That it works is a feat of technology.
@@ -43,6 +46,7 @@ Loughton on Boxing Day. So they had started
 the meal at Virginia's parents before we got there. We had to pull crackers
 while the dog was shut outside.
 
+![The famous quiz](P1380519.JPG)
 The next stage is to repair to the house of Virginia's brother William two doors
 away for opening presents, and then the Christmas Quiz run this year by Charlotte.
 A lot of the questions made me realise I'm behind the times and culturally irrelevant.

@@ -1,3 +1,5 @@
+![The Kick](the_kick.jpg)
+
 | | |
 |-|-|
 Film|[The Kick](https://www.imdb.com/title/tt2020110/)

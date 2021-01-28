@@ -1,3 +1,4 @@
+![Seventeen entrance on Azura](entrance.JPG)
 Each cruise we have had a special meal by ourselves instead of eating in the
 usual place. Despite the cover charge (&pound;28 each) we went to the
 Jamie Oliver *Seventeen* restaurant on board.  And had a great meal.

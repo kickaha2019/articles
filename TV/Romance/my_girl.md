@@ -1,3 +1,5 @@
+![My Girl](my_girl.jpg)
+
 | | |
 |-|-|
 Drama|&#47560;&#51060; &#44152; / My Girl
@@ -8,7 +10,7 @@ Transmitted|14th December 2005 to 2nd February 2006
 Cast|Lee Dong-Wook, Lee Da-Hae, Lee Joon-Gi, Park Si-Yeon
 Details|16 episodes
 Themes|Love triangles, impersonation
-Links|[Official website](http://allvod.sbs.co.kr/allvod/vodProgramDetail.do?pgmId=00000322657) [Asian Wiki](http://asianwiki.com/My_Girl_(Korean_Drama)) [Korean Drama](https://www.koreandrama.org/my-girl/) [Korea Tourism Guide](http://english.visitkorea.or.kr/enu/CU/CU_EN_8_5_1_15.jsp)
+Links|[Official website](http://allvod.sbs.co.kr/allvod/vodProgramDetail.do?pgmId=00000322657) [Asian Wiki](http://asianwiki.com/My_Girl_(Korean_Drama))
 
 The confidence trickster daughter of a gambling swindler is persuaded
 to pretend to be the long-lost granddaughter of a rich tycoon who's on

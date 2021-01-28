@@ -1,3 +1,4 @@
+![Korean Folk Village](folk_museum3.jpg)
 We checked out of the Aventree Hotel Seoul on a cloudless morning, a manager of the travel
 agents [Korea Holiday Planners](http://www.holidayplanners.co.kr/) who had arranged my 7-day tour handed
 out pretty bags of various sweets including chocolates (which I passed on) and seaweed (which I
@@ -15,6 +16,7 @@ We stopped at a very decent service station for lunch, a large food hall with 8 
 dispensing different dishes but one place where you ordered. I had a nice soup with rice
 dumplings in it (tteok-wang-mandu-guk), one returned the tray back to the counter it came from.
 
+![Beopjusa Buddha](songnisan_buddha.jpg)
 It was then on to [Songnisan Park](http://english.knps.or.kr/Knp/Songnisan/Intro/Introduction.aspx?MenuNum=1&Submenu=Npp),
 a very large area where one can walk for hours up scenic mountains but we in our short time just saw
 the [Beopjusa](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264271)
@@ -31,6 +33,7 @@ A long drive onto Daegu, past more families of skyscrapers being built, past a f
 burial areas (less common now as the government owns most land, few have hillsides to put graves onto),
 past more rice paddies and greenhouses, past houses of brick but with traditional Chinese tiled roofs.
 
+![Daegu Grand Hotel](daegu_grand.jpg)
 We arrived at the grand [Grand Hotel](http://www.daegugrand.co.kr/grand/main/index.php),
 where I got given room 1783 and then got confused as the lift
 only went up to floor 12. It turned out Koreans like writing 7 in a strange way. The room is nice,

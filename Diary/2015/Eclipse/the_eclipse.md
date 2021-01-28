@@ -1,3 +1,4 @@
+![Waiting for the Eclipse](eclipse_figure.JPG)
 There was snow at 5am they said (I wasn't up then but slept in snatches due to
 the anticipation). When I looked out I could just see cloud.
 It rained. It was choppy.
@@ -12,6 +13,7 @@ turned a switch or a conjuror done a trick the sun was replaced by a burning jet
 Totality lasted two to three minutes, it was bodacious.  The crew sang something, oohs and aahs,
 magic in the sky. Wild applause as the moon slipt off the sun and the full effulgence returned.
 
+![Totality](eclipse_totality.JPG)
 The sea is a big place, besides the [Boudicca](https://www.fredolsencruises.com/our-ships/our-cruise-ships/boudicca) Fred Olsen's [Braemar](https://www.fredolsencruises.com/our-ships/our-cruise-ships/braemar) and
 [Black Watch](https://www.fredolsencruises.com/our-ships/our-cruise-ships/black-watch) were also around the Faroe Islands, and there was a P&O ship
 and other ships too. But we were alone where we were. Later on the Fred Olsen ships

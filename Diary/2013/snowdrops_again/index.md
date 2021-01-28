@@ -4,3 +4,7 @@ Our annual pilgrimage to see the snowdrops at
 running it as a business?  I was struck as we sat in the posh
 cafeteria by the adverts for people to hire [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill) for
 weddings and corporate events.
+
+![A display of snowdrops by the start](p1_display.JPG)
+![Snowdrops au naturel](p2_bed.JPG)
+![The colours of winter at Anglesey Abbey](p3_colours.JPG)

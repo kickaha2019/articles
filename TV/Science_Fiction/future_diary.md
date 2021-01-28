@@ -1,3 +1,5 @@
+![Future Diary](future_diary.jpg)
+
 | | |
 |-|-|
 Drama|&#26410;&#26469;&#26085;&#35352;: Another World / Future Diary: Another World

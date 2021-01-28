@@ -1,3 +1,4 @@
+![Our new Kia cars](P1380066.JPG)
 The Skodas we were driving had been declining for some while - the grating
 noises and screaming bearings from my car in particular urged us to a drastic
 cause of action. Our friendly car mechanic Brian said my car needed changing

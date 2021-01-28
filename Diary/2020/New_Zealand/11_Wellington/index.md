@@ -1,3 +1,4 @@
+![Smaug at Wellington airport](IMG_1257.jpg)
 Took a taxi (expensive but simpler) from [Wellington Airport](https://www.wellingtonairport.co.nz/)
 to the [Bolton Hotel](https://www.boltonhotel.co.nz/) which was really
 upmarket! I didn't have a room I had a suite of bedroom large bathroom lounge and
@@ -10,6 +11,7 @@ paper. To keep the waitress happy I had a Kahlua sponge which I didn't really ne
 Wellington has steep slopes, and a good range of restaurants.
 
 # January 16th 2020
+![Weta Workshop](IMG_1192.jpg)
 Caught the shuttle from Wakefield Street to [Weta Workshop](https://www.wetanz.com/) for the tour which was
 the main reason for coming to Wellington. I'm impressed by the work [Weta Workshop](https://www.wetaworkshop.com/visit-us/workshop-tours/) have done,
 we did see one guy working on something for a new Jurassic Park film.
@@ -28,6 +30,7 @@ the [Chinese Dumpling Company](http://www.thedumplingco.co.nz/) place
 near the hotel on 16 dumplings with oolong tea. A little guesswork
 on what I was going to get.
 
+![Zealandia](IMG_1248.jpg)
 Went to do a night tour at [Zealandia](https://www.visitzealandia.com/),
 the taxi drivers wanted cash but not the NZD100
 bill I had. I left my water at the hotel, almost had to buy water container

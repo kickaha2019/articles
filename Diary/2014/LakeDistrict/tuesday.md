@@ -1,3 +1,4 @@
+![Hill Top](beatrix_house.JPG)
 Tuesday and we ventured to see [Hill Top](https://www.nationaltrust.org.uk/hill-top), a house
 belonging to Beatrix Potter.  A place of pilgrimage for Japanese as much as for English, I
 don't know why.  The Satnav wasn't entirely to blame when it led us on a route which culminated

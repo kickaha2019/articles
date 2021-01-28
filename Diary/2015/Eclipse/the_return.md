@@ -1,3 +1,4 @@
+![Captain and officers receiving the passengers](boud_captain.JPG)
 Now back in the UK!
 
 The last few days of the cruise were slow - Sunday there was
@@ -9,6 +10,7 @@ Baked Alaskas with sparklers were triumphantly carried into the restaurant.
 Our cabin stewardess Atitaya took part in the crew concert which had some
 Asian dancing I liked to see.
 
+![Passenger luggage (at end of cruise)](boud_luggage.JPG)
 Some people put their bags out a day early.
 
 The last full day saw the passenger talent show . . . and we crammed clothes

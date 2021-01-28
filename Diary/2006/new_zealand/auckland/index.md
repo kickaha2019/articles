@@ -1,3 +1,4 @@
+![Auckland skyline with the Sky Tower prominent](auckland_skyline.jpg)
 Not everything ran according to plan when I visited New Zealand in February 2006. The weather and my carelessness denied me some expected highlights. Nonetheless I saw some great scenery, saw some of the endemic wildlife, and spent good times with my wife's relatives in Auckland. They showed me round Auckland, places like 3 Kings Hills which is now only 2 hills as they used the third for building material. That was as important as anything, I like travelling distance and meeting friends.
 
 The weather is changeable - when it rained it rained and blew. Boat trips (like I had planned to Tiri Tiri Matangi) can get easily cancelled. Mostly the weather was fine, lovely clear air, you can see for miles, but not as hot as parts of Australia.

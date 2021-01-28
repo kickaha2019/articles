@@ -1,3 +1,5 @@
+![Peking Opera Blues](peking_opera_blues.jpg)
+
 | | |
 |-|-|
 Film|&#20992;&#39340;&#26086; (Peking Opera Blues)

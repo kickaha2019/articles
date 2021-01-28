@@ -1,3 +1,5 @@
+![And The Devil Will Drag You Under](and_the_devil.jpg)
+
 *And The Devil Will Drag You Under* (Jack Chalker 1979) is about an alcoholic demon's
 quest to save the world from collision with a large heavy object (in this case an asteroid.)
 The demon contrives to send two humans on missions to collect the magical orbs

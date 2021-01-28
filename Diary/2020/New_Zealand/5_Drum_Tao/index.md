@@ -1,3 +1,4 @@
+![Alternative Theatre foyer](IMG_0789.jpg)
 After the Tempura lunch I had too much time to kill before seeing the
 [Drum Tao](http://www.drum-tao.com/main/english)
 [Mangekyo](https://mangekyo-tokyo.com/en/) show at the
@@ -15,6 +16,7 @@ instruments also used) but with modern theatrics and staging and athleticism.
 Mainly male performers but also three women laying into a range of drums. During the
 show I made use of a power-pack to recharge my phone, worth taking it on this trip.
 
+![Encore](drum_tao.jpg)
 We were allowed to take pictures during an encore which was kind. To show my
 appreciation of such a bravura event I purchased a DVD souvenir. The show was powerful
 sorry they didn't have more people to see it.

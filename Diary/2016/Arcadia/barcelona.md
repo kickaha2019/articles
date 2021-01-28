@@ -1,3 +1,4 @@
+![Gaudi buildings in Barcelona](gaudi.jpg)
 We did the Gaudi tour in Barcelona and it was by far the most enjoyable port visit.
 Barcelona is a well-laid out cultural city, the city blocks are called 'apples' and have
 octogonalish shapes which our guide praised. The tour started by the guide showing
@@ -13,6 +14,7 @@ a film set and a theme park - artificial grottoes, tree-like pillars, witches's
 houses, salamander water system. A lot of tourists there, and a lot of dubious tack
 being sold too.
 
+![Sagrada Familia](sagrada.jpg)
 As wonderful as that was the highlight was the beautiful unfinished
 [Sagrada Fam&iacute;lia](https://www.sagradafamilia.org/en/)
 cathedral. There were crowds outside gaping at and shooting it. But inside it was

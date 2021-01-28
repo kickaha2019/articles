@@ -1,3 +1,5 @@
+![Senlin Ascends](SenlinAscends.jpg)
+
 *Senlin Ascends* (Josiah Bancroft 2013) has worthily made it from
 being originally self-published to being released by a major publisher.
 It is the tale of Senlin, a mild-mannered school teacher, who decides to

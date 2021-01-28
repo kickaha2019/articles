@@ -1,3 +1,4 @@
+![Silla tombs at Daereungwon](silla_tumuli.jpg)
 Checked out of the Grand Hotel after another buffer breakfast - our first stop was the very
 impressive burial mounds of the Silla kingdom at Daereungwon, Gyeongju. Made me think of Sutton
 Hoo but on a far bigger scale. Plenty of school children as usual, and also a film crew shooting
@@ -16,6 +17,7 @@ from the burial mounds - the stars being the golden Royal crowns which were worn
 
 A break for lunch at which my trying for a lighter lunch only got me Korean fast junk food - yeucch.
 
+![King Wonseong's burial mound](wonseong_tomb.jpg)
 We then saw [King Wonseong's burial mound](http://english.visitkorea.or.kr/enu/index.kto?cid=999477),
 guarded by 4 lions and twelve zodiacal beasts.
 It had an altar in front at which our guide told us the descendants of the Silla Kings

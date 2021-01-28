@@ -1,3 +1,5 @@
+![Labyrinth](labyrinth.jpg)
+
 | | |
 |-|-|
 Film|[Labyrinth](https://www.imdb.com/title/tt0091369/)

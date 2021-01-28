@@ -1,3 +1,4 @@
+![Delft pottery factory](delft_1.JPG)
 We had a manic comedian as a local guide who took us to a coffee place
 in Delft's main square, where there is a market seemingly of pottery more artistic
 than useful. He took some of us on an optional

@@ -1,0 +1,7 @@
+![Causeway to Holy Isle](Causeway.JPG)
+![On the Beach](beach.JPG)
+![Window to nowhere from nowhere](Window.JPG)
+![The Castle](Castle.JPG)
+![Our little group](Group.JPG)
+![The lunar eclipse](lunar_eclipse.JPG)
+![Eider ducks honest](eider_ducks.JPG)

@@ -1,3 +1,4 @@
+![Entrance to the Thursford Collection](p01_entrance.JPG)
 Virginia and I set off at half ten this morning, aiming
 to get there in better time than last year.  It was an
 awful drive, the rain and particularly spray from lorries
@@ -13,6 +14,7 @@ close to Thursford including another water splash rather than
 the route everyone else seemed to take.  Perhaps we should update
 it.
 
+![Fantasy Land](p04_fantasy.JPG)
 We did reach the
 [Thursford Collection](https://www.thursford.com/) just after it opened that day for the matinee
 [Thursford Christmas Spectacular](https://www.thursford.com/christmas-spectacular/) show, ahead of most of the coaches.  A pair of
@@ -29,6 +31,7 @@ Fantasy Land was a comfortable place for a comfort break.
 The contrast of the steam engines with their valves and
 pipes against the ethereal Christmas lights was enchanting.
 
+![The wide stage](p02_stage.JPG)
 The Christmas show started at two.  It wasn't the wonderful
 novelty of seeing it the last time, second time is always
 different.  There were repeated motifs or devices like the
@@ -45,6 +48,7 @@ used several sets of eyes to see all that was happening.
 It was a visual as well as an aural feast with at one point a
 spectrum of pastel dresses.
 
+![The decorated premises](p03_carousel.JPG)
 It was just so crowded.  Shopping was like being trapped in a
 traffic jam through a village with a one-way system.
 Long queues for the toilets.  People chattering

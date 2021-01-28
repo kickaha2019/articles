@@ -1,3 +1,5 @@
+![Chocolate](chocolate.jpg)
+
 | | |
 |-|-|
 Film|[Chocolate](https://www.imdb.com/title/tt1183252/)

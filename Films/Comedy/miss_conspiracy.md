@@ -1,3 +1,5 @@
+![Miss Conspiracy](miss_conspiracy.jpg)
+
 | | |
 |-|-|
 Film|&#48120;&#50416; GO ([Miss Conspiracy](https://www.imdb.com/title/tt2384794/))

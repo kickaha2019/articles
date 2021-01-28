@@ -1,3 +1,4 @@
+![At the Shires Rest](IMG_0989.jpg)
 Got to [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/)
 in plenty of time for the tour of Hobbiton. The car park was
 pretty full, the gift shop full of expensive models one could buy. They get a lot
@@ -14,6 +15,7 @@ they change the clothes on washing lines once a month. The tour finishes at the 
 Dragon where you have a choice of ale cider stout and ginger beer. I may have been unwise
 to choose and drink the cider based on my accident later.
 
+![Only hobbit hole one can step into](IMG_1032.jpg)
 I decided to have a lamb burger, and another long black for lunch at the [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/).
 To start with the waitress gave me the drink for another table.
 Clumsily I knocked over the long black when I got it as I tried to catch the receipt as the wind

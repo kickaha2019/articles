@@ -1,3 +1,5 @@
+![Card 2013](Card2013.jpg)
+
 "Card 2013" is a Christmas card for 2013 masquerading as a sequence of
 hidden object puzzles, or perhaps it's the other way
 around.

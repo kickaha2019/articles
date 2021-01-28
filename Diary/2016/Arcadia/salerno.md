@@ -1,3 +1,4 @@
+![Herculaneum](herculaneum.jpg)
 As elsewhere the ship docked at a container port - on the dockside were
 artistic piles of aluminium railway sleepers. We were on bus 4 for the Herculaneum
 tour, the stickers are not very adhesive and a fellow guest lost theirs almost

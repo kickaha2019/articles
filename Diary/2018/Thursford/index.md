@@ -8,3 +8,8 @@ The shops were more crowded this year, and the marquee had pretty
 much filled up when we got there just after 12pm thanks to a
 detour the Satnav suggested. It is a long haul there and back,
 but it is a grand size show.
+
+![Entrance to Thursford](P1390113.jpg)
+![One eaterie](P1390088.jpg)
+![Santa's magical journey](P1390096.jpg)
+![Inescapable shops](P1390103.jpg)

@@ -1,3 +1,4 @@
+![Seokguram grotto](seokguram.jpg)
 A very busy day. We got taken to see a National Treasure Buddha at
 [Seokguram](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264260) in a
 grotto up a mountain (only it wasn't a real cave more a dome) - along with the usual
@@ -23,6 +24,7 @@ Korean lunch I had something along dim sum lines. On the TV was showing an episo
 Korean TV drama "Mirror of the Witch" which my fellow travellers didn't appreciate the
 cheesy melodrama.
 
+![Hand in sea at Homigot](homigot_hand.jpg)
 The coach then drove to Homigot near Pohang and a cove called
 [Homigot Sunrise Square](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=806297) or Tiger's Tail, where many
 Koreans watch the sun rise at the start of the new Lunar Year. The local government
@@ -42,6 +44,7 @@ have a variety of melon which is stripey. Our last stop was a small Buddhist tem
 which has a Buddha sculpture facing in many directions. It's a small poor
 temple, few lanterns with hanging up, whereas the big temples have loads of money.
 
+![Gyeongju Commodore Hotel](commodore_hotel.jpg)
 I did try to eat out in the evening, but getting turned away from one place
 (I don't blame them as if we couldn't communicate it wouldn't be fun for anyone)
 I resorted to eating in the hotel's Japanese restaurant. I've never had tempura before with

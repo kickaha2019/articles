@@ -1,3 +1,4 @@
+![Warnemunde](warnemunde.JPG)
 Poor Warnemunde (said Varnemunde) was afflicted by rain when
 "Queen Elizabeth" visited. The place is full of charm, not too
 big, you can easily get to cities like Rostock but we didn't.

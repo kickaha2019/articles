@@ -1,3 +1,5 @@
+![The Horse and his Boy](horse_and_boy.jpg)
+
 *The Horse and his Boy* (1954) is a Narnia story by C S Lewis
 which while definitely part of the Chronicles of Narnia is
 different to the other books.  It is all set in the land of

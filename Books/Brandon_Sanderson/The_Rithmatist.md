@@ -1,3 +1,5 @@
+![The Rithmatist](The_Rithmatist.jpg)
+
 [The Rithmatist](https://brandonsanderson.com/books/the-rithmatist/the-rithmatist/) (2013)
 is a young adult novel set in a fantasy
 version of our real world. The United States is instead a united

@@ -1,3 +1,5 @@
+![The Four](the_four.jpg)
+
 | | |
 |-|-|
 Film|&#22235;&#22823;&#21517; ([The Four](https://www.imdb.com/title/tt2204340/))

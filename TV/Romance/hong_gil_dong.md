@@ -1,3 +1,5 @@
+![Hong Gil Dong](hong_gil_dong.jpg)
+
 | | |
 |-|-|
 Drama|&#53132;&#46020; &#54861;&#44600;&#46041; / Hong Gil Dong

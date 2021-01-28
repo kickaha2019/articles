@@ -1,3 +1,5 @@
+![My Little Nightmare](akumu_chan.jpg)
+
 | | |
 |-|-|
 Drama|&#24746;&#22818;&#12385;&#12419;&#12435; / My Little Nightmare (Akumu Chan)

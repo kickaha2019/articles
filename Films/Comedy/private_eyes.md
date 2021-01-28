@@ -1,3 +1,5 @@
+![The Private Eyes](private_eyes.jpg)
+
 | | |
 |-|-|
 Film|&#21322;&#26020;&#20843;&#20841; (The Private Eyes)

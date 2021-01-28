@@ -1,3 +1,5 @@
+![The Kingdom Beyond the Waves](KingdomBeyondWaves.jpg)
+
 *The Kingdom Beyond the Waves* (2008) is the second book in
 [Stephen Hunt](http://www.sfcrowsnest.com/author/index.php)'s
 Jackelian series, which is set in a steampunk

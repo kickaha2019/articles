@@ -1,3 +1,4 @@
+![Narita Limousine Bus](IMG_0842.jpg)
 I had a second sleepless night at [Hotel Gracery](https://shinjuku.gracery.com/) so decided I couldn't risk any more
 tourism. A big shame as I was looking forward to seeing
 [teamLab Borderless](https://borderless.teamlab.art/), and also
@@ -21,6 +22,7 @@ and [The Confidence Man JP](https://www.imdb.com/title/tt9552258/) to pass the t
 In the toilet I pressed the wrong button to flush and instead had to explain to a
 stewardess there was no problem! I asked for water and they offered snacks as well very welcome.
 
+![Arataki Visitor Centre](IMG_0875.jpg)
 A big reason for going to New Zealand was to see Virginia's sister Vicky who lives in
 Auckland. Vicky and her husband Bruce looked after me very well, ferrying me to and from the airport
 as needed. Bruce took me to [LynnMall](https://www.kiwiproperty.com/lynnmall/en/)

@@ -1,3 +1,5 @@
+![Alien vs. Ninja](alien_vs_ninja.jpg)
+
 | | |
 |-|-|
 Film|[Alien vs. Ninja](https://www.imdb.com/title/tt1592503/)

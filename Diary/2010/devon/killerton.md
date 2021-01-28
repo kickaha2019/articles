@@ -1,3 +1,4 @@
+![Killerton House](killerton.JPG)
 We went to see on the Monday
 [Killerton House](https://www.nationaltrust.org.uk/killerton),
 an estate which was notable for its owner (a Sir Acland) voluntarily giving it away because he believed such places should be owned communally. Good for him - wouldn't expect that kind of behaviour from even Britain's most socialist MPs. Killerton had a fashion through the ages display upstairs in addition to the usual old books and furniture and pictures.

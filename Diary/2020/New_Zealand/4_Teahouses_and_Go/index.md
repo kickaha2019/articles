@@ -1,3 +1,4 @@
+![Shinjuku Gyoen](IMG_0738.jpg)
 I barely slept the previous night, perhaps my brain was overheated thanks to the
 [Robot Restaurant](https://shinjuku-robot.com/sp/),
 perhaps due to the timezone change. I was the first to breakfast at 6:30
@@ -18,6 +19,7 @@ On entering I was greeted by an old lady (I forgot to shut the sliding door) who
 gave me a Japanese sweet and a wooden knife to cut it into bitesize pieces. The green tea came
 later and was interesting, not what I was used to.
 
+![Nihon Kiin](IMG_0764.jpg)
 I confused my PASMO card when I went to the wrong line at Shinjuku Sanchome Station to
 get to Ichigaya then backed out. Happily staff saved the day. [Google Maps](https://www.google.com/maps) saw me
 safely from Ichigaya to the

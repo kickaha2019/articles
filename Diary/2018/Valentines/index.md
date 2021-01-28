@@ -15,3 +15,11 @@ restaurant. The Phoenix has great oak beams from when it was a pub, and we
 sat in the corner we often sit in. For me it's an experience as much as
 it is eating. They kindly gave Virginia one of the roses left over from
 their Valentine's Day stock.
+
+![Say it with flowers](P1380546.JPG)
+![Exchange of cards and bath bombs](P1380535.JPG)
+![Virginia at our corner table](P1380536.JPG)
+![Hot and sour soup and checken and sweetcorn soup](P1380538.JPG)
+![Hors d'oeuvres](P1380539.JPG)
+![Crispy fried duck](P1380541.JPG)
+![Sizzling prawns and other dishes](P1380542.JPG)

@@ -1,3 +1,5 @@
+![The Changeling Sea](changeling_sea.jpg)
+
 *The Changeling Sea* (1988) is a small book with a rich large
 story in it.  Peri lives her life by the sea, working at an
 inn cleaning on her hands and knees.  The sea has taken her

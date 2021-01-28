@@ -1,3 +1,5 @@
+![A Series of Unfortunate Events](unfortunate_events_1.jpg)
+
 | | |
 |-|-|
 Drama|A Series of Unfortunate Events (Season 1)

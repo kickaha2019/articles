@@ -1,3 +1,5 @@
+![Mischievous Kiss](mischievous_kiss.jpg)
+
 | | |
 |-|-|
 Drama|&#12452;&#12479;&#12474;&#12521;&#12394;Kiss&#65374;Love in Tokyo / Mischievous Kiss: Love in Tokyo

@@ -8,10 +8,17 @@ if one doesn't want to get one's feet wet.
 
 The cafe was interesting, but I don't know I want the cucumber and mint presse
 again. So colourless I thought they had brought me water by mistake! But the
-taste was so so pungent.
+taste was really pungent.
 
 We then went to [Foxton Locks](https://canalrivertrust.org.uk/places-to-visit/foxton-locks), a picturesque marvel of canal engineering
 where canal boats can ascend or descend in a staircase of ten locks manned
 by volunteers. To save water there are side ponds and two sluices for each lock.
 A popular spot with a pub at the bottom, and a cafe at the top which we
 patronised for ice cream cones.
+
+![Medbourne](IMG_0443.jpg)
+![Nevills in Medbourne](IMG_0444.jpg)
+![Ford in Medbourne](IMG_0447.jpg)
+![Foxton Locks](IMG_0448.jpg)
+![Foxton Locks](IMG_0450.jpg)
+![Foxton Locks](IMG_0453.jpg)

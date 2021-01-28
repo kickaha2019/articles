@@ -1,3 +1,4 @@
+![The dammed Lake Unmun](unmun_lake.jpg)
 Buddha's birthday today and [Unmunsa Buddhist Nun's temple](http://www.unmunsa.or.kr/) was packed! But before that we
 stopped at a dammed Lake Unmun which cost hundreds of villagers their homes. It was dammed for
 irrigation. The coach got caught up in a massive tailback to the temple, and we had to
@@ -13,6 +14,7 @@ kind of garden with Buddhist sculptures on which coins had lodged. I feel embarr
 there as a tourist, somehow diluting the moment for the worshippers - perhaps though many
 were there for the experience not as devout believers.
 
+![Tongdosa service station](tongdosa.jpg)
 Onto a service station at Tongdosa where I had udon noodles with fried tofu - another job
 where you order at a counter and get a number. I also tried (with the guide's help)
 walnut balls which proved to be warm (best warm) pastry covered bean curd with walnut
@@ -38,6 +40,7 @@ clear day over Busan. Then we walked to the
 routers in each room) and waited for the coach to be able to reach us with our
 baggage. We only found one lift in the Tower Hill hotel to start with which was inconvenient.
 
+![Shabu Shabu restaurant in the mall](shabu_shabu2.jpg)
 In the evening (it was in the evening when we eventually reached our rooms) I walked to the
 [Lotte Department Store Busan](http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273787) and
 got too close to a Shabu Shabu bar, letting myself be talked into trying one of the

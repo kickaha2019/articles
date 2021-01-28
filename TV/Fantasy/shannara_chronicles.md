@@ -1,3 +1,5 @@
+![Shannara Chronicles](shannara_chronicles.jpg)
+
 | | |
 |-|-|
 Drama|Shannara Chronicles (Series 1)

@@ -1,3 +1,5 @@
+![The Master's Sun](masters_sun.jpg)
+
 | | |
 |-|-|
 Drama|&#51452;&#44400;&#51032; &#53468;&#50577; / The Master's Sun

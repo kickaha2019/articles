@@ -1,3 +1,4 @@
+![Max Gate](P1390290.jpg)
 We were about to use our [National Trust](https://www.nationaltrust.org.uk/) membership again at [Kingston Lacy](https://www.nationaltrust.org.uk/kingston-lacy) but the Satnav died,
 eerily exactly a year since we lost Tabitha. We felt bereft and lost, no car atlas in the car,
 we were lost in the wilds. You come to rely on technology and only realise how much you rely

@@ -1,3 +1,5 @@
+![Zatoichi](zatoichi.jpg)
+
 | | |
 |-|-|
 Film|Zatoichi

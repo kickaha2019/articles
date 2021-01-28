@@ -1,3 +1,4 @@
+![Breakfast congee at the Tokyo hotel](p23_breakfast.JPG)
 More of a scrum this morning at the Marmolada, a throng of
 Chinese tourists who even had vouchers!  But I can learn from the
 budget travellers, the convenience store in the hotel was very
@@ -17,6 +18,7 @@ me some things, the much prized cherry blossom bloomed in Tokyo
 unusually early thanks to an unexpected warm period.  Sake the drink
 and the Japanese for salmon are homophones.
 
+![Torii gate at Toshugu Shrine](p31_gate.JPG)
 Our first stop was the
 [Toshugu shrine](https://www.japan.travel/en/spot/1482) which is a major temple complex
 based on the founder of the Tokugawa shogunate.  It was a very
@@ -38,6 +40,7 @@ products.  A guess.  Another temple priest with gusto rang a
 giant drum using a suspended wooden bar.  May have been to mark
 the hours.
 
+![Tamozawa Imperial Villa in Nikko](p35_villa.JPG)
 We had udon noodles for lunch, with the components of the meal
 in different pots.  I was bemused by what we had to do with that.
 The duck plus noodles in the heated pot one ate, the shrimp and
@@ -52,6 +55,7 @@ the floor was definitely without underfloor heating.  A lovely
 garden, and there was an intriguing chain of small cups hanging
 from the eaves down which raindrops apparently cascade.
 
+![Fish snacks at Kegon Waterfall](p38_fish.JPG)
 We saw [Kegon waterfall](https://www.japan-guide.com/e/e3812.html) which wasn't a certain sighting because of the
 general fogginess.  Amiko encouraged us by saying we could hear
 the waterfall even if we couldn't see it.  And there would always be the

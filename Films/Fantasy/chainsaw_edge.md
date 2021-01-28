@@ -1,3 +1,5 @@
+![Negative Happy Chainsaw Edge](chainsaw_edge.jpg)
+
 | | |
 |-|-|
 Film|[Negative Happy Chainsaw Edge](https://www.imdb.com/title/tt1024856/)

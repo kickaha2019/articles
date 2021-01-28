@@ -1,3 +1,4 @@
+![Igloo hotel at Sorrisniva](alta_igloo2.JPG)
 We stayed two days in Alta, the furthest north I've ever been. One of the initial
 attractions that tempted me was to stay a night in the
 [Sorrisniva Igloo Hotel](https://sorrisniva.no/igloo-hotel). However
@@ -15,6 +16,7 @@ fireplaces and frozen couches. Those who stay get reindeer skins for warmth.
 Another kind of warmth was provided by the ice bar which served a potent blend of vodka in
 blue Cura&ccedil;ao in slippery ice glasses. Strong!
 
+![Northern Lights cathedral exterior](alta_nlc_outside.JPG)
 We went to another concert in the [Northern Lights Cathedral](http://www.nordlyskatedral.no/),
 a technological cathedral of futuristic shape clad in titanium. The inside is as adventurous
 as the outside, including a golden ladder to heaven and a bronze Christ melding ancient and ultra-modern

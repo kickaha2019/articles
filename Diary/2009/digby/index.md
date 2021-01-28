@@ -5,3 +5,9 @@ He's a bit sure of himself is Digby. I'm friendly not frosty like the others he 
 I find Digby rather intimidating - he's given to icy stares, he's taller than I am, and he's definitely clammy to the touch. Get too in with Digby and he'll chill you to the marrow.
 
 But we all have our ways. Digby is quite accommodating, and willing to shelve things which is nice. We all compartmentalise to some extent. We'll let Digby stay - freeze jolly good fellow.
+
+![The new fridge freezer](fridge1.JPG)
+![Virginia tells the fridge freezer how to behave](ginny.JPG)
+![The fridge compartment](loaded.JPG)
+![The freezer compartment](freezer.JPG)
+![A fridge freezer's view of the world](outlook.JPG)

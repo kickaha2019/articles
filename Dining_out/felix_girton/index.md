@@ -12,3 +12,7 @@ well take care of.
 We tend to go to the [Hotel Felix](https://www.hotelfelix.co.uk/) for our cats'
 birthdays.  It seems appropriate!  Sadly we don't take
 our cats which probably seems rather mean.
+
+![Approaching the Hotel Felix](DSCF2261.JPG)
+![The dining room decor](DSCF2263.JPG)
+![More dining room decor](DSCF2264.JPG)

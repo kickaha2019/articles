@@ -1,3 +1,5 @@
+![Roland digital piano](roland_piano.jpg)
+
 The keyboard I had been using for practice at home is of limited range, one key is prone to not sounding, and the touch is very light compared with the digital piano I have lessons with Jan Payne on.
 
 Eventually thinking about getting a better instrument, and talking about a better instrument, have grown into action. I ordered a Roland digital piano from

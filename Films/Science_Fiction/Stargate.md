@@ -1,3 +1,5 @@
+![Stargate](stargate.jpg)
+
 | | |
 |-|-|
 Film|[Stargate](https://www.imdb.com/title/tt0111282/)

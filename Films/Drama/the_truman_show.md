@@ -1,3 +1,5 @@
+![The Truman Show](the_truman_show.jpg)
+
 | | |
 |-|-|
 Film|[The Truman Show](https://www.imdb.com/title/tt0120382/)

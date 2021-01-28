@@ -1,3 +1,4 @@
+![Bath Abbey](p02_abbey.JPG)
 The [Albany Guest House](https://www.albanybath.co.uk/) was easy to get to thanks to the Satnav.
 Less sure about getting to the car park behind the guest house
 which was two spaces in what had been a sloping garden.
@@ -14,6 +15,7 @@ nuisance of the bathroom being separate it was fine, the
 downstairs breakfast area was nice and the cooked breakfast
 set one up for a day's exploring.
 
+![Outside the Roman baths](p01_baths.JPG)
 Bath feels like it hasn't changed much since Jane Austen's days,
 perhaps our guest house was around then?  Perhaps it was, but
 free wi-fi certainly wasn't.  The iPad proved useful for
@@ -25,6 +27,7 @@ The guest house kindly armed us with maps and guides and we set
 off for the
 [Roman baths](https://www.romanbaths.co.uk/) on the Friday afternoon.
 
+![Inside the Roman baths](p03_diagram.JPG)
 The presentation of the hot springs of Aqua Sulis has changed over
 the years.  The displays and audio-guide did a good job of trying
 to suggest what the Roman baths were like for the Romans.  They
@@ -49,6 +52,7 @@ nutritional value) and abysmally laid out tables where it was hard
 to tell which table I was sitting at.  So avoid anything
 saying modern English.
 
+![Virginia outside Jane Austen exhibition](p18_ginny.JPG)
 On the Saturday we found Bath receiving a flood of tourists
 disgorged from coaches.  The younger element seemed content to
 relax in the grassy park below the Royal Crescent rather than
@@ -62,6 +66,7 @@ We had tea and muffins in the sweet Regency tea-rooms
 upstairs, genteel!  They were kind to replace the toasted bun I
 ordered forgetting it would contain raisins with a cheese scone.
 
+![Assembly Rooms](p20_assembly.JPG)
 We saw a missable fashion display at the
 [Assembly Rooms](https://www.nationaltrust.org.uk/bath-assembly-rooms)
 but not the Assembly Rooms themselves as a Book Fair was in
@@ -82,6 +87,7 @@ at the
 [Pizza Express Bath Theatre Royal](https://www.pizzaexpress.com/bath-theatre-royal)
 which suited me better than nouvelle cuisine.
 
+![Dyrham Park](p27_dyrham.JPG)
 On the Sunday we dropped in on [Dyrham Park](https://www.nationaltrust.org.uk/dyrham-park) stupidly
 trusting the National Trust recommended postcode for the
 Satnav.  Mistake, went down one-track road only to find

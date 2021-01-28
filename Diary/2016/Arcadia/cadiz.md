@@ -1,3 +1,4 @@
+![Vejer](vejer.jpg)
 Our first port and first excursion! Cadiz (which the locals say more like Kar-dith, Kay-diss is
 the French way) has beautiful wide long beaches, one originally for women only (called beach of the
 women) then Victory beach which has cafes sited on the sand.

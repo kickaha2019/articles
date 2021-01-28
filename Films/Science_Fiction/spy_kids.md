@@ -1,3 +1,5 @@
+![Spy Kids](spy_kids.jpg)
+
 | | |
 |-|-|
 Film|Spy Kids

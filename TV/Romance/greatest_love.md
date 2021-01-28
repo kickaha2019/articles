@@ -1,3 +1,5 @@
+![The Greatest Love](greatest_love.jpg)
+
 | | |
 |-|-|
 Drama|&#52572;&#44256;&#51032; &#49324;&#46993; / The Greatest Love

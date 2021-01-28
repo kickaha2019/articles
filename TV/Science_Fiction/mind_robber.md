@@ -1,3 +1,5 @@
+![Mind Robber](mind_robber.jpg)
+
 | | |
 |-|-|
 Serial|The Mind Robber

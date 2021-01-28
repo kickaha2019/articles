@@ -1,3 +1,5 @@
+![All Night Long](all_night_long.jpg)
+
 | | |
 |-|-|
 Film|&#22812;&#30219;&#29378; (All Night Long)

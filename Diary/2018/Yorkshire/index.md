@@ -1,3 +1,4 @@
+![Aysgarth Falls](P1380554.JPG)
 We're just back from a visit to Aysgarth in North Yorkshire. A lovely
 area, pastoral and peaceful. Dry stone walls divided up the snow streaked hills.
 Sheep grazed the hills. Villages retained their age-old character. The Aysgarth
@@ -15,6 +16,7 @@ around. The weather smiled for once as we gave up, and instead saw the ruins of
 [Jervaulx Abbey](https://www.jervaulxabbey.com/), which were impressive hinting of when it was a major
 monastery.
 
+![Wensleydale Creamery](P1380601.JPG)
 Also worth seeing was the [Wensleydale Creamery](https://www.wensleydale.co.uk/), not just for its Wallace
 and Gromit connection. Cheese seemed to be an ingredient of all the dishes in the
 restaurant! The cheese production seemed to be a factory process, but they
@@ -28,6 +30,7 @@ the rocks beside the path. The Sword of Damocles stalactite was held up
 by string and glue as someone deliberately broke it on the first day of
 public access!
 
+![Richmond Georgian Theatre](P1380681.JPG)
 We also appreciated a visit to the [Richmond Georgian Theatre](http://www.georgiantheatreroyal.co.uk/), a bit of
 panicky rush getting there as parking was more than difficult in Richmond.
 The tour was enlightening about the revolting habits of theatre-goers in
@@ -36,6 +39,7 @@ a lot of detail about the history there. I was tempted and fell into the
 sin of buying a teapot at [Ceramic Inspirations in Leyburn](http://www.ceramicinspirations.co.uk/), and we also got
 a few chocolates at the [Inspired Chocolate](https://www.inspiredchocolate.co.uk/) place next door.
 
+![Bolton Castle](P1380575.JPG)
 We did see a couple of castles - [Bolton Castle](https://www.boltoncastle.co.uk/) and [Middleham Castle](https://www.english-heritage.org.uk/visit/places/middleham-castle/).
 The ruins weren't inspiring for us on our visit, though the
 muddy conditions and bird droppings didn't help.

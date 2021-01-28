@@ -1,3 +1,4 @@
+![Ephesus with soft toy](ephesus.jpg)
 Our soft toys have been with us to numerous places, sometimes in
 person but more often in spirit. Their view of the world and the places
 in the world are different to ours, and deserve to be heard. So I

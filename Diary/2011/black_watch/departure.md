@@ -1,3 +1,4 @@
+![Tabitha in her holiday 'home'](tabitha.JPG)
 Tabitha and Amelia safely stowed in
 [Country Cattery](https://www.countrycattery.com/).
 Check. Decrepit suitcase repaired with sticky tape. Check.
@@ -20,6 +21,7 @@ on August 11th didn't work so well as we had been waiting nearly
 two hours in poor conditions. That contributed to the flu I went
 down with after the cruise. But I'm getting ahead of myself here!
 
+![Dover cruise terminal 1](dover1.JPG)
 We arrived at Dover Cruise Terminal 1 to find it was an old railway
 station! Like stepping back in time, and perhaps cruising is about
 stepping back in time, its main attraction. Back to the days when time

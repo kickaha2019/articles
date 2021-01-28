@@ -1,3 +1,4 @@
+![Grieg and I get on](grieg.JPG)
 We managed the excursion to Grieg's house in Bergen, the last port of call, despite worrying about whether we would walk back in time to the coach. I need something to worry about. There was a great piano recital here by a local Bergen pianist dressed in traditional Norwegian gear. She really attacked the keyboard, and to me interpreted Grieg's music better than Mary Bruce.
 
 Grieg's house was a wooden somewhat ramshackle effort to me. Wood is used a lot in Norway - the Stave churches (which look more like Viking temples) are famous. Norwegians have a lot of natural resources, they say when their oil runs out they'll keep going on their freshwater reserves. There's a lot of water bottled up in the mighty Joksdal Glacier field.

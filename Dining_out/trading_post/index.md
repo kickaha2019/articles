@@ -5,3 +5,7 @@ was in a care home in Kettering. We would go there more often except when we vis
 Dad we often went on to see my sister nearby.
 
 Recommended.
+
+![The entrance to The Trading Post](P1380389.JPG)
+![The carvery and bar](P1380388.JPG)
+![The tables to eat at](P1380384.JPG)

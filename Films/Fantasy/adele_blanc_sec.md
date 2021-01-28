@@ -1,3 +1,5 @@
+![The Extraordinary Adventures of Adele Blanc-Sec](AdeleBlanc-Sec.jpg)
+
 | | |
 |-|-|
 Film|[The Extraordinary Adventures of Adele Blanc-Sec](https://www.imdb.com/title/tt1179025/)

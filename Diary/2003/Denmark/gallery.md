@@ -1,0 +1,5 @@
+![Viking burial field](burial_field.jpg)
+![The evil monster sand](dune_sign.jpg)
+![dune crossing Denmark](dune.jpg)
+![Skagen peninsula](skagen_peninsula.jpg)
+![The friendly Brodies](brodies.jpg)

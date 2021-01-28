@@ -1,3 +1,4 @@
+![Winchester Cathedral](cathedral.JPG)
 We returned to Winchester on Monday 14th, discovering Ginny's near side front tyre had a
 slow puncture so called breakdown people out later on return to East Meon.
 Winchester was a nightmare of closed streets and car parks and attractions like

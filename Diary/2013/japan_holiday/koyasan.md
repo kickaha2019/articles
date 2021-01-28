@@ -1,3 +1,4 @@
+![Train to Osaka Universal Studios theme park](p92_train.JPG)
 I wasn't sure when I dropped off my main case that the front desk
 staff at the Karasuma understood me (I was very relieved to see my case
 when I reached Osaka the following day).  The guide was already there
@@ -16,6 +17,7 @@ had donated a polar bear cub to Osaka zoo.  It's no longer a cub now.
 A good chat with the guide, her English wasn't bad but I had to expand
 some questions like "How long have you been a guide".
 
+![Funicular railway to Koyasan](p94_railway.JPG)
 Quite a trip still after the guide left me to my fate at Shin Imamiya,
 the train went through very scenic hills and then we had a funicular
 railway up to Koyasan.  I could have done without two fellow tourists
@@ -42,6 +44,7 @@ This hotel which must be close to a ryokan also had an onsen but I
 wasn't brave enough to try it.  And the Fukuchi-In also had very
 good Wifi!
 
+![Koyasan rock garden](p103_rocks.JPG)
 I couldn't check in until 3pm so I went to tour the Koyasan site
 as much as I could in a rainy afternoon, after having some Kitsune
 udon for lunch.  Koyasan has plenty of shops (both normal and
@@ -62,6 +65,7 @@ stupas and lanterns.  There was a space rocket (go figure),
 and Nissan had a couple of assembly line workers on a corporate
 effort.  By this stage I was pretty full of temple seeing.
 
+![Fukuchi-In inn in Koyasan](p111_inn.JPG)
 I got a trainee girl learning English when I finally checked in,
 I hope I was encouraging to her.  But it was hard going as any
 questions threw her off her reading of the script.  I read

@@ -1,3 +1,4 @@
+![Tresco Abbey Garden](tresco2.jpg)
 Local watermen ferried us in open boats from our ship at anchor to
 the island of Tresco as I admired the numerous rocks around, Virginia
 much preferred the lifeboats that the Columbus normally used as tenders.

@@ -1,3 +1,4 @@
+![The Peninsular restaurant where we dined](p13_restaurant.JPG)
 The cruise was on the P&O ship
 [Oriana](https://www.pocruises.com/cruise-ships/oriana/).
 We ate mostly in the
@@ -14,6 +15,7 @@ was enthusiastic entertainment, but I spent a lot of time reading.
 The cruise had a dancing theme to it, and I lasted half an hour
 learning the social waltz before Virginia took pity on me.
 
+![Andersons](p21_andersons.JPG)
 Internet access was poor to unusable a lot of the time.  It was
 crowded at times - a lot of people standing for the muster drill,
 in the shows, and even in the cinema.  Our dining table was a

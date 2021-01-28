@@ -1,3 +1,4 @@
+![The gardens](honfleur1.jpg)
 A long pilgrimage by coach to worship at Monet's house and garden
 in Giverny. This is a very popular
 [site](http://giverny.org/gardens/fcm/visitgb.htm), and the narrow
@@ -9,6 +10,7 @@ Japanese gardens over the road (accessed by an underpass sponsored
 by a Japanese) are very photogenic. In the house you see shadows
 left by Monet.
 
+![The Japanese garden](honfleur3.jpg)
 I did wonder why everyone had come to this temple of Art. Was it
 in the hope that some greatness might rub off, like people visit
 temples in the hope holiness will rub off? Or was it on the official

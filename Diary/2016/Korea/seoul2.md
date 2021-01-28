@@ -1,3 +1,4 @@
+![Silla Crown in the museum](museum_crown.jpg)
 The buffet breakfast (included in the holiday) was a mix of Western and Korean, there were only a fork
 and spoon on the tables so I first tried eating scrambled eggs and bacon without the aid of a knife.
 Later discovered there were knives to be had. I dozed off again afterwards as my body clock was out of
@@ -19,6 +20,7 @@ on a fine day the views would have been impressive from the top of the tower. St
 long way, and there were sweetshops at the top for the children. Namsan means South Mountain we were
 told - odd that Namsan in sound is so close to Nan Shan which would be the Chinese for South Mountain.
 
+![Changdeokgung Palace](palace.jpg)
 We were dropped in a good location for something to eat - a kind couple from Germany took pity on me,
 and let me join them for a lunch of Bibimbap and dumplings. A decent place and it was great talking to
 them. In Korea they use red for female (yin) and blue for male (yang). Got some postcards on the way
@@ -31,6 +33,7 @@ shape of Korea, much photogenic like the young girls who had fitted themselves o
 Our guide said most would be visitors from China and Taiwan who fancied wearing Korean period costumes
 from watching Korean TV dramas.
 
+![Gwangjang Market](gwangjang1.jpg)
 The tour rounded off with the day's highlight for me - a walk through the complicated matrix that is
 [Gwangjang Market](http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273761).
 A miraculous collection of stalls selling food, many where you can sit and eat. Some

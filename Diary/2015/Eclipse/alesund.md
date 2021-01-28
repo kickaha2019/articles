@@ -1,3 +1,4 @@
+![Boudicca docked in Alesund](alesund_town1.JPG)
 At 3am in the morning we were awoken by kettles and telephones and
 bottles flying around the cabin. A storm the captain had told us about
 the evening before had persisted and grown into a Force 12 hurricane
@@ -12,6 +13,7 @@ to get to skule. Dusty as cars have iron studs in their tyres for snow.
 A man walked illegally along one such tunnel, the coach driver honked and
 we later saw police going to arrest him.
 
+![Giske Church](alesund_kirk1.JPG)
 Giske Church was interesting. Pre-reformation it was Catholic, the Church had
 kissing crosses on it which pilgrims could kiss to get 100 days of time off purgatory.
 Post-reformation it became Lutheran. A notable called *Altarpiece Jacob*

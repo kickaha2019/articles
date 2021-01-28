@@ -1,3 +1,5 @@
+![The Hidden Fortress](hidden_fortress.jpg)
+
 | | |
 |-|-|
 Film|&#38560;&#12375;&#30758;&#12398;&#19977;&#24746;&#20154; (The Hidden Fortress)

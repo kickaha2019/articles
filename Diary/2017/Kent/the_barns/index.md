@@ -1,3 +1,4 @@
+![Our holiday cottage](P1380038.JPG)
 It was quicker over the Queen Elizabeth Bridge on the way to Kent than ever before, we wait and see how
 well the Dart charges go as the old toll-booths have gone replaced by a snapping
 licence plate scheme. We found [Etchinghall Barn](http://cranbrook.kent-towns.co.uk/directory/22509/etchinghill-barn/) with the normal amount of fun. It's a
@@ -17,6 +18,7 @@ for the family only - happily they didn't use it yet while we were there.
 Virginia read her way through the visitors' book which was interesting, some observations
 have been addressed since they were made.
 
+![Our holiday cottage lounge](P1380010.JPG)
 The charger saga continued that evening - the second time I plugged the new charger in
 there was a flash and it stopped working! Happily Virginia had brought two chargers with USB
 connections - tried the first one, the iPad recognised something had connected,

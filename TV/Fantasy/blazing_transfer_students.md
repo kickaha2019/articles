@@ -1,3 +1,5 @@
+![Blazing transfer students](blazing_transfer_students.jpg)
+
 | | |
 |-|-|
 Drama|&#28814;&#12398;&#36578;&#26657;&#29983; (Blazing transfer students)

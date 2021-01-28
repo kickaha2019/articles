@@ -1,3 +1,4 @@
+![Maiden Castle](P1390210.jpg)
 The Satnav led us to farmland and then gave up when we asked it to take us to see [Maiden Castle](https://www.english-heritage.org.uk/visit/places/maiden-castle/),
 so we gave up and headed somewhere else. Happily en route to somewhere we saw signs for [Maiden Castle](https://www.english-heritage.org.uk/visit/places/maiden-castle/) so off we went to be Iron Age Celts for an hour. [Maiden Castle](https://www.english-heritage.org.uk/visit/places/maiden-castle/) is a hill of mounds and ridges and ancient earthworks, complete with a school party! Good exercise up and down the ridges, though the palisades and dwellings had long gone.
 

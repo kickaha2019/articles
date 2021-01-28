@@ -1,3 +1,5 @@
+![The Luck of Relian Kru](relian_kru.jpg)
+
 *The Luck of Relian Kru* (1987) is set in a fanciful fantasy world.
 Relian Kru is a nobly born young man dogged by malevolent bad luck.
 He ends up at the castle of a sorcerer hoping that magic can cure

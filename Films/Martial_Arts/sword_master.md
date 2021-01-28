@@ -1,3 +1,5 @@
+![Sword Master](sword_master.jpg)
+
 | | |
 |-|-|
 Film|[Sword Master](https://www.imdb.com/title/tt5269396/)

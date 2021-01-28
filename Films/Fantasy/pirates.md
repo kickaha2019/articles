@@ -1,3 +1,5 @@
+![Pirates of the Caribbean](pirates.jpg)
+
 | | |
 |-|-|
 Film|Pirates of the Caribbean: The Curse of the Black Pearl

@@ -1,3 +1,4 @@
+![Formal gardens](coug_garden.JPG)
 Sunday morning we went to
 [Stratford Baptist Church](http://www.stratforduponavonbaptist.org.uk/),
 nice that so many there spoke to us. Lively music group with some long serving members on the drums and guitars. Hazardous parking in the street, the authorities patrol every hour to see if they can catch offenders parking a minute more than the legal hour.

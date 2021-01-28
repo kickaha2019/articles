@@ -1,3 +1,4 @@
+![Aix En Provence](aix.jpg)
 We docked at La Seyne sur Mer then after a very early breakfast caught coach 5 (moving from
 coach 4 which we were at the back after they filled the coach without counting how many were on it)
 to Aix en Provence. Pretty scenery with hilltop villages and vineyards (first in France
@@ -10,6 +11,7 @@ French Revolution). One of our
 party tried sitting on a rising bollard which slowly descended under him and he slowly
 fell to the ground!
 
+![Cezanne's path in Aix](aix2.jpg)
 Aix has artistic connections - Cezanne walked each day to paint
 hills and his path is now marked by gold nails in streets. Emile Zola and Darius Milhaud
 and others have plaques to them. On our tour of the artistic streets we saw

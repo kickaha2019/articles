@@ -4,6 +4,7 @@ from the English weather, mangy deer, lions at least braving the day, rhinos.  I
 place rather depressing as a reminder of how Man has trashed the planet.  On the plus side
 homo sapiens is well on the way to making itself extinct.
 
+![Swarthmoor Hall](swarthmoor_hall.JPG)
 More rewarding was going to [Swarthmoor Hall](https://www.swarthmoorhall.co.uk/), a key place
 in Quaker history.  The hospitable staff looked after us well.  The hall was interesting, an
 ornate newel post now 4 foot short as the roof had been raised.  George Fox's travelling

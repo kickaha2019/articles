@@ -16,3 +16,7 @@ There is a lot of information there, it does give an impression of those
 times. Not good times for the villeins and serfs and poachers. The lords
 really lorded it over everyone else. The cafe was heaving so we had lunch
 somewhere else, ending up at our nearest [Beefeater](https://www.beefeater.co.uk/steak-restaurant/Cambridge/Travellers-Rest.html).
+
+![Norman wooden castle](P1390045.jpg)
+![Toy museum guarded by dinosaurs](P1390043.jpg)
+![Exhibit at Mountfitchet Castle](P1390047.jpg)

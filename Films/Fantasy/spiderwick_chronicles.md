@@ -1,3 +1,5 @@
+![Spiderwick Chronicles](SpiderwickChronicles.jpg)
+
 | | |
 |-|-|
 Film|[Spiderwick Chronicles](https://www.imdb.com/title/tt0416236/)

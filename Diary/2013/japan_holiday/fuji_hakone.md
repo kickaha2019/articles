@@ -1,3 +1,4 @@
+![Mount Fuji from as far as coach went](p41_mount.JPG)
 This would have been Mum's birthday.  I could have told her of
 how I was doing in Japan, of how appreciative I was for all she
 did for me.
@@ -21,6 +22,7 @@ never got good results doing that.  If people around me are
 talking in English I can't ignore what they're saying, but
 if they talk in Hungarian or Basque it's just background noise.
 
+![Best view of Mount Fuji we got](p40_fuji.JPG)
 As we approached Mount Fuji fog reduced visibility, and then as the coach
 ascended upwards snow flurries started.  It was a white-out as
 far as we could go.  Snow was lying around Station 5.  By a
@@ -37,6 +39,7 @@ beneath.  They boil eggs in the hot springs there, and the
 sulphur content blackens the eggs.  Not sure I would eat the
 result.
 
+![Pirate boat cruise on Lake Ashi](p43_pirate.JPG)
 Keiko then got us onto the last [Hankone Pirate Cruise](https://www.hakone-kankosen.co.jp/foreign/en/index.php) (she like the other
 guides kept thanking us for punctuality with bows when in fact some people held
 up coach departure by ten or so minutes).  Pirates aren't what
@@ -50,6 +53,7 @@ by visiting a local 'tea room' which was on the rural side.  Burt's
 cup of tea came with a toy thimble of milk which was smaller than
 the container of syrup I had with the pancakes.
 
+![Trains including the bullet train in Japan run to time](p46_train.JPG)
 More time was killed before we ventured onto the platform.  The
 bullet trains really whizz pass, not enough time for me to get a camera
 out and be ready to snap!  Travelling with a large case only just worked,

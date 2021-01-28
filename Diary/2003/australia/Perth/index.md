@@ -1,7 +1,9 @@
+![Rottnest Island](rottnest.jpg)
 Thanks to two aspirins I wasn't in too bad condition after the long plane journey from Heathrow (changed planes in Singapore.) I got window seats which I find gives me a welcome few extra inches of space to rest in. Rosemary and Gordon of the Adventure game website Quandary met me at the *Perth* airport which was much appreciated. They live in *Fremantle* and showed me around some of the sights there as well as kindly putting me up for three nights.
 
 I've known Rosemary and Gordon for a few years through my interest in Adventure games (their website has some of my articles and reviews on it.) I'm more than happy to travel halfway round the world so I can just be with people I value. Friendship is precious.
 
+![Quokka investigating walkie talkie](walkie_talkie.jpg)
 On the 2nd I took the [Rottnest Explorer](https://www.rottnestexpress.com.au/) to
 [Rottnest Island](http://www.rottnestisland.com/) which is visible from Perth and Fremantle. Rottnest is a convenient holiday spot for the Perth area and was very busy. Holiday chalets cluster around the landing area. They're at least designed to blend in with the older buildings and covered in an acrylic matching the light orange lime wash used of old (rusted iron was added to the lime producing the orange colour.)
 

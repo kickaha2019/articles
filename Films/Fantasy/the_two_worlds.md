@@ -1,3 +1,5 @@
+![Along with the Gods: The Two Worlds](the_two_worlds.jpg)
+
 | | |
 |-|-|
 Film|&#49888;&#44284;&#54632;&#44760;-&#51396;&#50752; &#48268; ([Along with the Gods: The Two Worlds](https://www.imdb.com/title/tt7160070/))

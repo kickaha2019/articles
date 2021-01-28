@@ -1,3 +1,4 @@
+![Columbus in Las Palmas](p41_columbus.JPG)
 The sun was shining as we walked independently around Funchal
 in Madeira.
 Solar power really helps with taking pictures.  Truly a garden

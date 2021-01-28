@@ -1,3 +1,4 @@
+![MV Virginia docked in Koblenz](DSCF4703.JPG)
 On the Tuesday (15th) it was an odd day so sausages rather than
 bacon on offer for breakfast.  I didn't sleep well, there was
 activity on past midnight and the cabin walls were thin so I could
@@ -15,6 +16,7 @@ out, still need to take on water, still need to find moorings.
 Virginia and I wandered round Koblenz on our own, seeing an odd
 layered [fountain](https://www.koblenz-touristik.de/kultur/plaetze-in-koblenz/goerresplatz.html) representing different ages.
 
+![Toy museum in Rudesheim](DSCF4750.JPG)
 During the evening meal Dennis set me puzzles which I disappointed
 him by answering.  They were enigmas I had come across before like
 the coin swapping where you have only one free space.  We also

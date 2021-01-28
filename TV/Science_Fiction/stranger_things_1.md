@@ -1,3 +1,5 @@
+![Stranger Things](stranger_things_1.jpg)
+
 | | |
 |-|-|
 Series|[Stranger Things 1](https://www.netflix.com/title/80057281)

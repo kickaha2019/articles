@@ -1,3 +1,4 @@
+![Quizzes](Quizzes.png)
 2020 is the year of the Covid19 pandemic. A microscopic virus invisible to the naked eye has impacted
 the whole world. Suddenly we're all living at arms length, crossing over the road to avoid people,
 not seeing face to face our friends and family. Happily software like [Zoom](https://zoom.us/) means

@@ -1,3 +1,4 @@
+![Entrance to the retreat](entrance.JPG)
 Virginia and I went on a retreat to
 [Quiet Waters](https://www.quietwaters.org.uk/),
 which is just outside Bungay in Suffolk. We liked it so much we went on a second retreat in late August as well.

@@ -1,3 +1,4 @@
+![Limousine bus to Shinjuku West](IMG_0634.jpg)
 We touched down at [Haneda Airport](http://www.haneda-airport.jp/inter/en/)
 and the first hiccup manifested itself. I couldn't
 join those onboard the plane messaging and tweeting their safe arrival. For some reason I
@@ -23,6 +24,7 @@ instead tried walking to [Hotel Gracery](https://shinjuku.gracery.com/),
 happily the sign was visible in the dampness and
 dinginess.
 
+![Hotel Gracery reception](IMG_0639.jpg)
 Relieved I was there I checked into [Hotel Gracery](https://shinjuku.gracery.com/), room on the 18th floor. Reception is
 on the 8th floor, your room key lets you use the higher lifts. The Godzilla head is on the
 8th floor, as is the Caf&eacute; Terrace Bonjour where I had some spaghetti on arrival to keep me going.

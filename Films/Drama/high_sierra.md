@@ -1,3 +1,5 @@
+![High Sierra](HighSierra.jpg)
+
 | | |
 |-|-|
 Film|[High Sierra](https://www.imdb.com/title/tt0033717/)

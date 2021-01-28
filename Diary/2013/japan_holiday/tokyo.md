@@ -1,3 +1,4 @@
+![Tokyo Tower](p07_tower.JPG)
 My room knows I'm English.  So the wake up call setting on the
 phone talks to me in Anglo-Saxon.  There was a Herald Tribune
 in a letter rack outside (close).  I tried breakfast in the
@@ -25,6 +26,7 @@ service.). A colleague kindly took me down from the Observation
 deck to a floor with windows one could look down through the
 ironwork.
 
+![Shinto wedding at Meiji Shrine in Tokyo](p10_wedding.JPG)
 We next visited the Meiji shrine in Tokyo where seemingly
 Shinto style weddings were being held for the tourists.  Ceremonies
 are performances to some extent but it felt an intrusion.  Perhaps
@@ -47,6 +49,7 @@ good luck charms are called "Emma"s.  Yuko showed us one her
 daughter had made - not as effective as the real temple
 article of course.
 
+![East Gardens in Imperial Palace in Tokyo](p15_gardens.JPG)
 The last stop of the morning tour was the Palace gardens.  Very
 pretty with the cherry blossom out.  Yuko explained one reason
 for the masks was an allergy to cedar pollen.  I was dropped
@@ -69,6 +72,7 @@ had barriers between the platform and line, the trains stop
 precisely aligning doors to gates in those barriers.  Cleaners were
 at work helping to keep Japan as clean as it is.
 
+![Ghibli Museum in Mitaka Tokyo](p21_museum.JPG)
 I next got myself to Mitaka, this time using the
 JR railway as well.  This took a long time and I learnt I didn't
 know how to reckon how long getting from A to B takes when A and

@@ -1,3 +1,5 @@
+![Pride and Prejudice](pride_prejudice.jpg)
+
 | | |
 |-|-|
 Drama|Pride and Prejudice

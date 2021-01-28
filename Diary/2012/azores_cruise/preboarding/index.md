@@ -1,3 +1,4 @@
+![Holiday Inn in Southampton](p01_inn.JPG)
 We travelled down on Sunday afternoon and stayed overnight at a
 [Holiday Inn Express Southampton M27](https://www.ihg.com/holidayinnexpress/hotels/us/en/southampton/soabr/hoteldetail).  This worked well, avoiding any panics
 travelling down on the day that the ship left itself.  Dined at a

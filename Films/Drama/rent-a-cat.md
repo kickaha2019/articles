@@ -1,3 +1,5 @@
+![Rent-A-Cat](rent-a-cat.jpg)
+
 | | |
 |-|-|
 Film|&#12524;&#12531;&#12479;&#12493;&#12467; ([Rent-A-Cat](https://www.imdb.com/title/tt2246953/))

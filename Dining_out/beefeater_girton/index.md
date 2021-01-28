@@ -18,3 +18,8 @@ metal shelves.  Sometimes we sit in the conservatory
 and admire the fuchsias.
 
 Beefeater's reward card looks like someone took a bite out of it.
+
+![Main entrance to the Beefeater in Girton](IMG_2724.JPG)
+![Upstairs tables](IMG_2729.JPG)
+![The kitchens](IMG_2730.JPG)
+![The conservatory](IMG_2732.JPG)

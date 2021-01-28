@@ -1,3 +1,4 @@
+![New computer](new_computer.JPG)
 The home computer is now one of the new iMacs.  A rather expensive
 Christmas present to myself!
 

@@ -1,3 +1,4 @@
+![Sidholme Hotel](hotel.JPG)
 Virginia and I had our holiday in Devon in the first week in May.
 
 Our trusty steed (car) struggled up the steep hills, and flinched at the narrow roads, but brought us safely to the

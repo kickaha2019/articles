@@ -1,3 +1,5 @@
+![Rurouni Kenshin](rurouni_kenshin.jpg)
+
 | | |
 |-|-|
 Film|[Rurouni Kenshin](https://www.imdb.com/title/tt1979319/)

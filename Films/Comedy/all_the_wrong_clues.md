@@ -1,3 +1,5 @@
+![All the Wrong Clues](all_the_wrong_clues.jpg)
+
 | | |
 |-|-|
 Film|&#39740;&#39340;&#26234;&#22810;&#26143; (All the Wrong Clues)

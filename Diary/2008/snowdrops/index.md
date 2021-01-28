@@ -1,3 +1,4 @@
+![Anglesey Abbey](avenue.JPG)
 Virginia and I belong to the
 [National Trust](https://www.nationaltrust.org.uk/),
 and one of their nearby places is

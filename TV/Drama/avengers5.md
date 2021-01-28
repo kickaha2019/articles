@@ -1,3 +1,5 @@
+![Avengers](avengers5.jpg)
+
 | | |
 |-|-|
 Series|Avengers Series 5
@@ -20,10 +22,10 @@ Lee and Peter Cushing and Jon Pertwee to name but three.
 There is the chemistry between Steed and Peel, the banter between them. To some
 extent this is TV of its period, Emma Peel isn't a helpless female (her martial
 arts skills are debatable) but she does end up tied up in predicaments needing Steed to rescue
-her rather often. 
+her rather often.
 
 The visual style (particularly Diana Rigg's outfits) reflect the swinging sixties. It is
-all striking colours and brave designs, not grunge. 
+all striking colours and brave designs, not grunge.
 
 The Russians (played largely as buffoons) serve as opponents in many of the episodes
-reflecting the cold war times. 
+reflecting the cold war times.

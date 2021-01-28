@@ -1,3 +1,4 @@
+![Pirates Cove Crazy Golf](P1380747.JPG)
 Just so we could have a round at [Pirates Cove Crazy Golf](http://www.pirates-cove.co.uk/)
 we've had a long weekend in the Great Yarmouth area. It was a great Crazy Golf
 course, well laid out, with an edutainment side to it as it had placards recording
@@ -12,6 +13,7 @@ faded after a day or two. Fun enough for an hour! Saturday evening we managed to
 eat at [Brewers Fayre](https://www.brewersfayre.co.uk/pub-restaurant/Norfolk/Great-Yarmouth-Norfolk.html)
 despite the Satnav misleading us.
 
+![Somerleyton Hall](P1380762.JPG)
 On the Sunday we went to the service at [Gorleston Baptist Church](https://www.gorlestonbaptist.org.uk/),
 very welcoming and good value for money as the service went on past noon.
 We were glad we had booked the [Harvester](https://www.harvester.co.uk/restaurants/eastofengland/thepotterskilnlowestoft) for 1pm! So hot I went for fish and

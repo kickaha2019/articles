@@ -1,3 +1,4 @@
+![The warm up bar](IMG_0641.jpg)
 Finding the [Robot Restaurant](https://shinjuku-robot.com/sp/)
 in Shinjuku was a little difficult despite it only being
 3 minutes from my hotel. [Hotel Gracery](https://shinjuku.gracery.com/)
@@ -12,8 +13,9 @@ but the audience when I went were all foreign tourists. On entering you go to a 
 area upstairs with a warmup act which is strange enough. Then you descend deep to the basement
 where the show is performed between two banks of seats. The people in the front row
 have the best view but have to keep clear of the performance antics. You can buy food and
-merchandise, a European girl was selling drinks in lit up light bulbs. 
+merchandise, a European girl was selling drinks in lit up light bulbs.
 
+![First show](IMG_0649.jpg)
 The show is in
 three sections, the first has two drum teams battling it out, the second has
 fantastic animals battling robotic armies, and the last was clever with lights

@@ -1,3 +1,5 @@
+![Sassy Girl Chun-hyang](choon_hyang.jpg)
+
 | | |
 |-|-|
 Drama|&#53132;&#44152; &#52632;&#54693; / Sassy Girl Chun-hyang

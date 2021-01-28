@@ -1,3 +1,4 @@
+![Welcome to Japan](p01_welcome.JPG)
 My case appeared as soon as I got through immigration!
 A big relief.  Getting through immigration was different to my usual experience,
 they took a retinal scan and index fingerprints.
@@ -24,6 +25,7 @@ was the last hotel on the schedule of course.  But the
 [Grand Prince Hotel New Takanawa](https://www.princehotels.com:443/newtakanawa/) was a
 hot hotel, the poshest hotel I've ever stayed in.
 
+![Controls on Tokyo hotel toilet seat](p03_toilet.JPG)
 The hotel is full of well-dressed polite staff, one young damsel
 apologised as she left the lift I was to my and another
 Westerner's bemusement.  The rooms have digital signs outside
@@ -44,6 +46,7 @@ white glutinous rice ball containing black paste).  I had to
 contend with a very sophisticated water heater the room had been
 blessed with.  But in the end I did consume some noodles.
 
+![Cherry blossom fever in Tokyo](p04_cherry.JPG)
 As I went around this first night I passed through crowds
 admiring the cherry blossom in a garden between the three
 Grand Prince hotels on the site.  A camera

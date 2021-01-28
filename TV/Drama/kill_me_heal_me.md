@@ -1,3 +1,5 @@
+![Kill Me, Heal Me](kill_me_heal_me.jpg)
+
 | | |
 |-|-|
 Drama|&#53420;&#48120;, &#55184;&#48120; / Kill Me, Heal Me

@@ -1,3 +1,4 @@
+![Dunvegan Castle](skye1.jpg)
 We had a very pleasant time with our friends Andy and Lianna on
 the Isle of Skye, they run [The Roses B&B](https://www.therosesbb.co.uk/en-GB) there.
 Skye seems to have a lot of B&Bs, it also has a lot of potholes in the
@@ -10,6 +11,7 @@ of the Skye Boat Song fame. The founders of the Macleod clan seemed to
 have Viking style names to me. Dunvegan also has a decent garden with
 a natural looking waterfall in it.
 
+![Kilt Rock](skye3.jpg)
 We dined at the [Old School Restaurant](http://www.oldschoolrestaurant.co.uk/),
 which was a challenge for Andy to park at. Good place to eat at. Old school is
 good school to me.

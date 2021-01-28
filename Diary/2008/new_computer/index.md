@@ -1,3 +1,4 @@
+![New computer](new_computer.JPG)
 Virginia and I are now using a Macbook Pro at home running Leopard (OSX 10.5.1)   There were reasons for replacing the G5 iMac we had before, apart from a new toy for the boy who likes the computer kind of toys.
 
 The games I like playing are mainly to be found on Windows so dual-booting the Macbook will save having two computers at home.
