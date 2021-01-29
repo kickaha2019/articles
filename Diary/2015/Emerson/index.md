@@ -51,7 +51,7 @@ a link to another universe. Perhaps the tally lights were part of its visual loo
 needed for it to work, similar to the dummy lights on early computers which reassured managers
 the computer was doing something.
 
-[Tarkus album cover](tarkus.jpg)
+![Tarkus album cover](tarkus.jpg)
 The concert started without Keith Emerson on stage, he's a fit and confident 70-year old but
 I didn't begrudge him his late entry or that he had breaks while others played. The music was
 familiar stuff, versions of "Tarkus" and "Endless Enigma", the orchestra did Copland's "Fanfare

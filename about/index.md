@@ -6,7 +6,7 @@ of course but instead our late beloved cat Tabitha. Much more photogenic than I 
 
 I drive a Kia, and my favourite colour is blue.
 My interest include [TV](/TV),
-[music](Music), [computer games](Games), [Go](Go),
+[music](Music), [computer games](/Games), [Go](Go),
 and [software](Computing).
 
 I'm married to Virginia who has made some [cakes](Cakes).

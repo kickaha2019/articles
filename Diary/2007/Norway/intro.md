@@ -1,4 +1,4 @@
-[More ship ornamentation](microwave.JPG)
+![More ship ornamentation](microwave.JPG)
 Perhaps it was Slartibartfast in "Hitchhiker's Guide to the Galaxy" (the one who designed the coastline of Norway.) Or perhaps even longer ago it was watching Oliver Postgate's "Noggin the Nog" on a black and white television. Melded with curiosity over what it was like to travel on ships like the "Titanic". Anyhow my hankering to see Norwegian fjords by sea was satisfied by a cruise Virginia and I took on P&O's "Artemis" in May 2007.
 
 We chose the "Artemis" because it was child-free rather than my weakness for David Rudkin's "Artemis 81". There seemed to be some suitable cultural events on board. The promotion DVD looked good. The website offered webcams of where the ship was. And if we booked in the next five minutes we got a good discount! The upfront cost of doing a cruise is high but it can work out to be value for money. Food onboard is included, as are the entertainments.
