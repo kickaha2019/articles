@@ -3,4 +3,5 @@ On Rhodes (in Greek Rodos) we went to see the old village of Lindos, an enchanti
 
 A theme here and elsewhere was the Greek complaint about how their treasures had been pillaged by foreign barbarians. (Barbarian is derived from the Greeks slandering non-Greeks as just saying "ba ba ba".) The Greeks came over as a proud lot, it is true I admit European culture is inspired by Graeco-Roman. Statues were missing from the Lindos acropolis which are now in various museums.
 
-![Rhodes Crusader castle](crusader_castle.JPG)We were also taken to a pottery demonstration (some nice pieces but expensive and not useful.) That was a pattern of the tour excursions, the guides letting their friends have a chance at fleecing the foreign tourists. The Lindos tour also included a wander round a Crusader castle in Rhodes town, impressive in its way.
+![Rhodes Crusader castle](crusader_castle.JPG)
+We were also taken to a pottery demonstration (some nice pieces but expensive and not useful.) That was a pattern of the tour excursions, the guides letting their friends have a chance at fleecing the foreign tourists. The Lindos tour also included a wander round a Crusader castle in Rhodes town, impressive in its way.

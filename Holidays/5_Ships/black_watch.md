@@ -1,4 +1,4 @@
-![Black Watch](2011/black_watch/tall.JPG)
+![Black Watch](../../Diary/2011/black_watch/tall.JPG)
 The [Black Watch](Black_Watch) is a
 [Fred Olsen](Fred_Olsen)
 ship with a standard occupancy of 799 passengers.

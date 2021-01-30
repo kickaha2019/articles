@@ -54,7 +54,6 @@
 ![Peterhof Palace](peter12.JPG)
 ![Peterhof Palace](peter13.JPG)
 ![Narva Triumphal Arch in St Petersburg](arch.JPG)
-![Garden Cafe on board the Black Watch](garden_cafe.JPG)
 ![One small part of the Hermitage in St Petersburg](herm1.JPG)
 ![Church of the Spilled Blood in St Petersburg](spilled.JPG)
 ![Inside the Hermitage](herm2.JPG)

@@ -1,4 +1,4 @@
-![Celtic Nights show](dublin/dancing.jpg)
+![Celtic Nights show](dancing.jpg)
 We did an excursion in Dublin which took us round some of Dublin including a stop
 to snap St Patrick's Cathedral, together with narration about various statues.
 There's history here, the Irish are very conscious of their history.
