@@ -7,10 +7,26 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
       integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
           crossorigin=""/>
-<script></script>
+<script>
+function showOverlay(image1,image2,image3) {
+  document.getElementById("overlay").style.display = 'flex';
+  document.getElementById("overlay1").src = image1;
+  document.getElementById("overlay2").src = image2;
+  document.getElementById("overlay3").src = image3;
+}
+function hideOverlay() {
+  document.getElementById("overlay").style.display = 'none';
+}
+</script>
 <style>
 </style>
 </HEAD><BODY><DIV CLASS="page">
+<DIV ID="overlay" CLASS="overlay" onclick="hideOverlay()">
+  <IMG ID="overlay1" CLASS="size1" ALT="" onclick="hideOverlay()">
+  <IMG ID="overlay2" CLASS="size2" ALT="" onclick="hideOverlay()">
+  <IMG ID="overlay3" CLASS="size3" ALT="" onclick="hideOverlay()">
+  <DIV CLASS="overlay_cover" onclick="hideOverlay()"></DIV>
+</DIV>
 <IMG CLASS="logo size3 content" SRC="$SITE$/resources/$logo_large.jpg$" ALT="$TITLE$">
 <IMG CLASS="logo size2 content" SRC="$SITE$/resources/$logo_medium.jpg$" ALT="$TITLE$">
 <IMG CLASS="logo size1 content" SRC="$SITE$/resources/$logo_small.jpg$" ALT="$TITLE$">

@@ -1,4 +1,11 @@
 body {background: black; background-image: none}
+.overlay {position: fixed; display: none; z-index: 100;
+          width: 100vw; height: 100vh; left: 0px; right: 0px;
+          background: rgba(0,0,0,0.75);
+          align-items: center; justify-content: center}
+.overlay_cover {position: fixed;
+                width: 100vw; height: 100vh;
+                background: rgba(0,0,0,0.01);}
 
 .page {width: 360px; background: #000077; box-sizing: border-box;
        border-radius: 5px; margin-left: auto; margin-right: auto;
@@ -12,10 +19,12 @@ body {background: black; background-image: none}
 .breadcrumbs {display: block}
 .right {float: right; margin: 0 0 10px 10px}
 .left {float: left; margin: 0 10px 10px 0}
+.centre {margin-left: auto; margin-right: auto; display: block;}
 
 .story {min-width: 185px; padding-left: 15px; box-sizing: border-box; overflow: hidden}
-.gallery {min-width: 185px; width: 98%; padding-left: 5px; padding-bottom: 15px;
-          display: flex; flex-flow: row wrap; align-items: flex-start; justify-content: center}
+.gallery {width: 98%; padding-left: 5px; padding-bottom: 15px;
+          display: flex; flex-flow: row wrap; align-items: flex-start;
+          justify-content: space-between}
 .gallery img {padding-top: 10px}
 .gallery div {padding-top: 5px; padding-bottom: 5px;
               display: flex; flex-flow: column nowrap; align-items: center;
@@ -106,7 +115,7 @@ div.list, div.table {padding-bottom: 20px}
   .t0, .t1, h1 {font-size: 18px}
   pre {font-size: 14px}
   .indexes {min-width: 300px}
-  .story, .gallery {min-width: 440px}
+  .story {min-width: 440px}
   .map {width: 738px}
 }
 
@@ -116,7 +125,7 @@ div.list, div.table {padding-bottom: 20px}
   .size1 {display: none}
   .size2 {display: block}
   .indexes {min-width: 470px}
-  .story, .gallery {min-width: 780px}
+  .story {min-width: 780px}
   .map {width: 765px}
   .index, .gallery div {width: 196px}
 }
@@ -129,7 +138,7 @@ div.list, div.table {padding-bottom: 20px}
   .t0, .t1, h1 {font-size: 22px}
   pre {font-size: 16px}
   .indexes {min-width: 674px}
-  .story, .gallery {min-width: 1200px}
+  .story {min-width: 1200px}
   .map {width: 1230px}
 }
 
