@@ -1,29 +1,19 @@
-The images for a webpage are defined in the YAML metadata rather
-than in the markdown. This may seem strange but how to layout
-the images will vary according to the number of images, what's
-on the page, and the screen size available. It's convenient to
-let the Ruby code decide on the layout, and define the images outside
-the markdown. Defining images inside markdown isn't so pretty,
-and less pretty would be making them float to right or left as
-far as I know.
+The images for a webpage are defined in the markdown but
+Markdown itself doesn't specify how the images should be
+rendered on the page. I follow a convention in the markdown
+for the image definitions which controls how the images are
+rendered.
 
-So for example the [Florida 2001](2001/Florida) page has metadata including:
+If an image is immediately followed by text then the image
+is displayed small size inset into the text using
+[floats](https://www.w3schools.com/css/css_float.asp).
 
-~~~
----
-title: Florida
-date: Sunday, 24 June 2001
-images:
-- path: contemporary1.JPG
-  tag: Inside the Contemporary Resort Disneyworld
-- path: contemporary2.JPG
-  tag: Inside the Contemporary Resort Disneyworld
-- path: epcot.JPG
-  tag: EPCOT Disneyworld
-~~~
+If an image is followed by a blank line then the image is displayed
+large size centered on the page.
 
-where the paths are relative to the webpage definition, and the tags
-are used for alt text, as well as titles when the images are displayed
-in large size.
+Images at the end of markdown not followed by text (or blank
+lines then text) are displayed as a gallery of thumbnails.
 
-On many pages with images the images are displayed small size inset into the text using [floats](https://www.w3schools.com/css/css_float.asp), and there is a special picture page displaying them in a larger size. Where there are more images than can be inset then using Javascript the inset images are rotated. Did hope to use CSS to achieve this but not easily possible.
+For a small size of an image clicking on it will display a
+larger version overlaid on the current page, clicking anywhere
+will hide the overlaid image.
