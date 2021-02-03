@@ -1,3 +1,9 @@
+---
+title: Hannah Green and her unfeasibly mundane existence
+images:
+- path: hannah.jpg
+  tag: Hannah Green and her unfeasibly mundane existence
+---
 ![Hannah Green and her unfeasibly mundane existence](hannah.jpg)
 
 It was the title that grabbed me, and made me try this book.

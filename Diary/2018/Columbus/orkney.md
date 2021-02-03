@@ -1,3 +1,15 @@
+---
+date: September 2nd 2018
+anchors:
+- Ring of Brodgar
+- Skara Brae Prehistoric Village
+title: Kirkwall
+images:
+- path: orkney1.jpg
+  tag: Ring of Brodgar
+- path: orkney2.jpg
+  tag: Skara Brae
+---
 ![Ring of Brodgar](orkney1.jpg)
 We did an excursion on the tree bare, windswept, Orkneys to see some striking
 neolithic sites.

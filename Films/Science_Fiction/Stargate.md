@@ -1,3 +1,8 @@
+---
+images:
+- path: stargate.jpg
+  tag: Stargate
+---
 ![Stargate](stargate.jpg)
 
 | | |

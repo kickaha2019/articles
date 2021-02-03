@@ -1,3 +1,14 @@
+---
+date: September 6th 2018
+anchors:
+- Titanic Belfast
+title: Belfast
+images:
+- path: belfast1.jpg
+  tag: Titanic Exhibition
+- path: belfast2.jpg
+  tag: The Nomadic
+---
 ![Titanic Exhibition](belfast1.jpg)
 We took a taxi from what we were told was Stormont Wharf to see the
 [Titanic Exhibition](https://titanicbelfast.com/) in Belfast. A lot of

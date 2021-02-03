@@ -1,3 +1,17 @@
+---
+date: October 22nd 2015
+anchors:
+- Axbridge
+images:
+- path: parsonage.JPG
+  tag: The Parsonage where we stayed
+- path: parsonage_view.JPG
+  tag: View from the Parsonage
+- path: axbridge_square.JPG
+  tag: Medieval square in Axbridge
+- path: lamb_inn.JPG
+  tag: Lamb Inn in Axbridge
+---
 ![The Parsonage where we stayed](parsonage.JPG)
 Our long weekend started with a stressful journey to Axbridge through the heart of
 Coventry. The Satnav meant kindly probably, meaning to miss congestion, but I would

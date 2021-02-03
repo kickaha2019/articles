@@ -1,3 +1,15 @@
+---
+date: December 2nd 2016
+anchors:
+- Thursford Collection
+images:
+- path: DSCF7241.JPG
+  tag: Virginia at Fantasy Land
+- path: DSCF7246.JPG
+  tag: Carousel
+- path: DSCF7252.JPG
+  tag: Illuminated trees
+---
 ![Virginia at Fantasy Land](DSCF7241.JPG)
 Time for the [Thursford Christmas Spectacular](https://www.thursford.com/christmas-spectacular/) again!
 This year we almost didn't make it as we both fell ill with streaming noses and coughs and

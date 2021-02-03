@@ -1,3 +1,8 @@
+---
+images:
+- path: suspiria.jpg
+  tag: Suspiria
+---
 ![Suspiria](suspiria.jpg)
 
 | | |

@@ -1,3 +1,10 @@
+---
+title: Roland piano
+date: Wednesday, 18 March 2009
+images:
+- path: roland_piano.jpg
+  tag: Roland digital piano
+---
 ![Roland digital piano](roland_piano.jpg)
 
 The keyboard I had been using for practice at home is of limited range, one key is prone to not sounding, and the touch is very light compared with the digital piano I have lessons with Jan Payne on.

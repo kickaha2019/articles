@@ -1,3 +1,7 @@
+---
+title: 4:Internet Explorer
+date: 24th November 2013
+---
 In most browsers if you create a *HTML5 canvas* element in
 Javascript you get a canvas element with all the needed behaviour.
 Not of course so in Internet Explorer.  If one is being paranoid

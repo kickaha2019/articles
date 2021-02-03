@@ -1,3 +1,20 @@
+---
+date: February 9th 2018
+anchors:
+- Anglesey Abbey
+title: Snowdrop time again
+images:
+- path: P1380527.JPG
+  tag: The snowdrops themselves
+- path: P1380530.JPG
+  tag: Border on the winter walk
+- path: P1380531.JPG
+  tag: Virginia clad for winter
+- path: P1380532.JPG
+  tag: The winter walk
+- path: P1380533.JPG
+  tag: The silver birch nice and clean
+---
 ![The snowdrops themselves](P1380527.JPG)
 Every year we go to see the snowdrops at [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill). The gardeners of the
 [National Trust](https://www.nationaltrust.org.uk/) even in winter manage to create a marvellous display of

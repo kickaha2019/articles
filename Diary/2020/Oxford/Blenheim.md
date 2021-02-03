@@ -1,3 +1,23 @@
+---
+date: September 29th 2020
+anchors:
+- Blenheim Palace
+images:
+- path: IMG_1718.jpeg
+  tag:  Formal gardens at Blenheim Palace
+- path: IMG_1719.jpeg
+  tag:  Virginia and mother in formal gardens
+- path: IMG_1724.jpeg
+  tag:  Formal gardens at Blenheim Palace
+- path: IMG_1710.jpeg
+  tag:  Inside Blenheim Palace
+- path: IMG_1711.jpeg
+  tag:  Inside Blenheim Palace
+- path: IMG_1715.jpeg
+  tag:  Inside Blenheim Palace
+- path: IMG_1728.jpeg
+  tag:  Brewer's Fayre in Bicester
+---
 ![Formal gardens at Blenheim Palace](IMG_1718.jpeg)
 We only found one egg cup in **Alfie's Barn**! Virginia's Mum did us all porridge but the hob seemed to take ages to heat up, like the oven did last night when we had the Chinese meals for 2 twice. The lamp in my room is a touch affair, clever. The towel rails are either not heated or we failed to find how they worked.
 

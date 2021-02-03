@@ -1,3 +1,10 @@
+---
+title: Mug. Missing.
+date: 20th May 2019
+images:
+- path: start.jpg
+  tag: Mug. Missing.
+---
 ![Mug. Missing.](start.jpg)
 [Mug. Missing.](/Users/peter/Sites/Games/MugMissing/index.html) is a text based, CYOA (choose your own
 adventure) style game. The plot has you searching for your coffee

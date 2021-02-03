@@ -1,3 +1,21 @@
+---
+title: Christmas and New Year
+anchors:
+- Dunwich Heath
+- Sutton Hoo
+date: Saturday, 25 December 2004
+images:
+- path: clock.jpg
+  tag: Christmas decorations
+- path: lounge2.jpg
+  tag: in the lounge
+- path: dunwich.jpg
+  tag: Dunwich Heath
+- path: sutton_hoo.jpg
+  tag: Sutton Hoo
+- path: grave.jpg
+  tag: Raedwald's grave
+---
 We saw the New Year in quietly in the Ipswich area. I didn't do the homework of finding out what there was to see, where exactly it was, and when it was open. Something to remember to do for any future trips.
 
 There wasn't a lot that was open which was a bind. Happily a Pizza Hut was open for lunch and supper on the 1st itself. We went to [Dunwich Heath](https://www.nationaltrust.org.uk/dunwich-heath-and-beach) that day - a coastal area undergoing constant erosion.

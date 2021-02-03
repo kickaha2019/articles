@@ -1,3 +1,14 @@
+---
+date: September 3rd 2018
+anchors:
+- Dunrobin Castle
+title: Invergordon
+images:
+- path: dunrobin2.jpg
+  tag: Dunrobin Castle
+- path: dunrobin1.jpg
+  tag: Dunrobin Castle
+---
 ![Dunrobin Castle](dunrobin2.jpg)
 We did an excursion from Invergordon to see
 [Dunrobin Castle](http://www.dunrobincastle.co.uk) which has a lot of history

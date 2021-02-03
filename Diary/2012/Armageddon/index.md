@@ -1,3 +1,9 @@
+---
+date: 20th October 2012
+images:
+- path: exploded.jpg
+  tag: Armageddon
+---
 ![Armageddon](exploded.jpg)
 I help my and Virginia's soft toys to do things they couldn't otherwise do, like speak.  Move around.  And make games.  I felt the game they wanted to make was about the end of the world, and how to make sure it's enjoyable.
 

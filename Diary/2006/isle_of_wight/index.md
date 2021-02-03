@@ -1,3 +1,28 @@
+---
+title: Isle of Wight
+anchors:
+- Osborne House
+- Mottistone Manor
+- The Needles
+- Ventnor Botanic Garden
+- Brading Roman Villa
+- Dinosaur Isle
+- Waltzing Waters
+date: Saturday, 8 July 2006
+images:
+- path: mottistone.jpg
+  tag: Mottistone Manor
+- path: osborne.jpg
+  tag: Osborne House
+- path: needles.jpg
+  tag: The Needles
+- path: shanklin_chine.jpg
+  tag: Shanklin Chine
+- path: st_catherines.jpg
+  tag: St Catherine's Lighthouse
+- path: dinosaur_isle.jpg
+  tag: Dinosaur Isle
+---
 ![Osborne House](osborne.jpg)
 Virginia and I have had a week on the Isle of Wight. I think she enjoyed it more than I did. We went and saw Osborne House where Queen Victoria liked hanging out. The excerpts from her diaries in various places made her seem almost like a normal person . . . the over-powering opulence and movie set nature of the place counter-acted that. For me the monarchy has had its day.
 

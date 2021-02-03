@@ -1,3 +1,8 @@
+---
+images:
+- path: maids.jpg
+  tag: Maids
+---
 ![Maids](maids.jpg)
 
 | | |

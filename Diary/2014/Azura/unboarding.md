@@ -1,3 +1,28 @@
+---
+title: Off boarding
+date: October 1st 2014
+images:
+- path: glass_house.JPG
+  tag: Glass House bar and eaterie on Azura
+- path: java_bar.JPG
+  tag: Java bar
+- path: bar_appliances.JPG
+  tag: Appliances behind a bar
+- path: our_table.JPG
+  tag: Our table in the Oriental Restaurant on Azura
+- path: dispensers.JPG
+  tag: Dispensers for salt and pepper and sugar
+- path: atrium_repair.JPG
+  tag: The Azura atrium floor needed repair by the end of the cruise
+- path: flowers.JPG
+  tag: It's all about money from one angle
+- path: library.JPG
+  tag: The miniscule library on Azura
+- path: oriental.JPG
+  tag: The Oriental Restaurant on Azura
+- path: stairwell.JPG
+  tag: The art adorned stairwells
+---
 ![Our table in the Oriental Restaurant on Azura](our_table.JPG)
 There's good and bad about this cruise and the *Azura*.  The staff work very hard, and
 are very friendly.  [P&amp;O](https://www.pocruises.com/) went the extra mile for Virginia. She's avoiding dairy and each

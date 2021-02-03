@@ -1,3 +1,6 @@
+---
+title: PGS subtitle format
+---
 A format used to hold bitmapped subtitles for films on Blu-Ray disks.
 After ripping
 a Blu-Ray film to disk using something like [makemkv](http://makemkv.com/), the subtitle track can be

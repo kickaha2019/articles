@@ -1,3 +1,6 @@
+---
+title: Textastic (iOS)
+---
 I'm using
 [Textastic](https://www.textasticapp.com/) for editing files on my *iPad*.  So when
 I'm away on holiday for instance I can type onto the *iPad*

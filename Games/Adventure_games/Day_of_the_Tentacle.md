@@ -1,3 +1,9 @@
+---
+title: Day of the Tentacle
+images:
+- path: Day_of_the_Tentacle.jpg
+  tag: Day of the Tentacle
+---
 ![Day of the Tentacle](Day_of_the_Tentacle.jpg)
 
 *Day of the Tentacle* is a 1993 LucasArts game, back in the days when

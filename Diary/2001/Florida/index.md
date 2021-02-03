@@ -1,3 +1,34 @@
+---
+title: Florida
+anchors:
+- Disneyworld
+date: Sunday, 24 June 2001
+images:
+- path: contemporary1.JPG
+  tag: Inside the Contemporary Resort Disneyworld
+- path: contemporary2.JPG
+  tag: Inside the Contemporary Resort Disneyworld
+- path: epcot.JPG
+  tag: EPCOT Disneyworld
+- path: epcot2.JPG
+  tag: EPCOT Disneyworld
+- path: epcot3.JPG
+  tag: EPCOT Disneyworld
+- path: mexico.JPG
+  tag: Cultural entertainment EPCOT Disneyworld
+- path: the_land.JPG
+  tag: Inside The Land EPCOT Disneyworld
+- path: shopping_village.JPG
+  tag: Shopping Village Disneyworld
+- path: shopping_village2.JPG
+  tag: Shopping Village Disneyworld
+- path: contemporary_outside.JPG
+  tag: Contemporary Resort Disneyworld
+- path: living_seas.JPG
+  tag: Inside The Living Seas EPCOT Disneyworld
+- path: magic_kingdom.JPG
+  tag: Magic Kingdom Disneyworld
+---
 ![EPCOT Disneyworld](epcot.JPG)
 [Disneyworld](https://disneyworld.disney.go.com/) felt much more commercial than when I was last there.   We sat through an amateurish spiel from Xerox.   Macdonalds had a replica cast of T. Rex 'Sue' outside their premises in the Animal Kingdom.   You could leave a legacy of yourself at Epcot.   There were fewer places to eat without Disney characters making your day.   I did feel for the poor guys inside the suits in such hot weather.
 

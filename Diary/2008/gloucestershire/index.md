@@ -1,3 +1,43 @@
+---
+title: Gone to Gloucestershire
+anchors:
+- Forest of Dean
+- Symonds Yat
+- Clearwell Caves
+- Monmouth and Brecon canal
+date: Monday, 7 July 2008
+images:
+- path: lindors.JPG
+  tag: Lindors Hotel
+- path: moor_hen.JPG
+  tag: Moor hen at Forest of Dean centre
+- path: foxgloves.JPG
+  tag: Foxgloves on a pond walk
+- path: ducks_on_board.JPG
+  tag: Ducks out of water
+- path: festooned_boat.JPG
+  tag: Festooned boat we cruised down the Wye on
+- path: symonds_yat.JPG
+  tag: View from Symonds Yat rock
+- path: clearwell_caves.JPG
+  tag: Clearwell Caves
+- path: clearwell_cave_roof.JPG
+  tag: Cave roof in Clearwell Caves
+- path: tintern_ginny.JPG
+  tag: Virginia at Tintern Abbey
+- path: tintern.JPG
+  tag: Tintern Abbey
+- path: narrow_boat.JPG
+  tag: Narrow boat odyssey
+- path: heron.JPG
+  tag: Heron taking off
+- path: narrow_boats.JPG
+  tag: Narrow boat convention
+- path: chepstow_castle.JPG
+  tag: Chepstow Castle
+- path: seagull.JPG
+  tag: Seagull at Chepstow Castle
+---
 ![Lindors Hotel](lindors.JPG)
 Virginia and I went for a themed week at
 [Lindors](https://www.christianguild.co.uk/lindors/index.php)

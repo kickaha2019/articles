@@ -1,3 +1,64 @@
+---
+title: Nine dragons and the tiger's tail
+anchors:
+- Seokguram
+- Daewang-Am
+- Guryongpo
+- Homigot Sunrise Square
+- Gyeongju Seongdong Market
+date: May 13th 2016
+images:
+- path: seokguram.jpg
+  tag: Seokguram grotto
+- path: seokguram_squirrel.jpg
+  tag: Stripey squirrel at Seokguram
+- path: seokguram_wash.jpg
+  tag: Ceremonial basin at Seokguram
+- path: fishing_nets.jpg
+  tag: Fishing nets at Guryongpo
+- path: fishing_boat.jpg
+  tag: Fishing boat (note lights to atract squid) at Guryongpo
+- path: crabs.jpg
+  tag: Caught crabs at Guryongpo
+- path: preparing_kimbap.jpg
+  tag: Preparing kimbap in Guryongpo restaurant
+- path: guryongpo_dumplings.jpg
+  tag: Dumplings I had at Guryongpo
+- path: guryongpo_jap1.jpg
+  tag: Japanese street at Guryongpo
+- path: guryongpo_jap2.jpg
+  tag: Guryongpo Japanese style house
+- path: guryongpo_jap3.jpg
+  tag: Guryongpo Japanese style room
+- path: homigot.jpg
+  tag: Tiger's tail area at Homigot
+- path: homigot_hand.jpg
+  tag: Hand in sea at Homigot
+- path: homigot_octopus.jpg
+  tag: Octopus not for eating at Homigot
+- path: melons.jpg
+  tag: Korean striped melons
+- path: seongdong_market0.jpg
+  tag: Gyeongju Seongdong Market
+- path: seongdong_market.jpg
+  tag: Gyeongju Seongdong Market
+- path: seongdong_market1.jpg
+  tag: Gyeongju Seongdong Market
+- path: seongdong_market2.jpg
+  tag: Gyeongju Seongdong Market
+- path: seongdong_market5.jpg
+  tag: Gyeongju Seongdong Market
+- path: seongdong_market7.jpg
+  tag: This looked and tasted like a kitchen wipe
+- path: seongdong_market_fish.jpg
+  tag: Gyeongju Seongdong Market fish
+- path: seongdong_market_octopi.jpg
+  tag: Gyeongju Seongdong Market octopi
+- path: gulbulsa.jpg
+  tag: Gulbulsa Buddhist temple
+- path: gulbulsa2.jpg
+  tag: Gulbulsa Buddhist temple
+---
 ![Seokguram grotto](seokguram.jpg)
 A very busy day. We got taken to see a National Treasure Buddha at
 [Seokguram](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264260) in a

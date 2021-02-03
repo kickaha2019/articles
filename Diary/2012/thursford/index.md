@@ -1,3 +1,26 @@
+---
+date: December 7th 2012
+anchors:
+- Thursford Collection
+title: Thursford Christmas Show
+images:
+- path: p01_entrance.JPG
+  tag: Entrance to the Thursford Collection
+- path: p02_stage.JPG
+  tag: The wide stage
+- path: p03_carousel.JPG
+  tag: The decorated premises
+- path: p04_fantasy.JPG
+  tag: Fantasy Land
+- path: p05_santa.JPG
+  tag: The way to Santa
+- path: p06_tableaux.JPG
+  tag: One of the tableaux
+- path: p07_decor.JPG
+  tag: The magical decor
+- path: p08_tinsel.JPG
+  tag: The steam engines contrast to the tinsel
+---
 ![Entrance to the Thursford Collection](p01_entrance.JPG)
 Virginia and I set off at half ten this morning, aiming
 to get there in better time than last year.  It was an

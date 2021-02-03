@@ -1,3 +1,6 @@
+---
+title: 8:Support
+---
 "Card 2013" has been tested on the following browser and
 operating system combinations:
 

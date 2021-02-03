@@ -1,3 +1,19 @@
+---
+date: March 24th 2015
+images:
+- path: boud_baked_alaska.JPG
+  tag: Baked Alaska procession
+- path: boud_baked_alaska2.JPG
+  tag: Baked Alaska on Virginia's plate
+- path: boud_captain.JPG
+  tag: Captain and officers receiving the passengers
+- path: boud_neptune_rec.JPG
+  tag: Neptune lounge - the captain's reception
+- path: boud_chairs.JPG
+  tag: Chairs for departing wheelchair users
+- path: boud_luggage.JPG
+  tag: Passenger luggage (at end of cruise)
+---
 ![Captain and officers receiving the passengers](boud_captain.JPG)
 Now back in the UK!
 

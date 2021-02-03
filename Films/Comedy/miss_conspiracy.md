@@ -1,3 +1,8 @@
+---
+images:
+- path: miss_conspiracy.jpg
+  tag: Miss Conspiracy
+---
 ![Miss Conspiracy](miss_conspiracy.jpg)
 
 | | |

@@ -1,3 +1,20 @@
+---
+title: Killerton / Bicton Gardens / Budleigh Salterton
+anchors:
+- Killerton House
+- Bicton Gardens
+- Budleigh Salterton
+date: 3rd May 2010
+images:
+- path: killerton.JPG
+  tag: Killerton House
+- path: bicton.JPG
+  tag: Bicton Park Gardens
+- path: budleigh.JPG
+  tag: Budleigh Salterton
+- path: budleigh_street.JPG
+  tag: Budleigh Salterton
+---
 ![Killerton House](killerton.JPG)
 We went to see on the Monday
 [Killerton House](https://www.nationaltrust.org.uk/killerton),

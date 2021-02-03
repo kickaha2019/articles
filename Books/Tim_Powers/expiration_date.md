@@ -1,3 +1,8 @@
+---
+images:
+- path: expiration_date.jpg
+  tag: Expiration Date
+---
 ![Expiration Date](expiration_date.jpg)
 
 "Expiration Date" (Tim Powers 1996) is a strange strange tale of ghosts and

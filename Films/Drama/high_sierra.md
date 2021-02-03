@@ -1,3 +1,9 @@
+---
+title: High Sierra
+images:
+- path: HighSierra.jpg
+  tag: High Sierra
+---
 ![High Sierra](HighSierra.jpg)
 
 | | |

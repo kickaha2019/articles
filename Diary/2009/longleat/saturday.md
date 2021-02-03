@@ -1,3 +1,28 @@
+---
+title: Longleat
+anchors:
+- Longleat
+date: 9th May 2009
+images:
+- path: longleat_ginny.JPG
+  tag: Longleat House
+- path: longleat_peter.JPG
+  tag: Longleat House
+- path: longleat_garden.JPG
+  tag: Longleat House
+- path: gorilla.JPG
+  tag: Gorilla marooned at Longleat
+- path: visitor_train.JPG
+  tag: Longleat visitor train
+- path: seal.JPG
+  tag: Seal being fed from visitor boat at Longleat
+- path: meerkats.JPG
+  tag: Meerkats
+- path: plinth.JPG
+  tag: Longleat gardens
+- path: summer_house.JPG
+  tag: Longleat summer house
+---
 ![Longleat House](longleat_ginny.JPG)
 We were one of the first arrivals at Longleat on the Saturday, driving down a lovely avenue of blossoming trees and bushes, and got into the imposing house while the guides were still getting ready. The guides were very welcoming, what was a little disconcerting was that they moved between rooms each quarter of an hour, and we could see the same guide several times as we went round!
 

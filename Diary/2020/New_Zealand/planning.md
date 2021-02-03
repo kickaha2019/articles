@@ -1,3 +1,7 @@
+---
+icon: 12_Singapore_and_home/IMG_1306.jpg
+title: 0:Planning
+---
 Every three years of late I've accomplished a solo trip to exotic places. In 2016 I saw
 South Korea. In 2013 I journeyed to Japan. In 2010 it was New Zealand. So I decided to
 go somewhere in 2019 (or January 2020 close as it turned out.) But where?

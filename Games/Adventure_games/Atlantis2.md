@@ -1,3 +1,9 @@
+---
+title: 'Atlantis 2: Beyond Atlantis'
+images:
+- path: Atlantis2.jpg
+  tag: 'Atlantis 2: Beyond Atlantis'
+---
 ![Atlantis 2: Beyond Atlantis](Atlantis2.jpg)
 
 "Atlantis 2: Beyond Atlantis" (1999) is the second game in the Atlantis series from the now defunct French game developer Cryo.  The story is written by Jehan K. Robson who blends different cultures while yet

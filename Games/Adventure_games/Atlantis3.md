@@ -1,3 +1,9 @@
+---
+title: 'Atlantis 3: The New World'
+images:
+- path: Atlantis3.jpg
+  tag: 'Atlantis 3: The New World'
+---
 ![Atlantis 3: The New World](Atlantis3.jpg)
 
 "Atlantis 3: The New World" (2001) is the third game in the Atlantis series from the now defunct French game developer Cryo.  The story is again written by Jehan K. Robson so (for me) is imaginative and outside the box.

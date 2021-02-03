@@ -1,3 +1,43 @@
+---
+date: September 23rd 2014
+anchors:
+- Venice
+images:
+- path: st_marks_square.JPG
+  tag: St Marks Square Venice from Azura sailing in
+- path: bridge_of_sighs.JPG
+  tag: Bridge of Sighs in Venice
+- path: lion.JPG
+  tag: Lion on pedestal at St Marks Square
+- path: parties.JPG
+  tag: 15 was our tour party
+- path: doge_palace1.JPG
+  tag: Doge's Palace in Venice exterior
+- path: doge_palace.JPG
+  tag: Doge's Palace interior
+- path: denounce.JPG
+  tag: Where to post denunciations in the Doge's Palace
+- path: venice_clock.JPG
+  tag: 24-hour clock in Doge's Palace
+- path: zodiac.JPG
+  tag: Zodiac clock in Doge's Palace
+- path: gondolas1.JPG
+  tag: Gondolas for the gondola ride in Venice
+- path: gondolas2.JPG
+  tag: Us on our gondola
+- path: gondolier.JPG
+  tag: Our gondolier
+- path: canal1.JPG
+  tag: Gondola ride
+- path: canal2.JPG
+  tag: Gondola ride
+- path: ristorante.JPG
+  tag: Gondola ride passing restaurant
+- path: canal3.JPG
+  tag: Gondola ride on Grand Canal
+- path: basilica.JPG
+  tag: St Marks Basilica in Venice
+---
 ![Us on our gondola](gondolas2.JPG)
 I will remember Venice as the highlight of this cruise, and especially the
 enchanting ride on a gondola.  This really gave me an impression of Venice as an ancient city

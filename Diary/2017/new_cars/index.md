@@ -1,3 +1,10 @@
+---
+date: June 16th 2017
+title: New cars on the drive
+images:
+- path: P1380066.JPG
+  tag: Our new Kia cars
+---
 ![Our new Kia cars](P1380066.JPG)
 The Skodas we were driving had been declining for some while - the grating
 noises and screaming bearings from my car in particular urged us to a drastic

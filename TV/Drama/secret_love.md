@@ -1,3 +1,8 @@
+---
+images:
+- path: secret_love.jpg
+  tag: Secret Love
+---
 ![Secret Love](secret_love.jpg)
 
 | | |

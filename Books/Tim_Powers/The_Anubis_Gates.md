@@ -1,3 +1,8 @@
+---
+images:
+- path: TheAnubisGates.jpg
+  tag: The Anubis Gates
+---
 ![The Anubis Gates](TheAnubisGates.jpg)
 
 "The Anubis Gates" (Tim Powers 1983) is Powers mixing it up again. This time ancient Egptian sorcerers seeking to restore the old gods Osiris and Co. to prominence. Time travelling tourists dropping in to see their favourite poets in old London. Beggar gangs, werewolves, gypsies, transference of souls.

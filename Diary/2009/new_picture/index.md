@@ -1,3 +1,10 @@
+---
+title: New picture over fireplace
+date: Friday, 6 March 2009
+images:
+- path: new_picture.jpg
+  tag: Noonday Dreams
+---
 ![Noonday Dreams](new_picture.jpg)
 
 We had friends round earlier this year, and as we were sitting down to Sunday lunch there came a dire crash from the lounge. Fearing the worse (cats mixed up with broken glass cabinet) we dashed to see, Happily the cats were safe upstairs, but a framed print of Van Gogh's "Bridge At Arles" had tumbled down. Broken glass and frame littered the floor.

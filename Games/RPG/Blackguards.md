@@ -1,3 +1,8 @@
+---
+images:
+- path: Blackguards.jpg
+  tag: Blackguards
+---
 ![Blackguards](Blackguards.jpg)
 
 *Blackguards*

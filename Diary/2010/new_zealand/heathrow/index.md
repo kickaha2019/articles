@@ -1,3 +1,10 @@
+---
+title: Heathrow to Auckland
+date: 15th November 2010
+images:
+- path: heathrow.JPG
+  tag: Bear at Heathrow to wish me Bon Voyage
+---
 ![Bear at Heathrow to wish me Bon Voyage](heathrow.JPG)
 This is about a two-week trip I made to New Zealand in November 2010 to see family out in Auckland (Virginia's sister's family,) and to do some tourism. The family part of it was very pleasant, more than justified making the trip, but this article is going to focus on the tourism. NZ is a nice place to me, more livable than the UK, Auckland itself has many uncrowded beaches, good standard of living, and a wide range of scenery and worth seeings.
 

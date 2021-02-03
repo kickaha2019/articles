@@ -1,3 +1,17 @@
+---
+title: 2:The ship
+images:
+- path: ship3.jpg
+  tag: Columbus ship
+- path: ship1.jpg
+  tag: Grill restaurant
+- path: ship2.jpg
+  tag: Waterfront restaurant
+- path: ship4.jpg
+  tag: Hemingways
+- path: ship5.jpg
+  tag: Palladium Lounge
+---
 ![Columbus ship](ship3.jpg)
 What shall we say about the good and bad ship [Columbus](https://www.cruiseandmaritime.com/our-ships/columbus)?
 

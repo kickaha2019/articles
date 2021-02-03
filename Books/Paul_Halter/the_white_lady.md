@@ -1,3 +1,9 @@
+---
+title: The White Lady
+images:
+- path: the_white_lady.jpg
+  tag: The White Lady
+---
 ![The White Lady](the_white_lady.jpg)
 
 *The White Lady* (2020) is by Paul Halter

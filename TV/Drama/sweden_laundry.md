@@ -1,3 +1,9 @@
+---
+title: Sweden Laundry
+images:
+- path: sweden_laundry.jpg
+  tag: Sweden Laundry
+---
 ![Sweden Laundry](sweden_laundry.jpg)
 
 | | |

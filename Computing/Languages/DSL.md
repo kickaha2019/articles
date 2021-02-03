@@ -1,3 +1,7 @@
+---
+date: September 8th 2012
+title: Domain Specific Languages
+---
 A domain specific language (DSL) is a great way of
 implementing systems focussed on particular areas.  You
 can write everything in your favourite general-purpose

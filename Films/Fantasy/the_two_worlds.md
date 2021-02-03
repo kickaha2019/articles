@@ -1,3 +1,9 @@
+---
+title: 'Along with the Gods: The Two Worlds'
+images:
+- path: the_two_worlds.jpg
+  tag: 'Along with the Gods: The Two Worlds'
+---
 ![Along with the Gods: The Two Worlds](the_two_worlds.jpg)
 
 | | |

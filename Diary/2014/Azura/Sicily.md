@@ -1,3 +1,29 @@
+---
+date: September 20th 2014
+anchors:
+- Mount Etna
+images:
+- path: coach.JPG
+  tag: our coach to Mt Etna
+- path: certificate.JPG
+  tag: Coach certificate
+- path: hills.JPG
+  tag: Hills around Mt Etna
+- path: debris.JPG
+  tag: Volcanic debris at Mt Etna
+- path: grass.JPG
+  tag: Grass trying to recolonise the volcanic soil
+- path: lava_flow.JPG
+  tag: Twisted rock from lava flow at Mt Etna
+- path: crater.JPG
+  tag: One of the Silvestri craters at Mt Etna
+- path: crater2.JPG
+  tag: Volcanoes leave almost a moonscape
+- path: sulphur.JPG
+  tag: Colours from inside the earth
+- path: summit.JPG
+  tag: Looking towards the summit of Mt Etna
+---
 ![Our coach to Mt Etna](coach.JPG)
 We docked at Messina then did excursion to see Mt Etna. I went prepared with reversible
 fleece but even two thirds of the way up Mt Etna it was warm even with a breeze!

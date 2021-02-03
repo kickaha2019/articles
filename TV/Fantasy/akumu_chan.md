@@ -1,3 +1,9 @@
+---
+title: My Little Nightmare
+images:
+- path: akumu_chan.jpg
+  tag: My Little Nightmare
+---
 ![My Little Nightmare](akumu_chan.jpg)
 
 | | |

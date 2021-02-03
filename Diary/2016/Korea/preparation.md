@@ -1,3 +1,7 @@
+---
+title: 1:Why South Korea
+icon: biba3.jpg
+---
 Sometimes the start, the cause, the trigger is hard to write down. Perhaps it was watching the Korean TV
 dramas I was doing which provoked me to want to visit South Korea. Dramas like "The Greatest Love" and
 "Master's Sun" - I'm now watching more Chinese and Japanese TV dramas but that's by the by. Perhaps it

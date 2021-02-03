@@ -1,3 +1,44 @@
+---
+date: January 13th 2020
+anchors:
+- Tree Church
+- Waitomo Glowworm Caves
+- Ruakuri Cave
+- Waitomo Caves Guest Lodge
+- HUHU Cafe
+icon: IMG_0963.jpg
+images:
+- path: IMG_0921.jpg
+  tag: My hire car
+- path: IMG_0927.jpg
+  tag: Tree Church closed
+- path: IMG_0929.jpg
+  tag: Waitomo Caves
+- path: IMG_0936.jpg
+  tag: Ruakuri Cave
+- path: IMG_0940.jpg
+  tag: Spiral staircase
+- path: IMG_0948.jpg
+  tag: Stalactites
+- path: IMG_0951.jpg
+  tag: Curtain formation
+- path: IMG_0961.jpg
+  tag: Glow worm visible
+- path: IMG_0963.jpg
+  tag: Glow worm lines
+- path: IMG_0964.jpg
+  tag: Glow worm lights
+- path: IMG_0970.jpg
+  tag: Iron pipe formation
+- path: IMG_0978.jpg
+  tag: Waitomo Guest Lodge
+- path: IMG_0980.jpg
+  tag: Chalet 6
+- path: IMG_0986.jpg
+  tag: Huhu Cafe
+- path: IMG_0983.jpg
+  tag: Peanut butter parfait
+---
 ![My hire car](IMG_0921.jpg)
 Collected hire car from [Avis](https://www.avis.co.nz/en/home) at [Auckland airport](https://www.aucklandairport.co.nz).
 I did go in the wrong

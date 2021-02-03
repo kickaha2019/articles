@@ -1,3 +1,14 @@
+---
+title: To Charminster
+date: March 22nd 2019
+anchors:
+- Charminster St Mary's Church
+images:
+- path: P1390196.jpg
+  tag: Ruth's where we stayed
+- path: P1390199.jpg
+  tag: Charminster Parish Church
+---
 ![Charminster Parish Church](P1390199.jpg)
 We left Amelia at home to be looked after by our friend Sandra rather than put her into a cattery - avoiding the problem of getting her into a carrier. She knows when we're off on holiday and is prone to hiding in accessible places like the spare room bed and a cubicle in the cat tree. Our packing didn't forget too much, just the [National Trust](https://www.nationaltrust.org.uk/) car parking sticker which we wouldn't have used in the end. As we were only away for a week the bags fitted into the back of Virginia's Kia, we didn't use the big cases.
 

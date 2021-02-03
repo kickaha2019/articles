@@ -1,3 +1,8 @@
+---
+images:
+- path: Machinarium.jpg
+  tag: Machinarium
+---
 ![Machinarium](Machinarium.jpg)
 
 [Machinarium](http://amanita-design.net/games/machinarium.html)

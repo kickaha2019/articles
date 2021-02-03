@@ -1,3 +1,9 @@
+---
+title: 'The Dark Eye: Chains of Satinav'
+images:
+- path: chains_of_satinav.jpg
+  tag: 'The Dark Eye: Chains of Satinav'
+---
 ![The Dark Eye: Chains of Satinav](chains_of_satinav.jpg)
 
 [The Dark Eye: Chains of Satinav](https://www.daedalic.com/)

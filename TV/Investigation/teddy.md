@@ -1,3 +1,9 @@
+---
+title: Teddy Go!
+images:
+- path: teddy.jpg
+  tag: Teddy Go
+---
 ![Teddy Go](teddy.jpg)
 
 | | |

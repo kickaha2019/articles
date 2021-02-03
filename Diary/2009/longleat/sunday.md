@@ -1,3 +1,18 @@
+---
+title: Avebury Stone Circle
+anchors:
+- Avebury Stone Circle
+date: 10th May 2009
+images:
+- path: avebury1.JPG
+  tag: Avebury Stone Circle
+- path: avebury2.JPG
+  tag: Avebury Stone Circle
+- path: avebury3.JPG
+  tag: Avebury Stone Circle
+- path: avebury4.JPG
+  tag: Avebury Stone Circle
+---
 ![Avebury Stone Circle](avebury1.JPG)
 On the way back from the Longleat area to Cambridge on the Sunday we went round
 [Avebury Stone Circle](https://www.english-heritage.org.uk/visit/places/avebury/),

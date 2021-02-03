@@ -1,3 +1,15 @@
+---
+title: The Trading Post
+anchors:
+- Trading Post Kettering
+images:
+- path: P1380389.JPG
+  tag: The entrance to The Trading Post
+- path: P1380388.JPG
+  tag: The carvery and bar
+- path: P1380384.JPG
+  tag: The tables to eat at
+---
 [The Trading Post](https://www.tradingpostpub.co.uk/) is a very
 reasonably priced carvery pub / restaurant with helpful young staff,
 well laid out tables, and an ample car park close to where my father

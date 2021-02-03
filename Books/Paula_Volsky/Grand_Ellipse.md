@@ -1,3 +1,9 @@
+---
+title: The Grand Ellipse
+images:
+- path: Grand_Ellipse.jpg
+  tag: The Grand Ellipse
+---
 ![The Grand Ellipse](Grand_Ellipse.jpg)
 
 *The Grand Ellipse* (2000) is set in the fantasy world

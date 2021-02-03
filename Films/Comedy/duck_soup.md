@@ -1,3 +1,8 @@
+---
+images:
+- path: duck_soup.jpg
+  tag: Duck Soup
+---
 ![Duck Soup](duck_soup.jpg)
 
 | | |

@@ -1,3 +1,8 @@
+---
+images:
+- path: Declare.jpg
+  tag: Declare
+---
 ![Declare](Declare.jpg)
 
 "Declare" (Tim Powers 2000) is another of the author's harmonising of real history, mythology, and inventive story-telling. This time Powers mixes in the Cold War complete with Kim Philby, Arabian djinn, an on off romance between a British and Soviet spy, and Noah's Ark on a peak in Ararat.

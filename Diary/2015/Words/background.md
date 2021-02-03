@@ -1,3 +1,12 @@
+---
+images:
+- path: background/Atlantis3.jpg
+  tag: Atlantis 3
+- path: background/cathedral.png
+  tag: Cathedral
+- path: background/unity.jpg
+  tag: Unity
+---
 ![Atlantis 3](background/Atlantis3.jpg)
 *Words* will be a lot of pages of words to read. What background
 to display these words over has occupied a lot of my time. My first

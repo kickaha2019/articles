@@ -1,3 +1,14 @@
+---
+title: The hotel
+anchors:
+- Sidholme Hotel
+date: Sunday, 2 May 2010
+images:
+- path: hotel.JPG
+  tag: Sidholme Hotel
+- path: hotel_inside.JPG
+  tag: Sidholme Hotel
+---
 ![Sidholme Hotel](hotel.JPG)
 Virginia and I had our holiday in Devon in the first week in May.
 

@@ -1,3 +1,27 @@
+---
+date: January 8th 2020
+anchors:
+- Kawaii Monster Cafe
+images:
+- path: IMG_0806.jpg
+  tag: Entrance to Kawaii Monster Cafe
+- path: IMG_0808.jpg
+  tag: Area in Kawaii Monster Cafe
+- path: IMG_0810.jpg
+  tag: Area in Kawaii Monster Cafe
+- path: IMG_0811.jpg
+  tag: Area in Kawaii Monster Cafe
+- path: IMG_0812.jpg
+  tag: Area in Kawaii Monster Cafe
+- path: IMG_0834.jpg
+  tag: Toilets in Kawaii Monster Cafe
+- path: IMG_0830.jpg
+  tag: Part of menu
+- path: IMG_0816.jpg
+  tag: The mushroom stage
+- path: IMG_0826.jpg
+  tag: The floor show
+---
 ![Entrance to Kawaii Monster Cafe](IMG_0806.jpg)
 It was hard finding the right entrance to Shinjuku Station (Shinjuku Station
 is like a multiple train station wreck) but then found my way to the

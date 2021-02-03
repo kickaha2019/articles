@@ -1,3 +1,9 @@
+---
+title: The Truman Show
+images:
+- path: the_truman_show.jpg
+  tag: The Truman Show
+---
 ![The Truman Show](the_truman_show.jpg)
 
 | | |

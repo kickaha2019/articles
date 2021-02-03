@@ -1,3 +1,14 @@
+---
+title: First visit to Australia
+anchors:
+- Raffles Hotel
+date: Sunday, 19 May 2002
+images:
+- path: Raffles.JPG
+  tag: Raffles Hotel
+- path: Underground.JPG
+  tag: Underground train interior
+---
 ![Underground train interior](Underground.JPG)
 I stopped over in Singapore both on the way out and way back. The only place I've been where I didn't have to queue going through immigration. Subway trains clean and safe and functional and open. A city of people upon people, buildings upon buildings.
 

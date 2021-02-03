@@ -1,3 +1,8 @@
+---
+images:
+- path: wasteland_2.jpg
+  tag: Wasteland 2
+---
 ![Wasteland 2](wasteland_2.jpg)
 
 [Wasteland 2](https://www.inxile-entertainment.com/wasteland2)

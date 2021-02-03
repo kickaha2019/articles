@@ -1,3 +1,9 @@
+---
+title: War of the Arrows
+images:
+- path: War_of_the_arrows.jpg
+  tag: War of the Arrows
+---
 ![War of the Arrows](War_of_the_arrows.jpg)
 
 | | |

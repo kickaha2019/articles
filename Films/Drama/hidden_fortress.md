@@ -1,3 +1,9 @@
+---
+title: The Hidden Fortress
+images:
+- path: hidden_fortress.jpg
+  tag: The Hidden Fortress
+---
 ![The Hidden Fortress](hidden_fortress.jpg)
 
 | | |

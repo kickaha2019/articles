@@ -1,3 +1,24 @@
+---
+title: Holy Isle
+anchors:
+- Holy Isle
+date: Friday, 2 March 2007
+images:
+- path: Causeway.JPG
+  tag: Causeway to Holy Isle
+- path: beach.JPG
+  tag: On the Beach
+- path: Window.JPG
+  tag: Window to nowhere from nowhere
+- path: Castle.JPG
+  tag: The Castle
+- path: Group.JPG
+  tag: Our little group
+- path: lunar_eclipse.JPG
+  tag: The lunar eclipse
+- path: eider_ducks.JPG
+  tag: Eider ducks honest
+---
 ![Causeway to Holy Isle](Causeway.JPG)
 I went to Holy Isle in the UK for a bird-watching weekend run by
 [Birdwatch Northumbria](https://www.birdwatchnorthumbria.co.uk/).

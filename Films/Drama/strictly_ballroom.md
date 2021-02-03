@@ -1,3 +1,9 @@
+---
+title: Strictly Ballroom
+images:
+- path: strictly_ballroom.jpg
+  tag: Strictly Ballroom
+---
 ![Strictly Ballroom](strictly_ballroom.jpg)
 
 | | |

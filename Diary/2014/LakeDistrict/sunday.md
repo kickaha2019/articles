@@ -1,3 +1,12 @@
+---
+title: To the Lake District
+date: May 11th 2014
+images:
+- path: cattery.JPG
+  tag: The cat's hotel
+- path: DSCF5226.jpg
+  tag: Virginia at our hotel
+---
 ![The cat's hotel](cattery.JPG)
 The cats got delivered on the Saturday to Grange Cattery in Waterbeach, to be looked
 after by the reliable Phyllis.  There's at least a pond with fish in it for them to look at.  The road

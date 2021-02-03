@@ -1,3 +1,9 @@
+---
+title: Blazing transfer students
+images:
+- path: blazing_transfer_students.jpg
+  tag: Blazing transfer students
+---
 ![Blazing transfer students](blazing_transfer_students.jpg)
 
 | | |

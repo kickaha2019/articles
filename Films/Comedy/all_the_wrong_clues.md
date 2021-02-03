@@ -1,3 +1,8 @@
+---
+images:
+- path: all_the_wrong_clues.jpg
+  tag: All the Wrong Clues
+---
 ![All the Wrong Clues](all_the_wrong_clues.jpg)
 
 | | |

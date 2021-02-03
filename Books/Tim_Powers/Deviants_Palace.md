@@ -1,3 +1,9 @@
+---
+title: Dinner at Deviant's Palace
+images:
+- path: deviants_palace.jpg
+  tag: Dinner at Deviant's Palace
+---
 ![Dinner at Deviant's Palace](deviants_palace.jpg)
 
 "Dinner at Deviant's Palace" (1985) by Tim Powers describes Greg Rivas's quest to save the woman he loves from a religious cult. Set in post-apocalypse California, where electricity and internal combustion are historical footnotes. Rivas is a redemptionist famed for freeing souls from the clutches of Norton Jaybush and his church. But he will have to go further than ever before to save Urania.

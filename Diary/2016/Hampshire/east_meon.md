@@ -1,3 +1,21 @@
+---
+date: March 11th 2016
+anchors:
+- East Meon
+- National Trust - Hinton Ampner
+- Jane Austen's House Museum
+images:
+- path: Amelia.JPG
+  tag: A reluctant Amelia
+- path: Tabitha.JPG
+  tag: Tabitha is too tired to care
+- path: cottage_exterior.JPG
+  tag: Outside of holiday cottage
+- path: cottage_interior.JPG
+  tag: Inside of holiday cottage
+- path: sheep.JPG
+  tag: Our neighbours at the farm
+---
 ![A reluctant Amelia](Amelia.JPG)
 The day started cold and very foggy - by the time we had packed clothes into suitcases and cats into
 baskets the fog had mostly gone, but where the fields were turned earth they steamed as if they were

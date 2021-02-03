@@ -1,3 +1,13 @@
+---
+title: The Old Crown, Girton
+anchors:
+- Old Crown Girton
+images:
+- path: IMG_2741.JPG
+  tag: Virginia sitting at one end of the main dining room
+- path: IMG_2742.JPG
+  tag: The other end looking towards the bar
+---
 ![Virginia sitting at one end of the main dining room](IMG_2741.JPG)
 *The Old Crown* used
 to be famous for its very large portions.  It did

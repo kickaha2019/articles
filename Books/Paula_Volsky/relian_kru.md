@@ -1,3 +1,9 @@
+---
+title: The Luck of Relian Kru
+images:
+- path: relian_kru.jpg
+  tag: The Luck of Relian Kru
+---
 ![The Luck of Relian Kru](relian_kru.jpg)
 
 *The Luck of Relian Kru* (1987) is set in a fanciful fantasy world.

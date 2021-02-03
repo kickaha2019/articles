@@ -1,3 +1,9 @@
+---
+title: Pride and Prejudice
+images:
+- path: pride_prejudice.jpg
+  tag: Pride and Prejudice
+---
 ![Pride and Prejudice](pride_prejudice.jpg)
 
 | | |

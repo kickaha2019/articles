@@ -1,3 +1,9 @@
+---
+title: Rent-A-Cat
+images:
+- path: rent-a-cat.jpg
+  tag: Rent-A-Cat
+---
 ![Rent-A-Cat](rent-a-cat.jpg)
 
 | | |

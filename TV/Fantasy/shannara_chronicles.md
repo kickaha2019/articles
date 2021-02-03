@@ -1,3 +1,9 @@
+---
+title: Shannara Chronicles (Series 1)
+images:
+- path: shannara_chronicles.jpg
+  tag: Shannara Chronicles
+---
 ![Shannara Chronicles](shannara_chronicles.jpg)
 
 | | |

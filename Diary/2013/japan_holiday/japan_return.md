@@ -1,3 +1,20 @@
+---
+title: Home again from Japan
+date: March 30th 2013
+images:
+- path: p139_lockers.JPG
+  tag: Lockers in Osaka
+- path: p140_kansai.JPG
+  tag: Kansai Airport in Osaka
+- path: p141_kansai.JPG
+  tag: Kansai Airport in Osaka
+- path: p142_plane.JPG
+  tag: Plane to Paris from Osaka
+- path: p143_spare.JPG
+  tag: Two spare seats next to me!
+- path: p144_sunset.JPG
+  tag: Into the sunset
+---
 ![Lockers in Osaka](p139_lockers.JPG)
 Time to leave Japan.  The worst scrum for breakfast so far
 in the New Hankyu.  Two together would mean one could hold a

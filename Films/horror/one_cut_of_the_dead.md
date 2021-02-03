@@ -1,3 +1,8 @@
+---
+title: One Cut of the Dead
+images:
+- path: one_cut_of_the_dead.jpeg
+---
 ![One Cut of the Dead](one_cut_of_the_dead.jpeg)
 
 | | |

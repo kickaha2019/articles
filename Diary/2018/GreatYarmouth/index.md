@@ -1,3 +1,25 @@
+---
+date: June 29th 2018
+anchors:
+- Pirates Cove Adventure Golf
+- Merrivale Model Village
+- Gorleston Baptist Church
+- Somerleyton Hall
+title: Long weekend in Great Yarmouth
+images:
+- path: P1380718.JPG
+  tag: Merrivale Model Village
+- path: P1380747.JPG
+  tag: Pirates Cove Crazy Golf
+- path: P1380742.JPG
+  tag: Virginia in action putting
+- path: P1380762.JPG
+  tag: Somerleyton Hall
+- path: P1380763.JPG
+  tag: Pergola at Somerleyton Hall
+- path: P1380749.JPG
+  tag: Leanda Lodge
+---
 ![Pirates Cove Crazy Golf](P1380747.JPG)
 Just so we could have a round at [Pirates Cove Crazy Golf](http://www.pirates-cove.co.uk/)
 we've had a long weekend in the Great Yarmouth area. It was a great Crazy Golf

@@ -1,3 +1,8 @@
+---
+images:
+- path: all_night_long.jpg
+  tag: All Night Long
+---
 ![All Night Long](all_night_long.jpg)
 
 | | |

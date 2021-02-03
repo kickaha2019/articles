@@ -1,3 +1,27 @@
+---
+date: January 6th 2020
+images:
+- path: IMG_0607.jpg
+  tag: Cases packed
+- path: IMG_0609.jpg
+  tag: Trumpington Park and Ride
+- path: IMG_0613.jpg
+  tag: Heathrow coach
+- path: IMG_0615.jpg
+  tag: Heathrow's maze of long passages
+- path: IMG_0616.jpg
+  tag: Check in and baggage drop
+- path: IMG_0618.jpg
+  tag: Waiting area at Heathrow
+- path: IMG_0622.jpg
+  tag: Sushi train restaurant
+- path: IMG_0624.jpg
+  tag: Waiting to board
+- path: IMG_0631.jpg
+  tag: Not the seats I was in
+- path: IMG_0627.jpg
+  tag: Food on the plane
+---
 ![Cases packed](IMG_0607.jpg)
 I packed this morning after seeing Virginia off to work. I make lists of things to do,
 and things to take on holiday, and it was just as well I double checked the list of things to

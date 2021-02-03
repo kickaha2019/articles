@@ -1,3 +1,18 @@
+---
+date: February 22nd 2019
+title: Snowdrop time again
+anchors:
+- Anglesey Abbey
+images:
+- path: P1390143.jpg
+  tag: Some of the many snowdrops
+- path: P1390148.jpg
+  tag: Wonderful mix of shades and shapes
+- path: P1390149.jpg
+  tag: Plant with cotton like buds on it
+- path: P1390156.jpg
+  tag: Looking back at the mill
+---
 Seeing snowdrops time again at [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill)! A wonderfully fine day for
 doing so! The snowdrops were out! The cream on the mixture of textures and
 shapes and hues on display. What problem could there be? They even had

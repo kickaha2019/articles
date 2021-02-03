@@ -1,3 +1,35 @@
+---
+title: Rotorua and Waitomo
+anchors:
+- Te Puia
+- Waitomo
+date: 1st March 2006
+images:
+- path: maori_bird_trap.jpg
+  tag: Maori bird trap - at Rotorua
+- path: mud_pool1.jpg
+  tag: 'Rotorua Te Puia: mud pool'
+- path: mud_pool2.jpg
+  tag: 'Rotorua Te Puia: mud pool'
+- path: geysers.jpg
+  tag: 'Rotorua Te Puia: geysers'
+- path: hot_lake.jpg
+  tag: 'Rotorua Te Puia: hot lake'
+- path: geysers2.jpg
+  tag: 'Rotorua Te Puia: geysers'
+- path: mud_pool3.jpg
+  tag: 'Rotorua Te Puia: mud pool'
+- path: me_glow_worm_cave.jpg
+  tag: Me outside glow-worm cave in Waitomo
+- path: waitomo_cave.jpg
+  tag: Waitomo cave
+- path: moa_bones.jpg
+  tag: Bones of Moa in Waitomo cave
+- path: glow_worms.jpg
+  tag: Glow-worms in Waitomo caves
+- path: cave_weta.jpg
+  tag: Cave weta in Waitomo caves
+---
 ![Rotorua Te Puia: geysers](geysers.jpg)
 We got up bright and early – had the cardboard breakfast that the Devonwood offered then set off to Te Puai for the fumaroles. Not too much sulphur – saw some of the geysers bubbling away. Wish I had more time at Rotorua but felt I needed to get over to Waitomo.
 

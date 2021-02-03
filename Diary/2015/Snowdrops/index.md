@@ -1,3 +1,15 @@
+---
+date: February 7th 2015
+anchors:
+- Anglesey Abbey
+images:
+- path: DSCF5953.JPG
+  tag: Snowdrops of Anglesey Abbey
+- path: DSCF5954.JPG
+  tag: Even in winter there is artistry in the gardens to behold
+- path: DSCF5955.JPG
+  tag: Snow has left its footprints on this walk
+---
 There are various rituals which mark the turning of a year for me.
 I can think of my own birthday halfway through the year, I can
 think of Christmas and New Year of course which is a busier family time.

@@ -1,3 +1,46 @@
+---
+icon: P1380452.JPG
+date: Nov 10th 2017
+anchors:
+- Mutford
+- SEA LIFE Great Yarmouth
+- Time and Tide Museum of Great Yarmouth Life
+- Africa Alive!
+title: Lounging in Lowestoft
+images:
+- path: P1380440.JPG
+  tag: Pond Farm cottage
+- path: P1380435.JPG
+  tag: Inside the cottage
+- path: P1380442.JPG
+  tag: Sea Life Great Yarmouth
+- path: P1380448.JPG
+  tag: Inside Sea Life
+- path: P1380452.JPG
+  tag: Inside Sea Life
+- path: P1380453.JPG
+  tag: Inside Sea Life
+- path: P1380454.JPG
+  tag: Hot chocolate cream marshmallows and wafer
+- path: P1380444.JPG
+  tag: The Winter Gardens in Great Yarmouth
+- path: P1380464.JPG
+  tag: Time and Tide museum
+- path: P1380456.JPG
+  tag: Inside the Time and Tide museum
+- path: P1380467.JPG
+  tag: Africa Alive
+- path: P1380472.JPG
+  tag: Africa Alive
+- path: P1380477.JPG
+  tag: Africa Alive
+- path: P1380478.JPG
+  tag: Africa Alive
+- path: P1380480.JPG
+  tag: Africa Alive
+- path: P1380483.JPG
+  tag: Africa Alive
+---
 ![Pond Farm cottage](P1380440.JPG)
 We found our way to [Pond Farm Dairy](https://www.sykescottages.co.uk/cottage/Norfolk-Barnby/Pond-Farm-Dairy-954252.html) in Mutford after the Satnav maintained its policy
 of misdirection by taking us to another barn conversion at Ash Farm! It had

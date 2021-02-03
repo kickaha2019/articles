@@ -1,3 +1,43 @@
+---
+date: March 12th 2015
+anchors:
+- Alnes Fyr
+- Giske Church
+- Alesund
+images:
+- path: alesund_town1.JPG
+  tag: Boudicca docked in Alesund
+- path: alesund_town2.JPG
+  tag: Alesund town
+- path: alesund_kirk1.JPG
+  tag: Giske Church
+- path: alesund_kirk2.JPG
+  tag: Giske Church
+- path: alesund_kirk_inside.JPG
+  tag: Giske Church interior
+- path: alesund_kirk_altar.JPG
+  tag: Giske Church altar
+- path: alesund_kirk_pulpit.JPG
+  tag: Giske Church pulpit
+- path: alesund_kirk_hymns.JPG
+  tag: Giske Church hymboard note the 2
+- path: alesund_kirk_x.JPG
+  tag: Giske Church kissing cross
+- path: alesund_kirkyard.JPG
+  tag: Giske Church churchyard
+- path: alesund_lh1.JPG
+  tag: Godoy lighthouse
+- path: alesund_lh2.JPG
+  tag: Godoy lighthouse
+- path: alesund_lh_beach.JPG
+  tag: Godoy lighthouse
+- path: alesund_lh_top1.JPG
+  tag: Godoy lighthouse view from top
+- path: alesund_lh_top2.JPG
+  tag: Godoy lighthouse view from top
+- path: alesund_lh_top3.JPG
+  tag: Godoy lighthouse view from top
+---
 ![Boudicca docked in Alesund](alesund_town1.JPG)
 At 3am in the morning we were awoken by kettles and telephones and
 bottles flying around the cabin. A storm the captain had told us about

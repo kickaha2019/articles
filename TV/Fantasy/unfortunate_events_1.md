@@ -1,3 +1,9 @@
+---
+title: A Series of Unfortunate Events (Season 1)
+images:
+- path: unfortunate_events_1.jpg
+  tag: A Series of Unfortunate Events
+---
 ![A Series of Unfortunate Events](unfortunate_events_1.jpg)
 
 | | |

@@ -1,3 +1,11 @@
+---
+date: July 20th 2017
+anchors:
+- ABBA The Museum
+images:
+- path: stockholm_1.JPG
+  tag: Abba museum
+---
 ![Abba museum](stockholm_1.JPG)
 I'm an [Abba](https://abbasite.com/) fan so I was happy that Virginia and I went to the
 [Abba museum](http://www.abbathemuseum.com/en/) in

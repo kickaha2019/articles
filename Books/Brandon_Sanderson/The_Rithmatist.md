@@ -1,3 +1,9 @@
+---
+title: The Rithmatist
+images:
+- path: The_Rithmatist.jpg
+  tag: The Rithmatist
+---
 ![The Rithmatist](The_Rithmatist.jpg)
 
 [The Rithmatist](https://brandonsanderson.com/books/the-rithmatist/the-rithmatist/) (2013)

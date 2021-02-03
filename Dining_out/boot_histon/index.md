@@ -1,3 +1,19 @@
+---
+title: The Boot, Histon
+anchors:
+- The Boot
+images:
+- path: P1380802.JPG
+  tag: The front of the Boot
+- path: P1380796.JPG
+  tag: The back of the Boot
+- path: P1380799.JPG
+  tag: Part of the dining area
+- path: P1380798.JPG
+  tag: The kitchen area
+- path: IMG_1759.jpeg
+  tag:  My favourite - a pistacho souffl&eacute; with chocolate ice cream
+---
 [The Boot](https://boothiston.com/) is one of the pubs in Histon
 which has been nicely converted into a brasserie. There is a
 reasonably priced lunchtime menu during the week which changes each

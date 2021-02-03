@@ -1,3 +1,9 @@
+---
+title: Senlin Ascends
+images:
+- path: SenlinAscends.jpg
+  tag: Senlin Ascends
+---
 ![Senlin Ascends](SenlinAscends.jpg)
 
 *Senlin Ascends* (Josiah Bancroft 2013) has worthily made it from

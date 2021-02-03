@@ -1,3 +1,8 @@
+---
+images:
+- path: the_four.jpg
+  tag: The Four
+---
 ![The Four](the_four.jpg)
 
 | | |

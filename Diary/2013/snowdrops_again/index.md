@@ -1,3 +1,15 @@
+---
+date: February 1st 2013
+anchors:
+- Anglesey Abbey
+images:
+- path: p1_display.JPG
+  tag: A display of snowdrops by the start
+- path: p2_bed.JPG
+  tag: Snowdrops au naturel
+- path: p3_colours.JPG
+  tag: The colours of winter at Anglesey Abbey
+---
 Our annual pilgrimage to see the snowdrops at
 [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill).  How much is the National Trust running
 [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill) for us to see our heritage, how much is it

@@ -1,3 +1,6 @@
+---
+title: '7: Optimisation'
+---
 The evolutions take a considerable amount of time, making
 them run as fast as possible has been important.
 

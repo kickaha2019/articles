@@ -1,3 +1,27 @@
+---
+date: 19th July 2019
+anchors:
+- Mottisfont
+images:
+- path: bags_packed.jpg
+  tag: Our bags packed in the boot of the car
+- path: tossed.jpg
+  tag: Tossed at South Mimms
+- path: holiday_inn.jpg
+  tag: Holiday Inn Express
+- path: pizza_hut.jpg
+  tag: Pizza Hut
+- path: pizzas.jpg
+  tag: Pizzas in Pizza Hut
+- path: house.jpg
+  tag: Mottisfont house
+- path: font.jpg
+  tag: The font of Mottisfont
+- path: gardens.jpg
+  tag: Mottisfont gardens
+- path: unloading.jpg
+  tag: Unloading bags at the Cruise Terminal
+---
 ![Our bags packed in the boot of the car](bags_packed.jpg)
 Virginia and I drove down the day before the cruise started, packing
 the bags into the back of Virginia's Kia estate (larger than my Kia). The

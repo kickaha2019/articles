@@ -1,3 +1,9 @@
+---
+title: 'The Gardens Between'
+images:
+- path: the_gardens_between.jpg
+  tag: 'The Gardens Between'
+---
 ![The Gardens Between](the_gardens_between.jpg)
 
 "The Gardens Between" (

@@ -1,3 +1,9 @@
+---
+title: Alien vs. Ninja
+images:
+- path: alien_vs_ninja.jpg
+  tag: Alien vs. Ninja
+---
 ![Alien vs. Ninja](alien_vs_ninja.jpg)
 
 | | |

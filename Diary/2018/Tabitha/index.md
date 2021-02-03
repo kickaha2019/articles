@@ -1,3 +1,23 @@
+---
+date: March 28th 2018
+title: Goodbye to Tabitha
+icon: DSCF0029.JPG
+images:
+- path: DSCF0006.jpg
+  tag: Virginia holding Tabitha soon after we got her
+- path: IMG_1722.jpg
+  tag: Tabitha on a cat tree
+- path: DSCF0022.JPG
+  tag: Tabitha in the snow
+- path: IMG_1995.JPG
+  tag: Tabitha on the bed
+- path: lapsit.jpg
+  tag: Tabitha lapsitting
+- path: IMG_0452.JPG
+  tag: Tabitha in back garden
+- path: IMG_0484.JPG
+  tag: Tabitha in basket
+---
 ![Tabitha in basket](IMG_0484.JPG)
 The world cried today and we cried with it. Our eldest cat Tabitha was
 put to sleep this lunchtime.

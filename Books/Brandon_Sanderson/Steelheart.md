@@ -1,3 +1,8 @@
+---
+images:
+- path: Steelheart.jpg
+  tag: Steelheart
+---
 ![Steelheart](Steelheart.jpg)
 
 [Steelheart](https://brandonsanderson.com/books/steelheart/steelheart/) (2014)

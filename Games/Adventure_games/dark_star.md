@@ -1,3 +1,9 @@
+---
+title: 'Darkstar: The Interactive Movie'
+images:
+- path: DarkStar.jpg
+  tag: 'Darkstar: The Interactive Movie'
+---
 ![Darkstar: The Interactive Movie](DarkStar.jpg)
 
 Darkstar: The Interactive Movie

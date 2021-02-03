@@ -1,3 +1,9 @@
+---
+title: The Extraordinary Adventures of Adele Blanc-Sec
+images:
+- path: AdeleBlanc-Sec.jpg
+  tag: The Extraordinary Adventures of Adele Blanc-Sec
+---
 ![The Extraordinary Adventures of Adele Blanc-Sec](AdeleBlanc-Sec.jpg)
 
 | | |

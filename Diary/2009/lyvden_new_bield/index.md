@@ -1,3 +1,20 @@
+---
+title: Lyveden New Bield
+anchors:
+- Lyveden New Bield
+date: Wednesday, 7 October 2009
+images:
+- path: outside.JPG
+  tag: Lyveden New Bield
+- path: ginny.JPG
+  tag: Virginia at where the entrance would have been
+- path: skyward.JPG
+  tag: Inside looking up
+- path: catholic_codes.JPG
+  tag: Outside showing some of the Catholic coding
+- path: snail_mound.JPG
+  tag: The snail mound - meant for taking the air
+---
 ![Lyveden New Bield](outside.JPG)
 Virginia and I went to see the unfinished Elizabethan mansion of
 [Lyveden New Bield](https://www.nationaltrust.org.uk/lyveden)

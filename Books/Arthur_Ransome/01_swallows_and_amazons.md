@@ -1,3 +1,9 @@
+---
+title: Swallows and Amazons
+images:
+- path: SwallowsAndAmazons.jpg
+  tag: Swallows and Amazons
+---
 ![Swallows and Amazons](SwallowsAndAmazons.jpg)
 
 "Swallows and Amazons" (1930) is the first book in the much-loved series by

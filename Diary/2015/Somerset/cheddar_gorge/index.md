@@ -1,3 +1,23 @@
+---
+date: October 23rd 2015
+anchors:
+- Gough's Cave
+images:
+- path: cheddar_gorge.JPG
+  tag: Cheddar Gorge
+- path: cheddar_cave1.JPG
+  tag: Inside cave at Cheddar Gorge
+- path: cheddar_cave2.JPG
+  tag: Inside cave at Cheddar Gorge
+- path: cheddar_cave3.JPG
+  tag: Inside cave at Cheddar Gorge
+- path: cheddar_cave4.JPG
+  tag: Inside cave at Cheddar Gorge
+- path: cheddar_cave5.JPG
+  tag: Inside cave at Cheddar Gorge
+- path: hunting_lodge.JPG
+  tag: King John's Hunting Lodge
+---
 ![Cheddar Gorge](cheddar_gorge.JPG)
 The next day (23rd October)
 after a good full English breakfast we survived the stress of weird road systems to get to

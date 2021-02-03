@@ -1,3 +1,8 @@
+---
+images:
+- path: BubbleFiction.jpg
+  tag: Bubble Fiction
+---
 ![Bubble Fiction](BubbleFiction.jpg)
 
 | | |

@@ -1,3 +1,33 @@
+---
+date: July 22nd 2017
+anchors:
+- St. Isaac's Cathedral
+- Catherine Palace
+- Faberge Museum
+- Pushkin Art Gallery
+title: St Petersburg
+images:
+- path: russia_1.JPG
+  tag: St Nicholas cathedral in St Petersburg
+- path: russia_10.JPG
+  tag: Catherine Palace in St Petersburg
+- path: russia_11.JPG
+  tag: Catherine Palace in St Petersburg
+- path: russia_12.JPG
+  tag: Catherine Palace in St Petersburg
+- path: russia_13.JPG
+  tag: Catherine Palace in St Petersburg
+- path: russia_14.JPG
+  tag: Catherine Palace in St Petersburg
+- path: russia_4.JPG
+  tag: St Isaac cathedral in St Petersburg
+- path: russia_5.JPG
+  tag: Wedding couple getting snapped in St Petersburg
+- path: russia_egg.JPG
+  tag: Faberge museum in St Petersburg
+- path: russia_shop.JPG
+  tag: Pushkin Art Gallery in St Petersburg
+---
 ![Catherine Palace in St Petersburg](russia_10.JPG)
 St. Petersburg was the centre of our cruise, a place of contrasts. In the city
 potholed roads and delapidated buildings which contrasted with the neat new motorway

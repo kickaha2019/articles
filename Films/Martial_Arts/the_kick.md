@@ -1,3 +1,9 @@
+---
+title: The Kick
+images:
+- path: the_kick.jpg
+  tag: The Kick
+---
 ![The Kick](the_kick.jpg)
 
 | | |

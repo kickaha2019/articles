@@ -1,3 +1,7 @@
+---
+title: 6:Preloading
+date: 12th December 2013
+---
 A late fix was done for the Finale screen, where the soft
 toys would start appearing before the screen was visible.
 This problem was made worse by how long it takes to load

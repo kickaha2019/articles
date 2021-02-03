@@ -1,3 +1,6 @@
+---
+title: 1:Preamble
+---
 There were several firsts about this Icelandic holiday cruise. This is the first
 time Virginia and I cruised on a ship we had been on before. We cruised to the
 [Western Mediterranean](2016/Arcadia) on the [Arcadia](https://www.pocruises.com/cruise-ships/arcadia/) in 2016.

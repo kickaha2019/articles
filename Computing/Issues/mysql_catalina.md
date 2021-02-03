@@ -1,3 +1,6 @@
+---
+title: Running MySQL on Catalina
+---
 MySQL 5 didn't start up from the preference pane so installed MySQL 8.
 
 MySQL 8 didn't appear as a preference pane so had to remove

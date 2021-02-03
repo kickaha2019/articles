@@ -1,3 +1,18 @@
+---
+title: Digby's in the house
+date: Saturday, 5 September 2009
+images:
+- path: fridge1.JPG
+  tag: The new fridge freezer
+- path: ginny.JPG
+  tag: Virginia tells the fridge freezer how to behave
+- path: loaded.JPG
+  tag: The fridge compartment
+- path: freezer.JPG
+  tag: The freezer compartment
+- path: outlook.JPG
+  tag: A fridge freezer's view of the world
+---
 Digby's in the house. He's standing in a cosy corner of the kitchen like he doesn't mean to move, but you're conscious he's there because of the way he hums to himself. A bit loud but we'll get used to it.
 
 He's a bit sure of himself is Digby. I'm friendly not frosty like the others he says. I'm clever with an A in Economy he says. I'm a cool dude he says.

@@ -1,3 +1,9 @@
+---
+title: The Grand Heist
+images:
+- path: the_grand_heist.jpg
+  tag: The Grand Heist
+---
 ![The Grand Heist](the_grand_heist.jpg)
 
 | | |

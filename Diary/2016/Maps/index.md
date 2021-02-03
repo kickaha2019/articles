@@ -1,3 +1,9 @@
+---
+images:
+- path: maps.jpg
+  tag: Maps
+date: March 9th 2016
+---
 ![Maps](maps.jpg)
 My efforts at game-making have become less ambitious over the years.
 This current project was to do a present hunt for Virginia, where she

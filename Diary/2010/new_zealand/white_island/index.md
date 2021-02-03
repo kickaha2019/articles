@@ -1,3 +1,26 @@
+---
+date: 25th November 2010
+anchors:
+- White Island
+- White Island Rendezvous Motel
+images:
+- path: white1.JPG
+  tag: White Island
+- path: white_rubber.JPG
+  tag: Part of the fun at White Island
+- path: white2.JPG
+  tag: White Island
+- path: white3.JPG
+  tag: White Island
+- path: white4.JPG
+  tag: White Island
+- path: white5.JPG
+  tag: White Island
+- path: white_fact.JPG
+  tag: Abandoned factory at White Island
+- path: white_fact2.JPG
+  tag: Abandoned factory at White Island
+---
 ![White Island](white1.JPG)
 Even more magma hotspot activity was provided by the boat ride to 	White Island, courtesy of
 [White Island Tours](https://www.whiteisland.co.nz/white-island.html).

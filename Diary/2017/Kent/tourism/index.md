@@ -1,3 +1,33 @@
+---
+anchors:
+- Bodiam Castle
+- Bateman's
+- Sissinghurst Castle Gardens
+- Groombridge Place
+- Scotney Castle - National Trust
+title: 3:Places we visited
+images:
+- path: P1380003.JPG
+  tag: Bodiam Castle
+- path: P1380005.JPG
+  tag: Bodiam Castle well
+- path: P1380006.JPG
+  tag: Kipling's home Bateman's
+- path: P1380007.JPG
+  tag: Me at Bateman's
+- path: P1380008.JPG
+  tag: Virginia with Kipling at Bateman's
+- path: P1380020.JPG
+  tag: Sissinghurst gardens
+- path: P1380021.JPG
+  tag: Sissinghurst gardens
+- path: P1380025.JPG
+  tag: Groombridge Place
+- path: P1380029.JPG
+  tag: Groombridge Place
+- path: P1380032.JPG
+  tag: Scotney Castle mansion
+---
 ![Bodiam Castle](P1380003.JPG)
 We made full use of our [National Trust](https://www.nationaltrust.org.uk/) membership -
 we saw [Bodiam Castle](https://www.nationaltrust.org.uk/bodiam-castle) (a fine castle ruin

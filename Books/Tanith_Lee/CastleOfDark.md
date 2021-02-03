@@ -1,3 +1,9 @@
+---
+title: The Castle of Dark
+images:
+- path: dark_castle.jpg
+  tag: The Castle of Dark
+---
 ![The Castle of Dark](dark_castle.jpg)
 
 "The Castle of Dark" (published 1978) is a young adult story by Tanith Lee.

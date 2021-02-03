@@ -1,3 +1,8 @@
+---
+date: August 31st 2018
+title: 1:Tilbury
+icon: tilbury.jpeg
+---
 We went on a British Isles cruise on the [Columbus](https://www.cruiseandmaritime.com/our-ships/columbus), a ship of the
 [Cruise and Maritime](https://www.cruiseandmaritime.com/) cruise line.  Why did
 we chose such a far distant location for a holiday? Friends of ours have moved

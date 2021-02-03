@@ -1,3 +1,8 @@
+---
+images:
+- path: WrittenBy.jpg
+  tag: Written By
+---
 ![Written By](WrittenBy.jpg)
 
 | | |

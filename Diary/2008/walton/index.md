@@ -1,3 +1,18 @@
+---
+title: Tufty Club Outing
+anchors:
+- Walton-on-the-Naze
+date: Thursday, 24 July 2008
+images:
+- path: shop.JPG
+  tag: Tack to help you tackle life on the beach
+- path: hat.JPG
+  tag: Virginia's hat goes for a dip in the ocean
+- path: tower.JPG
+  tag: The Naze Tower
+- path: beach.JPG
+  tag: Beach with beach huts (70 pounds a week)
+---
 ![Beach with beach huts (70 pounds a week)](beach.JPG)
 Virginia's grandmother used to run a
 [Tufty Club](https://www.rospa.com/about/history/tufty/) (a long gone organisation for teaching children to cross the road safely, Tufty was a squirrel.) This [Tufty Club](https://www.rospa.com/about/history/tufty/) had an annual outing to the seaside which kept happening even after the Club itself became moribund. Virginia's mother has kept the outing going, and I felt I should go once to experience the experience.

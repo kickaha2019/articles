@@ -1,3 +1,13 @@
+---
+title: The Phoenix, Histon
+anchors:
+- The Phoenix Bar & Restaurant
+images:
+- path: DSCF4816.JPG
+  tag: The front of the Phoenix
+- path: IMG_2733.JPG
+  tag: The area we normally eat in
+---
 ![The front of the Phoenix](DSCF4816.JPG)
 *The Phoenix* was a superior Chinese
 restaurant in Histon where we live.  It's where

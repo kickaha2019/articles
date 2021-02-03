@@ -1,3 +1,9 @@
+---
+title: Garo and the Wailing Dragon
+images:
+- path: garo.jpg
+  tag: Garo and the Wailing Dragon
+---
 ![Garo and the Wailing Dragon](garo.jpg)
 
 | | |

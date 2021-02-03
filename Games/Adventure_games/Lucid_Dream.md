@@ -1,3 +1,8 @@
+---
+title: Lucid Dream
+images:
+- path: Lucid_Dream.jpg
+---
 ![Lucid Dream](Lucid_Dream.jpg)
 
 *Lucid Dream* ([Dali games](http://dali.games/)

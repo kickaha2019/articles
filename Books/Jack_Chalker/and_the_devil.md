@@ -1,3 +1,9 @@
+---
+title: And The Devil Will Drag You Under
+images:
+- path: and_the_devil.jpg
+  tag: And The Devil Will Drag You Under
+---
 ![And The Devil Will Drag You Under](and_the_devil.jpg)
 
 *And The Devil Will Drag You Under* (Jack Chalker 1979) is about an alcoholic demon's

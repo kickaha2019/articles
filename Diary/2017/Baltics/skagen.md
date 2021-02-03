@@ -1,3 +1,16 @@
+---
+date: July 26th 2017
+anchors:
+- Voergaard Slot
+- Den Tilsandede Kirke
+images:
+- path: skagen_ent.JPG
+  tag: Wannabee Ent in Skagen area
+- path: skagen_castle.JPG
+  tag: Voergaard Castle
+- path: skagen_buried.JPG
+  tag: Buried Church in Skagen
+---
 ![Voergaard Castle](skagen_castle.JPG)
 Skagen (said more like skein) is an attractive small seaside town at the tip of
 Denmark. It attracted a school of artists in the past, it now attracts a lot of

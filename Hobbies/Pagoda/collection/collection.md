@@ -1,3 +1,6 @@
+---
+title: Collecting links for Pagoda
+---
 Most of the links are collected automatically for Pagoda.  Once
 a month I run a special web spider to collect links to reviews
 and walkthroughs and the like from the websites I link to.  It's

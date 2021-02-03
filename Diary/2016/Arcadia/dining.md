@@ -1,3 +1,12 @@
+---
+title: Onboard nourishment
+date: October 7th 2016
+images:
+- path: sindhu.jpg
+  tag: Sindhu
+- path: sindhu2.jpg
+  tag: Sindhu
+---
 ![Meridian](meridian.jpeg)
 We often went up to the
 Belvedere buffet restaurant for breakfast or lunch. Pleasant views over the mostly calm seas,

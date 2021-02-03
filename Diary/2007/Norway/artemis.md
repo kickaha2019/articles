@@ -1,3 +1,22 @@
+---
+title: On the Artemis
+date: 19th May 2007
+images:
+- path: corridor.JPG
+  tag: Corridor outside our cabin
+- path: passenger_deck.JPG
+  tag: Main passenger deck
+- path: bar_area.JPG
+  tag: The bar area on the ship
+- path: stairwell.JPG
+  tag: Stairwell on the Artemis
+- path: lounge.JPG
+  tag: One of the ship's lounges
+- path: walkway.JPG
+  tag: On the main passenger deck
+- path: pools.JPG
+  tag: If the sea isn't good enough
+---
 ![Main passenger deck](passenger_deck.JPG)
 We had seen quite a few of our fellow passengers by this stage, and more as we explored the boat as we left Southampton. Many of them were wandering around with life-jackets which seemed like a lack of trust particularly as there's fewer icebergs around nowadays. However they were the wise ones ahead of the game. The first event was the muster, and if you were smart you and your life-jacket got a comfy chair in good time. I looked around at my fellow shipmates, thought how old the average age was - then realised I was in their age bracket. Sigh.
 

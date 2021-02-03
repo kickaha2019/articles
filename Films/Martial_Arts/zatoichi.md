@@ -1,3 +1,9 @@
+---
+title: Zatoichi
+images:
+- path: zatoichi.jpg
+  tag: Zatoichi
+---
 ![Zatoichi](zatoichi.jpg)
 
 | | |

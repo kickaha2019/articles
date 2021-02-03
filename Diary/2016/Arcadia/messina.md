@@ -1,3 +1,16 @@
+---
+title: Messina
+anchors:
+- Messina
+date: October 12th 2016
+images:
+- path: messina.jpg
+  tag: Messina
+- path: messina2.jpg
+  tag: Messina
+- path: messina3.jpg
+  tag: Messina
+---
 ![Messina](messina.jpg)
 We saw the clock tower at the Duomo in Messina, but not at noon when the lion and the figures
 move around at a slow pace. We also saw and were seen by numerous attractive girls with

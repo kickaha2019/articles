@@ -1,3 +1,26 @@
+---
+title: Stretham Old Engine
+anchors:
+- Stretham Old Engine
+date: Sunday, 11 July 2010
+images:
+- path: building.JPG
+  tag: Stretham Old Engine building
+- path: wheel.JPG
+  tag: The water wheel being driven
+- path: boilers.JPG
+  tag: The coal boilers
+- path: low_pressure_boiler.JPG
+  tag: Low pressure boiler
+- path: innards.JPG
+  tag: The internal organs of the engine
+- path: pistons.JPG
+  tag: Pistons up to the beam
+- path: beam.JPG
+  tag: Beam shaft
+- path: main_beam.JPG
+  tag: The main beam
+---
 ![Stretham Old Engine building](building.JPG)
 In Cambridge we live on the outskirts of Fenland. Originally marshland this was drained by first wind-driven pumps and then steam pumps (and then diesel and then electric but they're less romantic.)
 [Stretham Old Engine](https://www.strethamoldengine.org.uk/)

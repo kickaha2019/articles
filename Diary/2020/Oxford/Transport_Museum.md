@@ -1,3 +1,17 @@
+---
+date: September 30th 2020
+anchors:
+- Oxford Bus Museum
+images:
+- path: IMG_1740.jpeg
+  tag:  Oxford Bus Transport Museum
+- path: IMG_1732.jpeg
+  tag:  Oxford Bus Transport Museum
+- path: IMG_1733.jpeg
+  tag:  Oxford Bus Transport Museum
+- path: IMG_1738.jpeg
+  tag:  Morris car museum
+---
 ![Oxford Bus Transport Museum](IMG_1740.jpeg)
 We went to the [Oxford Bus Transport Museum](https://www.oxfordbusmuseum.org), hidden at the back of a train station. A small museum, staff of volunteers coping with Cov19 restrictions as best they could, tables had to be sanitised after usage, masks on site, track and trace, service at tables.
 

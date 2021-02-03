@@ -1,3 +1,7 @@
+---
+title: Where we've been
+icon: /Users/peter/Synch/Website/Articles/Map/map.jpg
+---
 A geographical index to this website, as a way of listing places
 I (and Virginia) have been. The maps herein use data from
 [OpenStreetMap](https://www.openstreetmap.org/), realised using the

@@ -1,3 +1,6 @@
+---
+title: Getting back via Coventry
+---
 ![Ramada Hotel](34334_257_b.jpg)
 Holidays can be very stressful, and problems with getting around on the roads stressed me out
 this time. A foretaste was trying to get into and out of Lakeside, but what did for me was the

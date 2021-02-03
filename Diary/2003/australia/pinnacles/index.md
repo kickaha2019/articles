@@ -1,3 +1,23 @@
+---
+date: 7 October 2003
+anchors:
+- The Pinnacles
+- Cervantes
+- Lake Thetis
+images:
+- path: pinnacles1.jpg
+  tag: The Pinnacles 1
+- path: pinnacles2.jpg
+  tag: The Pinnacles 2
+- path: pinnacles3.jpg
+  tag: The Pinnacles 3
+- path: pinnacles4.jpg
+  tag: The Pinnacles 4
+- path: pinnacles5.jpg
+  tag: The Pinnacles 5
+- path: pinnacles6.jpg
+  tag: The Pinnacles 6
+---
 ![The Pinnacles 1](pinnacles1.jpg)
 The Pinnacles are an extraordinary area in the Nambung National Park. You may have seen some of the sand gardens with rocks that the Japanese go in for. Envision a giant's sand garden streaming out to the horizons. Let time upon time wither the rocks with decay. Allow a fierce sun to render each rock as an ancient sundial. And observe the shadows are long indeed.
 

@@ -1,3 +1,8 @@
+---
+images:
+- path: winter_players.jpg
+  tag: The Winter Players
+---
 ![The Winter Players](winter_players.jpg)
 
 "The Winter Players" (published 1976) is a young adult novella by Tanith Lee.

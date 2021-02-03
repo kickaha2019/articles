@@ -1,3 +1,18 @@
+---
+icon: DSCF4641.JPG
+date: 13th October 2013
+images:
+- path: DSCF4640.JPG
+  tag: Cats at Country Cattery
+- path: DSCF4641.JPG
+  tag: A gold coach
+- path: DSCF4645.JPG
+  tag: Blue coaches ready for the tours
+- path: DSCF4643.JPG
+  tag: Shearings Hythe Interchange
+- path: DSCF4648.JPG
+  tag: Novotel at Lille
+---
 ![Cats at Country Cattery](DSCF4640.JPG)
 It was unearthly quiet on the Saturday (12th)
 when we had dropped Tabitha and Amelia

@@ -1,3 +1,9 @@
+---
+title: Eschalon Book 2
+images:
+- path: Eschalon2.jpg
+  tag: Eschalon Book 2
+---
 ![Eschalon Book 2](Eschalon2.jpg)
 
 [Eschalon Book 2](http://basiliskgames.com/eschalon-book-ii/)

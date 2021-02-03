@@ -1,3 +1,9 @@
+---
+title: Liar Game 2 (2010)
+images:
+- path: liar_game_2010.jpg
+  tag: Liar Game 2 (2010)
+---
 ![Liar Game 2 (2010)](liar_game_2010.jpg)
 
 | | |

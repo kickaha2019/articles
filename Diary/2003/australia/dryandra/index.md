@@ -1,3 +1,17 @@
+---
+date: 8 Oct 2003
+anchors:
+- Barna Mia
+images:
+- path: my_hut.jpg
+  tag: My hut at Dryandra
+- path: entrance.jpg
+  tag: Entrance to Barna Mia
+- path: boodies.jpg
+  tag: Boodies through a glass darkly
+- path: lorikeet.jpg
+  tag: Green lorikeet
+---
 ![Entrance to Barna Mia](entrance.jpg)
 Since Australia started being called Australia many species of plant and animal have been introduced from outside. If you're a vulnerable indigenous species you will remember meeting your first fox or cat for the rest of your life - and that isn't going to be a long time. Much habitat has also been lost to the demands of agriculture. Dryandra to the south-east of Perth (near Narrogin) is an island of original woodland where baiting with 1080 poison is being used to give native species like woylies and bilbies a chance. 1080 poison is derived from a native poison pea plant to which native animals have developed a tolerance that introduced species do not have.
 

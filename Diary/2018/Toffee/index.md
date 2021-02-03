@@ -1,3 +1,27 @@
+---
+title: The secret of the Keel family toffee
+date: December 23rd 2018
+images:
+- path: P1390116.jpg
+  tag: Golden syrup in the saucepan
+- path: P1390118.jpg
+  tag: Sugar and butter added
+- path: P1390119.jpg
+  tag: The molds ready with greasepaper underneath as the molds have small holes in
+    them
+- path: P1390121.jpg
+  tag: Stirring and heating the mixture
+- path: P1390122.jpg
+  tag: The mixture nearly ready to cool in the molds
+- path: P1390123.jpg
+  tag: Testing the mixture to see if ready for the molds
+- path: P1390125.jpg
+  tag: Spooning the mixture into the molds
+- path: P1390126.jpg
+  tag: Cooling in the molds
+- path: P1390129.jpg
+  tag: Extracted from the molds ready for Boxing Day
+---
 Virginia's family enjoy a special toffee made from a secret family recipe.
 Virginia's grandmother on her father's side made it, and Virginia
 now makes it as a must have treat for the Keel family Christmas.

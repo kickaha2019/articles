@@ -1,3 +1,15 @@
+---
+date: October 10th 2018
+anchors:
+- Audley End House and Gardens
+images:
+- path: P1390037.jpg
+  tag: Audley End House
+- path: P1390029.jpg
+  tag: Nursery in Audley End House
+- path: P1390035.jpg
+  tag: Audley End House
+---
 ![Audley End House](P1390037.jpg)
 I used up one of the days of holiday I had to use before the end of the year
 and we went to [Audley End](https://www.english-heritage.org.uk/visit/places/audley-end-house-and-gardens/).

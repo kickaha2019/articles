@@ -1,3 +1,8 @@
+---
+date: September 18th 2020
+images:
+- path: IMG_1417.jpeg
+---
 ![My old office](IMG_1417.jpeg)
 I'm now retired. Perhaps a silly time to retire, working from home was quite easy for me, and the frequent IT issues made it easier. Whenever I was unable to connect to my desktop at work I would have to wait until there was someone in the office to reboot it - they hand-picked those who were allowed into the office. I could have stayed on some months longer and got some more money in the bank - that would have been wise and sensible. But I retired instead.
 

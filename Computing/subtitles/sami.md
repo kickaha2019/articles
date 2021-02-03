@@ -1,3 +1,6 @@
+---
+title: Synchronized Accessible Media Interchange
+---
 A format somewhat inspired by HTML. The files in this format
 I've come across have for some reason been in a variety of text
 encodings. A sample extract:

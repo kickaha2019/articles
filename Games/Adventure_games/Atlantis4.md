@@ -1,3 +1,9 @@
+---
+title: 'Atlantis 4: Evolution'
+images:
+- path: Atlantis4.jpg
+  tag: 'Atlantis 4: Evolution'
+---
 ![Atlantis 4: Evolution](Atlantis4.jpg)
 
 "Atlantis 4: Evolution" (2004) is the fourth game in the Atlantis series originally

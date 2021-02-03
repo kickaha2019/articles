@@ -1,3 +1,9 @@
+---
+date: May 31st 2015
+images:
+- path: words.jpg
+  tag: Words
+---
 ![Words](words.jpg)
 
 My mother died on June 10th, 2012.  We had the funeral service, and

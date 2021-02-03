@@ -1,3 +1,9 @@
+---
+title: 'Torment: Tides of Numenera'
+images:
+- path: Numenera.jpg
+  tag: 'Torment: Tides of Numenera'
+---
 ![Torment: Tides of Numenera](Numenera.jpg)
 
 [Torment: Tides of Numenera](https://www.inxile-entertainment.com/torment)

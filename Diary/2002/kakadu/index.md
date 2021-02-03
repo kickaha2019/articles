@@ -1,3 +1,39 @@
+---
+date: 3 June 2002
+anchors:
+- Darwin
+- Nourlangie Rock
+- Ubirr
+images:
+- path: aboriginal_calendar.JPG
+  tag: Aboriginal calendar
+- path: road_train.JPG
+  tag: Road train in Kakadu
+- path: termite_mound.JPG
+  tag: Termite mound
+- path: meat_ants.JPG
+  tag: Meat ants invading a termite mound
+- path: dragonfly.JPG
+  tag: A dragonfly which kindly stayed still for a while
+- path: rock_wallaby.JPG
+  tag: Rock wallaby?
+- path: pandanus.JPG
+  tag: Pandanus recovering quickly from a recent fire
+- path: leaves.JPG
+  tag: Just some leaves that caught my eye
+- path: cockatoo.JPG
+  tag: Cockatoo on a lunch-break
+- path: common_egret.JPG
+  tag: Common egret but I'll take what I can on the camera
+- path: finch.JPG
+  tag: Finch
+- path: nourlangie.JPG
+  tag: Nourlangie - an easily accessible Aboriginal site
+- path: sunset.JPG
+  tag: Nourlangie is a good sunset viewing place
+- path: ubirr.JPG
+  tag: Ubirr - another Aboriginal site
+---
 ![Road train in Kakadu](road_train.JPG)
 The Top End is the top end of the Northern Territory in Australia.  I landed at *Darwin* its capital city where I had been recommended to try mud crab. I did try to try mud crab but either it was Sunday and the restaurant was closed or the pier was closed by the police or ... My sole Darwin activity (apart from buying tinned possum and the like as presents) was to see "Spiderman" at a local cinema. Oddly the refreshments counter sold the tickets which caused queueing problems.
 

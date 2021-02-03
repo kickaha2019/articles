@@ -1,3 +1,9 @@
+---
+title: Alphabet of Thorn
+images:
+- path: alphabet_of_thorn.jpg
+  tag: Alphabet of Thorn
+---
 ![Alphabet of Thorn](alphabet_of_thorn.jpg)
 
 *Alphabet of Thorn* (Alphabet of Thorn) is the tale of

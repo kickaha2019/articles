@@ -1,3 +1,17 @@
+---
+anchors:
+- Matamata
+date: 2nd March 2006
+images:
+- path: matamata.jpg
+  tag: Matamata
+- path: hobbiton.jpg
+  tag: Matamata - Hobbiton in the 'Lord of the Rings' films
+- path: bilbo_hole.jpg
+  tag: Matamata - Bilbo's hobbit-hole
+- path: oak_tree_prop.jpg
+  tag: Matamata - remains of oak tree prop
+---
 ![Matamata - Hobbiton in the 'Lord of the Rings' films](hobbiton.jpg)
 Dreamt a dream influenced by Lirael. Slept quite well on the bed upstairs up the wooden ladder. No sign of the host so I just left and went to a private bird sanctuary at Otorohanga. Saw a tub and kiwis in dark enclosures.
 

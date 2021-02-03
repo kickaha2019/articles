@@ -1,3 +1,8 @@
+---
+icon: "/Users/peter/Synch/Website/Articles/Diary/2014/Thursford/santaland.JPG"
+title: Thursford Collection Christmas Show
+date: Friday, 11 November 2011
+---
 We took Friday 11th off work so we could go to the
 [Thursford Christmas Spectacular](https://www.thursford.com/christmas-spectacular/)
 at the

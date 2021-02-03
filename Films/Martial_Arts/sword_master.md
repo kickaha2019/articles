@@ -1,3 +1,9 @@
+---
+title: Sword Master
+images:
+- path: sword_master.jpg
+  tag: Sword Master
+---
 ![Sword Master](sword_master.jpg)
 
 | | |

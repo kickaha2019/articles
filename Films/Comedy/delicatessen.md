@@ -1,3 +1,8 @@
+---
+images:
+- path: Delicatessen.jpg
+  tag: Delicatessen
+---
 ![Delicatessen](Delicatessen.jpg)
 
 | | |

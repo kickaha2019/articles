@@ -1,3 +1,16 @@
+---
+date: February 22nd 2018
+title: My father
+images:
+- path: cringleford.JPG
+  tag: Dad at Cringleford
+- path: wedding.jpg
+  tag: Dad at our wedding
+- path: dad.jpg
+  tag: Dad in later years
+- path: sunset.JPG
+  tag: Dad on a mobility scooter at Anglesey Abbey
+---
 ![Dad at Cringleford](cringleford.JPG)
 My father John Sidney Smith died this evening. Oscar Wilde quipped that "All women become like their mothers.
 That is their tragedy. No man does, and that is his".

@@ -1,3 +1,8 @@
+---
+images:
+- path: od_magic.jpg
+  tag: Od Magic
+---
 ![Od Magic](od_magic.jpg)
 
 *Od Magic* (2005) is a wondrous many-threaded narrative.

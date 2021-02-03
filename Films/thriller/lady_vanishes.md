@@ -1,3 +1,9 @@
+---
+title: The Lady Vanishes
+images:
+- path: lady_vanishes.jpg
+  tag: The Lady Vanishes
+---
 ![The Lady Vanishes](lady_vanishes.jpg)
 
 | | |

@@ -1,3 +1,33 @@
+---
+title: North Norfolk break
+anchors:
+- Sandringham
+- Thursford Collection
+- Blickling Estate
+- Holkham Hall
+- Felbrigg Hall
+- Little Walsingham
+- Blakeney Point
+- Caithness Crystal Kings Lynn
+date: Friday, 24 June 2005
+images:
+- path: merrygoround.jpg
+  tag: Classical merry go round at the Thursford Collection
+- path: fairground_organ.jpg
+  tag: Old fairground organ
+- path: blakeney_point.jpg
+  tag: Blakeney point
+- path: oyster_catcher.jpg
+  tag: An oyster catcher nesting (as they do) in the rough
+- path: nest.jpg
+  tag: Not much of a nest eh?
+- path: seals.jpg
+  tag: We took a boat ride to see seals at Blakeney Point
+- path: single_seal.jpg
+  tag: A single seal
+- path: sandringham.jpg
+  tag: Sandringham
+---
 ![Classical merry go round at the Thursford Collection](merrygoround.jpg)
 Virginia and I spent a long weekend 24th to 27th June in the North Norfolk area. On the way up we visited the Thursford Collection during a real downpour on the Friday. There we saw the nifty footwork of resident organist Robert Wolfe on a Wurlitzer. How can the brain control so much?
 

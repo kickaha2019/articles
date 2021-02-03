@@ -1,3 +1,70 @@
+---
+title: First day of tour
+anchors:
+- National Museum of Korea
+- Seoul Tower
+- Changdeokgung Palace
+- Jongno Tower
+- Gwangjang Market
+date: May 10th 2016
+images:
+- path: museum.jpg
+  tag: National Museum of Korea
+- path: museum_crown.jpg
+  tag: Silla Crown in the museum
+- path: museum_urns.jpg
+  tag: Funerary urns in the museum
+- path: namsan_tower.jpg
+  tag: North Seoul Tower in Namsan Park
+- path: namsan_tower_sweetshop.jpg
+  tag: Sweetshop at top of Tower
+- path: seoul_costume_shop.jpg
+  tag: Costume shp in Seoul
+- path: palace_entrance.jpg
+  tag: Entrance to Changdeokgung Palace
+- path: palace.jpg
+  tag: Changdeokgung Palace
+- path: palace_pavilions.jpg
+  tag: Palace pavilions
+- path: palace_rooftop.jpg
+  tag: Creatures on pavilions roofs
+- path: palace_lock.jpg
+  tag: Traditional lock
+- path: palace_sundial.jpg
+  tag: Traditional sundial
+- path: palace_markers.jpg
+  tag: Where to stand for officials of different ranks
+- path: palace_throne.jpg
+  tag: Palace throne
+- path: huwon_pond.jpg
+  tag: Secret Garden pond
+- path: huwon_dressing_up.jpg
+  tag: Visitors dressing up
+- path: huwon_library.jpg
+  tag: Secret Garden library
+- path: huwon_map_pond.jpg
+  tag: Secret Garden pond in shape of Korea
+- path: gwangjang1.jpg
+  tag: Gwangjang Market
+- path: gwangjang_costume.jpg
+  tag: Costume shop in market
+- path: gwangjang_fish.jpg
+  tag: Fish in market
+- path: gwangjang_pancakes.jpg
+  tag: Korean pancakes in market
+- path: gwangjang_shoes.jpg
+  tag: Market shop
+- path: gwangjang_stall.jpg
+  tag: Food stall in market
+- path: gwangjang_towels.jpg
+  tag: Towels in market
+- path: gwangjang_veg.jpg
+  tag: Vegetables in market
+- path: seoul_menu.jpg
+  tag: Seoul restaurant menu
+- path: naengmyeon.jpg
+  tag: The frozen noodle soup
+---
 ![Silla Crown in the museum](museum_crown.jpg)
 The buffet breakfast (included in the holiday) was a mix of Western and Korean, there were only a fork
 and spoon on the tables so I first tried eating scrambled eggs and bacon without the aid of a knife.

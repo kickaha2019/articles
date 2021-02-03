@@ -1,3 +1,52 @@
+---
+date: January 2nd 2017
+title: Mugs and cups
+images:
+- path: P1000461.jpg
+  tag: I grew up in Norwich and would go to watch the Canaries play from school on
+    Saturday
+- path: P1000462.jpg
+  tag: despair dot com offers a vital mirror to corporate America
+- path: P1000463.jpg
+  tag: I'm a cat person not a dog person particularly since lap-sitting Alex and Howie's
+    Josie
+- path: P1000464.jpg
+  tag: The Peanuts cartoons more than amuse me, they speak of profoundities
+- path: P1000465.jpg
+  tag: Doctor Who was a phenomenon in my childhood
+- path: P1000466.jpg
+  tag: Dilbert is required reading each working day
+- path: P1000467.jpg
+  tag: Mugs make great souvenirs - useful and decorative
+- path: P1000468.jpg
+  tag: Virginia has thrown Chocoholics parties in the past
+- path: P1000469.jpg
+  tag: My parents and I had a memorable Channel Islands holiday
+- path: P1000470.jpg
+  tag: I attended Histon Baptist Church in the 1990s
+- path: P1000472.jpg
+  tag: Virginia and I have become confirmed cruisers
+- path: P1000473.jpg
+  tag: Cartoons like Tom and Jerry and Bugs Bunny were part of my childhood
+- path: P1000474.jpg
+  tag: I'm not a twitcher but birds are magical creatures
+- path: P1000475.jpg
+  tag: This cup reminds me of visiting Auntie Lily who wasn't my aunt
+- path: P1000476.jpg
+  tag: My father got me interested in Oriental culture
+- path: P1000477.jpg
+  tag: Portmeirion is famed for china and for the Prisoner
+- path: P1000478.jpg
+  tag: I like this style but Virginia doesn't
+- path: P1000479.jpg
+  tag: Swallows and Amazons were part of my childhood
+- path: P1000480.jpg
+  tag: I went to the Barn International Coffee Bar for a while but wasn't much good
+    at it
+- path: P1000483.jpg
+  tag: 'Journeyman Project 3: Legacy of Time is still one of my favourite computer
+    games'
+---
 We have more mugs and cups than we'll ever use at once. Some
 survive on the shelves because they have a sentimental meaning to
 me.

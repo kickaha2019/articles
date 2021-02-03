@@ -1,3 +1,9 @@
+---
+title: Spy Kids
+images:
+- path: spy_kids.jpg
+  tag: Spy Kids
+---
 ![Spy Kids](spy_kids.jpg)
 
 | | |

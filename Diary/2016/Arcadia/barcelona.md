@@ -1,3 +1,45 @@
+---
+title: Barcelona
+anchors:
+- Park Guell
+- Sagrada Familia
+date: October 17th 2016
+images:
+- path: barcelona.jpg
+  tag: Building facade in Barcelona
+- path: gaudi.jpg
+  tag: Gaudi buildings in Barcelona
+- path: gaudi2.jpg
+  tag: Gaudi buildings in Barcelona
+- path: gueill.jpg
+  tag: Park Guell in Barcelona
+- path: gueill2.jpg
+  tag: Park Guell
+- path: gueill3.jpg
+  tag: Park Guell
+- path: gueill4.jpg
+  tag: Park Guell
+- path: gueill5.jpg
+  tag: Park Guell
+- path: gueill6.jpg
+  tag: Park Guell
+- path: gueill7.jpg
+  tag: Park Guell
+- path: gueill8.jpg
+  tag: Park Guell
+- path: sagrada.jpg
+  tag: Sagrada Familia
+- path: sagrada2.jpg
+  tag: Sagrada Familia
+- path: sagrada3.jpg
+  tag: Sagrada Familia
+- path: sagrada4.jpg
+  tag: Sagrada Familia
+- path: sagrada5.jpg
+  tag: Sagrada Familia
+- path: sagrada6.jpg
+  tag: Sagrada Familia
+---
 ![Gaudi buildings in Barcelona](gaudi.jpg)
 We did the Gaudi tour in Barcelona and it was by far the most enjoyable port visit.
 Barcelona is a well-laid out cultural city, the city blocks are called 'apples' and have

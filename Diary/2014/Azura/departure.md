@@ -1,3 +1,21 @@
+---
+date: September 14th 2014
+images:
+- path: terminal.JPG
+  tag: The terminal in Southampton with the huge Azura behind it
+- path: unloading.JPG
+  tag: Cars being unloaded
+- path: cases.JPG
+  tag: Baggage waiting to be shipped onboard
+- path: processing.JPG
+  tag: Waiting to go to a desk to be processed
+- path: end_of_maze.JPG
+  tag: The end of the maze and onto the ship!
+- path: atrium.JPG
+  tag: The impressive atrium on the Azura
+- path: muster.JPG
+  tag: The muster drill - a dress rehearsal for abandoning ship
+---
 ![The terminal in Southampton with the huge Azura behind it](terminal.JPG)
 Holidays are stressful.  That's why we like to go on cruises.  You reach the terminal,
 the bags vanish, the car vanishes, and you walk through the glass maze onto the ship. And

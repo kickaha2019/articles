@@ -1,3 +1,9 @@
+---
+title: The Mind Robber
+images:
+- path: mind_robber.jpg
+  tag: Mind Robber
+---
 ![Mind Robber](mind_robber.jpg)
 
 | | |

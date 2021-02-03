@@ -1,3 +1,9 @@
+---
+date: 6th May 2010
+images:
+- path: sidmouth.jpg
+  tag: Our hotel
+---
 ![Our hotel](sidmouth.jpg)
 Thursday we restricted ourselves to wandering round Sidmouth itself in the rain. Sidmouth had plenty of polling stations, and even UKIP candidates out and about. The Sid river flows through a pleasant park on its way to the sea. Some large established hotels, buildings perched precariously on shored up cliffs, olde worlde tea rooms.
 

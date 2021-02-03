@@ -1,3 +1,12 @@
+---
+date: September 5th 2018
+anchors:
+- Tobermory
+title: Mull
+images:
+- path: mull1.jpg
+  tag: Tobermory
+---
 ![Tobermory](mull1.jpg)
 A tender ride to Tobermory but at least they could dock 2 tenders at the pier.
 We walked along the frontage, Virginia got lip balm at a very smelly bath soap shop,

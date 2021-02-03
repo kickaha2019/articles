@@ -1,3 +1,8 @@
+---
+images:
+- path: Children_of_the_Nameless.png
+  tag: Children of the Nameless
+---
 ![Children of the Nameless](Children_of_the_Nameless.png)
 
 [Children of the Nameless](https://brandonsanderson.com/a-christmas-present/) (2018)

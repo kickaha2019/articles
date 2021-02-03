@@ -1,3 +1,9 @@
+---
+title: The Master's Sun
+images:
+- path: masters_sun.jpg
+  tag: The Master's Sun
+---
 ![The Master's Sun](masters_sun.jpg)
 
 | | |

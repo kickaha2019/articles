@@ -1,3 +1,9 @@
+---
+title: Big
+images:
+- path: big.jpg
+  tag: Big
+---
 ![Big](big.jpg)
 
 | | |

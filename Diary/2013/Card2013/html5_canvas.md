@@ -1,3 +1,7 @@
+---
+title: 3:HTML5 Canvas
+date: 29th September 2013
+---
 A key new element in HTML5 is the [canvas](https://www.w3schools.com/html/html5_canvas.asp).
 This allows drawing graphics in Javascript as one can through
 say the 2D graphics API available in Java for instance.

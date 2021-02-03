@@ -1,3 +1,10 @@
+---
+icon: "/Users/peter/Synch/Website/Articles/Diary/2014/Thursford/santaland.JPG"
+anchors:
+- Thursford Collection
+title: Thursford Christmas Spectacular
+date: December 6th 2013
+---
 Happily no water-splashes this year to drive through on our way
 to [Thursford](https://www.thursford.com) for this year's Christmas show there.
 This year we also disobeyed the Satnav and didn't go through farmyards

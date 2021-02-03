@@ -1,3 +1,8 @@
+---
+images:
+- path: little_sister.jpg
+  tag: Little Sister
+---
 ![Little Sister](little_sister.jpg)
 
 *Little Sister* (1998) is the story of Mitsuko, the little sister

@@ -1,3 +1,9 @@
+---
+title: 'Egypt 3: The Egyptian Prophecy'
+images:
+- path: Egypt3.jpg
+  tag: 'Egypt 3: The Egyptian Prophecy'
+---
 ![Egypt 3: The Egyptian Prophecy](Egypt3.jpg)
 
 "Egypt 3: The Egyptian Prophecy" (2004) is the third game in the Egypt series

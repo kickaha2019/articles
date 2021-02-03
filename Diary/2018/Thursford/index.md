@@ -1,3 +1,17 @@
+---
+date: December 7th 2018
+anchors:
+- Thursford Collection
+images:
+- path: P1390113.jpg
+  tag: Entrance to Thursford
+- path: P1390088.jpg
+  tag: One eaterie
+- path: P1390096.jpg
+  tag: Santa's magical journey
+- path: P1390103.jpg
+  tag: Inescapable shops
+---
 The [Thursford Christmas Spectacular](https://www.thursford.com/christmas-spectacular/) is almost a fixed
 part of our year, which we observe. The show is pretty much the
 same each year, I could do without the comedian and his toilet

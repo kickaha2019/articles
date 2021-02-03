@@ -1,3 +1,9 @@
+---
+date: Sunday, 12 August 2012
+images:
+- path: ipad.JPG
+  tag: New iPad
+---
 ![New iPad](ipad.JPG)
 I now have an iPad, I've joined the ranks of tablet owners.  My problem now is to justify having it!
 

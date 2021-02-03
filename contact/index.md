@@ -1,3 +1,7 @@
+---
+title: How to contact me
+icon: pen.jpg
+---
 I can be emailed using email address
 [webmaster3 at alofmethbin.com](mailto:webmaster3@alofmethbin.com).  This address may change from time to time.
 

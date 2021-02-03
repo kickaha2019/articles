@@ -1,3 +1,19 @@
+---
+title: Chiquito
+images:
+- path: DSCF5961.JPG
+  tag: The entrance to Chiquitos
+- path: DSCF5964.JPG
+  tag: The interior facing the bar
+- path: P1380069.JPG
+  tag: Interior view
+- path: P1380070.JPG
+  tag: Interior view
+- path: DSCF5965.JPG
+  tag: The irresistible churros
+- path: P1380071.JPG
+  tag: Baked enchiladas
+---
 [Chiquito](https://www.chiquito.co.uk) is a TexMex restaurant chain
 which had a place at Cambridge Leisure Centre, where we often see films
 on Saturday mornings. It's not crowded or noisy like other restaurants

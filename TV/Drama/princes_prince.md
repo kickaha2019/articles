@@ -1,3 +1,9 @@
+---
+title: Prince of Prince
+images:
+- path: princes_prince.jpg
+  tag: Prince of Prince
+---
 ![Prince of Prince](princes_prince.jpg)
 
 | | |

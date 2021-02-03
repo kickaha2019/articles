@@ -1,3 +1,21 @@
+---
+date: 9 October 2003
+anchors:
+- Conspicuous Cliffs
+- Valley of the Giants
+- Walpole-Nornalup inlet
+images:
+- path: tingle_base.jpg
+  tag: Base of a tingle tree
+- path: dead_tree.jpg
+  tag: Dead tree standing
+- path: tree_top_walk.jpg
+  tag: Tree top walk 1
+- path: tree_top_walk2.jpg
+  tag: Tree top walk 2
+- path: tree_top_walk3.jpg
+  tag: Tree top walk 3
+---
 ![Tree top walk 1](tree_top_walk.jpg)
 Drove from Dryandra down to the Walpole area on the south coast of Australia. At the lookout at Conspicuous Cliffs I gazed south towards Antartica and shivered. Perhaps one of these days I'll venture into the Antartica Circle.
 

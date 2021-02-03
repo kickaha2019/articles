@@ -1,3 +1,6 @@
+---
+title: '4: Components'
+---
 The following *component* classes are currently
 implemented:
 

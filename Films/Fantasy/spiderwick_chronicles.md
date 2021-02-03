@@ -1,3 +1,9 @@
+---
+title: Spiderwick Chronicles
+images:
+- path: SpiderwickChronicles.jpg
+  tag: Spiderwick Chronicles
+---
 ![Spiderwick Chronicles](SpiderwickChronicles.jpg)
 
 | | |

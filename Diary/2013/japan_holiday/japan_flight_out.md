@@ -1,3 +1,8 @@
+---
+title: London to Amsterdam
+icon: p53_golden.JPG
+date: March 21st 2013
+---
 I decided to get to [London City Airport](https://www.londoncityairport.com) early, and have
 breakfast there.  Discovered I was far too early so I had
 a bowl of porridge with a dollop of honey.  The place I

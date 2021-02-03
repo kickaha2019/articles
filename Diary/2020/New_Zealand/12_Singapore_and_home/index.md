@@ -1,3 +1,51 @@
+---
+date: January 20th 2020
+anchors:
+- ParkRoyal on Pickering
+- Gardens by the Bay
+icon: IMG_1327.jpg
+images:
+- path: IMG_1285.jpg
+  tag: Flight to Singapore
+- path: IMG_1339.jpg
+  tag: ParkRoyal Hotel
+- path: IMG_1344.jpg
+  tag: 5th floor Wellness
+- path: IMG_1286.jpg
+  tag: My room
+- path: IMG_1287.jpg
+  tag: My room
+- path: IMG_1288.jpg
+  tag: My room
+- path: IMG_1290.jpg
+  tag: Nasi Goreng
+- path: IMG_1330.jpg
+  tag: Singapore MTR
+- path: IMG_1331.jpg
+  tag: Singapore MTR sign
+- path: IMG_1298.jpg
+  tag: Gardens by the Bay
+- path: IMG_1299.jpg
+  tag: Gardens by the Bay
+- path: IMG_1306.jpg
+  tag: Supertree Grove lightshow
+- path: IMG_1309.jpg
+  tag: Supertree Grove lightshow
+- path: IMG_1320.jpg
+  tag: Floral Fantasy
+- path: IMG_1326.jpg
+  tag: Floral Fantasy
+- path: IMG_1327.jpg
+  tag: Floral Fantasy
+- path: IMG_1310.jpg
+  tag: Marina Bay
+- path: IMG_1332.jpg
+  tag: Chinatown Year of Rat
+- path: IMG_1336.jpg
+  tag: Chinatown Year of Rat
+- path: IMG_1352.jpg
+  tag: Back to Blighty
+---
 ![Flight to Singapore](IMG_1285.jpg)
 I slummed it at [Auckland Airport](https://www.aucklandairport.co.nz/) by having had sausage egg mcmuffin at Macdonalds.
 For some reason my credit card was refused so had to fall back to cash.

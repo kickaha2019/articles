@@ -1,3 +1,9 @@
+---
+title: Peking Opera Blues
+images:
+- path: peking_opera_blues.jpg
+  tag: Peking Opera Blues
+---
 ![Peking Opera Blues](peking_opera_blues.jpg)
 
 | | |

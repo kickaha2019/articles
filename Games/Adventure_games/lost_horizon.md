@@ -1,3 +1,9 @@
+---
+title: Lost Horizon
+images:
+- path: LostHorizon.jpg
+  tag: Lost Horizon
+---
 ![Lost Horizon](LostHorizon.jpg)
 
 [Lost Horizon](http://lost-horizon.deepsilver.co.uk/index_en.html)

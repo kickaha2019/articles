@@ -1,3 +1,51 @@
+---
+icon: P1380511.JPG
+date: Dec 26th 2017
+title: Celebrating Christmas
+images:
+- path: P1380489.JPG
+  tag: Our lounge
+- path: P1380500.JPG
+  tag: Spirited Away is a great film
+- path: there.jpg
+  tag: Amelia making
+- path: half_there.jpg
+  tag: herself
+- path: not_there.jpg
+  tag: invisible!
+- path: P1380488.JPG
+  tag: Toffee setting
+- path: P1380493.JPG
+  tag: Toffee set
+- path: P1380492.JPG
+  tag: Cache of presents
+- path: P1380496.JPG
+  tag: Some presents wrapped
+- path: P1380504.JPG
+  tag: More presents wrapped
+- path: P1380506.JPG
+  tag: Girton Baptist Church
+- path: P1380507.JPG
+  tag: Girton Baptist Church
+- path: P1380511.JPG
+  tag: Elm Bank care home
+- path: P1380510.JPG
+  tag: Elm Bank care home
+- path: P1380513.JPG
+  tag: At my sisters
+- path: P1380514.JPG
+  tag: At my sisters
+- path: P1380515.JPG
+  tag: M11 tailback
+- path: P1380516.JPG
+  tag: At Virginias folks
+- path: P1380518.JPG
+  tag: At Virginias folks
+- path: P1380519.JPG
+  tag: The famous quiz
+- path: P1380520.JPG
+  tag: Instead of crockery
+---
 ![Our lounge](P1380489.JPG)
 Christmas begins before Christmas. Christmas begins well before Christmas.
 For us it could be said to begin with Christmas lists. Not being imaginative, or

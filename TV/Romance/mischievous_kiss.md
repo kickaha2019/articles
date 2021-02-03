@@ -1,3 +1,8 @@
+---
+title: Mischievous Kiss
+images:
+- path: mischievous_kiss.jpg
+---
 ![Mischievous Kiss](mischievous_kiss.jpg)
 
 | | |

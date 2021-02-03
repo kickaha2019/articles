@@ -1,3 +1,9 @@
+---
+title: Escape from New York
+images:
+- path: escape_from_ny.jpg
+  tag: Escape from New York
+---
 ![Escape from New York](escape_from_ny.jpg)
 
 | | |

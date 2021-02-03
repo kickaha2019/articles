@@ -1,3 +1,9 @@
+---
+title: Genesis of the Daleks
+images:
+- path: genesis_daleks.jpg
+  tag: Genesis of the Daleks
+---
 ![Genesis of the Daleks](genesis_daleks.jpg)
 
 | | |

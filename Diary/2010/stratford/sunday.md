@@ -1,3 +1,22 @@
+---
+title: Coughton Court and Ragley Hall
+anchors:
+- Stratford-upon-Avon Baptist Church
+- Coughton Court
+- Ragley Hall
+date: 17th October 2010
+images:
+- path: coug.JPG
+  tag: Coughton Court
+- path: coug_garden.JPG
+  tag: Formal gardens
+- path: bell_ringers.JPG
+  tag: Bell-ringers' gallery
+- path: ragley.JPG
+  tag: Ragley Hall
+- path: ragley_art.JPG
+  tag: I think it's meant to be art
+---
 ![Formal gardens](coug_garden.JPG)
 Sunday morning we went to
 [Stratford Baptist Church](http://www.stratforduponavonbaptist.org.uk/),

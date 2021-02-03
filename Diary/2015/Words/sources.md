@@ -1,3 +1,6 @@
+---
+title: Credits
+---
 There's a variety of sources for the text on the pages in the game proper.
 
 Some pages have snatches of poetry or songs that often run through

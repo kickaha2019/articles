@@ -1,3 +1,22 @@
+---
+title: Anne Hathaway's cottage
+anchors:
+- Anne Hathaway's cottage
+date: Friday, 15 October 2010
+images:
+- path: cottage.JPG
+  tag: Anne Hathaway had a cottage
+- path: cottage_bedroom.JPG
+  tag: A bare bedroom
+- path: cottage_kitchen.JPG
+  tag: Kitchen
+- path: cat_baskets.JPG
+  tag: The cats went for a long weekend too
+- path: cat_cell.JPG
+  tag: Their accommodation was slightly cheaper than ours
+- path: tabitha.JPG
+  tag: Tabitha was not impressed
+---
 ![The cats went for a long weekend too](cat_baskets.JPG)
 Virginia and I had a long weekend in Stratford-on-Avon. We booked Tabitha and Amelia into the Jobil Cattery in Histon so not far from us, and booked ourselves into
 *Brook Lodge*,

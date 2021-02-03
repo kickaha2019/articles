@@ -1,3 +1,8 @@
+---
+images:
+- path: talons_weng_chiang.jpg
+  tag: The Talons of Weng Chiang
+---
 ![The Talons of Weng Chiang](talons_weng_chiang.jpg)
 
 | | |

@@ -1,3 +1,9 @@
+---
+title: The Private Eyes
+images:
+- path: private_eyes.jpg
+  tag: The Private Eyes
+---
 ![The Private Eyes](private_eyes.jpg)
 
 | | |

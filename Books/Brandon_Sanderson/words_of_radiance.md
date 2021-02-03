@@ -1,3 +1,9 @@
+---
+title: Words of Radiance
+images:
+- path: words_of_radiance.jpg
+  tag: Words of Radiance
+---
 ![Words of Radiance](words_of_radiance.jpg)
 
 [Words of Radiance](https://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/) (2014)

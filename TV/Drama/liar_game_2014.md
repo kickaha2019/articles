@@ -1,3 +1,9 @@
+---
+title: Liar Game (2014)
+images:
+- path: liar_game_2014.jpg
+  tag: Liar Game
+---
 ![Liar Game](liar_game_2014.jpg)
 
 | | |

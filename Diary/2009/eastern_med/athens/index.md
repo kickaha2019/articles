@@ -1,3 +1,19 @@
+---
+anchors:
+- Acropolis Athens
+date: 28 November 2009
+images:
+- path: parthenon.JPG
+  tag: Parthenon
+- path: athens_acropolis.JPG
+  tag: Athens Acropolis
+- path: parthenon2.JPG
+  tag: Parthenon
+- path: parthenon3.JPG
+  tag: Parthenon
+- path: parthenon4.JPG
+  tag: Parthenon
+---
 ![Athens Acropolis](athens_acropolis.JPG)
 The excursion to the Acropolis started shambolically, for all their cultural heritage the Greeks had us waiting ages and walking miles to the coaches. They even let street hawkers onto the coaches which never happened in Egypt. (On the return we even left passengers behind.) Athens does have traffic problems - odd numberplates are allowed some days, even numberplates on other days.
 

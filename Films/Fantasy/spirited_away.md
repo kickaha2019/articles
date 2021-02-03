@@ -1,3 +1,8 @@
+---
+images:
+- path: spirited_away.jpg
+  tag: Spirited Away
+---
 ![Spirited Away](spirited_away.jpg)
 
 | | |

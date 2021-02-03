@@ -1,3 +1,9 @@
+---
+title: Rilakkuma and Kaoru
+images:
+- path: rilakkuma.jpg
+  tag: Rilakkuma and Kaoru
+---
 ![Rilakkuma and Kaoru](rilakkuma.jpg)
 
 | | |

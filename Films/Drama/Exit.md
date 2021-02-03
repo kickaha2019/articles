@@ -1,3 +1,9 @@
+---
+title: Exit
+images:
+- path: Exit.jpg
+  tag: Exit
+---
 ![Exit](Exit.jpg)
 
 | | |

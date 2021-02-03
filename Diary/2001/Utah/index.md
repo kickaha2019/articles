@@ -1,3 +1,30 @@
+---
+title: Utah
+anchors:
+- Bryce Canyon
+- Zion National Park
+- Cedar Breaks
+date: Sunday, 17 June 2001
+images:
+- path: sunrise_point1.JPG
+  tag: Sunrise Point Bryce Canyon
+- path: small_furry.JPG
+  tag: Small furry animal inside radiator grille
+- path: sunrise_point2.JPG
+  tag: Sunrise Point Bryce Canyon
+- path: sunrise_point3.JPG
+  tag: Sunrise Point Bryce Canyon
+- path: ponderosa_point1.JPG
+  tag: Ponderosa Point Bryce Canyon
+- path: bryce_canyon.JPG
+  tag: Bryce Canyon
+- path: cedar_breaks.JPG
+  tag: Cedar Breaks
+- path: kolob_canyons.JPG
+  tag: Kolob Canyons
+- path: zion_canyon.JPG
+  tag: Zion Canyon
+---
 ![Ponderosa Point Bryce Canyon](ponderosa_point1.JPG)
 I went with my parents to southern Utah and to Disneyworld in Florida.   The 'attractions' in Utah were the National Parks there.   Not very man-made true.   But at times you could believe you were seeing the ruins of ancient temples, or Ozymandius's summer palace.
 

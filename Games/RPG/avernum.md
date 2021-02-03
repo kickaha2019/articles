@@ -1,3 +1,9 @@
+---
+title: 'Avernum: Escape from the Pit'
+images:
+- path: Avernum.jpg
+  tag: 'Avernum: Escape from the Pit'
+---
 ![Avernum: Escape from the Pit](Avernum.jpg)
 
 [Avernum: Escape from the Pit](http://www.avernum.com/avernum/index.html)

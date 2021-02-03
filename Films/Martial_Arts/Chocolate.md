@@ -1,3 +1,8 @@
+---
+images:
+- path: chocolate.jpg
+  tag: Chocolate
+---
 ![Chocolate](chocolate.jpg)
 
 | | |

@@ -1,3 +1,23 @@
+---
+date: July 18th 2017
+anchors:
+- Frederiksborg Castle
+- Kronborg
+- The Little Mermaid
+images:
+- path: copenhagen_1.JPG
+  tag: Frederiksborg Castle gardens in Denmark
+- path: copenhagen_2.JPG
+  tag: Frederiksborg Castle in Denmark
+- path: copenhagen_3.JPG
+  tag: Frederiksborg Castle chapel in Denmark
+- path: copenhagen_4.JPG
+  tag: Ceiling imitating roots in cave roof in the castle
+- path: copenhagen_5.JPG
+  tag: Kronborg Castle in Denmark
+- path: copenhagen_6.JPG
+  tag: Little Mermaid
+---
 ![Frederiksborg Castle in Denmark](copenhagen_2.JPG)
 We went to see the impressive [Frederiksborg Castle](http://dnm.dk/uk/forside.htm)
 in Hellir&oslash;d which had to be rebuilt after a monarch set it alight because his mistress felt cold.

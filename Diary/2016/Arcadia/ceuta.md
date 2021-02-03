@@ -1,3 +1,16 @@
+---
+title: Ceuta
+anchors:
+- Ceuta
+date: October 19th 2016
+images:
+- path: ceuta.jpg
+  tag: Ceuta
+- path: ceuta2.jpg
+  tag: Ceuta
+- path: ceuta3.jpg
+  tag: Ceuta
+---
 ![Ceuta](ceuta.jpg)
 Ceuta (Th-Euta) and the worse excursion! Oddly for a Mediterranean cruise the ship
 didn't stop at Gibraltar instead it stopped at Ceuta which is the other side of the

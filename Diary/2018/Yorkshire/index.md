@@ -1,3 +1,86 @@
+---
+date: March 16th 2018
+anchors:
+- Aysgarth Falls Hotel
+- Jervaulx Abbey & Tearoom
+- Wensleydale Creamery
+- White Scar Cave
+- Ribblehead Viaduct
+- Richmond Georgian Theatre
+- Dales Countryside Museum
+- Bolton Castle
+- Middleham Castle
+title: A visit to North Yorkshire
+images:
+- path: P1380594.JPG
+  tag: Robin Hill holiday cottage
+- path: P1380583.JPG
+  tag: Robin Hill holiday cottage
+- path: P1380584.JPG
+  tag: View from the cottage
+- path: P1380554.JPG
+  tag: Aysgarth Falls
+- path: P1380559.JPG
+  tag: Aysgarth Falls
+- path: P1380566.JPG
+  tag: Aysgarth Falls
+- path: P1380678.JPG
+  tag: Aysgarth Falls Hotel
+- path: P1380695.JPG
+  tag: Aysgarth Falls Hotel
+- path: P1380610.JPG
+  tag: Jervaulx Abbey
+- path: P1380617.JPG
+  tag: Jervaulx Abbey
+- path: P1380601.JPG
+  tag: Wensleydale Creamery
+- path: P1380603.JPG
+  tag: Wensleydale Creamery
+- path: P1380605.JPG
+  tag: Wensleydale Creamery
+- path: P1380606.JPG
+  tag: Wensleydale Creamery
+- path: P1380676.JPG
+  tag: Ribblehead Viaduct
+- path: P1380638.JPG
+  tag: White Scar Cave
+- path: P1380641.JPG
+  tag: White Scar Cave
+- path: P1380649.JPG
+  tag: White Scar Cave
+- path: P1380656.JPG
+  tag: White Scar Cave
+- path: P1380660.JPG
+  tag: White Scar Cave
+- path: P1380664.JPG
+  tag: White Scar Cave
+- path: P1380669.JPG
+  tag: White Scar Cave
+- path: P1380681.JPG
+  tag: Richmond Georgian Theatre
+- path: P1380686.JPG
+  tag: Richmond Georgian Theatre
+- path: P1380688.JPG
+  tag: Richmond Georgian Theatre
+- path: P1380690.JPG
+  tag: Richmond Georgian Theatre
+- path: P1380609.JPG
+  tag: Dale Countryside Museum
+- path: P1380629.JPG
+  tag: Ceramic Inspirations
+- path: P1380630.JPG
+  tag: Ceramic Inspirations
+- path: P1380634.JPG
+  tag: Ceramic Inspirations
+- path: P1380637.JPG
+  tag: Inspired Chocolate
+- path: P1380575.JPG
+  tag: Bolton Castle
+- path: P1380577.JPG
+  tag: Bolton Castle
+- path: P1380586.JPG
+  tag: Middleham Castle
+---
 ![Aysgarth Falls](P1380554.JPG)
 We're just back from a visit to Aysgarth in North Yorkshire. A lovely
 area, pastoral and peaceful. Dry stone walls divided up the snow streaked hills.

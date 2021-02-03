@@ -1,3 +1,9 @@
+---
+title: 1:Again?
+images:
+- path: shark_bay/birrida.jpg
+  tag: A birrida
+---
 ![A birrida](shark_bay/birrida.jpg)
 Didn't you go to Australia last year? Yes I did. Why not go somewhere different? Perhaps I am not very imaginative. Perhaps I am a little boring. Perhaps the Australians do speak English reasonably well. Perhaps they are friendly. Perhaps I had friends there I wanted to see. But I went to Australia again for what it represents to me.
 

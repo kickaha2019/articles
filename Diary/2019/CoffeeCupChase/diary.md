@@ -1,3 +1,6 @@
+---
+title: Development diary
+---
 # 23rd September 2018
 Started down the slippery and prolonged slope of doing a CYOA game
 where the player chooses the order to experience the episodes in.

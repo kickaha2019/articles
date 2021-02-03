@@ -1,3 +1,6 @@
+---
+title: '2: Architecture'
+---
 A *machine* class represents an entity which is capable of
 returning values for each *cell* on the board for a
 particular Go position. The move chosen is the one with

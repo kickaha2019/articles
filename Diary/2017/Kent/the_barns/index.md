@@ -1,3 +1,13 @@
+---
+title: 2:Where we stayed
+images:
+- path: P1380038.JPG
+  tag: Our holiday cottage
+- path: P1380010.JPG
+  tag: Our holiday cottage lounge
+- path: P1380012.JPG
+  tag: The cottage door closures
+---
 ![Our holiday cottage](P1380038.JPG)
 It was quicker over the Queen Elizabeth Bridge on the way to Kent than ever before, we wait and see how
 well the Dart charges go as the old toll-booths have gone replaced by a snapping

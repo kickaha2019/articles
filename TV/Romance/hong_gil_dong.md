@@ -1,3 +1,8 @@
+---
+images:
+- path: hong_gil_dong.jpg
+  tag: Hong Gil Dong
+---
 ![Hong Gil Dong](hong_gil_dong.jpg)
 
 | | |

@@ -1,3 +1,13 @@
+---
+title: Lucky Star Chinese Buffet
+images:
+- path: IMG_2717.JPG
+  tag: Entrance to the Lucky Star
+- path: IMG_2714.JPG
+  tag: The buffet area
+- path: IMG_2715.JPG
+  tag: Tables for the diners
+---
 We used to go to the
 *Lucky Star* quite a
 lot, after seeing a film at what was

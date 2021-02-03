@@ -1,3 +1,34 @@
+---
+date: 26th July 2019
+anchors:
+- Hverir
+- Dimmuborgir
+- Godafoss
+- Hallgrim's Church
+- Hellisheidi
+- Thingvellir Visitor Center
+images:
+- path: hverir.jpg
+  tag: Hverir
+- path: hverir1.jpg
+  tag: Hverir
+- path: dimmuborgir.jpg
+  tag: Dimmuborgir
+- path: godafoss.jpg
+  tag: Godafoss
+- path: hallgrim.jpg
+  tag: Halligrims Church in Reykjavik
+- path: power_station.jpg
+  tag: Hellisheidi power station
+- path: kitchen.jpg
+  tag: Kj&ouml;t &amp; K&uacute;nst
+- path: park.jpg
+  tag: Geothermal park
+- path: cleft.jpg
+  tag: One side America one side Eurasia
+- path: th_lake.jpg
+  tag: Thingvellir Lake
+---
 ![Hverir](hverir.jpg)
 Iceland is an island sitting on the rift between the American and Eurasian
 tectonic plates. It grows as those plates move apart, it is active volcanically,

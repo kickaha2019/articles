@@ -1,3 +1,26 @@
+---
+date: Friday, 3 October 2003
+anchors:
+- Geraldton
+- Greengables Lodge
+- Hutt Lagoon
+- Kalbarri National Park
+images:
+- path: pink_lake.jpg
+  tag: Pink Lake
+- path: west_coast.jpg
+  tag: West coast of Australia
+- path: flower1.jpg
+  tag: Kalbarri flower
+- path: flower2.jpg
+  tag: Kalbarri flower
+- path: flower3.jpg
+  tag: Kalbarri flower
+- path: geraldton.jpg
+  tag: Geraldton cathedral
+- path: cathedral_inside.jpg
+  tag: Geraldton cathedral
+---
 ![Geraldton cathedral](cathedral_inside.jpg)
 Not a great start to my road odyssey as I got lost walking to the car hire place and when I did get there it was deserted. By the time I got a car I felt I needed a holiday. Took ages to get out of the Perth area and then it was a long haul up to
 [Geraldton](https://www.cgg.wa.gov.au/) where I stayed the night. The driving in Australia is pretty boring - hours can pass with no change in the scenery - but there was some variation in the colours of the bugs squashed on the windscreen. The car got dirty in quick order.

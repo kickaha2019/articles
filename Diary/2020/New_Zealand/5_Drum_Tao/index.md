@@ -1,3 +1,22 @@
+---
+date: January 8th 2020
+anchors:
+- Alternative Theatre
+icon: IMG_0794.jpg
+images:
+- path: IMG_0783.jpg
+  tag: Statue of Godzilla
+- path: IMG_0786.jpg
+  tag: Old style eaterie in Yurakucho
+- path: IMG_0788.jpg
+  tag: Lift to Alternative Theatre
+- path: IMG_0789.jpg
+  tag: Alternative Theatre foyer
+- path: IMG_0794.jpg
+  tag: Encore
+- path: drum_tao.jpg
+  tag: Encore
+---
 ![Alternative Theatre foyer](IMG_0789.jpg)
 After the Tempura lunch I had too much time to kill before seeing the
 [Drum Tao](http://www.drum-tao.com/main/english)

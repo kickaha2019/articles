@@ -1,3 +1,23 @@
+---
+date: March 20th 2015
+images:
+- path: eclipse_figure.JPG
+  tag: Waiting for the Eclipse
+- path: eclipse.JPG
+  tag: Waiting for the Eclipse
+- path: eclipse_crowd.JPG
+  tag: Eclipse glasses on
+- path: eclipse_shadow.JPG
+  tag: During the Eclipse
+- path: eclipse_totality.JPG
+  tag: Totality
+- path: black_watch1.JPG
+  tag: Black Watch on the Eclipse morning
+- path: black_watch2.JPG
+  tag: Black Watch on the Eclipse morning
+- path: braemar.JPG
+  tag: Braemar on the Eclipse morning
+---
 ![Waiting for the Eclipse](eclipse_figure.JPG)
 There was snow at 5am they said (I wasn't up then but slept in snatches due to
 the anticipation). When I looked out I could just see cloud.

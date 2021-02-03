@@ -1,3 +1,8 @@
+---
+title: 'Lumino_City'
+images:
+- path: Lumino_City.jpeg
+---
 ![Lumino_City](Lumino_City.jpeg)
 
 "Lumino City" (

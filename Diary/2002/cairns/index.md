@@ -1,3 +1,55 @@
+---
+date: 21 May 2002
+anchors:
+- Green Island
+- Cairns
+- Kuranda
+images:
+- path: green_sign.JPG
+  tag: Start of Green Island tour
+- path: catamaran.JPG
+  tag: Catamaran to Green Island
+- path: catamaran_bow.JPG
+  tag: Catamaran head on view
+- path: beach.JPG
+  tag: Green Island beach
+- path: island_sign.JPG
+  tag: Green Island sign
+- path: semisub.JPG
+  tag: Semi-submersible at Green Island
+- path: sub_inside.JPG
+  tag: Semi-submersible interior
+- path: fish.JPG
+  tag: View of fish from semi-submersible
+- path: coral.JPG
+  tag: View of coral
+- path: more_coral.JPG
+  tag: View of more coral
+- path: clam.JPG
+  tag: A giant clam!
+- path: mynahs.JPG
+  tag: Mynahs in Cairns
+- path: coast.JPG
+  tag: Cairns coast
+- path: sugarcane.JPG
+  tag: Sugar-cane fields
+- path: cable_car1.JPG
+  tag: Start of Skyway to Kuranda
+- path: cable_car2.JPG
+  tag: Kuranda Skyway
+- path: hartshorn.JPG
+  tag: Hartshorn
+- path: kuranda_hills.JPG
+  tag: Kuranda hills
+- path: kuranda_river.JPG
+  tag: Kuranda river
+- path: kuranda_train1.JPG
+  tag: Kuranda train back to Cairns
+- path: kuranda_train2.JPG
+  tag: Train stop
+- path: kuranda_falls.JPG
+  tag: Falls along the train-ride
+---
 ![Catamaran to Green Island](catamaran.JPG)
 My Australian holiday started with a week in Far North Queensland (FNQ for short.) The flight from Singapore landed at Brisbane first, and then flew up the coast in the early dawn to *Cairns*.  Unearthly views from the air of the green splashes of the Great Barrier Reef.
 

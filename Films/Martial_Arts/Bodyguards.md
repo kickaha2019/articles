@@ -1,3 +1,9 @@
+---
+title: Bodyguards and Assassins
+images:
+- path: BodyguardsAssassins.jpg
+  tag: Bodyguards and Assassins
+---
 ![Bodyguards and Assassins](BodyguardsAssassins.jpg)
 
 | | |

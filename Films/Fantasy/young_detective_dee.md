@@ -1,3 +1,9 @@
+---
+title: Young Detective Dee
+images:
+- path: young_detective_dee.jpg
+  tag: 'Young Detective Dee: Rise of the Sea Dragon'
+---
 ![Young Detective Dee: Rise of the Sea Dragon](young_detective_dee.jpg)
 
 | | |

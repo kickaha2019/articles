@@ -1,3 +1,9 @@
+---
+title: The Greatest Love
+images:
+- path: greatest_love.jpg
+  tag: The Greatest Love
+---
 ![The Greatest Love](greatest_love.jpg)
 
 | | |

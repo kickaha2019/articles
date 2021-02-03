@@ -1,3 +1,8 @@
+---
+images:
+- path: LastCall.jpg
+  tag: Last Call
+---
 ![Last Call](LastCall.jpg)
 
 "Last Call" (Tim Powers 1992) is another of the author's bravura reworking of real history and mythology and invention. "Last Call" marries Tarot cards up with Las Vegas's gambling and mobs, tossing in Bugsy Siegel as a Fisher King persona.

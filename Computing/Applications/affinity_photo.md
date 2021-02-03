@@ -1,3 +1,7 @@
+---
+title: Affinity Photo
+icon: affinity_photo.png
+---
 I've been using [Affinity Photo](https://affinity.serif.com/en-gb/photo/) since October 2017
 for editing images on
 the iMac. I used to use [Adobe](https://www.adobe.com/)'s *Photoshop Elements*, but the version I was using had

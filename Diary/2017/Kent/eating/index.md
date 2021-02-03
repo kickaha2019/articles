@@ -1,3 +1,10 @@
+---
+title: Eating out and Church
+anchors:
+- Goudhurst Inn
+- Green Cross Inn
+- Pembury Baptist Church
+---
 ![Goudhurst Inn](Goudhurst_018_8650.jpg)
 We ate three times at the [Goudhurst Inn](http://www.thegoudhurstinn.com/), the first time on Saturday evening having to park
 at the overflow car park at the Primary School. Finding our way back there in the darkness

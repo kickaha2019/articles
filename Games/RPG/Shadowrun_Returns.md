@@ -1,3 +1,9 @@
+---
+title: Shadowrun Returns
+images:
+- path: Shadowrun_Returns.jpg
+  tag: Shadowrun Returns
+---
 ![Shadowrun Returns](Shadowrun_Returns.jpg)
 
 [Shadowrun Returns](http://harebrained-schemes.com/games/)

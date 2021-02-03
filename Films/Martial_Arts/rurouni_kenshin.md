@@ -1,3 +1,8 @@
+---
+images:
+- path: rurouni_kenshin.jpg
+  tag: Rurouni Kenshin
+---
 ![Rurouni Kenshin](rurouni_kenshin.jpg)
 
 | | |

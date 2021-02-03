@@ -1,3 +1,7 @@
+---
+icon: alta_igloo_bar.JPG
+date: March 8th 2015
+---
 We booked the Eclipse cruise with [Fred Olsen](https://www.fredolsencruises.com/) as long ago as June in 2013.
 Booking the cruise wasn't the only preparation we had to do, there was booking a hotel
 to stay at the night before the cruise (we stayed at a [Holiday Inn Southampton City](https://www.ihg.com/holidayinn/hotels/gb/en/southampton/soahp/hoteldetail) in Southampton itself), there

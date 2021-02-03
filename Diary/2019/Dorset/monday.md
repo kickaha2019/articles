@@ -1,3 +1,21 @@
+---
+title: Museums in Dorchester
+date: March 25th 2019
+anchors:
+- Dorset Teddy Bear Museum
+- The Dinosaur Museum
+- Terracotta Warrior Museum
+- The Tutankhamun Exhibition
+- Roman Town House
+- The Sun Inn
+images:
+- path: P1390202.jpg
+  tag: Dorchester Teddy Bear museum
+- path: P1390206.jpg
+  tag: Dorchester Teddy Bear museum
+- path: P1390208.jpg
+  tag: Dorchester Roman villa
+---
 ![Dorchester Teddy Bear museum](P1390202.jpg)
 We made up for yesterday's failures by seeing loads of museums in Dorchester today, making full use of a [Golden Saver](https://www.goldsaverpass.com) ticket. Not large museums as museums go, but with their own charm. I liked the [Teddy Bear Museum](https://www.teddybearmuseum.co.uk) most, I have a soft spot for soft toys. We then did the [Dinosaurs Museum](https://www.thedinosaurmuseum.com), which featured dinosaurs unsurprisingly.
 

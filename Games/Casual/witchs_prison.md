@@ -1,3 +1,9 @@
+---
+title: 'Nightmare Adventures: Witch''s Prison'
+images:
+- path: WitchPrison.jpg
+  tag: 'Nightmare Adventures: Witch''s Prison'
+---
 ![Nightmare Adventures: Witch's Prison](WitchPrison.jpg)
 
 "Nightmare Adventures: Witch's Prison" (

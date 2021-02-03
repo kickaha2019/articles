@@ -1,3 +1,20 @@
+---
+title: Stonehenge
+anchors:
+- Stonehenge
+date: Friday, 8 May 2009
+images:
+- path: stonehenge1.JPG
+  tag: Stonehenge
+- path: stonehenge2.JPG
+  tag: Stonehenge
+- path: stonehenge3.JPG
+  tag: Stonehenge
+- path: stonehenge4.JPG
+  tag: Stonehenge
+- path: stonehenge5.JPG
+  tag: Stonehenge
+---
 ![Stonehenge](stonehenge1.JPG)
 Virginia's been watching these programmes on the TV about
 [Longleat](https://www.longleat.co.uk/),

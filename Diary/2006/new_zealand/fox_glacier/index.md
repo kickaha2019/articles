@@ -1,3 +1,25 @@
+---
+anchors:
+- Cardrona Pass
+- Fox Glacier
+- Haast Pass
+- Knights Point
+- Ship Creek
+date: 25th February 2006
+images:
+- path: cadrona_pass.jpg
+  tag: Cadrona Pass
+- path: haast_pass.jpg
+  tag: Haast Pass
+- path: ship_creek.jpg
+  tag: Ship Creek
+- path: ship_creek2.jpg
+  tag: Ship Creek
+- path: ship_creek3.jpg
+  tag: Ship Creek
+- path: knight_point.jpg
+  tag: Knight Point
+---
 ![Knight Point](knight_point.jpg)
 Went wrong and headed south not north at Haast for many kilometres! Homestays like B&Bs but more being like in someone's home, typically no keys handed out. New Zealand roads are good but not over flowing with signs and mileages. Petrol stations can be few and far between. Internet access good. Did Minnehaha walk at Fox Glacier, Knight's Point Lookout, Ships Creek walk, stopped several times in Haast pass for pictures. 
 

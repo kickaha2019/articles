@@ -1,3 +1,18 @@
+---
+date: May 31st 2017
+title: Perishing piggy banks
+images:
+- path: P1380056.jpg
+  tag: The victim identified as a holiday fund
+- path: P1380057.jpg
+  tag: No more offerings will be offered here
+- path: P1380058.jpg
+  tag: Words of promise but not for the deceased
+- path: P1380060.jpg
+  tag: The piggy bank lies broken like Ozymandias
+- path: P1380063.jpg
+  tag: This pile of coins won't buy much of a cruise
+---
 ![The victim identified as a holiday fund](P1380056.jpg)
 Being a piggy bank may seem like a cushy life. Sit on a shelf and be admired.
 Be fed regularly with nice shiny coins. Feel one's self worth increase as one's

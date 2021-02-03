@@ -1,3 +1,16 @@
+---
+title: Keith Emerson concert
+date: 10th July 2015
+images:
+- path: tarkus.jpg
+  tag: Tarkus album cover
+- path: pictures.jpg
+  tag: Pictures album cover
+- path: trilogy.jpg
+  tag: Trilogy album cover
+- path: debut.jpg
+  tag: Debut album cover
+---
 ![Pictures album cover](pictures.jpg)
 In a different time and place I was a pupil at [Norwich School](https://www.norwich-school.org.uk/).
 We had a music teacher called Bernard Burrell

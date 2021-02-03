@@ -1,3 +1,22 @@
+---
+anchors:
+- Giza Necropolis
+- Great Sphinx of Giza
+date: 24 November 2009
+images:
+- path: giza.JPG
+  tag: Giza with pyramids in distance
+- path: pyramids1.JPG
+  tag: Pyramids
+- path: pyramids2.JPG
+  tag: More pyramids
+- path: pyramids3.JPG
+  tag: Pyramid
+- path: sphinx1.JPG
+  tag: Sphinx
+- path: sphinx2.JPG
+  tag: Sphinx
+---
 ![Giza with pyramids in distance](giza.JPG)
 A dirty building site. Unfair but that would be my one sentence summary of Egypt. Most of the country is sand, and the wind blows the sand (and rubbish) everywhere. Half-finished buildings with cement staircases going nowhere are everywhere. Drivers don't worry about such niceties as lanes, or even staying on the road. In a traffic jam vehicles slew randomly off road, across the rough ground beside the road, and force their way back on. Pedestrians dice with death - our coach stopped to help a man who had failed to cross a 5-lane motorway on foot. Sheep and goats destined to die in the Festival travel crammed into the back of tracks. Donkeys pull laden carts to add to the mayhem. By the road vegetable stalls sit well into the night.
 

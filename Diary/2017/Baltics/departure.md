@@ -1,3 +1,33 @@
+---
+date: July 14th 2017
+anchors:
+- Manor Farm Soton
+images:
+- path: manor_1.JPG
+  tag: Church at Manor Park Farm
+- path: manor_2.JPG
+  tag: Pond at Manor Park Farm
+- path: manor_3.JPG
+  tag: Old schoolroom at Manor Park Farm
+- path: ship_outside.JPG
+  tag: Queen Elizabeth
+- path: ship_atrium.JPG
+  tag: Queen Elizabeth atrium
+- path: ship_library.JPG
+  tag: Library on Queen Elizabeth
+- path: ship_theatre.JPG
+  tag: Queen Elizabeth theatre
+- path: ship_view.JPG
+  tag: Our cabin view on Queen Elizabeth
+- path: ship_bazaar.JPG
+  tag: Russian bazaar on Queen Elizabeth
+- path: ship_sugar.JPG
+  tag: Queen Elizabeth sugarcraft demonstration
+- path: ship_eos.JPG
+  tag: Musical accompaniment on Queen Elizabeth
+- path: ship_souffle.JPG
+  tag: Vanilla souffle on Queen Elizabeth
+---
 ![Church at Manor Park Farm](manor_1.JPG)
 Virginia and I stayed the night before the cruise at the [Holiday Inn Express Southampton M27](https://www.ihg.com/holidayinnexpress/hotels/us/en/southampton/soabr/hoteldetail), eating out at a
 nearby [Pizza Hut](https://www.pizzahut.co.uk/restaurants/find-a-hut/southampton/hedge-end/).

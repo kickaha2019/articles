@@ -1,3 +1,58 @@
+---
+title: The Boiler Saga
+date: Monday, 4 July 2011
+images:
+- path: old_back_boiler.JPG
+  tag: The old back boiler was behind the lounge gas fire
+- path: airing_cupboard.JPG
+  tag: The airing cupboard
+- path: airing_cupboard2.JPG
+  tag: The old hot water cylinder inside the airing cupboard
+- path: old_pipework.JPG
+  tag: Hot water cylinder pipework
+- path: study_cupboard.JPG
+  tag: The study cupboard - sadly the site of the new boiler
+- path: study_cupboard2.JPG
+  tag: Well organised inside the study cupboard
+- path: new_parts.JPG
+  tag: The new boiler and cylinder and parts
+- path: gasman_cometh.JPG
+  tag: The gasman cometh
+- path: danger.JPG
+  tag: Our house is now a danger zone
+- path: stairs.JPG
+  tag: The stairs with dust cover
+- path: new_boiler.JPG
+  tag: The study cupboard with its new occupant
+- path: new_boiler2.JPG
+  tag: The inside of the new boiler
+- path: new_cylinder.JPG
+  tag: The new hot water cylinder
+- path: scrap.JPG
+  tag: The old faithfuls now just scrap
+- path: effects.JPG
+  tag: A loose joint caused water through the lounge ceiling
+- path: plenty.JPG
+  tag: Plenty of dirty water fell
+- path: ceiling.JPG
+  tag: The stained lounge ceiling
+- path: drop.JPG
+  tag: Drop by horrible drop
+- path: installed.JPG
+  tag: The new boiler now installed
+- path: ceiling_repair.JPG
+  tag: The ceiling gets attended to
+- path: artex_above.JPG
+  tag: That's what is above all that nice Artex
+- path: covered.JPG
+  tag: Ceiling covered up again
+- path: artexed.JPG
+  tag: Artex back again
+- path: splodge.JPG
+  tag: But a slight splodge on the carpet!
+- path: no_carpet.JPG
+  tag: So up came the old carpet
+---
 ![The new boiler and cylinder and parts](new_parts.JPG)
 Virginia had been finding the house cold for more than a while. 	There's an air-brick in the lounge (we had a back-boiler) which 	lets in ventilation from outside. The back-boiler had been needing 	attention more and more it seemed. So British Gas got booked up to 	come to do the boiler replacement (more expensive but you get what 	you pay for.) Tried to get more quotes but only one other company 	bothered to provide one.
 

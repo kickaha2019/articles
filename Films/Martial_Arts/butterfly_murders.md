@@ -1,3 +1,9 @@
+---
+title: The Butterfly Murders
+images:
+- path: butterfly_murders.jpg
+  tag: The Butterfly Murders
+---
 ![The Butterfly Murders](butterfly_murders.jpg)
 
 | | |

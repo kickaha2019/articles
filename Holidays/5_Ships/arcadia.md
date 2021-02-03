@@ -1,3 +1,8 @@
+---
+images:
+- path: 2019/Iceland/norway/arcadia.jpg
+  tag: Arcadia
+---
 ![Arcadia](../../Diary/2019/Iceland/norway/arcadia.jpg)
 The [Arcadia](https://www.pocruises.com/cruise-ships/arcadia) is a [P&O](P&O)
 adults only ship with a capacity of 2,388 passengers. To date (2020) it is the

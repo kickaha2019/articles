@@ -1,3 +1,9 @@
+---
+title: The Vampire Tree
+images:
+- path: the_vampire_tree.jpg
+  tag: The Vampire Tree
+---
 ![The Vampire Tree](the_vampire_tree.jpg)
 
 *The Vampire Tree* (1996) is by Paul Halter who has

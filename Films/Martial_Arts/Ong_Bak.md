@@ -1,3 +1,8 @@
+---
+images:
+- path: ong_bak.jpg
+  tag: Ong Bak
+---
 ![Ong Bak](ong_bak.jpg)
 
 | | |

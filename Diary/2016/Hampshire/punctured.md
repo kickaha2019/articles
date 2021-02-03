@@ -1,3 +1,15 @@
+---
+date: March 14th 2016
+anchors:
+- Winchester Cathedral
+images:
+- path: cathedral.JPG
+  tag: Winchester Cathedral
+- path: green_flag.JPG
+  tag: Green Flag van for the punctured tyre
+- path: pets.JPG
+  tag: Tyre repair place
+---
 ![Winchester Cathedral](cathedral.JPG)
 We returned to Winchester on Monday 14th, discovering Ginny's near side front tyre had a
 slow puncture so called breakdown people out later on return to East Meon.

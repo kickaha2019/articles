@@ -1,3 +1,20 @@
+---
+title: Lounging in Legoland
+anchors:
+- Legoland Windsor
+- Windsor Castle
+- The Savill Garden
+date: Friday, 26 August 2005
+images:
+- path: savill_garden.jpg
+  tag: Savill Garden
+- path: legoland_man.jpg
+  tag: Legoland Man - this can happen to you too
+- path: legoland.jpg
+  tag: To enjoy Legoland one must become a little child
+- path: windsor_castle.jpg
+  tag: Windsor Castle
+---
 Virginia had an inner urge to see Legoland so we went down to the Windsor area on the August Bank holiday weekend. Not an ideal weekend as it was the last weekend in the school holidays, and the bank holiday weekend to boot. Not an ideal weekend as the B&B we stayed in in Englefield Green was a lemon. Tiny dilapidated room. Fellow 'guests' who returned in the early hours to play loud music.
 
 We did however see Legoland (best seen with the heart of a child,) and Windsor Castle (getting in was like boarding an airplane,) and had Sunday lunch with an aunt so mission accomplished on that front.

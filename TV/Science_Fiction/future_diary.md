@@ -1,3 +1,8 @@
+---
+title: Future Diary
+images:
+- path: future_diary.jpg
+---
 ![Future Diary](future_diary.jpg)
 
 | | |

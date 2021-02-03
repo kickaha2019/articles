@@ -1,3 +1,8 @@
+---
+images:
+- path: yatterman.jpg
+  tag: Yatterman
+---
 ![Yatterman](yatterman.jpg)
 
 | | |

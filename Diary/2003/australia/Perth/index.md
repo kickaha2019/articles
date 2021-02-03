@@ -1,3 +1,19 @@
+---
+date: 1 Oct 2003
+anchors:
+- Perth
+- Rottnest Island
+- Fremantle
+images:
+- path: rottnest.jpg
+  tag: Rottnest Island
+- path: rottnest2.jpg
+  tag: Rottnest Island
+- path: walkie_talkie.jpg
+  tag: Quokka investigating walkie talkie
+- path: quokka.jpg
+  tag: Quokka - very tame and approachable
+---
 ![Rottnest Island](rottnest.jpg)
 Thanks to two aspirins I wasn't in too bad condition after the long plane journey from Heathrow (changed planes in Singapore.) I got window seats which I find gives me a welcome few extra inches of space to rest in. Rosemary and Gordon of the Adventure game website Quandary met me at the *Perth* airport which was much appreciated. They live in *Fremantle* and showed me around some of the sights there as well as kindly putting me up for three nights.
 

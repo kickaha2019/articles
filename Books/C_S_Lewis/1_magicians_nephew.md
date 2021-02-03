@@ -1,3 +1,9 @@
+---
+title: The Magician's Nephew
+images:
+- path: magicians_nephew.jpg
+  tag: The Magician's Nephew
+---
 ![The Magician's Nephew](magicians_nephew.jpg)
 
 *The Magician's Nephew* (1955) is C S Lewis writing a genesis

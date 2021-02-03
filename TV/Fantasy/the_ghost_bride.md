@@ -1,3 +1,9 @@
+---
+title: The Ghost Bride
+images:
+- path: the_ghost_bride.jpg
+  tag: The Ghost Bride
+---
 ![The Ghost Bride](the_ghost_bride.jpg)
 
 | | |

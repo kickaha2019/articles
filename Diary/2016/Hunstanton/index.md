@@ -1,3 +1,29 @@
+---
+date: September 9th 2016
+anchors:
+- Hunstanton Sea Life
+images:
+- path: P1000016.jpg
+  tag: The holiday cottage
+- path: P1000006.jpg
+  tag: Garden of the holiday cottage
+- path: P1000007.jpg
+  tag: Lounge of the cottage
+- path: P1000008.jpg
+  tag: Entrance to Sea Life
+- path: P1000009.jpg
+  tag: Inside Sea Life
+- path: P1000010.jpg
+  tag: Tunnel under the tank
+- path: P1000011.jpg
+  tag: Tank at Sea Life
+- path: P1000012.jpg
+  tag: The inevitable shop at Sea Life
+- path: P1000013.jpg
+  tag: Arts and Crafts place
+- path: P1000014.jpg
+  tag: Gin Trap pub
+---
 ![The holiday cottage](P1000016.jpg)
 We dropped off Tabs and Amelia (who hid in my cupboard as the spare room bed was shut) at
 *Grange Cattery*. This took longer than normal as there were roadworks in Waterbeach near the

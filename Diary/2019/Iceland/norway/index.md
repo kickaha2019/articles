@@ -1,3 +1,22 @@
+---
+date: July 23rd 2019
+anchors:
+- Olden
+- Andalsnes
+images:
+- path: arcadia.jpg
+  tag: Arcadia moored in Olden
+- path: church.jpg
+  tag: Olden Church
+- path: altar.jpg
+  tag: The altar
+- path: antlers.jpg
+  tag: Antlers inside the Church
+- path: chapel.jpg
+  tag: Railway chapel in Andalsnes
+- path: chapel_inside.jpg
+  tag: Inside the railway chapel
+---
 ![Arcadia moored in Olden](arcadia.jpg)
 Our first port of call was Olden, a very pretty village in a pretty fjord setting.
 We wandered ashore rather than take an excursion, we had been to Olden

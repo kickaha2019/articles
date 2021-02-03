@@ -1,3 +1,9 @@
+---
+title: The Picts and the Martyrs
+images:
+- path: PictsMartyrs.jpg
+  tag: The Picts and the Martyrs
+---
 ![The Picts and the Martyrs](PictsMartyrs.jpg)
 
 "The Picts and the Martyrs" (1943) is the eleventh book in the much-loved

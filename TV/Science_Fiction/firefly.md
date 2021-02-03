@@ -1,3 +1,8 @@
+---
+images:
+- path: firefly.jpg
+  tag: Firefly
+---
 ![Firefly](firefly.jpg)
 
 | | |

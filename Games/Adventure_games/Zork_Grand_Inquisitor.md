@@ -1,3 +1,8 @@
+---
+images:
+- path: Zork_Grand_Inquisitor.jpg
+  tag: Zork Grand Inquisitor
+---
 ![Zork Grand Inquisitor](Zork_Grand_Inquisitor.jpg)
 
 **Zork Grand Inquisitor** (1997) is a classic Adventure game (both in years and status).

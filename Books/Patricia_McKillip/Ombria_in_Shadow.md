@@ -1,3 +1,8 @@
+---
+images:
+- path: Ombria.jpg
+  tag: Ombria in Shadow
+---
 ![Ombria in Shadow](Ombria.jpg)
 
 *Ombria in Shadow* (2002) is the story of Ombria, and its shadows.

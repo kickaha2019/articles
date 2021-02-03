@@ -1,3 +1,9 @@
+---
+title: The Changeling Sea
+images:
+- path: changeling_sea.jpg
+  tag: The Changeling Sea
+---
 ![The Changeling Sea](changeling_sea.jpg)
 
 *The Changeling Sea* (1988) is a small book with a rich large

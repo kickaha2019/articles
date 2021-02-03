@@ -1,3 +1,9 @@
+---
+title: Sassy Girl Chun-hyang
+images:
+- path: choon_hyang.jpg
+  tag: Sassy Girl Chun-hyang
+---
 ![Sassy Girl Chun-hyang](choon_hyang.jpg)
 
 | | |

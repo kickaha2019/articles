@@ -1,3 +1,9 @@
+---
+title: 'Louvre: The Final Curse'
+images:
+- path: Louvre.jpg
+  tag: 'Louvre: The Final Curse'
+---
 ![Louvre: The Final Curse](Louvre.jpg)
 
 "Louvre: The Final Curse" is a 2000 Adventure game set in the Louvre in Paris. You visit the Louvre at three different times during its long history to retrieve four magical artefacts (so the bad guys can't use them to make the apocalypse happen.)

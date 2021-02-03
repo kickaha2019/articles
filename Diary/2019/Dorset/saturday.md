@@ -1,3 +1,28 @@
+---
+title: Tyneham and Corfe Castle
+date: March 23rd 2019
+anchors:
+- Tyneham
+- Corfe Castle
+- Brewery Square Dorchester
+images:
+- path: P1390288.jpg
+  tag: Dorchester Brewery Square
+- path: P1390163.jpg
+  tag: Tyneham
+- path: P1390165.jpg
+  tag: Tyneham telephone box
+- path: P1390170.jpg
+  tag: Tyneham Church
+- path: P1390178.jpg
+  tag: Tyneham schoolroom
+- path: P1390181.jpg
+  tag: Tyneham abandoned building
+- path: P1390182.jpg
+  tag: Looking towards Corfe Castle
+- path: P1390185.jpg
+  tag: Self-referential model village in Corfe Castle
+---
 ![Tyneham](P1390163.jpg)
 Virginia navigated us to [Tyneham](http://www.tynehamopc.org.uk),
 relying on directions from the website as it said it was the grid as far as Satnavs were concerned. We were competing with cycle races, and particularly joggers on the narrow approach road down into [Tyneham](http://www.tynehamopc.org.uk) itself. This Saturday was drizzly, the worst weather of the holiday as it turned out.

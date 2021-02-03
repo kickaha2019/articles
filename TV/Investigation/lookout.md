@@ -1,3 +1,9 @@
+---
+title: Lookout
+images:
+- path: lookout.jpg
+  tag: Lookout
+---
 ![Lookout](lookout.jpg)
 
 | | |

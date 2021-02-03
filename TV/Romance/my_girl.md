@@ -1,3 +1,9 @@
+---
+title: My Girl
+images:
+- path: my_girl.jpg
+  tag: My Girl
+---
 ![My Girl](my_girl.jpg)
 
 | | |

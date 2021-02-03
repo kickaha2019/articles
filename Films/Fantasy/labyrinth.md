@@ -1,3 +1,8 @@
+---
+images:
+- path: labyrinth.jpg
+  tag: Labyrinth
+---
 ![Labyrinth](labyrinth.jpg)
 
 | | |

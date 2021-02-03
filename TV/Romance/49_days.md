@@ -1,3 +1,9 @@
+---
+title: 49 Days
+images:
+- path: 49_days.jpg
+  tag: 49 Days
+---
 ![49 Days](49_days.jpg)
 
 | | |

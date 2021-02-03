@@ -1,3 +1,8 @@
+---
+images:
+- path: serenity.jpg
+  tag: Serenity
+---
 ![Serenity](serenity.jpg)
 
 | | |

@@ -1,3 +1,9 @@
+---
+title: Professor Layton and the Curious Village
+images:
+- path: curious_village.jpg
+  tag: Professor Layton and the Curious Village
+---
 ![Professor Layton and the Curious Village](curious_village.jpg)
 
 *Professor Layton and the Curious Village* is a 2007 game originally for the

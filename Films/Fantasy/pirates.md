@@ -1,3 +1,9 @@
+---
+title: 'Pirates of the Caribbean: The Curse of the Black Pearl'
+images:
+- path: pirates.jpg
+  tag: Pirates of the Caribbean
+---
 ![Pirates of the Caribbean](pirates.jpg)
 
 | | |

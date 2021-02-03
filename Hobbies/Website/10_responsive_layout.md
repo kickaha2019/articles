@@ -1,3 +1,6 @@
+---
+title: Responsive layout
+---
 Pure CSS is used to vary the look of the generated webpages
 according to the screen acreage available. What is varied is
 the size of text and certain divs, the size of images used, and

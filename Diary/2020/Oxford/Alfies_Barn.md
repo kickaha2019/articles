@@ -1,3 +1,10 @@
+---
+date: September 28th 2020
+title: Alfie's Barn
+images:
+- path: IMG_1703.jpeg
+  tag:  Alfie's Barn
+---
 ![Alfie's Barn](IMG_1703.jpeg)
 I filled up Virginia's car in the morning, hampered by the roadworks in Histon. An old dear pulled up at the Station Road garage after me, with music blaring louder than any teenage tearaway. She had it deafening everyone even as she filled up, and didn’t wear a mask when she went to pay.
 

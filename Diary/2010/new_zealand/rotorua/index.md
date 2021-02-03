@@ -1,3 +1,21 @@
+---
+date: 24th November 2010
+anchors:
+- Waimangu Volcanic Valley
+images:
+- path: wai_inf1.JPG
+  tag: Inferno Crater at Waimangu Volcanic Valley
+- path: wai_inf2.JPG
+  tag: Inferno Crater at Waimangu Volcanic Valley
+- path: wai_val1.JPG
+  tag: Waimangu Volcanic Valley
+- path: wai_val2.JPG
+  tag: Waimangu Volcanic Valley
+- path: wai_terr1.JPG
+  tag: Terrace at Waimangu Volcanic Valley
+- path: wai_terr2.JPG
+  tag: Terrace at Waimangu Volcanic Valley
+---
 ![Inferno Crater at Waimangu Volcanic Valley](wai_inf1.JPG)
 I went to the Rotorua area again for some more fumarole action, this time to the
 [Waimangu Volcanic Valley](https://www.waimangu.co.nz/).

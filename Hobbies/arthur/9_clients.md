@@ -1,3 +1,6 @@
+---
+title: '8: Clients'
+---
 One challenge after having got a Go engine is how to play against it.
 Oddly I've had more success with free software than with commercial
 offerings.

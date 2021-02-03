@@ -1,3 +1,11 @@
+---
+date: July 25th 2017
+anchors:
+- Warnemunde
+images:
+- path: warnemunde.JPG
+  tag: Warnemunde
+---
 ![Warnemunde](warnemunde.JPG)
 Poor Warnemunde (said Varnemunde) was afflicted by rain when
 "Queen Elizabeth" visited. The place is full of charm, not too

@@ -1,3 +1,21 @@
+---
+date: June 26th 2016
+images:
+- path: holiday_inn.jpg
+  tag: The Holiday Inn
+- path: buffet.jpg
+  tag: The buffet which we didn't finish
+- path: peter_60th.jpg
+  tag: Virginia's cake for the occasion
+- path: people1.jpg
+  tag: Some of the people there
+- path: people2.jpg
+  tag: Some of the people there
+- path: people3.jpg
+  tag: Some of the people there
+- path: people4.jpg
+  tag: Some of the people there
+---
 ![The Holiday Inn](holiday_inn.jpg)
 A quiet and pleasant Sunday afternoon, with family and fellow Church members and friends I hadn't
 seen for a while, in commiseration for my upcoming 60th birthday. We held the celebration at

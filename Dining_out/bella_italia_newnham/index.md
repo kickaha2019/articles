@@ -1,3 +1,13 @@
+---
+title: Bella Italia in Newnham
+images:
+- path: IMG_2737.JPG
+  tag: Tables ready for a party
+- path: IMG_2738.JPG
+  tag: Virginia waiting patiently
+- path: IMG_2739.JPG
+  tag: The mill wheel intruding into the restaurant
+---
 We haven't been for a while but we did go regularly to the
 [Bella Italia](https://www.bellaitalia.co.uk/) in Newnham.  This
 is in what used to be a water-mill and still has the

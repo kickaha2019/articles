@@ -1,3 +1,8 @@
+---
+title: 'Divinity: Original Sin 2'
+images:
+- path: DOS2.jpg
+---
 ![Divinity: Original Sin 2](DOS2.jpg)
 
 [Divinity: Original Sin 2](https://divinity.game/)

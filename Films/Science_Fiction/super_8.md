@@ -1,3 +1,8 @@
+---
+images:
+- path: Super8.jpg
+  tag: Super 8
+---
 ![Super 8](Super8.jpg)
 
 | | |

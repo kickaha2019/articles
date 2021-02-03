@@ -1,3 +1,15 @@
+---
+title: Forde Abbey and Seaton
+anchors:
+- Forde Abbey
+- Seaton Tramway
+date: 4th May 2010
+images:
+- path: forde.JPG
+  tag: Forde Abbey
+- path: tram.JPG
+  tag: Seaton tram
+---
 ![Forde Abbey](forde.JPG)
 Tuesday took us to
 [Forde Abbey](https://www.fordeabbey.co.uk/),

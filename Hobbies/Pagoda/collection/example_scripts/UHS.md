@@ -1,3 +1,6 @@
+---
+title: Universal Hint System
+---
 The whole script
 
 ~~~

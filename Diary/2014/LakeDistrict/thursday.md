@@ -1,3 +1,13 @@
+---
+title: A zoo and Swarthmoor Hall
+anchors:
+- South Lakes Safari Zoo
+- Swarthmoor Hall
+date: May 15th 2014
+images:
+- path: swarthmoor_hall.JPG
+  tag: Swarthmoor Hall
+---
 Our last full day was the Thursday, we visited the
 [South Lakes Safari Zoo](https://www.southlakessafarizoo.com/) and saw the backside of a tiger sheltering
 from the English weather, mangy deer, lions at least braving the day, rhinos.  I found the

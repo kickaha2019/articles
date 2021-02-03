@@ -1,3 +1,38 @@
+---
+date: January 14th 2020
+anchors:
+- Shire's Rest
+- Hobbiton Village
+images:
+- path: IMG_0989.jpg
+  tag: At the Shires Rest
+- path: IMG_0994.jpg
+  tag: Time of my tour
+- path: IMG_0992.jpg
+  tag: Coach for Hobbiton
+- path: IMG_0996.jpg
+  tag: Hobbiton
+- path: IMG_1001.jpg
+  tag: Hobbiton
+- path: IMG_1005.jpg
+  tag: Hobbiton
+- path: IMG_1018.jpg
+  tag: Hobbiton
+- path: IMG_1032.jpg
+  tag: Only hobbit hole one can step into
+- path: IMG_1039.jpg
+  tag: Hobbiton
+- path: IMG_1043.jpg
+  tag: Bag End
+- path: IMG_1068.jpg
+  tag: The mill
+- path: IMG_1070.jpg
+  tag: Green Dragon
+- path: IMG_1075.jpg
+  tag: Green Dragon inglenook
+- path: IMG_1078.jpg
+  tag: Hobbiton
+---
 ![At the Shires Rest](IMG_0989.jpg)
 Got to [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/)
 in plenty of time for the tour of Hobbiton. The car park was

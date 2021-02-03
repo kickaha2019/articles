@@ -1,3 +1,8 @@
+---
+images:
+  - path: 2012/azores_cruise/lisbon/p59_oriana.JPG
+    tag:  Oriana
+---
 ![Oriana](../../Diary/2012/azores_cruise/lisbon/p59_oriana.JPG)
 The [Oriana](https://www.pocruises.com/cruise-ships/oriana) was a [P&O](P&O)
 ship until 2019.

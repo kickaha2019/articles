@@ -1,3 +1,10 @@
+---
+title: About me
+blurb: Overview of this website
+images:
+- path: about.jpg
+  tag: Tabitha
+---
 ![Tabitha](about.jpg)
 
 This is the personal website of

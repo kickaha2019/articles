@@ -1,3 +1,9 @@
+---
+title: Dragon Tiger Gate
+images:
+- path: dragon_tiger_gate.jpg
+  tag: Dragon Tiger Gate
+---
 ![Dragon Tiger Gate](dragon_tiger_gate.jpg)
 
 | | |

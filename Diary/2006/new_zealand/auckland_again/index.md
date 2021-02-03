@@ -1,3 +1,13 @@
+---
+anchors:
+- Muriwai Gannet Colony
+date: 3rd March 2006
+images:
+- path: gannets1.jpg
+  tag: Gannets at Murawai
+- path: gannets2.jpg
+  tag: Gannets at Murawai
+---
 ![Gannets at Murawai](gannets1.jpg)
 Another depressing day. Rain and wind caused the Tiri Tiri Matangi trip to be cancelled. Went and saw Gannets at Murawai – Good but so breezy I was afraid of losing dad's camera. Saw "Aeon flux" at the cinema– passable. Returned car to airport and had an expensive New Zealand dollar 60 taxi ride back for only a few miles. Auckland is gridlocked most times of the day. Recommendation – avoid Auckland– traffic issues, stay multiple nights some places, have backup plans – over commit. Average speed 60 km an hour safe reckoning.
 

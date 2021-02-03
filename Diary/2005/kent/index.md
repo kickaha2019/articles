@@ -1,3 +1,21 @@
+---
+title: Long weekend in Kent
+anchors:
+- Canterbury Cathedral
+- Leeds Castle
+- Dover Castle
+- White Cliffs of Dover
+date: Friday, 11 February 2005
+images:
+- path: cathedral.jpg
+  tag: Canterbury Cathedral - it's not leaning over
+- path: leeds_castle.jpg
+  tag: Leeds Castle - dark deeds done here
+- path: dover_castle.jpg
+  tag: Dover Castle - intimidating and meant to be so
+- path: cliffs.jpg
+  tag: The White Cliffs of Dover - didn't see any bluebirds
+---
 Virginia and I went for a long weekend down in Kent. We had two meals at the Old Gate Inn, a convenient hostelry near the Bed and Breakfast place we were staying in at Canterbury. I admired the way the staff smiled there, seeing a smile really lifts me.
 
 We indulged ourselves in history - recent history such as the Second World War represented by the tunnels beneath Dover Castle. The unsavoury lives of those who have been called Kings of England as instanced at Leeds Castle (interesting seeing where the great powers of today have met.) The buried time of the Romans underneath the shops in Canterbury.

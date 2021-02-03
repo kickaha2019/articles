@@ -1,3 +1,9 @@
+---
+title: Maddigan's Quest
+images:
+- path: maddigans_quest.jpg
+  tag: Maddigan's Quest
+---
 ![Maddigan's Quest](maddigans_quest.jpg)
 
 "Maddigan's Quest" is a post-apocalyptic story by Margaret Mahy, a leading New Zealand's childrens' writer. "Maddigan's Quest" (also known as "Maddigan's Fantasia") centres on the Fantasia, a circus group who tour what remains of civilisation after some indistinct disaster. The Fantasia get involved with a mysterious pair of boys and their baby sister who have time travelled from the future. Key to the future is a secret quest the Fantasia are on for their home city Solis. But also from the future have come the henchmen of an evil warped dictator.

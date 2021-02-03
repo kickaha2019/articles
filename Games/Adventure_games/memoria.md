@@ -1,3 +1,8 @@
+---
+images:
+- path: Memoria.jpg
+  tag: Memoria
+---
 ![Memoria](Memoria.jpg)
 
 *Memoria* (2013) from [Daedalic Entertainment](https://www.daedalic.com/)

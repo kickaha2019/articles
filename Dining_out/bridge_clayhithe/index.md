@@ -1,3 +1,13 @@
+---
+title: The Bridge, Clayhithe
+anchors:
+- The Bridge, Clayhithe
+images:
+- path: DSCF3229.JPG
+  tag: Entrance to The Bridge
+- path: DSCF3230.JPG
+  tag: One area with tables
+---
 You can book at
 [The Bridge](https://www.chefandbrewer.com/pubs/cambridgeshire/bridge/) now, before you just turned up and hoped.
 Virginia and I eat early so we beat the rush.

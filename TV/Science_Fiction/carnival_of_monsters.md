@@ -1,3 +1,8 @@
+---
+images:
+- path: carnival_of_monsters.jpg
+  tag: Carnival of Monsters
+---
 ![Carnival of Monsters](carnival_of_monsters.jpg)
 
 | | |

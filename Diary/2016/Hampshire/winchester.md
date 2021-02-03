@@ -1,3 +1,18 @@
+---
+date: March 13th 2016
+anchors:
+- Marwell Zoo
+- Winchester Science Museum
+images:
+- path: science_park.JPG
+  tag: Winchester Science Park
+- path: marwell_zoo.JPG
+  tag: Marwell Zoo
+- path: thomas_lord.JPG
+  tag: Thomas Lord pub
+- path: dessert.JPG
+  tag: Thomas Lord pub dessert
+---
 On the Sunday we navigated to a car park in Winchester with only a hiccup or two, but were baffled
 how to enter [Winchester Baptist Church](http://winbap.org.uk/) until one of the congregation took pity on us. Most of the
 people were away but there were still enough there for a good service. I found it difficult to cope

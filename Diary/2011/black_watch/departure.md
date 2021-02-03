@@ -1,3 +1,30 @@
+---
+anchors:
+- Dover Cruise Terminal 1
+icon: waiting.JPG
+date: Saturday, 30 July 2011
+images:
+- path: tabitha.JPG
+  tag: Tabitha in her holiday 'home'
+- path: dover1.JPG
+  tag: Dover cruise terminal 1
+- path: dover2.JPG
+  tag: The cruise terminal was an old railway station
+- path: obstacle.JPG
+  tag: The obstacle course to board the Black Watch
+- path: cabin_door.JPG
+  tag: Our cabin's door
+- path: cabin_open.JPG
+  tag: Our cabin 5073
+- path: cabin_ginny.JPG
+  tag: Virginia makes herself comfortable
+- path: cabin_shower.JPG
+  tag: The shower in cabin 5073
+- path: cabin_basin.JPG
+  tag: The wash basin in cabin 5073
+- path: waiting.JPG
+  tag: Waiting to 'set sail' from Dover
+---
 ![Tabitha in her holiday 'home'](tabitha.JPG)
 Tabitha and Amelia safely stowed in
 [Country Cattery](https://www.countrycattery.com/).

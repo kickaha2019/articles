@@ -1,3 +1,7 @@
+---
+date: September 30th 2014
+icon: java_bar.JPG
+---
 We've started going to some of the quizzes that are run by the
 Entertainment Team on board the ships we cruise on.  Most days we
 made to the Individual Quiz held late afternoon in either Brodie's

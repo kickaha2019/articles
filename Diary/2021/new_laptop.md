@@ -1,3 +1,6 @@
+---
+date: February 2nd 2021
+---
 ![New laptop running Baldur's Gate](new_laptop.jpg)
 
 I failed to resist temptation and ordered a new

@@ -1,3 +1,8 @@
+---
+images:
+- path: Gintama.jpg
+  tag: Gintama
+---
 ![Gintama](Gintama.jpg)
 
 | | |

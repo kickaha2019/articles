@@ -1,3 +1,9 @@
+---
+title: Dead Sushi
+images:
+- path: dead_sushi.jpg
+  tag: Dead Sushi
+---
 ![Dead Sushi](dead_sushi.jpg)
 
 | | |

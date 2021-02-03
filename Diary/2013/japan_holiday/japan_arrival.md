@@ -1,3 +1,23 @@
+---
+title: Amsterdam to Tokyo
+anchors:
+- Narita International Airport
+- Grand Prince Hotel New Takanawa
+date: March 22nd 2013
+images:
+- path: p01_welcome.JPG
+  tag: Welcome to Japan
+- path: p02_arch_art.JPG
+  tag: Cross between art and architecture in Tokyo
+- path: p03_toilet.JPG
+  tag: Controls on Tokyo hotel toilet seat
+- path: p04_cherry.JPG
+  tag: Cherry blossom fever in Tokyo
+- path: p05_view.JPG
+  tag: View from hotel room
+- path: p06_umbrellas.JPG
+  tag: Umbrella stands outside Tokyo hotel
+---
 ![Welcome to Japan](p01_welcome.JPG)
 My case appeared as soon as I got through immigration!
 A big relief.  Getting through immigration was different to my usual experience,

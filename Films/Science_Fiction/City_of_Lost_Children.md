@@ -1,3 +1,8 @@
+---
+images:
+- path: CityOfLostChildren.jpg
+  tag: City of Lost Children
+---
 ![City of Lost Children](CityOfLostChildren.jpg)
 
 | | |

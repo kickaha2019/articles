@@ -1,3 +1,6 @@
+---
+title: Linking the pages
+---
 There's a set of Ruby scripts which scan the
 sources for words to use as links.  To increase the
 connectedness of the pages the scripts regard

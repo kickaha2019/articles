@@ -1,3 +1,8 @@
+---
+images:
+- path: once_upon_a_time.jpg
+  tag: Once Upon A Time
+---
 ![Once Upon A Time](once_upon_a_time.jpg)
 
 | | |

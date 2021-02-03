@@ -1,3 +1,8 @@
+---
+images:
+- path: a_Grain_of_Truth.jpg
+  tag: a Grain of Truth
+---
 ![a Grain of Truth](a_Grain_of_Truth.jpg)
 
 [a Grain of Truth](http://www.zamolski.com/agot/)

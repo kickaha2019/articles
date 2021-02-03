@@ -1,3 +1,26 @@
+---
+title: Castles and stately homes
+anchors:
+- Kenilworth Castle
+- Packwood House
+- Baddesley Clinton
+date: 16th October 2010
+images:
+- path: kenil1.JPG
+  tag: Kenilworth
+- path: kenil2.JPG
+  tag: Kenilworth slighted
+- path: pack_house.JPG
+  tag: Packwood House
+- path: pack_bathroom.JPG
+  tag: A period bathroom
+- path: pack_garden.JPG
+  tag: Stately garden
+- path: badd.JPG
+  tag: Baddesley Clinton
+- path: badd_owner.JPG
+  tag: How the last owner knew things
+---
 ![Kenilworth](kenil1.JPG)
 Saturday was Castle day.
 [Kenilworth Castle](https://www.english-heritage.org.uk/visit/places/kenilworth-castle/)

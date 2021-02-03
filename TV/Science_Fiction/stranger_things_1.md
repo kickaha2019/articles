@@ -1,3 +1,8 @@
+---
+images:
+- path: stranger_things_1.jpg
+  tag: Stranger Things
+---
 ![Stranger Things](stranger_things_1.jpg)
 
 | | |

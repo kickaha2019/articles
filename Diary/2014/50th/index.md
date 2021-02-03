@@ -1,3 +1,28 @@
+---
+title: Virginia's 50th
+date: April 13th 2014
+images:
+- path: church.JPG
+  tag: Entrance to Histon Baptist Church where the event was held
+- path: cake.JPG
+  tag: The cake my sister made for Virginia
+- path: dance1.JPG
+  tag: The caller for the Ceilidh drumming up dancers
+- path: dance2.JPG
+  tag: The dancing in progress
+- path: dance3.JPG
+  tag: This is the only dance Virginia and I didn't dance
+- path: dance4.JPG
+  tag: The dancing in motion
+- path: people1.JPG
+  tag: Some of the people there
+- path: people2.JPG
+  tag: More people there
+- path: puddings.JPG
+  tag: The impressive array of puddings
+- path: speech.JPG
+  tag: Virginia making a little speech
+---
 ![Entrance to Histon Baptist Church where the event was held](church.JPG)
 The weekend saw a major milestone - Virginia turned 50!  She had chosen
 to have a barn dance to celebrate (or Ceilidh sounds more classy doesn't it!)

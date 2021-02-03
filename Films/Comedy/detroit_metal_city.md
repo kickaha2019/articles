@@ -1,3 +1,8 @@
+---
+images:
+- path: detroit_metal_city.jpg
+  tag: Detroit Metal City
+---
 ![Detroit Metal City](detroit_metal_city.jpg)
 
 | | |

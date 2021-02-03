@@ -1,3 +1,22 @@
+---
+title: On Lake Windermere
+anchors:
+- Lakes Aquarium
+- Bowness-on-Windermere
+- Lakeland Motor Museum
+date: May 14th 2014
+images:
+- path: windermere_boat.JPG
+  tag: Lake Windermere cruiser
+- path: boat_house.JPG
+  tag: Boat house on Lake Windermere
+- path: lake.JPG
+  tag: Lake Windermere
+- path: windermere_hills.JPG
+  tag: Lake Windermere hills
+- path: motor_museum.JPG
+  tag: Lakeland Motor Museum
+---
 ![Lake Windermere cruiser](windermere_boat.JPG)
 Wednesday was the best day.  We took in the [Lakeside Aquarium](https://lakesaquarium.co.uk/),
 not the size of other aquariums I've been to true but there were things to see and learn there.

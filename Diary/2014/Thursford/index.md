@@ -1,3 +1,20 @@
+---
+title: Thursford Christmas Show
+anchors:
+- Thursford Collection
+date: December 5th 2014
+images:
+- path: santaland.JPG
+  tag: Where Santa lives
+- path: virginia_and_friend.JPG
+  tag: Virginia and friend
+- path: food.JPG
+  tag: Food to keep you going
+- path: shop.JPG
+  tag: Helping you spend that loose money
+- path: stage.JPG
+  tag: Waiting for the show to start
+---
 We went again to see the Christmas Show at the
 [Thursford Collection](https://www.thursford.com),
 a long drive but worth it. We get there early to at least
