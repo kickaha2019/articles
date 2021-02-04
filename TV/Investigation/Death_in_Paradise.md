@@ -19,4 +19,9 @@ very well, a nice mix of personalities with their differences.
 Each episode features a murder (or two or more) which the Saint Marie
 police force have to solve. There's enough suspects to make it
 interesting, and often the mysteries have a classic whodunit feel
-to them.  A pleasant evening's watch. 
+to them. So the episodes finish with a Poirot style reveal to
+those involed in the case. There are locked room mysteries where
+murderers achieve the impossible. Time and truth cannot be
+relied on.
+
+A pleasant evening's watch.
