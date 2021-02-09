@@ -1,9 +1,9 @@
 <DIV class="breadcrumbs t0 content">
-{% for page in breadcrumbs %}
-  {% if page.path %}
-    <A HREF="{{ page.path }}">{{ page.title }}</A> &raquo;
+{% for crumb in page.breadcrumbs %}
+  {% if crumb.path %}
+    <A HREF="{{ crumb.path }}">{{ crumb.title }}</A> &raquo;
   {% else %}
-    <SPAN>{{ page.title }}</SPAN>
+    <SPAN>{{ crumb.title }}</SPAN>
   {% endif %}
 {% endfor %}
 </DIV>

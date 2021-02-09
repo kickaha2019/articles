@@ -1,11 +1,8 @@
 <DIV class="indexes t0">
-{% for link in site.indexes %}
+{% for link in page.index %}
   {% if link.selected %}
     <div class="index t0 border_white">
-    {% for icon in link.icon %}
-      <IMG CLASS="{{ icon.sizes }}" SRC="{{ icon.path }}" WIDTH="{{ icon.width }}"
-           HEIGHT="{{ icon.height }}" ALT="{{ link.title }}">
-    {% endfor %}
+    {{ link.icon }}
     <div>
     <span>
     {{ link.title }}
@@ -19,10 +16,7 @@
       {{ link.tooltip }}
       </SPAN>
     {% endif %}
-    {% for icon in link.icon %}
-      <IMG CLASS="{{ icon.sizes }}" SRC="{{ icon.path }}" WIDTH="{{ icon.width }}"
-           HEIGHT="{{ icon.height }}" ALT="{{ link.title }}">
-    {% endfor %}
+    {{ link.icon }}
     <div>
     {{ link.title }}
     </div>

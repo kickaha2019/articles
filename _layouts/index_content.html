@@ -4,8 +4,8 @@
 <div class="payload content">
 {% include indexes.html %}
 <div class="story t1">
-{% if date %}
-  <DIV CLASS="date">{{ date }}</DIV>
+{% if page.date %}
+  <DIV CLASS="date">{{ page.date }}</DIV>
 {% endif %}
 {{ content }}
 {% include gallery.html %}</div>
