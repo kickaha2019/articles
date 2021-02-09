@@ -6,7 +6,7 @@ images:
   tag: Mug. Missing.
 ---
 ![Mug. Missing.](start.jpg)
-[Mug. Missing.](/Users/peter/Sites/Games/MugMissing/index.html) is a text based, CYOA (choose your own
+[Mug. Missing.](https://alofmethbin.com/Games/MugMissing/index.html) is a text based, CYOA (choose your own
 adventure) style game. The plot has you searching for your coffee
 mug across a range of locations and times, hence the name of the
 game! There aren't puzzles as such, the choices each player makes

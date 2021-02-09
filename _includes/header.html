@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<HTML LANG="en"><HEAD><TITLE>Peter's Pages</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<link rel="icon" type="image/png" href="https://www.alofmethbin.com/Articles/resources/{{root}}/{{site.favicon_png}}">
+<link rel="stylesheet" type="text/css" href="{{root}}/resources/{{site.main_css}}">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+          crossorigin=""/>
+<script>
+function showOverlay(image1,image2,image3) {
+  document.getElementById("overlay").style.display = 'flex';
+  document.getElementById("overlay1").src = image1;
+  document.getElementById("overlay2").src = image2;
+  document.getElementById("overlay3").src = image3;
+}
+function hideOverlay() {
+  document.getElementById("overlay").style.display = 'none';
+}
+</script>
+</HEAD><BODY><DIV CLASS="page">
+<DIV ID="overlay" CLASS="overlay" onclick="hideOverlay()">
+  <IMG ID="overlay1" SRC="size1.jpg" CLASS="size1" ALT="" onclick="hideOverlay()">
+  <IMG ID="overlay2" SRC="size2.jpg" CLASS="size2" ALT="" onclick="hideOverlay()">
+  <IMG ID="overlay3" SRC="size3.jpg" CLASS="size3" ALT="" onclick="hideOverlay()">
+  <DIV CLASS="overlay_cover" onclick="hideOverlay()"></DIV>
+</DIV>
+<IMG CLASS="logo size3 content" SRC="{{root}}/resources/{{site.logo_large_jpg}}" ALT="Peter's Pages">
+<IMG CLASS="logo size2 content" SRC="{{root}}/resources/{{site.logo_medium_jpg}}" ALT="Peter's Pages">
+<IMG CLASS="logo size1 content" SRC="{{root}}/resources/{{site.logo_small_jpg}}" ALT="Peter's Pages">
+<IMG CLASS="logo size0 content" SRC="{{root}}/resources/{{site.logo_tiny_jpg}}" ALT="Peter's Pages">

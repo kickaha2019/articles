@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Computing/imac.jpg"
+icon: "/Computing/imac.jpg"
 anchors:
 - Capelle
 title: Calling on Capelle

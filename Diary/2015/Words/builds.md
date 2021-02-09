@@ -1,4 +1,4 @@
-The latest build is available at [Words](/Users/peter/Sites/Games/Memoriam/build/index.html).
+The latest build is available at [Words](https://alofmethbin.com/Games/Memoriam/build/index.html).
 
 *Version 1.0*: First draft of game.
 (May 26th 2015)

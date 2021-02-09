@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Films/drama.png"
+icon: "/Films/drama.png"
 anchors:
 - Robinson College
 date: 8 August 2012

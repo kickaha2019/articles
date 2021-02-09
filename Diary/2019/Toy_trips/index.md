@@ -11,7 +11,7 @@ in the world are different to ours, and deserve to be heard. So I
 have interviewed them, and gathered together their comments into a
 few web pages using [Twine](http://twinery.org/) to organise them.
 
-Go to [Toy trips](/Users/peter/Sites/Games/ToyTrips/index.html) to read what they have to say!
+Go to [Toy trips](https://alofmethbin.com/Games/ToyTrips/index.html) to read what they have to say!
 
 I did a version of these pages
 as a virtual treasure hunt for Virginia - so she could find where her presents and cards

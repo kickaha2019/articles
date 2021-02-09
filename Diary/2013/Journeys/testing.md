@@ -9,7 +9,7 @@ or [Cucumber-js](https://github.com/cucumber/cucumber-js).  My choice
 was based on what I knew and was comfortable with.
 
 The output of the Cucumber tests are
-[here](/Users/peter/Sites/Games/Journeys/resources/cucumber.html).
+[here](https://alofmethbin.com/Games/Journeys/resources/cucumber.html).
 Warning - or perhaps not a warning.  The tests contain the
 solution of the puzzles in the game.
 

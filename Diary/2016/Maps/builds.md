@@ -1,4 +1,4 @@
-The latest build is available at [Present Hunt](/Users/peter/Sites/Games/Maps/build/index.html).
+The latest build is available at [Present Hunt](https://alofmethbin.com/Games/Maps/build/index.html).
 
 *Version 0.2*: First draft of game.
 (July 21st 2016)

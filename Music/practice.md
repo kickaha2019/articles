@@ -1,6 +1,6 @@
 ---
 title: Daily keyboard practise
-extension: php
+permalink: practice.php
 ---
 <?php
 $keys = array("A flat",  "A", "B flat", "B", "C",

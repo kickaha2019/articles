@@ -34,8 +34,8 @@ The kinds of rounds I have are:
 
 |Round|Description|
 |-|-|
-|Anagrams|I like doing crosswords so word based puzzles are natural [example](/Users/peter/Sites/quizzes/example/3011079.html)|
-|Missing vowels|Guess the name where the vowels have been removed [example](/Users/peter/Sites/quizzes/example/1719845.html)|
-|Missing word|Find the word that can go before or after a set of words [example](/Users/peter/Sites/quizzes/example/1369376.html)|
+|Anagrams|I like doing crosswords so word based puzzles are natural [example](https://alofmethbin.com/quizzes/example/3011079.html)|
+|Missing vowels|Guess the name where the vowels have been removed [example](https://alofmethbin.com/quizzes/example/1719845.html)|
+|Missing word|Find the word that can go before or after a set of words [example](https://alofmethbin.com/quizzes/example/1369376.html)|
 |Pictures|Match the names to set of pictures of birds or dogs etc|
 |Rebuses|Rebuses are an old kind of picture puzzle|

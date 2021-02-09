@@ -1,7 +1,7 @@
 ---
 title: 7:Builds
 ---
-The latest build is available at [Card 2013](/Users/peter/Sites/Games/Card2013/build/index.html).
+The latest build is available at [Card 2013](https://alofmethbin.com/Games/Card2013/build/index.html).
 
 *Build 1*: The start and about pages implemented, time
 permitting the start page will be made prettier.

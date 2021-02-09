@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Diary/2014/Thursford/santaland.JPG"
+icon: "/Diary/2014/Thursford/santaland.JPG"
 anchors:
 - Thursford Collection
 title: Thursford Christmas Spectacular

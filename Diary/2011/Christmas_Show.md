@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Diary/2014/Thursford/santaland.JPG"
+icon: "/Diary/2014/Thursford/santaland.JPG"
 title: Thursford Collection Christmas Show
 date: Friday, 11 November 2011
 ---

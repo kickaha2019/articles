@@ -1,0 +1,16 @@
+{% if page.gallery %}
+  <DIV CLASS="gallery t1">
+  {% for image in page.gallery %}
+    <DIV>
+      <DIV>
+      {% for icon in image.icons %}
+        {{ icon }}
+      {% endfor %}
+      </DIV>
+      <DIV>
+        {{ image.title }}
+      </DIV>
+    </DIV>
+  {% endfor %}
+  </DIV>
+{% endif %}

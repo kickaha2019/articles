@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Films/drama.png"
+icon: "/Films/drama.png"
 title: Love's Labours Lost
 date: Tuesday, 20 July 2010
 ---

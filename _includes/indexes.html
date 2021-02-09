@@ -1,0 +1,49 @@
+<DIV class="indexes t0">
+{% for link in site.indexes %}
+  {% if link.selected %}
+    <div class="index t0 border_white">
+    {% for icon in link.icon %}
+      <IMG CLASS="{{ icon.sizes }}" SRC="{{ icon.path }}" WIDTH="{{ icon.width }}"
+           HEIGHT="{{ icon.height }}" ALT="{{ link.title }}">
+    {% endfor %}
+    <div>
+    <span>
+    {{ link.title }}
+    </span>
+    </div>
+    </div>
+  {% else %}
+    <A CLASS="index t0 tooltip" HREF="{{ link.path }}">
+    {% if link.tooltip %}
+      <SPAN CLASS="tooltiptext">
+      {{ link.tooltip }}
+      </SPAN>
+    {% endif %}
+    {% for icon in link.icon %}
+      <IMG CLASS="{{ icon.sizes }}" SRC="{{ icon.path }}" WIDTH="{{ icon.width }}"
+           HEIGHT="{{ icon.height }}" ALT="{{ link.title }}">
+    {% endfor %}
+    <div>
+    {{ link.title }}
+    </div>
+    </A>
+  {% endif %}
+{% endfor %}
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+<div class="index dummy size1 size2 size3">
+</div>
+</div>
+</DIV>

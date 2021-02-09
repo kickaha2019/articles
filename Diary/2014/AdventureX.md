@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Games/dragon.jpg"
+icon: "/Games/dragon.jpg"
 title: AdventureX convention
 date: December 6th 2014
 ---

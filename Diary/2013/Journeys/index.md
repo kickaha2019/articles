@@ -4,14 +4,14 @@ icon: z75.jpg
 ---
 "Journeys" is a game based on pictures of the P&O cruise ship
 "Oriana" taken during a
-[cruise to the Azores](/Users/peter/Sites/Articles/Diary/2012/azores_cruise/index.html)
+[cruise to the Azores](https://alofmethbin.com/Articles/Diary/2012/azores_cruise/index.html)
 in May / June 2012.
 The game will have a number of slideshows of journeys round the
 Oriana unlocked by solving puzzles.
 
 I had started doing a virtual tour of the "Black Watch" which
 we took a
-[cruise to the Baltics](/Users/peter/Sites/Articles/Diary/2011/black_watch/index.html)
+[cruise to the Baltics](https://alofmethbin.com/Articles/Diary/2011/black_watch/index.html)
 on in 2011.  However I felt
 the geometry of a cruise ship does not lend itself to representing
 the ship as a set of locations, at which you can pan around or

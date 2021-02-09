@@ -1,0 +1,8 @@
+url: "https://alofmethbin.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "Articles" # the subpath of your site, e.g. /blog
+title: "Peter's Pages" # the name of your site, e.g. ACME Corp.
+favicon_png: xxx
+liquid:
+  error_mode: strict
+  strict_variables: true
+  strict_filters: true

@@ -1,0 +1,9 @@
+<DIV class="breadcrumbs t0 content">
+{% for page in breadcrumbs %}
+  {% if page.path %}
+    <A HREF="{{ page.path }}">{{ page.title }}</A> &raquo;
+  {% else %}
+    <SPAN>{{ page.title }}</SPAN>
+  {% endif %}
+{% endfor %}
+</DIV>

@@ -1,5 +1,5 @@
 ---
-icon: "/Users/peter/Synch/Website/Articles/Links/web.png"
+icon: "/Links/web.png"
 date: Tuesday, 8 May 2012
 ---
 Too much time last week spent sorting out my personal website. Even before last week I was considering moving my own website to a different host as for some reason the images on my website weren't always showing up properly in browsers.  Sporadically only the first part of an image would appear, and one would have to refresh to get the whole image.  Got no joy from the hosting company who said it had to be my connection even though other people also got the problem looking at my website.

@@ -1,4 +1,4 @@
-The latest build is available at [Journeys](/Users/peter/Sites/Games/Journeys/build/index.html).
+The latest build is available at [Journeys](https://alofmethbin.com/Games/Journeys/build/index.html).
 
 *Build 9*: Avoided displaying incomplete images by using image load
 callbacks.  Fixed minor issues like game forgetting progress on a
