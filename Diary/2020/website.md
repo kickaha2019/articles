@@ -1,6 +1,7 @@
 ---
 date: February 25th 2020
 title: Website makeover
+icon: ../../Hobbies/Website/spider.jpg
 ---
 I've refreshed my personal website a little. Most noticeable will be that the logo at the top of each page has changed. Beneath that are the breadcrumbs - a line giving where in the website the page is, the landing page doesn't have any breadcrumbs. Beneath that on most pages on the left hand side there is an index to either child pages or to sibling pages if there are no children. If there is content on the page then that appears on the right hand side.
 

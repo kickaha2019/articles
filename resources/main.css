@@ -1,4 +1,6 @@
 body {background: black; background-image: none}
+p {margin-top: 0px}
+
 .overlay {position: fixed; display: none; z-index: 100;
           width: 100vw; height: 100vh; left: 0px; right: 0px;
           background: rgba(0,0,0,0.75);
@@ -21,14 +23,15 @@ body {background: black; background-image: none}
 .left {float: left; margin: 0 10px 10px 0}
 .centre {margin-left: auto; margin-right: auto; display: block;}
 
-.story {min-width: 185px; padding-left: 15px; box-sizing: border-box; overflow: hidden}
+.story {min-width: 185px; padding-left: 15px; padding-top: 10px;
+        box-sizing: border-box; overflow: hidden}
 .gallery {width: 98%; padding-left: 5px; padding-bottom: 15px;
           display: flex; flex-flow: row wrap; align-items: flex-start;
           justify-content: space-between}
-.gallery img {padding-top: 10px}
-.gallery div {padding-top: 5px; padding-bottom: 5px;
+.gallery img {padding-top: 0px}
+.gallery div {padding: 9px; padding-top: 0px; padding-bottom: 5px;
               display: flex; flex-flow: column nowrap; align-items: center;
-              width: 128px; padding: 9px; justify-content: center}
+              width: 128px; justify-content: center}
 .gallery div div {text-align: center; padding: 0px}
 .map {width: 340px; height: 500px}
 
