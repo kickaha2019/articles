@@ -1,23 +1,18 @@
 ---
 title: Liar Game (2007)
-images:
-- path: liar_game_2007.jpg
-  tag: Liar Game
+image: liar_game_2007.jpg
+details:
+  Name: "&#12521;&#12452;&#12450;&#12540;&#12466;&#12540;&#12512; / Liar Game"
+  Country: Japan
+  Director: Hiroaki Matsuyama, Ayako Oki, Yasushi Ueda
+  Writer: " Shinobu Kaitani (manga), Osho Furuya"
+  Transmitted: 14th April 2007 to 23rd June 2014
+  Cast: Toda Erika, Matsuda Shota, Suzuke Kosuke
+  Details: 11 episodes
+  Themes: Swindling, debt, trust
+  Links: "[Asian Wiki](http://asianwiki.com/Liar_Game)"
+layout: review
 ---
-![Liar Game](liar_game_2007.jpg)
-
-| | |
-|-|-|
-Name|&#12521;&#12452;&#12450;&#12540;&#12466;&#12540;&#12512; / Liar Game
-Country|Japan
-Director|Hiroaki Matsuyama, Ayako Oki, Yasushi Ueda
-Writer| Shinobu Kaitani (manga), Osho Furuya
-Transmitted|14th April 2007 to 23rd June 2014
-Cast|Toda Erika, Matsuda Shota, Suzuke Kosuke
-Details|11 episodes
-Themes|Swindling, debt, trust
-Links|[Asian Wiki](http://asianwiki.com/Liar_Game)
-
 Based on a Japanese manga about a naive college student who gets enmeshed
 into a mysterious game where the players lie and cheat each other for
 large sums of money. Compared with the Korean remake this version is more

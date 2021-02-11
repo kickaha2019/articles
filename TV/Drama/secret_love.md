@@ -1,22 +1,17 @@
 ---
-images:
-- path: secret_love.jpg
-  tag: Secret Love
+image: secret_love.jpg
+details:
+  Drama: "&#48708;&#48128; / Secret Love"
+  Country: South Korea
+  Director: Lee Eung-Bok, Baek Sang-Hoon
+  Writer: Choi Ho-Chul, Yoo Bo-Ra
+  Transmitted: 25th September to 14th November 2013
+  Cast: Ji Sung, Hwang Jung-Eum, Bae Soo-Bin, Lee Da-Hee
+  Themes: Revenge, love square, sacrifice, wealthy family, disability
+  Details: 16 episodes
+  Links: "[Asian Wiki](http://asianwiki.com/Secret_Love) [Korean Drama](https://www.koreandrama.org/secret-secret-love/)"
+layout: review
 ---
-![Secret Love](secret_love.jpg)
-
-| | |
-|-|-|
-Drama|&#48708;&#48128; / Secret Love
-Country|South Korea
-Director|Lee Eung-Bok, Baek Sang-Hoon
-Writer|Choi Ho-Chul, Yoo Bo-Ra
-Transmitted|25th September to 14th November 2013
-Cast|Ji Sung, Hwang Jung-Eum, Bae Soo-Bin, Lee Da-Hee
-Themes|Revenge, love square, sacrifice, wealthy family, disability
-Details|16 episodes
-Links|[Asian Wiki](http://asianwiki.com/Secret_Love) [Korean Drama](https://www.koreandrama.org/secret-secret-love/)
-
 "Secret Love"
 is a highly melodramatic tale of love and revenge.  Just as
 a budding lawyer makes the big time he kills a woman after

@@ -1,19 +1,14 @@
 ---
-images:
-- path: push.jpg
-  tag: Push
+image: push.jpg
+details:
+  Film: "[Push](https://www.imdb.com/title/tt0465580/)"
+  Country: USA
+  Director: Paul McGuigan
+  Year: '2009'
+  Cast: Camilla Belle, Dakota Fanning, Chris Evans
+  Details: Colour 111 mins
+layout: review
 ---
-![Push](push.jpg)
-
-| | |
-|-|-|
-Film|[Push](https://www.imdb.com/title/tt0465580/)
-Country|USA
-Director|Paul McGuigan
-Year|2009
-Cast|Camilla Belle, Dakota Fanning, Chris Evans
-Details|Colour 111 mins
-
 "Push" is a film I started off watching not with high hopes.
 Another entry in these people have special powers department.  Mysterious
 secret government departments.  Run of the mill stuff.  Or so I thought.

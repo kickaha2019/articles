@@ -1,19 +1,14 @@
 ---
-images:
-- path: the_four.jpg
-  tag: The Four
+image: the_four.jpg
+details:
+  Film: "&#22235;&#22823;&#21517; ([The Four](https://www.imdb.com/title/tt2204340/))"
+  Country: China
+  Director: Gordon Chan
+  Year: '2012'
+  Cast: " Chao Deng, Yifei Liu, Ronald Cheng"
+  Details: Colour 118 mins
+layout: review
 ---
-![The Four](the_four.jpg)
-
-| | |
-|-|-|
-Film|&#22235;&#22823;&#21517; ([The Four](https://www.imdb.com/title/tt2204340/))
-Country|China
-Director|Gordon Chan
-Year|2012
-Cast| Chao Deng, Yifei Liu, Ronald Cheng
-Details|Colour 118 mins
-
 A film loosely based on
 a 1970s wuxia series by Wen Ruian.  The film adds fantasy elements into the
 original stories, and is in the same area as Tsui Hark's "Detective Dee" film.
@@ -37,6 +32,3 @@ The English translation I saw was slightly wonky.  So Merciless gets rendered as
 Emotionless which isn't as effective as a name.  But I'm used to the English
 sub-titles being unintentionally interesting in Far East movies.  There are apparently
 sequels in the works and I'm looking forward to them.
-
-
-

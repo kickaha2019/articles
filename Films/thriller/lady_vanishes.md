@@ -1,20 +1,15 @@
 ---
 title: The Lady Vanishes
-images:
-- path: lady_vanishes.jpg
-  tag: The Lady Vanishes
+image: lady_vanishes.jpg
+details:
+  Film: The Lady Vanishes
+  Country: UK
+  Director: Alfred Hitchcock
+  Year: '1938'
+  Cast: Margaret Lockwood, Michael Redgrave
+  Details: B/W 97 minutes
+layout: review
 ---
-![The Lady Vanishes](lady_vanishes.jpg)
-
-| | |
-|-|-|
-Film|The Lady Vanishes
-Country|UK
-Director|Alfred Hitchcock
-Year|1938
-Cast|Margaret Lockwood, Michael Redgrave
-Details|B/W 97 minutes
-
 Plot: spy thriller where Margaret Lockwood's
 character wakens on a train to find her
 elderly companion missing, and everyone denying

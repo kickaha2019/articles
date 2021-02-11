@@ -1,22 +1,18 @@
 ---
-images:
-- path: maids.jpg
-  tag: Maids
+image: maids.jpg
+details:
+  Drama: "&#54616;&#45376;&#46308; / Maids"
+  Country: South Korea
+  Director: Jo Hyun-Tak
+  Writer: Jo Hyoun-Kyoung
+  Transmitted: 12th December 2014 to 28th March 2015
+  Cast: Jung Yoo-Mi, Oh Ji-Ho, Kim Dong-Wook, Lee Shi-A
+  Details: 20 episodes
+  Themes: Joseon period, love triangles, slavery, underground rebellion
+  Links: "[Official website](http://tv.jtbc.joins.com/housemaid/) [Asian Wiki](http://asianwiki.com/Maids)
+    [HanCinema](https://www.hancinema.net/korean_drama_Maids.php) [Korean Drama](https://www.koreandrama.org/maids/)"
+layout: review
 ---
-![Maids](maids.jpg)
-
-| | |
-|-|-|
-Drama|&#54616;&#45376;&#46308; / Maids
-Country|South Korea
-Director|Jo Hyun-Tak
-Writer|Jo Hyoun-Kyoung
-Transmitted|12th December 2014 to 28th March 2015
-Cast|Jung Yoo-Mi, Oh Ji-Ho, Kim Dong-Wook, Lee Shi-A
-Details|20 episodes
-Themes|Joseon period, love triangles, slavery, underground rebellion
-Links|[Official website](http://tv.jtbc.joins.com/housemaid/) [Asian Wiki](http://asianwiki.com/Maids) [HanCinema](https://www.hancinema.net/korean_drama_Maids.php) [Korean Drama](https://www.koreandrama.org/maids/)
-
 The heroine starts off as a privileged nobleman's daughter in Joseon
 Korea, but falls through the bottom of society into slavery when her
 father is wrongly executed for treason. She undergoes hardships, some

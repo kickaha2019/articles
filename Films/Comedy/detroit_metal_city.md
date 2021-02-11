@@ -1,19 +1,15 @@
 ---
-images:
-- path: detroit_metal_city.jpg
-  tag: Detroit Metal City
+image: detroit_metal_city.jpg
+details:
+  Film: "&#12487;&#12488;&#12525;&#12452;&#12488;&#12539;&#12513;&#12479;&#12523;&#12539;&#12471;&#12486;&#12451;
+    (Detroit Metal City)"
+  Country: Japan
+  Director: Toshio Lee
+  Year: '2008'
+  Cast: Kenichi Matsuyama, Yoshihiko Hosoda
+  Details: Colour 104  minutes
+layout: review
 ---
-![Detroit Metal City](detroit_metal_city.jpg)
-
-| | |
-|-|-|
-Film|&#12487;&#12488;&#12525;&#12452;&#12488;&#12539;&#12513;&#12479;&#12523;&#12539;&#12471;&#12486;&#12451; (Detroit Metal City)
-Country|Japan
-Director|Toshio Lee
-Year|2008
-Cast|Kenichi Matsuyama, Yoshihiko Hosoda
-Details|Colour 104  minutes
-
 A delicious black comedy about a well-meaning nerd,
 who dreams of successfully strumming his acoustic guitar
 and singing boring romantic songs - only he ends up

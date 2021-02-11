@@ -1,20 +1,15 @@
 ---
 title: Escape from New York
-images:
-- path: escape_from_ny.jpg
-  tag: Escape from New York
+image: escape_from_ny.jpg
+details:
+  Film: "[Escape from New York](https://www.imdb.com/title/tt0082340/)"
+  Country: USA
+  Director: John Carpenter
+  Year: '1981'
+  Cast: Kurt Russell, Lee Van Cleef, Ernest Borgnine
+  Details: Colour 99 mins
+layout: review
 ---
-![Escape from New York](escape_from_ny.jpg)
-
-| | |
-|-|-|
-Film|[Escape from New York](https://www.imdb.com/title/tt0082340/)
-Country|USA
-Director|John Carpenter
-Year|1981
-Cast|Kurt Russell, Lee Van Cleef, Ernest Borgnine
-Details|Colour 99 mins
-
 The directory John Carpenter also wrote the story and the music.
 The music is great, minimal but mood-setting for the dark relentless
 storyline.  The music is a star of the film.

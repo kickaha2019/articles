@@ -1,20 +1,15 @@
 ---
 title: 'Pirates of the Caribbean: The Curse of the Black Pearl'
-images:
-- path: pirates.jpg
-  tag: Pirates of the Caribbean
+image: pirates.jpg
+details:
+  Film: 'Pirates of the Caribbean: The Curse of the Black Pearl'
+  Country: USA
+  Director: Gore Verbinski
+  Year: '2003'
+  Cast: Johnny Depp, Orlando Bloom, Kiera Knightley, Geoffrey Rush
+  Details: Colour 143 minutes
+layout: review
 ---
-![Pirates of the Caribbean](pirates.jpg)
-
-| | |
-|-|-|
-Film|Pirates of the Caribbean: The Curse of the Black Pearl
-Country|USA
-Director|Gore Verbinski
-Year|2003
-Cast|Johnny Depp, Orlando Bloom, Kiera Knightley, Geoffrey Rush
-Details|Colour 143 minutes
-
 Plot: Film based on the Disneyworld ride "Pirates of the
 Caribbean".  An Aztec curse has turned a group of
 pirates into the living dead, moonlight shows them

@@ -1,23 +1,19 @@
 ---
 title: Kill Me, Heal Me
-images:
-- path: kill_me_heal_me.jpg
-  tag: Kill Me, Heal Me
+image: kill_me_heal_me.jpg
+details:
+  Drama: "&#53420;&#48120;, &#55184;&#48120; / Kill Me, Heal Me"
+  Country: South Korea
+  Director: Kim Jin Man, Kim Dae Jin
+  Writer: Jin Soo Wan
+  Transmitted: 7th January to 12th March 2015
+  Cast: Ji Sung, Hwang Jung-Eum, Park Seo Joon
+  Themes: Split personality, wealthy family, mystery
+  Details: 20 episodes
+  Links: "[Asian Wiki](http://asianwiki.com/Kill_Me) [Korean Drama](https://www.koreandrama.org/kill-me-heal-me/)
+    [Han Cinema](https://www.hancinema.net/korean_drama_Kill_Me_v__Heal_Me.php)"
+layout: review
 ---
-![Kill Me, Heal Me](kill_me_heal_me.jpg)
-
-| | |
-|-|-|
-Drama|&#53420;&#48120;, &#55184;&#48120; / Kill Me, Heal Me
-Country|South Korea
-Director|Kim Jin Man, Kim Dae Jin
-Writer|Jin Soo Wan
-Transmitted|7th January to 12th March 2015
-Cast|Ji Sung, Hwang Jung-Eum, Park Seo Joon
-Themes|Split personality, wealthy family, mystery
-Details|20 episodes
-Links|[Asian Wiki](http://asianwiki.com/Kill_Me) [Korean Drama](https://www.koreandrama.org/kill-me-heal-me/) [Han Cinema](https://www.hancinema.net/korean_drama_Kill_Me_v__Heal_Me.php)
-
 The son of a powerful rich family has split personalities as the result of
 a traumatic childhood. He gets help from an intern psychriatist, but she
 comes to be more than a secret doctor.

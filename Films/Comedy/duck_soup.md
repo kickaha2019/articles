@@ -1,18 +1,14 @@
 ---
-images:
-- path: duck_soup.jpg
-  tag: Duck Soup
+image: duck_soup.jpg
+details:
+  Film: "[Duck Soup](https://www.imdb.com/title/tt0023969/)"
+  Country: USA
+  Director: Leo McCarey
+  Year: '1933'
+  Cast: Groucho Marx, Harpo Marx, Chico Marx
+  Details: B&W 68 mins
+layout: review
 ---
-![Duck Soup](duck_soup.jpg)
-
-| | |
-|-|-|
-Film|[Duck Soup](https://www.imdb.com/title/tt0023969/)
-Country|USA
-Director|Leo McCarey
-Year|1933
-Cast|Groucho Marx, Harpo Marx, Chico Marx
-Details|B&W 68 mins
 Image:
 duck_soup.jpg
 Duck Soup

@@ -1,20 +1,16 @@
 ---
 title: The Grand Heist
-images:
-- path: the_grand_heist.jpg
-  tag: The Grand Heist
+image: the_grand_heist.jpg
+details:
+  Film: "&#48148;&#46988;&#44284; &#54632;&#44760; &#49324;&#46972;&#51648;&#45796;
+    ([The Grand Heist](https://www.imdb.com/title/tt2448584/))"
+  Country: South Korea
+  Director: Joo-ho Kim
+  Year: '2012'
+  Cast: Tae-hyun Cha, Ji-ho Oh, Hyo-rin Min
+  Details: Colour 121 mins
+layout: review
 ---
-![The Grand Heist](the_grand_heist.jpg)
-
-| | |
-|-|-|
-Film|&#48148;&#46988;&#44284; &#54632;&#44760; &#49324;&#46972;&#51648;&#45796; ([The Grand Heist](https://www.imdb.com/title/tt2448584/))
-Country|South Korea
-Director|Joo-ho Kim
-Year|2012
-Cast|Tae-hyun Cha, Ji-ho Oh, Hyo-rin Min
-Details|Colour 121 mins
-
 A crime heist comedy.  What makes it different from other such films is that it's
 set in feudal Korea, and what's being stolen is ice.  There's a bit of comedy, the
 expected unexpected characters, a touch of martial arts - but the star for me is

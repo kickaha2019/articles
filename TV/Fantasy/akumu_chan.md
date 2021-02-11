@@ -1,23 +1,18 @@
 ---
 title: My Little Nightmare
-images:
-- path: akumu_chan.jpg
-  tag: My Little Nightmare
+image: akumu_chan.jpg
+details:
+  Drama: "&#24746;&#22818;&#12385;&#12419;&#12435; / My Little Nightmare (Akumu Chan)"
+  Country: Japan
+  Director: Noriyoshi Sakuma, Ryuichi Inomata, Shintaro Sugawara
+  Writer: " Riku Onda, Sumio Omori"
+  Transmitted: 13th October to 22nd December 2012
+  Cast: Keiko Kitagawa, Yuka, Gackt, Fumiyo Kohinata
+  Details: 11 episodes
+  Themes: School, dreams, fantasy, mystery
+  Links: "[Official website](http://www.ntv.co.jp/akumu/) [Asian Wiki](http://asianwiki.com/My_Little_Nightmare_-_Akumu-chan)"
+layout: review
 ---
-![My Little Nightmare](akumu_chan.jpg)
-
-| | |
-|-|-|
-Drama|&#24746;&#22818;&#12385;&#12419;&#12435; / My Little Nightmare (Akumu Chan)
-Country|Japan
-Director|Noriyoshi Sakuma, Ryuichi Inomata, Shintaro Sugawara
-Writer| Riku Onda, Sumio Omori
-Transmitted|13th October to 22nd December 2012
-Cast|Keiko Kitagawa, Yuka, Gackt, Fumiyo Kohinata
-Details|11 episodes
-Themes|School, dreams, fantasy, mystery
-Links|[Official website](http://www.ntv.co.jp/akumu/) [Asian Wiki](http://asianwiki.com/My_Little_Nightmare_-_Akumu-chan)
-
 A cold-hearted school teacher finds herself enmeshed with a strange new
 pupil who has fantastical prophetic dreams. Try as she may to avoid it
 her life is turned upside down and inside out.

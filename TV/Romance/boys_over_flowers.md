@@ -1,23 +1,19 @@
 ---
 title: Boys Over Flowers
-images:
-- path: boys_over_flowers.jpg
-  tag: Boys Over Flowers
+image: boys_over_flowers.jpg
+details:
+  Drama: "&#44867;&#48372;&#45796; &#45224;&#51088; / Boys Over Flowers"
+  Country: South Korea
+  Director: Jeon Ki-Sang
+  Writer: Yoon Ji-Ryeon
+  Transmitted: 5th January to 31st March 2009
+  Cast: Lee Min-Ho, Ku Hye-Seon, Kim Hyun-Joong
+  Details: 25 episodes
+  Themes: School, love triangle, rich meeting poor
+  Links: "[Asian Wiki](http://asianwiki.com/Boys_Over_Flowers_-_Korean_Drama) [Korean
+    Drama](https://www.koreandrama.org/boys-before-flowers/)"
+layout: review
 ---
-![Boys Over Flowers](boys_over_flowers.jpg)
-
-| | |
-|-|-|
-Drama|&#44867;&#48372;&#45796; &#45224;&#51088; / Boys Over Flowers
-Country|South Korea
-Director|Jeon Ki-Sang
-Writer|Yoon Ji-Ryeon
-Transmitted|5th January to 31st March 2009
-Cast|Lee Min-Ho, Ku Hye-Seon, Kim Hyun-Joong
-Details|25 episodes
-Themes|School, love triangle, rich meeting poor
-Links|[Asian Wiki](http://asianwiki.com/Boys_Over_Flowers_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/boys-before-flowers/)
-
 A Korean TV drama based on a Japanese manga "Hana yori Dango", whose
 title (literally Boys over Flowers) is a pun on a Japanese saying of
 "dumplings over flowers" meaning people who attend a flower festival Hanami

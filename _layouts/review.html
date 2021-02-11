@@ -1,0 +1,21 @@
+{% include header.html %}
+{% include breadcrumbs.html %}
+
+<div class="payload content">
+{% include image_indexes.html %}
+<div class="story t1">
+{% if page.date %}
+  <DIV CLASS="date">{{ page.date }}</DIV>
+{% endif %}
+<p>{{ page.image }}</p>
+<p>
+<table class="list">
+{% for detail in page.details %}
+  <tr><th>{{ detail[0] }}</th><td>{{ detail[1] | markdownify }}</td></tr>
+{% endfor %}
+</table>
+</p>
+{{ content }}
+{% include gallery.html %}
+</div>
+</DIV></BODY></HTML>

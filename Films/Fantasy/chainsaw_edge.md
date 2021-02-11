@@ -1,20 +1,15 @@
 ---
 title: Negative Happy Chainsaw Edge
-images:
-- path: chainsaw_edge.jpg
-  tag: Negative Happy Chainsaw Edge
+image: chainsaw_edge.jpg
+details:
+  Film: "[Negative Happy Chainsaw Edge](https://www.imdb.com/title/tt1024856/)"
+  Country: Japan
+  Director: ''
+  Year: '2007'
+  Cast: Yosuke Asari, Terutaka Hasegawa, Hayato Ichihara
+  Details: Colour 109 mins
+layout: review
 ---
-![Negative Happy Chainsaw Edge](chainsaw_edge.jpg)
-
-| | |
-|-|-|
-Film|[Negative Happy Chainsaw Edge](https://www.imdb.com/title/tt1024856/)
-Country|Japan
-Director|
-Year|2007
-Cast|Yosuke Asari, Terutaka Hasegawa, Hayato Ichihara
-Details|Colour 109 mins
-
 This might seem to be another Japanese exploitation flick.  Japanese schoolgirl
 battles monster from the moon who wields a chainsaw.  These elements are
 definitely in the film.  And artistically so.  But are not what the film

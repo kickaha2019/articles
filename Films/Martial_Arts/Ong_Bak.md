@@ -1,19 +1,14 @@
 ---
-images:
-- path: ong_bak.jpg
-  tag: Ong Bak
+image: ong_bak.jpg
+details:
+  Film: "[Ong Bak](https://www.imdb.com/title/tt0368909/)"
+  Country: Thailand
+  Director: Prachya Pinkaew
+  Year: '2003'
+  Cast: Tony Jaa
+  Details: Colour 104 minutes
+layout: review
 ---
-![Ong Bak](ong_bak.jpg)
-
-| | |
-|-|-|
-Film|[Ong Bak](https://www.imdb.com/title/tt0368909/)
-Country|Thailand
-Director|Prachya Pinkaew
-Year|2003
-Cast|Tony Jaa
-Details|Colour 104 minutes
-
 This film showcases the martial arts abilities of Tony Jaa. Directed by Prachya Pinkaew, fight choreography by Panna Rittikrai, this film brought Thai cinema to a new level.
 
 The plot is basic - baddie steals a Buddhist idol from a poor Thai village, villagers send Tony Jaa off to the corrupt big city to retrieve it. Endangering his principles Tony Jaa does a lot of fighting to retrieve the idol and save the village.

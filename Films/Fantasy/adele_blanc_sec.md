@@ -1,21 +1,15 @@
 ---
 title: The Extraordinary Adventures of Adele Blanc-Sec
-images:
-- path: AdeleBlanc-Sec.jpg
-  tag: The Extraordinary Adventures of Adele Blanc-Sec
+image: AdeleBlanc-Sec.jpg
+details:
+  Film: "[The Extraordinary Adventures of Adele Blanc-Sec](https://www.imdb.com/title/tt1179025/)"
+  Country: France
+  Director: Luc Besson
+  Year: '2010'
+  Cast: Louise Bourgoin, Mathieu Amalric, Gilles Lellouche
+  Details: Colour 107 mins
+layout: review
 ---
-![The Extraordinary Adventures of Adele Blanc-Sec](AdeleBlanc-Sec.jpg)
-
-| | |
-|-|-|
-Film|[The Extraordinary Adventures of Adele Blanc-Sec](https://www.imdb.com/title/tt1179025/)
-Country|France
-Director|Luc Besson
-Year|2010
-Cast|Louise Bourgoin, Mathieu Amalric, Gilles Lellouche
-Details|Colour 107 mins
-
-
 A live-action film based on the comics by Jacques Tardi. If I remember properly it's the amalgam of two adventures for Adele that Tardi did.
 
 Set mainly in early 1900s Paris the film follows the odyssey of the titular Adele to cure her sister. It's a rather complicated odyssey involving Egyptian tombs and pterodactyls and rescues from the guillotine and resurrection magic. All because of a game of tennis. Besson skates a skilful line from black comedy to slapstick to comedy of observation to a little heroics. A French female Indiana Jones who doesn't take herself too seriously.

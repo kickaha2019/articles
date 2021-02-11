@@ -1,23 +1,19 @@
 ---
 title: 49 Days
-images:
-- path: 49_days.jpg
-  tag: 49 Days
+image: 49_days.jpg
+details:
+  Drama: 49&#51068; / 49 Days
+  Country: South Korea
+  Director: Jo Young-Gwang, Park Yong-Soon
+  Writer: So Hyeon-Kyeong
+  Transmitted: 16th March to 19th May 2011
+  Cast: Lee Yo-Won, Nam Gyu-Ri, Bae Soo-Bin
+  Details: 20 episodes
+  Themes: Ghosts, possession, corporate shenanigans
+  Links: "[Official website](https://programs.sbs.co.kr/drama/49days/about/51832/)
+    [Asian Wiki](http://asianwiki.com/49_Days_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/49-days/)"
+layout: review
 ---
-![49 Days](49_days.jpg)
-
-| | |
-|-|-|
-Drama|49&#51068; / 49 Days
-Country|South Korea
-Director|Jo Young-Gwang, Park Yong-Soon
-Writer|So Hyeon-Kyeong
-Transmitted|16th March to 19th May 2011
-Cast|Lee Yo-Won, Nam Gyu-Ri, Bae Soo-Bin
-Details|20 episodes
-Themes|Ghosts, possession, corporate shenanigans
-Links|[Official website](https://programs.sbs.co.kr/drama/49days/about/51832/) [Asian Wiki](http://asianwiki.com/49_Days_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/49-days/)
-
 A naive nice optimistic chaebol heiress ends up in the body of
 a suicidal woman who's lost hope after losing her adored.
 Our heiress has to deal not only with only having 49 days to return to her own

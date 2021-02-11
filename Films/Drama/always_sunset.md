@@ -1,20 +1,16 @@
 ---
 title: Always - Sunset on Third Street
-images:
-- path: always3.jpg
-  tag: Always - Sunset on Third Street
+image: always3.jpg
+details:
+  Film: ALWAYS &#19977;&#19969;&#30446;&#12398;&#22805;&#26085; ([Always - Sunset
+    on Third Street](https://www.imdb.com/title/tt0488870/))
+  Country: Japan
+  Director: Takashi Yamazaki
+  Year: '2005'
+  Cast: Maki Horikita, Hidetaka Yoshioka, Shin'ichi Tsutsumi
+  Details: Colour 133 mins
+layout: review
 ---
-![Always - Sunset on Third Street](always3.jpg)
-
-| | |
-|-|-|
-Film|ALWAYS &#19977;&#19969;&#30446;&#12398;&#22805;&#26085; ([Always - Sunset on Third Street](https://www.imdb.com/title/tt0488870/))
-Country|Japan
-Director|Takashi Yamazaki
-Year|2005
-Cast|Maki Horikita, Hidetaka Yoshioka, Shin'ichi Tsutsumi
-Details|Colour 133 mins
-
 A magical Japanese film about a small street community in Japan of the 1950s. Directed by Takashi Yamazaki it combines technical wizardry with deep felt humanity.
 
 The film weaves together multiple storylines - a girl coming from the countryside whose dreams of being a secretary in a big car company unravel when she ends up as a bicycle repair apprentice. There's the wannabee prize-winning author who finds himself forced into looking after an unsettled kid. There's a doctor recovering from the death of his family in the still recent war.

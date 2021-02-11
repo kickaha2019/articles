@@ -1,18 +1,13 @@
 ---
-images:
-- path: firefly.jpg
-  tag: Firefly
+image: firefly.jpg
+details:
+  Series: "[Firefly](https://www.imdb.com/title/tt0303461/)"
+  Writer: Joss Whedon
+  Broadcast: 2002-2003
+  Cast: Nathan Fillon, Gina Torres, Alan Tudyk
+  Length: 14 44 minute episodes
+layout: review
 ---
-![Firefly](firefly.jpg)
-
-| | |
-|-|-|
-Series|[Firefly](https://www.imdb.com/title/tt0303461/)
-Writer|Joss Whedon
-Broadcast|2002-2003
-Cast|Nathan Fillon, Gina Torres, Alan Tudyk
-Length|14 44 minute episodes
-
 A fusion between the mythic Wild West and a high tech
 future where man has left an exhausted Earth and colonised
 other worlds. A shamefully cancelled series.

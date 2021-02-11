@@ -1,19 +1,14 @@
 ---
-images:
-- path: Gintama.jpg
-  tag: Gintama
+image: Gintama.jpg
+details:
+  Film: " &#37504;&#39746; ([Gintama](https://www.imdb.com/title/tt5805470/))"
+  Country: Japan
+  Director: Fukuda Yuichi
+  Year: '2017'
+  Cast: Oguri Shun, Hashimoto Kanna, Suda Masaki
+  Details: Colour 131 mins
+layout: review
 ---
-![Gintama](Gintama.jpg)
-
-| | |
-|-|-|
-Film| &#37504;&#39746; ([Gintama](https://www.imdb.com/title/tt5805470/))
-Country|Japan
-Director|Fukuda Yuichi
-Year|2017
-Cast|Oguri Shun, Hashimoto Kanna, Suda Masaki
-Details|Colour 131 mins
-
 Based on a manga by Sorachi Hideaki this is one crazy and crazily enjoyable film.
 
 The plot has a white-haired ex-samurai (oh yes we're in Edo period Japan after aliens
@@ -26,5 +21,3 @@ fourth wall with wild abandon, for instance pointing out that the giant white ?d
 is a man in a suit.
 
 For me this is a must-see film. Totally silly and non-serious, so bad it's great!
-
-

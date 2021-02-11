@@ -1,20 +1,15 @@
 ---
 title: Dragon Tiger Gate
-images:
-- path: dragon_tiger_gate.jpg
-  tag: Dragon Tiger Gate
+image: dragon_tiger_gate.jpg
+details:
+  Film: "[Dragon Tiger Gate](https://www.imdb.com/title/tt0482930/)"
+  Country: Hong Kong
+  Director: Wilson Yip
+  Year: '2006'
+  Cast: Nicholas Tse, Donnie Yen, Shawn Yue
+  Details: Colour 94 mins
+layout: review
 ---
-![Dragon Tiger Gate](dragon_tiger_gate.jpg)
-
-| | |
-|-|-|
-Film|[Dragon Tiger Gate](https://www.imdb.com/title/tt0482930/)
-Country|Hong Kong
-Director|Wilson Yip
-Year|2006
-Cast|Nicholas Tse, Donnie Yen, Shawn Yue
-Details|Colour 94 mins
-
 This film has a conventional plot for a Hong Kong
 martial arts film.  Bad guy kills master of a kung fu
 school.  Three students get trained up by mysterious

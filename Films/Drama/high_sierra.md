@@ -1,20 +1,15 @@
 ---
 title: High Sierra
-images:
-- path: HighSierra.jpg
-  tag: High Sierra
+image: HighSierra.jpg
+details:
+  Film: "[High Sierra](https://www.imdb.com/title/tt0033717/)"
+  Country: USA
+  Director: Raoul Walsh
+  Year: '1941'
+  Cast: Ida Lupino, Humphrey Bogart, Alan Curtis
+  Details: B&W 100 mins
+layout: review
 ---
-![High Sierra](HighSierra.jpg)
-
-| | |
-|-|-|
-Film|[High Sierra](https://www.imdb.com/title/tt0033717/)
-Country|USA
-Director|Raoul Walsh
-Year|1941
-Cast|Ida Lupino, Humphrey Bogart, Alan Curtis
-Details|B&W 100 mins
-
 A black and white gangster movie directed by Raoul Walsh, starring Humphrey Bogart and Ida Lupino. Roy Earle is a tough guy released from prison so he can do a job for a crime boss. But crime doesn't pay, and the film and Earle end on the hard rocks of the Sierra Nevada.
 
 Put like that "High Sierra" sounds like many other gangster films. But this is Greek tragedy disguised as a gangster film. Destiny / the Gods / society have doomed both Bogart's and Lupino's characters. Bogart's character may see himself as the champion of a poor innocent club-footed girl, see this as his means of redemption, but this is just wishful thinking. The dog which attaches itself to Bogart and Lupino is a divine harbinger of bad things to come.

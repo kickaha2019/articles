@@ -1,20 +1,15 @@
 ---
 title: The Mind Robber
-images:
-- path: mind_robber.jpg
-  tag: Mind Robber
+image: mind_robber.jpg
+details:
+  Serial: The Mind Robber
+  Doctor: Patrick Troughton
+  Writer: Peter Ling
+  Year: '1968'
+  Cast: Patrick Troughton, Frazer Hines, Wendy Padbury
+  Length: 5 25 minute episodes
+layout: review
 ---
-![Mind Robber](mind_robber.jpg)
-
-| | |
-|-|-|
-Serial|The Mind Robber
-Doctor|Patrick Troughton
-Writer|Peter Ling
-Year|1968
-Cast|Patrick Troughton, Frazer Hines, Wendy Padbury
-Length|5 25 minute episodes
-
 Plot: the Doctor is trapped in the land of fiction
 and must contend in a place where reality is very
 mutable.

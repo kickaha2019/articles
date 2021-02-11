@@ -1,19 +1,14 @@
 ---
-images:
-- path: talons_weng_chiang.jpg
-  tag: The Talons of Weng Chiang
+image: talons_weng_chiang.jpg
+details:
+  Serial: The Talons of Weng Chiang
+  Doctor: Tom Baker
+  Writer: Robert Holmes
+  Year: '1977'
+  Cast: Tom Baker, Louise Jameson, John Bennett
+  Length: 6 25 minute episodes
+layout: review
 ---
-![The Talons of Weng Chiang](talons_weng_chiang.jpg)
-
-| | |
-|-|-|
-Serial|The Talons of Weng Chiang
-Doctor|Tom Baker
-Writer|Robert Holmes
-Year|1977
-Cast|Tom Baker, Louise Jameson, John Bennett
-Length|6 25 minute episodes
-
 Plot: in Victorian London a Chinese magician has
 something nasty hidden in the cellar.
 
