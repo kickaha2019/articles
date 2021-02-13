@@ -1,3 +1,4 @@
+#markdown
 The *matchnot* script command only succeeds if the first argument doesn't match
 	a given regular expression.  So it is the opposite of the *Match* command.
 

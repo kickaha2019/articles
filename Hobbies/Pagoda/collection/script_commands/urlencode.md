@@ -1,3 +1,4 @@
+#markdown
 The *urlencode* command escapes the special characters in
 	a text string for going into a URL.
 

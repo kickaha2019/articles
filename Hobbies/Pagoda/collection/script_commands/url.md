@@ -1,3 +1,4 @@
+#markdown
 The *url* command loads a HTML page at a given URL, and
 	sets that page into the context, positioning at the first
 	element on the page.

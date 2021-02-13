@@ -1,3 +1,4 @@
+#markdown
 The ''element'' command sets a variable to the tag name for the current
 	element in the HTML page.  So the script lines:
 

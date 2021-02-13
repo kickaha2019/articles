@@ -1,3 +1,4 @@
+#markdown
 The *LimitNew* command restricts the number of times a following
 	*Url* command will try to fetch a webpage from the Internet.  
 	So the script lines:

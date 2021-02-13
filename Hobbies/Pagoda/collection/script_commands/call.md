@@ -1,3 +1,4 @@
+#markdown
 The *call* command executes a sub-branch, continuing with
 	the following commands in the script for each successful
 	completion of the sub-branch.  So the

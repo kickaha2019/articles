@@ -1,3 +1,4 @@
+#markdown
 The *every* script command will loop over every element with a
 	given tag from the current position in the HTML document.  That is
 	the lines following the *every* command will be executed as though positioned

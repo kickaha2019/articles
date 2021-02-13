@@ -1,3 +1,4 @@
+#markdown
 The *attribute* command gets the value of a specified HTML
 	attribute for the current HTML element on a page.  So the
 	script line:

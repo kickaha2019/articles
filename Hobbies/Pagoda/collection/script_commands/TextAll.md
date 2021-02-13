@@ -1,3 +1,4 @@
+#markdown
 The *textall* command is similar to the *Text* command
 	save that it sets a variable to all the concatenated texts
 	inside the current element on the HTML page.  An example:

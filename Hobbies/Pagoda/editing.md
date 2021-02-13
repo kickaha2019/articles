@@ -1,3 +1,4 @@
+#markdown
 I reworked the way I edit the *Pagoda* database as I had
 time on my hands having retired in September 2020. Previously I edited
 using PHP scripts on my website. These have been replaced by a

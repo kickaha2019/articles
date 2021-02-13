@@ -1,3 +1,4 @@
+#markdown
 The *readloop* script reads lines from a file,
 and for each line sets values into one or more
 variables then executes the following commands.

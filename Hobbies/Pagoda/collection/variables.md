@@ -1,3 +1,4 @@
+#markdown
 Variables only take string values.  A number of commands will set
 	values for variables.  The ''Set'' command can concatenate variables to
 	give a new value.  So for instance:

@@ -1,3 +1,4 @@
+#markdown
 The *expect* script command is used to check that a sequence of script
 	commands works as intended.  It is used to guard against the structure of
 	a website changing, or bugs in a script, meaning that elements being

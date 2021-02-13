@@ -1,6 +1,5 @@
----
-title: fisicx.com walkthroughs
----
+#title fisicx.com walkthroughs
+#markdown
 The whole script
 
 ~~~

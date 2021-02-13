@@ -1,3 +1,4 @@
+#markdown
 [Pagoda](http://www.pagodagamedatabase.com) is an online database
 of links relating to Adventure games that I've created and
 maintain.  The initial reason I did was I wanted to find where

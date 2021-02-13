@@ -1,3 +1,4 @@
+#markdown
 The *previous* script command is like the *Next* command save that
 	it's the previous element not the next element with a given tag
 	that it tries to find.

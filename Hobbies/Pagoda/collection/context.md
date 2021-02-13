@@ -1,3 +1,4 @@
+#markdown
 The context at any point of script execution holds a HTML document, position
 in that HTML document, and a set of variables with values.
 

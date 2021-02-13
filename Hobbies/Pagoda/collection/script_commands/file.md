@@ -1,3 +1,4 @@
+#markdown
 The *file* command loads a HTML page from a given filename, and
 	sets that page into the context, positioning at the first
 	element on the page.

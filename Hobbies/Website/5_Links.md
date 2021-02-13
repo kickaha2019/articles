@@ -1,3 +1,4 @@
+#markdown
 One can explicitly put URLs for links in Markdown of course, but the Ruby
 code supports other ways of specifying what the URL for a link should be.
 

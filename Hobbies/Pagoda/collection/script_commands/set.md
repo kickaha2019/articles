@@ -1,3 +1,4 @@
+#markdown
 The *set* command sets a variable to a specified value.
 	So the script commands:
 

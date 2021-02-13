@@ -1,3 +1,4 @@
+#markdown
 The *match* script command only succeeds if the first argument matches
 	a given regular expression.
 

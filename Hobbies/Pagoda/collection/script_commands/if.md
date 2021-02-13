@@ -1,3 +1,4 @@
+#markdown
 The *if* and *endif* commands surround a block of script commands.
 	If the script commands succeed to the final *endif* then the script
 	commands after the *endif* will be executed for each success.  If

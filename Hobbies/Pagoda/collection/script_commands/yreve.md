@@ -1,3 +1,4 @@
+#markdown
 The *yreve* script command is similar to the *Every* command
 	save that it loops backward in the HTML document, not forward.
 
