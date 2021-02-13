@@ -1,22 +1,15 @@
----
-images:
-- path: once_upon_a_time.jpg
-  tag: Once Upon A Time
----
-![Once Upon A Time](once_upon_a_time.jpg)
-
-| | |
-|-|-|
-Drama|Once Upon A Time (Series 1)
-Country|USA
-Director|Various
-Writer|Adam Horowitz and Edward Kitsis (creators)
-Transmitted|2011
-Cast|Jennifer Morrison, Lana Parilla, Robert Carlyle et al
-Details|22 episodes
-Themes|Fairy tales, crime
-Links|[Official website](https://abc.go.com/shows/once-upon-a-time)
-
+#image	once_upon_a_time.jpg
+#list
+Drama	Once Upon A Time (Series 1)
+Country	USA
+Director	Various
+Writer	Adam Horowitz and Edward Kitsis (creators)
+Transmitted	2011
+Cast	Jennifer Morrison, Lana Parilla, Robert Carlyle et al
+Details	22 episodes
+Themes	Fairy tales, crime
+Links	[Official website](https://abc.go.com/shows/once-upon-a-time)
+#markdown
 A grand collision of a load of fairy tales with an adult context.
 The plot has an evil queen enacting a curse which sends all
 the fairy-tale characters to our world, robbing them of their

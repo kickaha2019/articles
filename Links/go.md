@@ -1,3 +1,4 @@
+#markdown
 Link|Comment
 -|-
 [BGA](http://www.britgo.org)|British Go Association - I think I'm still a member

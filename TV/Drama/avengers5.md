@@ -1,22 +1,15 @@
----
-title: Avengers Series 5
-images:
-- path: avengers5.jpg
-  tag: Avengers 
----
-![Avengers](avengers5.jpg)
-
-| | |
-|-|-|
-Series|Avengers Series 5
-Country|Britain
-Directors|Robert Day, Gordon Flemyng, John Krish, and others
-Writers|Philip Levene, Brian Clemens and others
-Transmitted|14th January 1967 to 18th November 1967
-Cast|Patrick MacNee, Diana Rigg
-Details|24 episodes
-Themes|Spies Comedy Fantasy
-
+#title Avengers Series 5
+#image	avengers5.jpg
+#list
+Series	Avengers Series 5
+Country	Britain
+Directors	Robert Day, Gordon Flemyng, John Krish, and others
+Writers	Philip Levene, Brian Clemens and others
+Transmitted	14th January 1967 to 18th November 1967
+Cast	Patrick MacNee, Diana Rigg
+Details	24 episodes
+Themes	Spies Comedy Fantasy
+#markdown
 Each episode is very formulaic, there's a mysterious series of murders which
 John Steed and Emma Peel are called on to investigate. Everything gets wrapped
 up with a neat comment at the end, and order is restored. What lifts the **Avengers**

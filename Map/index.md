@@ -1,12 +1,12 @@
----
-title: Where we've been
-icon: /Users/peter/Synch/Website/Articles/Map/map.jpg
----
+#title Where we've been
+#icon /Users/peter/Synch/Website/Articles/Map/map.jpg
+#markdown
 A geographical index to this website, as a way of listing places
 I (and Virginia) have been. The maps herein use data from
 [OpenStreetMap](https://www.openstreetmap.org/), realised using the
 [Leaflet.js](https://leafletjs.com/) Javascript library.
 
+#html
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
           integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
           crossorigin=""></script>

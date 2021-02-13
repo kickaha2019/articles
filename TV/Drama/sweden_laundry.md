@@ -1,23 +1,16 @@
----
-title: Sweden Laundry
-images:
-- path: sweden_laundry.jpg
-  tag: Sweden Laundry
----
-![Sweden Laundry](sweden_laundry.jpg)
-
-| | |
-|-|-|
-Drama|&#49828;&#50920;&#45940; &#49464;&#53441;&#49548; / Sweden Laundry
-Country|South Korea
-Director|Jung Hwan-Suk
-Writer|Kim Yoon-Hee, Lee Eun-Young
-Transmitted|21st November 2014 to 6th March 2015
-Cast|Song Ha-Yoon, Bae Noo-Ri, Hwang Young-Hee
-Themes|Supernatural powers, romance
-Details|16 episodes
-Links|[Asian Wiki](http://asianwiki.com/Sweden_Laundry) [Korean Drama](https://www.koreandrama.org/swedish-laundry/) [Han Cinema](https://www.hancinema.net/korean_drama_Swedish_Laundry.php)
-
+#title Sweden Laundry
+#image	sweden_laundry.jpg
+#list
+Drama	&#49828;&#50920;&#45940; &#49464;&#53441;&#49548; / Sweden Laundry
+Country	South Korea
+Director	Jung Hwan-Suk
+Writer	Kim Yoon-Hee, Lee Eun-Young
+Transmitted	21st November 2014 to 6th March 2015
+Cast	Song Ha-Yoon, Bae Noo-Ri, Hwang Young-Hee
+Themes	Supernatural powers, romance
+Details	16 episodes
+Links	[Asian Wiki](http://asianwiki.com/Sweden_Laundry) [Korean Drama](https://www.koreandrama.org/swedish-laundry/) [Han Cinema](https://www.hancinema.net/korean_drama_Swedish_Laundry.php)
+#markdown
 The put-upon middle child of a family gets given a supernatural power by her dead grandmother.
 The power to tell from people's clothes what they're worried about. The downside is
 she has to help them. This quirky comedy of manners manages to be fresh, helped by
