@@ -1,10 +1,5 @@
----
-images:
-- path: winter_players.jpg
-  tag: The Winter Players
----
-![The Winter Players](winter_players.jpg)
-
+#image	winter_players.jpg
+#markdown
 "The Winter Players" (published 1976) is a young adult novella by Tanith Lee.
 A young priestess must leave her shrine to recover a sacred relic
 stolen by a stranger.  Her journey will not only take her across

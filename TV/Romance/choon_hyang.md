@@ -1,23 +1,16 @@
----
-title: Sassy Girl Chun-hyang
-images:
-- path: choon_hyang.jpg
-  tag: Sassy Girl Chun-hyang
----
-![Sassy Girl Chun-hyang](choon_hyang.jpg)
-
-| | |
-|-|-|
-Drama|&#53132;&#44152; &#52632;&#54693; / Sassy Girl Chun-hyang
-Country|South Korea
-Director|Jeon Ki-Sang, Ji Byeong-Hyeon
-Writer|Hong Mi-Ran, Hong Jung-Eun
-Transmitted|2nd January to 1st March 2005
-Cast|Han Chae-Young, Jae Hee, Uhm Tae-Woong
-Details|17 episodes
-Themes|School, love square
-Links|[Asian Wiki](http://asianwiki.com/Sassy_Girl_Chun-hyang) [Korean Drama](https://www.koreandrama.org/delightful-girl-choon-hyang/)
-
+#title Sassy Girl Chun-hyang
+#image	choon_hyang.jpg
+#list
+Drama	&#53132;&#44152; &#52632;&#54693; / Sassy Girl Chun-hyang
+Country	South Korea
+Director	Jeon Ki-Sang, Ji Byeong-Hyeon
+Writer	Hong Mi-Ran, Hong Jung-Eun
+Transmitted	2nd January to 1st March 2005
+Cast	Han Chae-Young, Jae Hee, Uhm Tae-Woong
+Details	17 episodes
+Themes	School, love square
+Links	[Asian Wiki](http://asianwiki.com/Sassy_Girl_Chun-hyang) [Korean Drama](https://www.koreandrama.org/delightful-girl-choon-hyang/)
+#markdown
 This drama also gets called "My Delightful Girl Choon Hyang".  It's an
 adaptation of a classical Korean drama about a girl Choon Hyang born
 into slavery who despite the odds, and a corrupt official trying to

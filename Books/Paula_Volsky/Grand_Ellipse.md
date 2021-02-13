@@ -1,11 +1,6 @@
----
-title: The Grand Ellipse
-images:
-- path: Grand_Ellipse.jpg
-  tag: The Grand Ellipse
----
-![The Grand Ellipse](Grand_Ellipse.jpg)
-
+#title The Grand Ellipse
+#image	Grand_Ellipse.jpg
+#markdown
 *The Grand Ellipse* (2000) is set in the fantasy world
 in which Paula Volsky had set others of her books like
 *The White Tribunal* and *Illusion*.  As far as I know it

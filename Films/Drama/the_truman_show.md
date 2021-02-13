@@ -1,20 +1,13 @@
----
-title: The Truman Show
-images:
-- path: the_truman_show.jpg
-  tag: The Truman Show
----
-![The Truman Show](the_truman_show.jpg)
-
-| | |
-|-|-|
-Film|[The Truman Show](https://www.imdb.com/title/tt0120382/)
-Country|USA
-Director|Peter Weir
-Year|1998
-Cast|Jim Carrey, Laura Linney, Ed Harris
-Details|Colour 103 minutes
-
+#title The Truman Show
+#image	the_truman_show.jpg
+#list
+Film	[The Truman Show](https://www.imdb.com/title/tt0120382/)
+Country	USA
+Director	Peter Weir
+Year	1998
+Cast	Jim Carrey, Laura Linney, Ed Harris
+Details	Colour 103 minutes
+#markdown
 A profound film about
 film, TV, how we experience what we think reality is through
 what the camera shows us.  Jim Carrey plays Truman Burbank who lives

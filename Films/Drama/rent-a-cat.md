@@ -1,20 +1,13 @@
----
-title: Rent-A-Cat
-images:
-- path: rent-a-cat.jpg
-  tag: Rent-A-Cat
----
-![Rent-A-Cat](rent-a-cat.jpg)
-
-| | |
-|-|-|
-Film|&#12524;&#12531;&#12479;&#12493;&#12467; ([Rent-A-Cat](https://www.imdb.com/title/tt2246953/))
-Country|Japan
-Director|Naoko Ogigami
-Year|2012
-Cast|Mikako Ichikawa, Reiko Kusamura, Ken Mitsuishi
-Details|Colour 110 mins
-
+#title Rent-A-Cat
+#image	rent-a-cat.jpg
+#list
+Film	&#12524;&#12531;&#12479;&#12493;&#12467; ([Rent-A-Cat](https://www.imdb.com/title/tt2246953/))
+Country	Japan
+Director	Naoko Ogigami
+Year	2012
+Cast	Mikako Ichikawa, Reiko Kusamura, Ken Mitsuishi
+Details	Colour 110 mins
+#markdown
 A series of episodes about a lonely woman Sayoko who attracts cats. She runs a service renting
 out these cats to fill holes in the lives of lonely people. But is unable to fill the
 hole in her own life.

@@ -1,20 +1,13 @@
----
-title: Exit
-images:
-- path: Exit.jpg
-  tag: Exit
----
-![Exit](Exit.jpg)
-
-| | |
-|-|-|
-Film|&#50641;&#49884;&#53944; ( [Exit](https://www.imdb.com/title/tt10648440/) )
-Country|South Korea
-Director|Lee Sang-Geun
-Year|2019
-Cast|Cho Jung-Seok, Lim Yoona
-Details|Colour 103 minutes
-
+#title Exit
+#image	Exit.jpg
+#list
+Film	&#50641;&#49884;&#53944; ( [Exit](https://www.imdb.com/title/tt10648440/) )
+Country	South Korea
+Director	Lee Sang-Geun
+Year	2019
+Cast	Cho Jung-Seok, Lim Yoona
+Details	Colour 103 minutes
+#markdown
 Plot: a family are celebrating a mother's 70th
 birthday in a lavish hotel in Korea when suddenly
 a toxic white fog spreads through the area. The people

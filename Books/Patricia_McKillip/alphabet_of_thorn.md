@@ -1,11 +1,6 @@
----
-title: Alphabet of Thorn
-images:
-- path: alphabet_of_thorn.jpg
-  tag: Alphabet of Thorn
----
-![Alphabet of Thorn](alphabet_of_thorn.jpg)
-
+#title Alphabet of Thorn
+#image	alphabet_of_thorn.jpg
+#markdown
 *Alphabet of Thorn* (Alphabet of Thorn) is the tale of
 Nepenthe, a foundling abandoned on a cliff edge by her mother
 who is brought up to be a scholar in the large library at

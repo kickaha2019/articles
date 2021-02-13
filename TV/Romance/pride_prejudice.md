@@ -1,20 +1,13 @@
----
-title: Pride and Prejudice
-images:
-- path: pride_prejudice.jpg
-  tag: Pride and Prejudice
----
-![Pride and Prejudice](pride_prejudice.jpg)
-
-| | |
-|-|-|
-Drama|Pride and Prejudice
-Country|UK
-Director|Simon Langton
-Year|1995
-Cast|Jennifer Ehle, Colin Firth, David Bamber, Alison Steadman
-Details|Colour 300 minutes
-
+#title Pride and Prejudice
+#image	pride_prejudice.jpg
+#list
+Drama	Pride and Prejudice
+Country	UK
+Director	Simon Langton
+Year	1995
+Cast	Jennifer Ehle, Colin Firth, David Bamber, Alison Steadman
+Details	Colour 300 minutes
+#markdown
 Plot: read the Jane Austen book.
 
 The Jane Austen book is a romance between

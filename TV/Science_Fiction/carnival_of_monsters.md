@@ -1,19 +1,12 @@
----
-images:
-- path: carnival_of_monsters.jpg
-  tag: Carnival of Monsters
----
-![Carnival of Monsters](carnival_of_monsters.jpg)
-
-| | |
-|-|-|
-Serial|Carnival of Monsters (1973)
-Doctor|Jon Pertwee
-Writer|Robert Holmes
-Year|1973
-Cast|Jon Pertwee, Katy Manning, Leslie Dwyer
-Length|4 25 minute episodes
-
+#image	carnival_of_monsters.jpg
+#list
+Serial	Carnival of Monsters (1973)
+Doctor	Jon Pertwee
+Writer	Robert Holmes
+Year	1973
+Cast	Jon Pertwee, Katy Manning, Leslie Dwyer
+Length	4 25 minute episodes
+#markdown
 Plot: the Doctor finds himself trapped in an
 inter-galactic peepshow, where different life-forms
 are unwittingly caged in small worldlets.  He has to

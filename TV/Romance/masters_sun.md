@@ -1,23 +1,16 @@
----
-title: The Master's Sun
-images:
-- path: masters_sun.jpg
-  tag: The Master's Sun
----
-![The Master's Sun](masters_sun.jpg)
-
-| | |
-|-|-|
-Drama|&#51452;&#44400;&#51032; &#53468;&#50577; / The Master's Sun
-Country|South Korea
-Director|Jin Hyeok
-Writer|Hong Jung-Eun, Hong Mi-Ran
-Transmitted|7th August to 3rd October 2013
-Cast|So Ji-Sub, Kong Hyo-Jin, Seo In-Guk, Kim Yoo-Ri
-Themes|Ghosts, love square, wealthy family, identical twins
-Details|17 episodes
-Links|[Official website](http://tv.sbs.co.kr/juguntaeyang/) [Asian Wiki](http://asianwiki.com/The_Master%27s_Sun) [Korean Drama](https://www.koreandrama.org/the-masters-sun/)
-
+#title The Master's Sun
+#image	masters_sun.jpg
+#list
+Drama	&#51452;&#44400;&#51032; &#53468;&#50577; / The Master's Sun
+Country	South Korea
+Director	Jin Hyeok
+Writer	Hong Jung-Eun, Hong Mi-Ran
+Transmitted	7th August to 3rd October 2013
+Cast	So Ji-Sub, Kong Hyo-Jin, Seo In-Guk, Kim Yoo-Ri
+Themes	Ghosts, love square, wealthy family, identical twins
+Details	17 episodes
+Links	[Official website](http://tv.sbs.co.kr/juguntaeyang/) [Asian Wiki](http://asianwiki.com/The_Master%27s_Sun) [Korean Drama](https://www.koreandrama.org/the-masters-sun/)
+#markdown
 "The Master's Sun"
 is a TV mini-series written by the Hong sisters who have written
 a number of successful such mini-series.  It starts Kong Hyo-jin as

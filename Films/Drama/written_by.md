@@ -1,19 +1,12 @@
----
-images:
-- path: WrittenBy.jpg
-  tag: Written By
----
-![Written By](WrittenBy.jpg)
-
-| | |
-|-|-|
-Film|&#20877;&#29983;&#34399; ([Written By](https://www.imdb.com/title/tt1451620/))
-Country|Hong Kong
-Director|Wai Ka-Fai
-Year|2009
-Cast|Ching Wan Lau, Kelly Lin, Mia Yam
-Details|Colour 85 mins
-
+#image	WrittenBy.jpg
+#list
+Film	&#20877;&#29983;&#34399; ([Written By](https://www.imdb.com/title/tt1451620/))
+Country	Hong Kong
+Director	Wai Ka-Fai
+Year	2009
+Cast	Ching Wan Lau, Kelly Lin, Mia Yam
+Details	Colour 85 mins
+#markdown
 A film set in contemporary Hong Kong, around a family trying to cope with tragedy and loss. The father died in a car accident 10 years ago, and the daughter was blinded. The daughter tries to heal the wounds by writing a novel about an alternate reality in which the father survived and was blinded but the rest of the family died.
 
 The film blends stories inside stories with Hong Kong folklore about ghosts and reincarnation. So much of the film is stories being written about stories being written that the viewer becomes as entwined as the daughter is in her tale telling. Life as a tragedy told by a concealed author. Marooned by repeated disaster the daughter hovers about going where she believes her loved ones have gone.

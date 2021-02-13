@@ -1,10 +1,5 @@
----
-images:
-- path: A_Private_Cosmos.jpg
-  tag: A Private Cosmos
----
-![A Private Cosmos](A_Private_Cosmos.jpg)
-
+#image	A_Private_Cosmos.jpg
+#markdown
 "A Private Cosmos" (1968) is the third novel in the *World of Tiers*
 series by Philip Jos&eacute; Farmer, set mainly in an artificial
 world created by the Lord Jadawin. Farmer's brilliant inventiveness

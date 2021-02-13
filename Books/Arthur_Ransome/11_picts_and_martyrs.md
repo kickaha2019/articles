@@ -1,11 +1,6 @@
----
-title: The Picts and the Martyrs
-images:
-- path: PictsMartyrs.jpg
-  tag: The Picts and the Martyrs
----
-![The Picts and the Martyrs](PictsMartyrs.jpg)
-
+#title The Picts and the Martyrs
+#image	PictsMartyrs.jpg
+#markdown
 "The Picts and the Martyrs" (1943) is the eleventh book in the much-loved
 "Swallows and Amazons" series by
 Arthur Ransome.  This book like the first is set in the Lake District,

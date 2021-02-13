@@ -1,10 +1,5 @@
----
-images:
-- path: od_magic.jpg
-  tag: Od Magic
----
-![Od Magic](od_magic.jpg)
-
+#image	od_magic.jpg
+#markdown
 *Od Magic* (2005) is a wondrous many-threaded narrative.
 The wizard Od recruits a new gardener Brendan for her school
 in Kelior, but he is more than he or others suspect.  The kings

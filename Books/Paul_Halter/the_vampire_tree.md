@@ -1,11 +1,6 @@
----
-title: The Vampire Tree
-images:
-- path: the_vampire_tree.jpg
-  tag: The Vampire Tree
----
-![The Vampire Tree](the_vampire_tree.jpg)
-
+#title The Vampire Tree
+#image	the_vampire_tree.jpg
+#markdown
 *The Vampire Tree* (1996) is by Paul Halter who has
 written a number of detective novels not only in the style of John Dickson
 Carr, but set in the milieu that Carr tended to set his novels.

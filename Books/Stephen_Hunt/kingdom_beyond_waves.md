@@ -1,11 +1,6 @@
----
-title: The Kingdom Beyond the Waves
-images:
-- path: KingdomBeyondWaves.jpg
-  tag: The Kingdom Beyond the Waves
----
-![The Kingdom Beyond the Waves](KingdomBeyondWaves.jpg)
-
+#title The Kingdom Beyond the Waves
+#image	KingdomBeyondWaves.jpg
+#markdown
 *The Kingdom Beyond the Waves* (2008) is the second book in
 [Stephen Hunt](http://www.sfcrowsnest.com/author/index.php)'s
 Jackelian series, which is set in a steampunk

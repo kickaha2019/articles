@@ -1,11 +1,6 @@
----
-title: Swallows and Amazons
-images:
-- path: SwallowsAndAmazons.jpg
-  tag: Swallows and Amazons
----
-![Swallows and Amazons](SwallowsAndAmazons.jpg)
-
+#title Swallows and Amazons
+#image	SwallowsAndAmazons.jpg
+#markdown
 "Swallows and Amazons" (1930) is the first book in the much-loved series by
 Arthur Ransome.  The book is set in the Lake District, and covers the
 adventures of the Walker children as they set up camp during the summer

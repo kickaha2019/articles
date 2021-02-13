@@ -1,22 +1,16 @@
----
-title: Mischievous Kiss
-images:
-- path: mischievous_kiss.jpg
----
-![Mischievous Kiss](mischievous_kiss.jpg)
-
-| | |
-|-|-|
-Drama|&#12452;&#12479;&#12474;&#12521;&#12394;Kiss&#65374;Love in Tokyo / Mischievous Kiss: Love in Tokyo
-Country|Japan
-Director|Koto Nagata, Koji Kawano
-Writer| Kaoru Tada (manga), Yuiko Miura
-Transmitted|29th March to 19th July 2013
-Cast|Honoka Miki, Yuki Furukawa, Yuki Yamada
-Details|16 episodes
-Themes|Adolescence, crushes
-Links|[Asian Wiki](http://asianwiki.com/Mischievous_Kiss:_Love_in_Tokyo)
-
+#title Mischievous Kiss
+#image	mischievous_kiss.jpg
+#list
+Drama	&#12452;&#12479;&#12474;&#12521;&#12394;Kiss&#65374;Love in Tokyo / Mischievous Kiss: Love in Tokyo
+Country	Japan
+Director	Koto Nagata, Koji Kawano
+Writer	 Kaoru Tada (manga), Yuiko Miura
+Transmitted	29th March to 19th July 2013
+Cast	Honoka Miki, Yuki Furukawa, Yuki Yamada
+Details	16 episodes
+Themes	Adolescence, crushes
+Links	[Asian Wiki](http://asianwiki.com/Mischievous_Kiss:_Love_in_Tokyo)
+#markdown
 F-grade naive school-girl Kotoko gets a crush on the school's star
 student Naoki, but her wishful approach to him gets a crushing snubbing.
 However a stray meteorite flattens Kotoko's house, and she and her
