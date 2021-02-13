@@ -4,8 +4,7 @@ A format somewhat inspired by HTML. The files in this format
 I've come across have for some reason been in a variety of text
 encodings. A sample extract:
 
-~~~
-#html
+#text
 <SAMI>
 <HEAD>
 <HEAD>
@@ -16,9 +15,9 @@ P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt; margin-top:2pt;
 	text-align:center;
 	font-size:20pt; font-family:arial, sans-serif; font-weight:normal; color:white; }
 .ENCC { Name:English; lang:en-US; SAMIType:CC;}
-#STDPrn { Name:Standard Print;}
-#LargePrn { Name:Large Print; font-size:25pt;}
-#SmallPrn { Name:Small Print; font-size:15pt;}
+ #STDPrn { Name:Standard Print;}
+ #LargePrn { Name:Large Print; font-size:25pt;}
+ #SmallPrn { Name:Small Print; font-size:15pt;}
 -->
 </STYLE>
 </HEAD>
@@ -29,10 +28,10 @@ Once every 120 years...
 <SYNC Start=42315><P Class=ENCC>
 A "shinigami" appears<br>from the eastern seas.
 
-~~~
+#markdown
 A second example excerpt showing how variable the files are:
 
-~~~
+#text
 <SYNC Start=720>
 <P Class=EN-AUCC><i>{\fs18}<font color=00ffff>In 1922, Scientific American magazine, offered a cash prize of $2,500 to any <br>Medium who could produce a <br>Supernatural Manifestation to the satisfaction of the Magazine.
 <SYNC Start=12610>
@@ -42,5 +41,3 @@ A second example excerpt showing how variable the files are:
 <SYNC Start=21690>
 <P Class=EN-AUCC><i>{\fs18}<font color=00ffff>I have X-ray eyes 
 <SYNC Start=24690>
-
-~~~

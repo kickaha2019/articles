@@ -16,7 +16,7 @@ anchors:
 
 Here follows a list of the anchors for this website.
 
-#html
+#text
 <div class="table">
 <table>
 <tr><th>Name</th><th>Lat</th><th>Lon</th><th>Link</th></tr>

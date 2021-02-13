@@ -15,7 +15,7 @@ can be absolutely positioned elements or a centred TABLE.
 So the HTML is like:
 
 ~~~
-#html
+#text
 <HTML>
     <BODY>
 	<CENTER>
