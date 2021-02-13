@@ -1,3 +1,4 @@
+#markdown
 |Site|Comments|
 |-|-|
 |[gobase.org](https://gobase.org/studying/schools/)|List of strong players offering teaching|

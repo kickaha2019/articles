@@ -1,6 +1,5 @@
----
-icon: piano.jpg
----
+#icon piano.jpg
+#markdown
 Music speaks deeply because it doesn't use words. I listen to music in the
 car, and at work mostly nowadays. Virginia and I go to the occasional concert.
 

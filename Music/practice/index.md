@@ -1,7 +1,4 @@
----
-title: Daily keyboard practise
-extension: php
----
+#php
 <?php
 $keys = array("A flat",  "A", "B flat", "B", "C",
 "C sharp", "D", "E flat", "E", "F",

@@ -1,6 +1,5 @@
----
-title: Computer Go clients
----
+#title Computer Go clients
+#markdown
 Client|Platform|Comments
 -|-|-
 [Go Eye](https://itunes.apple.com/us/app/go-eye/id562516957?mt=8)|iPad|Old school unreliable UI and not robust on an older iPad
