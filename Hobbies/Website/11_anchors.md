@@ -1,6 +1,5 @@
----
-title: Anchors defined for website
----
+#title Anchors defined for website
+#markdown
 A conceit but there is an
 [interactive map](/Users/peter/Sites/Articles/Map/index.html) on this website. It displays markers
 on a zoomable map of places visited. The markers link to webpages
@@ -17,6 +16,7 @@ anchors:
 
 Here follows a list of the anchors for this website.
 
+#html
 <div class="table">
 <table>
 <tr><th>Name</th><th>Lat</th><th>Lon</th><th>Link</th></tr>

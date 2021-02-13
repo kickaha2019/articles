@@ -1,3 +1,4 @@
+#markdown
 It's possible to display a tooltip when hovering over an image index entry
 linking to a child or sibling page. To achieve this blurb can be defined
 in the metadata for the linked to page. *blurb* was less characters

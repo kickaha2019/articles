@@ -1,6 +1,5 @@
----
-title: '4: Components'
----
+#title 4: Components
+#markdown
 The following *component* classes are currently
 implemented:
 

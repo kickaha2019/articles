@@ -1,6 +1,5 @@
----
-title: 7:Dates and sorting of pages
----
+#title 7:Dates and sorting of pages
+#markdown
 How to order the children or siblings listed on each webpage?
 
 By default they are listed in lexicographical order of their filenames. There

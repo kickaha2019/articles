@@ -1,6 +1,5 @@
----
-title: '1: Teaching'
----
+#title 1: Teaching
+#markdown
 My Go program relies on machine learning to improve itself. An empirical approach
 would be to have a population of versions of a Go program, let the versions compete against
 each other, and choose the best versions to 'breed' and improve the population. Perhaps

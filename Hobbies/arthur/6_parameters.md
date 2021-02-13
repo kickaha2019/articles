@@ -1,6 +1,5 @@
----
-title: '6: Evolution parameters'
----
+#title 6: Evolution parameters
+#markdown
 These parameters can be set in a property file the Evolution program
 reads in at startup.
 

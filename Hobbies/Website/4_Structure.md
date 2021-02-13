@@ -1,3 +1,4 @@
+#markdown
 The webpages underneath (https://alofmethbin.com/Articles)[https://alofmethbin.com/Articles/index.html]
 are generated from a directory structure. For each *.md / *.yaml* file and directory in
 that directory structure a corresponding webpage is generated. For a
