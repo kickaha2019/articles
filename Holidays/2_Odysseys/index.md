@@ -1,23 +1,11 @@
----
-links:
-- path: 2001/Florida
-  tag: 2001 Florida
-- path: 2001/Utah
-  tag: 2001 Utah
-- path: '2002'
-  tag: 2002 Australia
-- path: 2003/australia
-  tag: 2003 Australia
-- path: 2005/uganda
-  tag: 2005 Uganda
-- path: 2006/new_zealand
-  tag: 2006 New Zealand
-- path: 2010/new_zealand
-  tag: 2010 New Zealand
-- path: 2013/japan_holiday
-  tag: 2013 Japan
-- path: 2016/Korea
-  tag: 2016 Korea
-- path: 2020/New_Zealand
-  tag: 2020/New_Zealand
----
+#links
+2001/Florida 2001 Florida
+2001/Utah 2001 Utah
+2002 2002 Australia
+2003/australia 2003 Australia
+2005/uganda 2005 Uganda
+2006/new_zealand 2006 New Zealand
+2010/new_zealand 2010 New Zealand
+2013/japan_holiday 2013 Japan
+2016/Korea 2016 Korea
+2020/New_Zealand 2020/New_Zealand

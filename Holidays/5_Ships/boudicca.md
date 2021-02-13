@@ -1,9 +1,5 @@
----
-images:
-  - path: 2015/Eclipse/tromso_boud.JPG
-    tag: Boudicca
----
-![Boudicca](../../Diary/2015/Eclipse/tromso_boud.JPG)
+#image ../../Diary/2015/Eclipse/tromso_boud.JPG
+#markdown
 The [Boudicca](Boudicca) is a
 [Fred Olsen](Fred_Olsen)
 ship with a standard occupancy of 853 passengers.
