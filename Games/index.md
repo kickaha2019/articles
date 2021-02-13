@@ -1,6 +1,5 @@
----
-blurb: I like playing graphic Adventure games and turn-based RPGs on the computer
----
+#blurb I like playing graphic Adventure games and turn-based RPGs on the computer
+#markdown
 Computer games are a big interest of mine, an intersection of
 complex software and art and puzzle and story.  Yes, I would call
 computer games as Art even if not everyone would.  I really

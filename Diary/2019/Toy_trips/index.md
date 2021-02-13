@@ -1,10 +1,6 @@
----
-date: October 26th 2019
-images:
-- path: ephesus.jpg
-  tag: Ephesus with soft toy
----
-![Ephesus with soft toy](ephesus.jpg)
+#date October 26th 2019
+#image ephesus.jpg
+#markdown
 Our soft toys have been with us to numerous places, sometimes in
 person but more often in spirit. Their view of the world and the places
 in the world are different to ours, and deserve to be heard. So I

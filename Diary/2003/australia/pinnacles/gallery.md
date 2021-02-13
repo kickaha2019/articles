@@ -1,6 +1,7 @@
-![The Pinnacles 1](pinnacles1.jpg)
-![The Pinnacles 2](pinnacles2.jpg)
-![The Pinnacles 3](pinnacles3.jpg)
-![The Pinnacles 4](pinnacles4.jpg)
-![The Pinnacles 5](pinnacles5.jpg)
-![The Pinnacles 6](pinnacles6.jpg)
+#gallery
+pinnacles1.jpg	pinnacles1.jpg
+pinnacles2.jpg	pinnacles2.jpg
+pinnacles3.jpg	pinnacles3.jpg
+pinnacles4.jpg	pinnacles4.jpg
+pinnacles5.jpg	pinnacles5.jpg
+pinnacles6.jpg	pinnacles6.jpg

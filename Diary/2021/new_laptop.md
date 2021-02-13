@@ -1,8 +1,6 @@
----
-date: February 2nd 2021
----
-![New laptop running Baldur's Gate](new_laptop.jpg)
-
+#date February 2nd 2021
+#image	new_laptop.jpg
+#markdown
 I failed to resist temptation and ordered a new
 [Macbook](https://www.apple.com/uk/macbook-pro-13/) from
 [Apple](https://www.apple.com/) shortly after Apple started

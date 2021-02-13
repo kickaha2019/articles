@@ -1,26 +1,7 @@
----
-title: Lisbon and Vigo
-date: 6th June 2012
-anchors:
-- Lisbon
-- Vigo
-images:
-- path: p57_lisbon.JPG
-  tag: Lisbon from the Tagus river
-- path: p58_lisbon.JPG
-  tag: Lisbon from the Tagus river
-- path: p59_oriana.JPG
-  tag: Oriana at Lisbon
-- path: p60_lisbon.JPG
-  tag: Lisbon from the Tagus river
-- path: p61_lisbon.JPG
-  tag: Lisbon from the Tagus river
-- path: p62_fountain.JPG
-  tag: Fountain in Lisbon
-- path: p63_park.JPG
-  tag: Park in Lisbon
----
-![Lisbon from the Tagus river](p57_lisbon.JPG)
+#title Lisbon and Vigo
+#date 6th June 2012
+#image p57_lisbon.JPG
+#markdown
 Our final stops were Lisbon then Vigo on the following day.  From
 a foggy boat trip we did at least see some monuments and edifices,
 then had a coach trip to admire how Lisbon was improved after a

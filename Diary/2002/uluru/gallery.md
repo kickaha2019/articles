@@ -1,15 +1,16 @@
-![My trusty steed](car.JPG)
-![Sunrise](sunrise1.JPG)
-![at](sunrise2.JPG)
-![Uluru](sunrise3.JPG)
-![at](sunrise4.JPG)
-![Sunrise](sunrise5.JPG)
-![The walls of Uluru - the stuff of the Dreamtime](uluru_walls.JPG)
-![For me Kata Tjuta is more impressive than Uluru](kata_tjuta_distance.JPG)
-![Kata Tjuta's shapes seem like an alien creature fallen from the skies](kata_tjuta.JPG)
-![Me at Kata Tjuta - I was there!](me_at_kata_tjuta.JPG)
-![Kata Tjuta's rocks](kata_tjuta_rock.JPG)
-![Kata Tjuta - rich red colours glow](kata_tjuta_wall.JPG)
-![I like these effects](flower_halo.JPG)
-![Magpie lark](magpie_lark.JPG)
-![Australian magpie](australian_magpie.JPG)
+#gallery
+car.JPG	car.JPG
+sunrise1.JPG	sunrise1.JPG
+sunrise2.JPG	sunrise2.JPG
+sunrise3.JPG	sunrise3.JPG
+sunrise4.JPG	sunrise4.JPG
+sunrise5.JPG	sunrise5.JPG
+uluru_walls.JPG	uluru_walls.JPG
+kata_tjuta_distance.JPG	kata_tjuta_distance.JPG
+kata_tjuta.JPG	kata_tjuta.JPG
+me_at_kata_tjuta.JPG	me_at_kata_tjuta.JPG
+kata_tjuta_rock.JPG	kata_tjuta_rock.JPG
+kata_tjuta_wall.JPG	kata_tjuta_wall.JPG
+flower_halo.JPG	flower_halo.JPG
+magpie_lark.JPG	magpie_lark.JPG
+australian_magpie.JPG	australian_magpie.JPG

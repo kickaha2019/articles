@@ -1,10 +1,6 @@
----
-date: 10 December 2012
-images:
-- path: new_computer.JPG
-  tag: New computer
----
-![New computer](new_computer.JPG)
+#date 10 December 2012
+#image new_computer.JPG
+#markdown
 The home computer is now one of the new iMacs.  A rather expensive
 Christmas present to myself!
 

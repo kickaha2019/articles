@@ -1,10 +1,11 @@
-![The holiday cottage](P1000016.jpg)
-![Garden of the holiday cottage](P1000006.jpg)
-![Lounge of the cottage](P1000007.jpg)
-![Entrance to Sea Life](P1000008.jpg)
-![Inside Sea Life](P1000009.jpg)
-![Tunnel under the tank](P1000010.jpg)
-![Tank at Sea Life](P1000011.jpg)
-![The inevitable shop at Sea Life](P1000012.jpg)
-![Arts and Crafts place](P1000013.jpg)
-![Gin Trap pub](P1000014.jpg)
+#gallery
+P1000016.jpg	P1000016.jpg
+P1000006.jpg	P1000006.jpg
+P1000007.jpg	P1000007.jpg
+P1000008.jpg	P1000008.jpg
+P1000009.jpg	P1000009.jpg
+P1000010.jpg	P1000010.jpg
+P1000011.jpg	P1000011.jpg
+P1000012.jpg	P1000012.jpg
+P1000013.jpg	P1000013.jpg
+P1000014.jpg	P1000014.jpg

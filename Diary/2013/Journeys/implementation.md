@@ -1,3 +1,4 @@
+#markdown
 The game is defined in a set of text files which are compiled into
 Javascript.  The text files give the content of
 the scenes of the game.  An example:

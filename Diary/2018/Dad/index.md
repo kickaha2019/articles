@@ -1,17 +1,7 @@
----
-date: February 22nd 2018
-title: My father
-images:
-- path: cringleford.JPG
-  tag: Dad at Cringleford
-- path: wedding.jpg
-  tag: Dad at our wedding
-- path: dad.jpg
-  tag: Dad in later years
-- path: sunset.JPG
-  tag: Dad on a mobility scooter at Anglesey Abbey
----
-![Dad at Cringleford](cringleford.JPG)
+#title My father
+#date February 22nd 2018
+#image cringleford.JPG
+#markdown
 My father John Sidney Smith died this evening. Oscar Wilde quipped that "All women become like their mothers.
 That is their tragedy. No man does, and that is his".
 For me there's a certain truth in that.
@@ -22,7 +12,8 @@ He not only folded models, knew key people, but also contributed to
 the theory of origami and its use in areas like therapy. I can just about fold a paper
 aeroplane unaided.
 
-![Dad at our wedding](wedding.jpg)
+#image wedding.jpg
+#markdown
 My father had taste and talent in music. He won a prize for playing on the cello at school
 though he favoured instruments like the acoustic guitar and mandolin. Despite my
 parents' efforts I failed on a range of musical devices from recorder through clarinet to balalaika
@@ -40,7 +31,8 @@ manipulation. He started an audio-visual group at one camera club, and worked ha
 producing multimedia presentations. I remember fetching him back from his visits to the
 Cambridge camera club. I like taking pictures, but am really grateful for auto-focus.
 
-![Dad in later years](dad.jpg)
+#image dad.jpg
+#markdown
 He worked hard to provide for his family. He studied statistics in evening
 classes which took him out of a drawing office to a marketing role in Vauxhall Motors,
 and then to working for Reckitts and Colmans in Norwich (which is why I grew up
@@ -61,7 +53,8 @@ the "Sound of Music". For me seeing a film at the cinema is still special. He
 introduced me to films like Kurosawa's "Seven Samurai", and Jacques Tati's
 "Playtime" and "Traffic". He expanded my horizons.
 
-![Dad on a mobility scooter at Anglesey Abbey](sunset.JPG)
+#image sunset.JPG
+#markdown
 He also introduced me to Eastern thought like Zen and koans, to the deeply
 significant Winnie the Pooh books, and Lewis Carroll's playful works. To
 Science Fiction like Asimov and Clarke, to detective fiction like Edmund Crispin

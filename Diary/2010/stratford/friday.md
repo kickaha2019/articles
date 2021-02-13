@@ -1,30 +1,15 @@
----
-title: Anne Hathaway's cottage
-anchors:
-- Anne Hathaway's cottage
-date: Friday, 15 October 2010
-images:
-- path: cottage.JPG
-  tag: Anne Hathaway had a cottage
-- path: cottage_bedroom.JPG
-  tag: A bare bedroom
-- path: cottage_kitchen.JPG
-  tag: Kitchen
-- path: cat_baskets.JPG
-  tag: The cats went for a long weekend too
-- path: cat_cell.JPG
-  tag: Their accommodation was slightly cheaper than ours
-- path: tabitha.JPG
-  tag: Tabitha was not impressed
----
-![The cats went for a long weekend too](cat_baskets.JPG)
+#title Anne Hathaway's cottage
+#date Friday, 15 October 2010
+#image cat_baskets.JPG
+#markdown
 Virginia and I had a long weekend in Stratford-on-Avon. We booked Tabitha and Amelia into the Jobil Cattery in Histon so not far from us, and booked ourselves into
 *Brook Lodge*,
 a slightly more comfortable Bed and Breakfast place in Stratford. Jobil Cattery was adequate, perhaps a bit bare bones, but did for the weekend. True we didn't ask the cats their opinion!
 
 The journey didn't take long to get there, partly because all the service stations we tried to stop at for a bite to eat, and a comfort break, were closed as regards eateries. In the end we checked into the guest house, then had oversize plates of sandwiches at the Bell Inn in Shottery.
 
-![Anne Hathaway had a cottage](cottage.JPG)
+#image cottage.JPG
+#markdown
 As we were in the area we decided to cross
 [Anne Hathaway's cottage](https://www.shakespeare.org.uk/visit/anne-hathaways-cottage/)
 off the list. The cottage has undergone revision over the years. When Anne Hathaway grew up in it was two rooms, open hearth fire vented through the roof. The guides were very pleasant and informative, they explained that people lived on bread rather than potatoes as they didn't have potatoes then. They didn't even have carrots as we now know and love them, the garden had skirrets growing which were poor weedy root vegetables now superseded in the modern diet.

@@ -1,18 +1,6 @@
----
-date: March 15th 2016
-anchors:
-- Portsmouth Historic Dockyard
-images:
-- path: warrior.JPG
-  tag: HMS Warrior
-- path: warrior_engines.JPG
-  tag: HMS Warrior engines
-- path: signal_flags.JPG
-  tag: HMS Warrior signal flags
-- path: victory.JPG
-  tag: HMS Victory
----
-![HMS Victory](victory.JPG)
+#date March 15th 2016
+#image victory.JPG
+#markdown
 A far smoother trip into Portsmouth on the Tuesday and straight into the best car park
 which had plenty of space. A ripoff price of &pound;32 for all the attractions, but having come
 so far not much option. We did HMS Warrior first and then HMS Victory - both very similar,

@@ -1,31 +1,32 @@
-![Norwich City football ground](football_ground.JPG)
-![Our fashionable hotel room bathroom](bathroom.JPG)
-![Norwich Castle](castle.JPG)
-![From the Castle looking towards the Guild Hall](castle_to_guild_hall.JPG)
-![The Royal Arcade](royal_arcade.JPG)
-![Jarrolds department store](jarrolds.JPG)
-![Market looking towards St Peter Mancroft](market_st_peter.JPG)
-![Market looking towards the Guild Hall](market_guild_hall.JPG)
-![Ethelbert Gate leading to the Cathedral](ethelbert_gate.JPG)
-![The Upper Close by the Cathedral](upper_close.JPG)
-![The Chapel in which I sang as a chorister](chapel.JPG)
-![The Erpingham Gate](erpingham_gate.JPG)
-![My old school](my_old_school.JPG)
-![Inside the Cathedral](cathedral_centre.JPG)
-![Cathedral front window](cathedral_window.JPG)
-![Millenium maze in the Cloisters](millenium_maze.JPG)
-![New refectory by an ancient flint wall](new_refectory.JPG)
-![Lane leading to the Lower School](lane_to_lower_school.JPG)
-![The Lower School](lower_school1.JPG)
-![The Lower School](lower_school2.JPG)
-![Work on the new Hostry at the Cathedral](hostry.JPG)
-![Nelson's statue in the Upper Close](nelson.JPG)
-![Samson and Hercules](samson_hercules.JPG)
-![Bear shop in Elm Hill](elm_hill.JPG)
-![Elm Hill](elm_hill2.JPG)
-![St Andrews Hall](st_andrews.JPG)
-![Strangers Hall](strangers_hall.JPG)
-![Strangers Hall](strangers_hall2.JPG)
-![Maddermarket Theater](maddermarket.JPG)
-![Close to the Maddermarket](near_maddermarket.JPG)
-![First home I remember in Eaton](eaton.JPG)
+#gallery
+football_ground.JPG	football_ground.JPG
+bathroom.JPG	bathroom.JPG
+castle.JPG	castle.JPG
+castle_to_guild_hall.JPG	castle_to_guild_hall.JPG
+royal_arcade.JPG	royal_arcade.JPG
+jarrolds.JPG	jarrolds.JPG
+market_st_peter.JPG	market_st_peter.JPG
+market_guild_hall.JPG	market_guild_hall.JPG
+ethelbert_gate.JPG	ethelbert_gate.JPG
+upper_close.JPG	upper_close.JPG
+chapel.JPG	chapel.JPG
+erpingham_gate.JPG	erpingham_gate.JPG
+my_old_school.JPG	my_old_school.JPG
+cathedral_centre.JPG	cathedral_centre.JPG
+cathedral_window.JPG	cathedral_window.JPG
+millenium_maze.JPG	millenium_maze.JPG
+new_refectory.JPG	new_refectory.JPG
+lane_to_lower_school.JPG	lane_to_lower_school.JPG
+lower_school1.JPG	lower_school1.JPG
+lower_school2.JPG	lower_school2.JPG
+hostry.JPG	hostry.JPG
+nelson.JPG	nelson.JPG
+samson_hercules.JPG	samson_hercules.JPG
+elm_hill.JPG	elm_hill.JPG
+elm_hill2.JPG	elm_hill2.JPG
+st_andrews.JPG	st_andrews.JPG
+strangers_hall.JPG	strangers_hall.JPG
+strangers_hall2.JPG	strangers_hall2.JPG
+maddermarket.JPG	maddermarket.JPG
+near_maddermarket.JPG	near_maddermarket.JPG
+eaton.JPG	eaton.JPG

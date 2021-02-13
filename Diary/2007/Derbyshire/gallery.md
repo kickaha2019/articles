@@ -1,12 +1,13 @@
-![View from our window](window_view.JPG)
-![Weir near our hotel](weir.JPG)
-![Interior at Chatsworth](chatsworth_interior.JPG)
-![Kedleston Hall](kedleston.JPG)
-![Me at Crich Tramway Museum](crich.JPG)
-![Mist in the morning](mist.JPG)
-![Virginia with Mr Awkwright](awkwright.JPG)
-![Masson Mills spinning museum](masson_mills.JPG)
-![Jacquard style loom](jacquard.JPG)
-![Eccentric window at Haddon Hall](haddon_window.JPG)
-![Well dressing in the C21st](well_dressing.JPG)
-![The house that Tudor built](tudor_house.JPG)
+#gallery
+window_view.JPG	window_view.JPG
+weir.JPG	weir.JPG
+chatsworth_interior.JPG	chatsworth_interior.JPG
+kedleston.JPG	kedleston.JPG
+crich.JPG	crich.JPG
+mist.JPG	mist.JPG
+awkwright.JPG	awkwright.JPG
+masson_mills.JPG	masson_mills.JPG
+jacquard.JPG	jacquard.JPG
+haddon_window.JPG	haddon_window.JPG
+well_dressing.JPG	well_dressing.JPG
+tudor_house.JPG	tudor_house.JPG

@@ -1,45 +1,7 @@
----
-date: January 13th 2020
-anchors:
-- Tree Church
-- Waitomo Glowworm Caves
-- Ruakuri Cave
-- Waitomo Caves Guest Lodge
-- HUHU Cafe
-icon: IMG_0963.jpg
-images:
-- path: IMG_0921.jpg
-  tag: My hire car
-- path: IMG_0927.jpg
-  tag: Tree Church closed
-- path: IMG_0929.jpg
-  tag: Waitomo Caves
-- path: IMG_0936.jpg
-  tag: Ruakuri Cave
-- path: IMG_0940.jpg
-  tag: Spiral staircase
-- path: IMG_0948.jpg
-  tag: Stalactites
-- path: IMG_0951.jpg
-  tag: Curtain formation
-- path: IMG_0961.jpg
-  tag: Glow worm visible
-- path: IMG_0963.jpg
-  tag: Glow worm lines
-- path: IMG_0964.jpg
-  tag: Glow worm lights
-- path: IMG_0970.jpg
-  tag: Iron pipe formation
-- path: IMG_0978.jpg
-  tag: Waitomo Guest Lodge
-- path: IMG_0980.jpg
-  tag: Chalet 6
-- path: IMG_0986.jpg
-  tag: Huhu Cafe
-- path: IMG_0983.jpg
-  tag: Peanut butter parfait
----
-![My hire car](IMG_0921.jpg)
+#icon IMG_0963.jpg
+#date January 13th 2020
+#image IMG_0921.jpg
+#markdown
 Collected hire car from [Avis](https://www.avis.co.nz/en/home) at [Auckland airport](https://www.aucklandairport.co.nz).
 I did go in the wrong
 direction at first to find it. The car's an automatic which
@@ -55,7 +17,8 @@ only to find it only open on Sunday. A disappointment I should have read the web
 Had lunch at Otorohanga Macdonalds where I had been before a decade ago, quiet until a coachload
 of Chinese girls arrived, could order at a kiosk which is so convenient.
 
-![Waitomo Caves](IMG_0929.jpg)
+#image IMG_0929.jpg
+#markdown
 Got to [Waitomo Glowworm Caves](https://www.waitomo.com) early, the girl kindly booked me onto earlier trips!
 The first trip in Waitomo Cave had a pleasant boat ride where the guide relied on
 ropes to steer the boat around. The glow worms glowed strongly there,
@@ -74,7 +37,8 @@ Maori ritual washing stone. I dashed to get to Ruakuri as I thought I was on an 
 tour but it turned out to be later. Did get Virginia a Kiwi Xmas decoration as a souvenir,
 I failed on this trip to get her something more substantial or to send postcards.
 
-![Peanut butter parfait](IMG_0983.jpg)
+#image IMG_0983.jpg
+#markdown
 Stayed at the [Waitomo Caves Guest Lodge B&amp;B](https://www.waitomocavesguestlodge.co.nz/) in Waitomo. It started raining soon after
 I arrived there. Unable to park close to site, had to haul heavy case with painful finger
 up several flights of steps to Chalet 6. The toilet hiccups when it's refilling,

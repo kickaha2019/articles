@@ -1,42 +1,6 @@
----
-anchors:
-- Dunedin
-- Taiaroa Head
-- Otago Peninsula
-date: 20th February 2006
-images:
-- path: dunedin_centre.jpg
-  tag: Dunedin centre with statue of Robert Burns
-- path: dunedin_station.jpg
-  tag: Dunedin Railway Station
-- path: black_swan.jpg
-  tag: Black swan (imported from Australia) near Dunedin
-- path: spoonbills_shelducks.jpg
-  tag: Spoonbills and shelducks near Dunedin
-- path: pukekos.jpg
-  tag: Pukekos near Dunedin
-- path: variable_oyster_catcher.jpg
-  tag: Variable Oyster-catcher? near Dunedin
-- path: penguin_colony.jpg
-  tag: Yellow eyed penguin colony at Otago Peninsula
-- path: penguin_juvenile.jpg
-  tag: Juvenile yellow eyed penguin at Otago Peninsula
-- path: penguin_juvenile2.jpg
-  tag: Juvenile yellow eyed penguin at Otago Peninsula
-- path: penguin_moulting.jpg
-  tag: Yellow eyed penguin moulting at Otago Peninsula
-- path: penguin_colony2.jpg
-  tag: Yellow eyed penguin colony at Otago Peninsula
-- path: penguin_in_from_sea.jpg
-  tag: Yellow eyed penguin coming in from feeding at sea at Otago Peninsula
-- path: otago_peninsula1.jpg
-  tag: Otago peninsula scenery
-- path: otago_peninsula2.jpg
-  tag: Otago peninsula scenery
-- path: taiaroa_head.jpg
-  tag: Taiaroa Head
----
-![Yellow eyed penguin colony at Otago Peninsula](penguin_colony.jpg)
+#date 20th February 2006
+#image penguin_colony.jpg
+#markdown
 Most of my trip was arranged for me by
 [Nature Quest](https://www.naturequest.co.nz/).
 I would go with them again for wildlife and nature tours.

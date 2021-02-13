@@ -1,35 +1,36 @@
-![A kangaroo family](kangaroos.JPG)
-![An old dingo](dingo.JPG)
-![A freshwater crocodile](freshie.JPG)
-![A monitor lizard](monitor.JPG)
-![A jumping spider](jumping_spider.JPG)
-![Leichardt's grasshopper](leichardts.JPG)
-![Another Leichardt's grasshopper](leichardts2.JPG)
-![Masked plover](masked_plover.JPG)
-![Sulphur-crested cockatoo](sulphur_crested_cockatoo.JPG)
-![Comb-crested magpie geese](comb_crested_magpie_geese.JPG)
-![A crowd scene](crowd_scene.JPG)
-![Glossy ibis](glossy_ibis.JPG)
-![A jacana (or Jesus bird)](jacana.JPG)
-![Australian pratincole](pratincole.JPG)
-![White ibis](white_ibis.JPG)
-![Jabiru taking off](jabiru.JPG)
-![Yellow-billed spoonbill](spoonbill.JPG)
-![Grass prints Wall Art](grass_prints.JPG)
-![Running men Wall Art](running_men.JPG)
-![The rainbow serpent is a key dreamtime figure](rainbow_serpent.JPG)
-![Much more recent art - perhaps a Macassan ship](macassan_ship.JPG)
-![A picture of a thylacine or Tasmanian tiger](thylacine.JPG)
-![Forest burnt 2-3 weeks ago](recent_burning.JPG)
-![Paperbark swamp](paperbark.JPG)
-![Quinine tree](quinine.JPG)
-![River pandanus](river_pandanus.JPG)
-![Soapbush nibbled by leaf-cutter bees](soapbush.JPG)
-![The plane which brought me to the camp](plane.JPG)
-![The Rock country](rock_country.JPG)
-![The safari camp at Mount Borradaile](safari_camp.JPG)
-![My tent at the safari camp](my_tent.JPG)
-![Skinks on tent wall](skinks.JPG)
-![Billabong boat](billabong_boat.JPG)
-![A swimming hole used by the camp](swimming_pool.JPG)
-![Looking over a billabong in Arnhemland](billabong.JPG)
+#gallery
+kangaroos.JPG	kangaroos.JPG
+dingo.JPG	dingo.JPG
+freshie.JPG	freshie.JPG
+monitor.JPG	monitor.JPG
+jumping_spider.JPG	jumping_spider.JPG
+leichardts.JPG	leichardts.JPG
+leichardts2.JPG	leichardts2.JPG
+masked_plover.JPG	masked_plover.JPG
+sulphur_crested_cockatoo.JPG	sulphur_crested_cockatoo.JPG
+comb_crested_magpie_geese.JPG	comb_crested_magpie_geese.JPG
+crowd_scene.JPG	crowd_scene.JPG
+glossy_ibis.JPG	glossy_ibis.JPG
+jacana.JPG	jacana.JPG
+pratincole.JPG	pratincole.JPG
+white_ibis.JPG	white_ibis.JPG
+jabiru.JPG	jabiru.JPG
+spoonbill.JPG	spoonbill.JPG
+grass_prints.JPG	grass_prints.JPG
+running_men.JPG	running_men.JPG
+rainbow_serpent.JPG	rainbow_serpent.JPG
+macassan_ship.JPG	macassan_ship.JPG
+thylacine.JPG	thylacine.JPG
+recent_burning.JPG	recent_burning.JPG
+paperbark.JPG	paperbark.JPG
+quinine.JPG	quinine.JPG
+river_pandanus.JPG	river_pandanus.JPG
+soapbush.JPG	soapbush.JPG
+plane.JPG	plane.JPG
+rock_country.JPG	rock_country.JPG
+safari_camp.JPG	safari_camp.JPG
+my_tent.JPG	my_tent.JPG
+skinks.JPG	skinks.JPG
+billabong_boat.JPG	billabong_boat.JPG
+swimming_pool.JPG	swimming_pool.JPG
+billabong.JPG	billabong.JPG

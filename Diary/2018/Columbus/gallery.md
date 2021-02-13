@@ -1,24 +1,25 @@
-![Columbus ship](ship3.jpg)
-![Grill restaurant](ship1.jpg)
-![Waterfront restaurant](ship2.jpg)
-![Hemingways](ship4.jpg)
-![Palladium Lounge](ship5.jpg)
-![Ring of Brodgar](orkney1.jpg)
-![Skara Brae](orkney2.jpg)
-![Dunrobin Castle](dunrobin2.jpg)
-![Dunrobin Castle](dunrobin1.jpg)
-![Dunvegan Castle](skye1.jpg)
-![Dunvegan Castle](skye2.jpg)
-![Kilt Rock](skye3.jpg)
-![Tobermory](mull1.jpg)
-![Titanic Exhibition](belfast1.jpg)
-![The Nomadic](belfast2.jpg)
-![English Market Cork](cork1.jpg)
-![Tresco](tresco1.jpg)
-![Tresco Abbey Garden](tresco2.jpg)
-![Tresco Abbey Garden](tresco3.jpg)
-![Guernsey](guernsey1.jpg)
-![Inside Monet's house](honfleur2.jpg)
-![The gardens](honfleur1.jpg)
-![The Japanese garden](honfleur3.jpg)
-![The inexorable shop](honfleur4.jpg)
+#gallery
+ship3.jpg	ship3.jpg
+ship1.jpg	ship1.jpg
+ship2.jpg	ship2.jpg
+ship4.jpg	ship4.jpg
+ship5.jpg	ship5.jpg
+orkney1.jpg	orkney1.jpg
+orkney2.jpg	orkney2.jpg
+dunrobin2.jpg	dunrobin2.jpg
+dunrobin1.jpg	dunrobin1.jpg
+skye1.jpg	skye1.jpg
+skye2.jpg	skye2.jpg
+skye3.jpg	skye3.jpg
+mull1.jpg	mull1.jpg
+belfast1.jpg	belfast1.jpg
+belfast2.jpg	belfast2.jpg
+cork1.jpg	cork1.jpg
+tresco1.jpg	tresco1.jpg
+tresco2.jpg	tresco2.jpg
+tresco3.jpg	tresco3.jpg
+guernsey1.jpg	guernsey1.jpg
+honfleur2.jpg	honfleur2.jpg
+honfleur1.jpg	honfleur1.jpg
+honfleur3.jpg	honfleur3.jpg
+honfleur4.jpg	honfleur4.jpg

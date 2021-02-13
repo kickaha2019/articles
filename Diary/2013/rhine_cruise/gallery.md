@@ -1,60 +1,61 @@
-![Cats at Country Cattery](DSCF4640.JPG)
-![A gold coach](DSCF4641.JPG)
-![Blue coaches ready for the tours](DSCF4645.JPG)
-![Shearings Hythe Interchange](DSCF4643.JPG)
-![Novotel at Lille](DSCF4648.JPG)
-![Restaurant on the MV Virginia](DSCF4651.JPG)
-![Water at waist height in the MV Virginia's restaurant](DSCF4702.JPG)
-![Our hallway on the MV Virginia](DSCF4652.JPG)
-![Virginia in our cabin](DSCF4653.JPG)
-![Me in our cabin](DSCF4654.JPG)
-![Library on the MV Virginia](DSCF4655.JPG)
-![Top deck on the MV Virginia](DSCF4684.JPG)
-![Bridge on the MV Virginia](DSCF4686.JPG)
-![Lounge bar on the MV Virginia](DSCF4687.JPG)
-![Our bathroom](DSCF4695.JPG)
-![They know their ropes on the MV Virginia](DSCF4659.JPG)
-![The Cathedral in Cologne](DSCF4661.JPG)
-![Inside the Cologne Cathedral](DSCF4665.JPG)
-![Inside the Cologne Cathedral](DSCF4666.JPG)
-![Modernist looking stained glass in the Cologne Cathedral](DSCF4667.JPG)
-![Inside the Cologne Cathedral](DSCF4669.JPG)
-![Stream and stepping stones in the concrete age](DSCF4674.JPG)
-![Blankets on seats for the outside diner](DSCF4680.JPG)
-![Photogenic buildings in old Cologne](DSCF4681.JPG)
-![Aft view cruising up the Rhine](DSCF4697.JPG)
-![Bow view cruising up the Rhine](DSCF4698.JPG)
-![MV Virginia docked in Koblenz](DSCF4703.JPG)
-![Koblenz buildings](DSCF4706.JPG)
-![Closeup of figure on wall](DSCF4707.JPG)
-![Koblenz buildings](DSCF4709.JPG)
-![Old mooring bollard in Koblenz?](DSCF4715.JPG)
-![Lahnstein Castle is a cable car ride away](DSCF4719.JPG)
-![Church in Koblenz](DSCF4722.JPG)
-![History fountain in Koblenz](DSCF4724.JPG)
-![Trains along side of Rhine - vineyards on the hills](DSCF4728.JPG)
-![Building in Rudesheim](DSCF4731.JPG)
-![Building in Rudesheim](DSCF4732.JPG)
-![Building in Rudesheim](DSCF4736.JPG)
-![Virginia outside Christmas shop in Rudesheim](DSCF4745.JPG)
-![Drosselgasse street in Rudesheim](DSCF4746.JPG)
-![German post box](DSCF4734.JPG)
-![German public toilet](DSCF4743.JPG)
-![Toy museum in Rudesheim](DSCF4750.JPG)
-![Siegfried's Mechanical Music Cabinets museum](DSCF4752.JPG)
-![Siegfried's Mechanical Music Cabinets museum](DSCF4753.JPG)
-![Siegfried's Mechanical Music Cabinets museum](DSCF4754.JPG)
-![Siegfried's Mechanical Music Cabinets museum](DSCF4756.JPG)
-![Ahrweiler town gates](DSCF4762.JPG)
-![Street in Ahrweiler](DSCF4764.JPG)
-![Building in Ahrweiler](DSCF4770.JPG)
-![Decorated window in Ahrweiler](DSCF4771.JPG)
-![Church in Ahrweiler](DSCF4774.JPG)
-![Garage door in Ahrweiler](DSCF4775.JPG)
-![Garage door closeup in Ahrweiler](DSCF4776.JPG)
-![Inside the church in Ahrweiler](DSCF4779.JPG)
-![Inside the church in Ahrweiler](DSCF4781.JPG)
-![Repel the demons sign](DSCF4783.JPG)
-![Our guide Toni for Ahrweiler](DSCF4784.JPG)
-![Virginia at the Maasmechelen Chic Shopping Centre](DSCF4787.JPG)
-![Cow outside Novotel in Valenciennes](DSCF4790.JPG)
+#gallery
+DSCF4640.JPG	DSCF4640.JPG
+DSCF4641.JPG	DSCF4641.JPG
+DSCF4645.JPG	DSCF4645.JPG
+DSCF4643.JPG	DSCF4643.JPG
+DSCF4648.JPG	DSCF4648.JPG
+DSCF4651.JPG	DSCF4651.JPG
+DSCF4702.JPG	DSCF4702.JPG
+DSCF4652.JPG	DSCF4652.JPG
+DSCF4653.JPG	DSCF4653.JPG
+DSCF4654.JPG	DSCF4654.JPG
+DSCF4655.JPG	DSCF4655.JPG
+DSCF4684.JPG	DSCF4684.JPG
+DSCF4686.JPG	DSCF4686.JPG
+DSCF4687.JPG	DSCF4687.JPG
+DSCF4695.JPG	DSCF4695.JPG
+DSCF4659.JPG	DSCF4659.JPG
+DSCF4661.JPG	DSCF4661.JPG
+DSCF4665.JPG	DSCF4665.JPG
+DSCF4666.JPG	DSCF4666.JPG
+DSCF4667.JPG	DSCF4667.JPG
+DSCF4669.JPG	DSCF4669.JPG
+DSCF4674.JPG	DSCF4674.JPG
+DSCF4680.JPG	DSCF4680.JPG
+DSCF4681.JPG	DSCF4681.JPG
+DSCF4697.JPG	DSCF4697.JPG
+DSCF4698.JPG	DSCF4698.JPG
+DSCF4703.JPG	DSCF4703.JPG
+DSCF4706.JPG	DSCF4706.JPG
+DSCF4707.JPG	DSCF4707.JPG
+DSCF4709.JPG	DSCF4709.JPG
+DSCF4715.JPG	DSCF4715.JPG
+DSCF4719.JPG	DSCF4719.JPG
+DSCF4722.JPG	DSCF4722.JPG
+DSCF4724.JPG	DSCF4724.JPG
+DSCF4728.JPG	DSCF4728.JPG
+DSCF4731.JPG	DSCF4731.JPG
+DSCF4732.JPG	DSCF4732.JPG
+DSCF4736.JPG	DSCF4736.JPG
+DSCF4745.JPG	DSCF4745.JPG
+DSCF4746.JPG	DSCF4746.JPG
+DSCF4734.JPG	DSCF4734.JPG
+DSCF4743.JPG	DSCF4743.JPG
+DSCF4750.JPG	DSCF4750.JPG
+DSCF4752.JPG	DSCF4752.JPG
+DSCF4753.JPG	DSCF4753.JPG
+DSCF4754.JPG	DSCF4754.JPG
+DSCF4756.JPG	DSCF4756.JPG
+DSCF4762.JPG	DSCF4762.JPG
+DSCF4764.JPG	DSCF4764.JPG
+DSCF4770.JPG	DSCF4770.JPG
+DSCF4771.JPG	DSCF4771.JPG
+DSCF4774.JPG	DSCF4774.JPG
+DSCF4775.JPG	DSCF4775.JPG
+DSCF4776.JPG	DSCF4776.JPG
+DSCF4779.JPG	DSCF4779.JPG
+DSCF4781.JPG	DSCF4781.JPG
+DSCF4783.JPG	DSCF4783.JPG
+DSCF4784.JPG	DSCF4784.JPG
+DSCF4787.JPG	DSCF4787.JPG
+DSCF4790.JPG	DSCF4790.JPG

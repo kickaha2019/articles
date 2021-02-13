@@ -1,3 +1,4 @@
+#markdown
 I use Apple's [Calendar](https://support.apple.com/en-gb/guide/calendar/welcome/mac)
 for keeping track of important dates like birthdays, and
 anniversaries, and such-like. A big plus is the synching

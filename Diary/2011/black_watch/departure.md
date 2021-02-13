@@ -1,31 +1,7 @@
----
-anchors:
-- Dover Cruise Terminal 1
-icon: waiting.JPG
-date: Saturday, 30 July 2011
-images:
-- path: tabitha.JPG
-  tag: Tabitha in her holiday 'home'
-- path: dover1.JPG
-  tag: Dover cruise terminal 1
-- path: dover2.JPG
-  tag: The cruise terminal was an old railway station
-- path: obstacle.JPG
-  tag: The obstacle course to board the Black Watch
-- path: cabin_door.JPG
-  tag: Our cabin's door
-- path: cabin_open.JPG
-  tag: Our cabin 5073
-- path: cabin_ginny.JPG
-  tag: Virginia makes herself comfortable
-- path: cabin_shower.JPG
-  tag: The shower in cabin 5073
-- path: cabin_basin.JPG
-  tag: The wash basin in cabin 5073
-- path: waiting.JPG
-  tag: Waiting to 'set sail' from Dover
----
-![Tabitha in her holiday 'home'](tabitha.JPG)
+#icon waiting.JPG
+#date Saturday, 30 July 2011
+#image tabitha.JPG
+#markdown
 Tabitha and Amelia safely stowed in
 [Country Cattery](https://www.countrycattery.com/).
 Check. Decrepit suitcase repaired with sticky tape. Check.
@@ -48,7 +24,8 @@ on August 11th didn't work so well as we had been waiting nearly
 two hours in poor conditions. That contributed to the flu I went
 down with after the cruise. But I'm getting ahead of myself here!
 
-![Dover cruise terminal 1](dover1.JPG)
+#image dover1.JPG
+#markdown
 We arrived at Dover Cruise Terminal 1 to find it was an old railway
 station! Like stepping back in time, and perhaps cruising is about
 stepping back in time, its main attraction. Back to the days when time

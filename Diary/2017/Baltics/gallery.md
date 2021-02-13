@@ -1,36 +1,37 @@
-![Church at Manor Park Farm](manor_1.JPG)
-![Pond at Manor Park Farm](manor_2.JPG)
-![Old schoolroom at Manor Park Farm](manor_3.JPG)
-![Queen Elizabeth](ship_outside.JPG)
-![Queen Elizabeth atrium](ship_atrium.JPG)
-![Library on Queen Elizabeth](ship_library.JPG)
-![Queen Elizabeth theatre](ship_theatre.JPG)
-![Our cabin view on Queen Elizabeth](ship_view.JPG)
-![Russian bazaar on Queen Elizabeth](ship_bazaar.JPG)
-![Queen Elizabeth sugarcraft demonstration](ship_sugar.JPG)
-![Musical accompaniment on Queen Elizabeth](ship_eos.JPG)
-![Vanilla souffle on Queen Elizabeth](ship_souffle.JPG)
-![Delft pottery factory](delft_1.JPG)
-![Delft pottery factory](delft_2.JPG)
-![Frederiksborg Castle gardens in Denmark](copenhagen_1.JPG)
-![Frederiksborg Castle in Denmark](copenhagen_2.JPG)
-![Frederiksborg Castle chapel in Denmark](copenhagen_3.JPG)
-![Ceiling imitating roots in cave roof in the castle](copenhagen_4.JPG)
-![Kronborg Castle in Denmark](copenhagen_5.JPG)
-![Little Mermaid](copenhagen_6.JPG)
-![Abba museum](stockholm_1.JPG)
-![Tallinn](tallinn_1.JPG)
-![St Nicholas cathedral in St Petersburg](russia_1.JPG)
-![Catherine Palace in St Petersburg](russia_10.JPG)
-![Catherine Palace in St Petersburg](russia_11.JPG)
-![Catherine Palace in St Petersburg](russia_12.JPG)
-![Catherine Palace in St Petersburg](russia_13.JPG)
-![Catherine Palace in St Petersburg](russia_14.JPG)
-![St Isaac cathedral in St Petersburg](russia_4.JPG)
-![Wedding couple getting snapped in St Petersburg](russia_5.JPG)
-![Faberge museum in St Petersburg](russia_egg.JPG)
-![Pushkin Art Gallery in St Petersburg](russia_shop.JPG)
-![Warnemunde](warnemunde.JPG)
-![Wannabee Ent in Skagen area](skagen_ent.JPG)
-![Voergaard Castle](skagen_castle.JPG)
-![Buried Church in Skagen](skagen_buried.JPG)
+#gallery
+manor_1.JPG	manor_1.JPG
+manor_2.JPG	manor_2.JPG
+manor_3.JPG	manor_3.JPG
+ship_outside.JPG	ship_outside.JPG
+ship_atrium.JPG	ship_atrium.JPG
+ship_library.JPG	ship_library.JPG
+ship_theatre.JPG	ship_theatre.JPG
+ship_view.JPG	ship_view.JPG
+ship_bazaar.JPG	ship_bazaar.JPG
+ship_sugar.JPG	ship_sugar.JPG
+ship_eos.JPG	ship_eos.JPG
+ship_souffle.JPG	ship_souffle.JPG
+delft_1.JPG	delft_1.JPG
+delft_2.JPG	delft_2.JPG
+copenhagen_1.JPG	copenhagen_1.JPG
+copenhagen_2.JPG	copenhagen_2.JPG
+copenhagen_3.JPG	copenhagen_3.JPG
+copenhagen_4.JPG	copenhagen_4.JPG
+copenhagen_5.JPG	copenhagen_5.JPG
+copenhagen_6.JPG	copenhagen_6.JPG
+stockholm_1.JPG	stockholm_1.JPG
+tallinn_1.JPG	tallinn_1.JPG
+russia_1.JPG	russia_1.JPG
+russia_10.JPG	russia_10.JPG
+russia_11.JPG	russia_11.JPG
+russia_12.JPG	russia_12.JPG
+russia_13.JPG	russia_13.JPG
+russia_14.JPG	russia_14.JPG
+russia_4.JPG	russia_4.JPG
+russia_5.JPG	russia_5.JPG
+russia_egg.JPG	russia_egg.JPG
+russia_shop.JPG	russia_shop.JPG
+warnemunde.JPG	warnemunde.JPG
+skagen_ent.JPG	skagen_ent.JPG
+skagen_castle.JPG	skagen_castle.JPG
+skagen_buried.JPG	skagen_buried.JPG

@@ -1,7 +1,6 @@
----
-date: September 19th 2014
-icon: dispensers.JPG
----
+#icon dispensers.JPG
+#date September 19th 2014
+#markdown
 I signed up for the Behind The Scenes tour even though it cost &pound;75. I just felt
 it was worth doing once, and I did get a lot out of it even if not perhaps to the tune
 of &pound;75. Sorry they didn't let us use cameras so no pictures.

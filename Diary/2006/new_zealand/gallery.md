@@ -1,125 +1,126 @@
-![Auckland skyline with the Sky Tower prominent](auckland/auckland_skyline.jpg)
-![Old volcanic crater at Mount Eden Auckland](auckland/mount_eden.jpg)
-![Dunedin centre with statue of Robert Burns](dunedin/dunedin_centre.jpg)
-![Dunedin Railway Station](dunedin/dunedin_station.jpg)
-![Black swan (imported from Australia) near Dunedin](dunedin/black_swan.jpg)
-![Spoonbills and shelducks near Dunedin](dunedin/spoonbills_shelducks.jpg)
-![Pukekos near Dunedin](dunedin/pukekos.jpg)
-![Variable Oyster-catcher? near Dunedin](dunedin/variable_oyster_catcher.jpg)
-![Yellow eyed penguin colony at Otago Peninsula](dunedin/penguin_colony.jpg)
-![Juvenile yellow eyed penguin at Otago Peninsula](dunedin/penguin_juvenile.jpg)
-![Juvenile yellow eyed penguin at Otago Peninsula](dunedin/penguin_juvenile2.jpg)
-![Yellow eyed penguin moulting at Otago Peninsula](dunedin/penguin_moulting.jpg)
-![Yellow eyed penguin colony at Otago Peninsula](dunedin/penguin_colony2.jpg)
-![Yellow eyed penguin coming in from feeding at sea at Otago Peninsula](dunedin/penguin_in_from_sea.jpg)
-![Otago peninsula scenery](dunedin/otago_peninsula1.jpg)
-![Otago peninsula scenery](dunedin/otago_peninsula2.jpg)
-![Taiaroa Head](dunedin/taiaroa_head.jpg)
-![Nugget Point](invercargill/nugget_head.jpg)
-![Bull kelp at Nugget Point](invercargill/bull_kelp.jpg)
-![Bush at Nugget Point](invercargill/nugget_head_bush.jpg)
-![Catlins coast](invercargill/catlins_coast.jpg)
-![Old logging engine in The Catlins](invercargill/catlins_engine.jpg)
-![Ferns in the Catlins](invercargill/catlins_ferns.jpg)
-![Tree growths in the Catlins](invercargill/catlins_tree_growths.jpg)
-![Curio Bay wooden lighthouse](invercargill/curio_lighthouse.jpg)
-![McLean Falls in The Catlins](invercargill/mclean_falls.jpg)
-![Petrified forest at Curio Bay in the Catlins](invercargill/curio_bay.jpg)
-![Petrified tree at Curio Bay](invercargill/petrified_tree.jpg)
-![Sea anemones (out of water so closed)](invercargill/sea_anemones.jpg)
-![Sea lions at Curio Point](invercargill/sea_lions_curio1.jpg)
-![Sea lions closeup at Curio Point](invercargill/sea_lions_curio2.jpg)
-![Sea lion closeup at Curio Point](invercargill/sea_lions_curio3.jpg)
-![Sea lion at Curio Point](invercargill/sea_lions_curio4.jpg)
-![Tautuku Estuary to see fernbirds](invercargill/tautuku_estuary.jpg)
-![Tuatara at Invercargill museum](invercargill/tuatara1.jpg)
-![Henry - Tuatara born in the 1880s in Invercargill museum](invercargill/tuatara2.jpg)
-![Stewart Island harbour](stewart_island/stewart_chessboard.jpg)
-![Iona Island](stewart_island/iona_island.jpg)
-![Ulva Island landing beach](stewart_island/ulva_beach.jpg)
-![Ulva Island](stewart_island/ulva_island.jpg)
-![Ulva Island](stewart_island/ulva_island2.jpg)
-![Forest on Ulva Island](stewart_island/ulva_forest1.jpg)
-![Forest on Ulva Island](stewart_island/ulva_forest2.jpg)
-![Umbrella ferns on Ulva Island](stewart_island/umbrella_ferns.jpg)
-![Fern on Ulva Island](stewart_island/ulva_fern.jpg)
-![Lancewood on Ulva Island](stewart_island/lancewood.jpg)
-![Fern on Ulva Island](stewart_island/ulva_fern2.jpg)
-![Hen and chick fern on Ulva Island](stewart_island/hen_chick_fern.jpg)
-![Rata tree taking over host tree on Ulva Island](stewart_island/rata_tree.jpg)
-![Hen and chick fern on Ulva Island](stewart_island/hen_chick_fern2.jpg)
-![Hen and chick fern closeup on Ulva Island](stewart_island/hen_chick_fern_closeup.jpg)
-![New Zealand robin on Ulva Island](stewart_island/nz_robin.jpg)
-![Weka on beach at Ulva Island](stewart_island/weka1.jpg)
-![Weka on Ulva Island](stewart_island/weka2.jpg)
-![New Zealand robin on Ulva Island](stewart_island/nz_robin2.jpg)
-![Elephant seal on Ulva Island](stewart_island/elephant_seal.jpg)
-![Elephant seal's spot on Ulva Island](stewart_island/elephant_seal_spot.jpg)
-![Lake Wakatipu](wanaka/lake_wakatipu.jpg)
-![Lake Wanaka](wanaka/lake_wanaka.jpg)
-![Puzzling World at Wanaka](wanaka/puzzling_world.jpg)
-![Wanaka - the millenium tiles](wanaka/wanaka_tiles.jpg)
-![Wanaka - a very special millenium tile](wanaka/tile_1956.jpg)
-![Black-billed gulls at Wanaka](wanaka/black_billed_gulls.jpg)
-![Lake near Te Anau](te_anau/te_anau_lakes.jpg)
-![Mirror Lakes on way to Milford Sound](te_anau/mirror_lakes1.jpg)
-![Mirror Lakes on way to Milford Sound](te_anau/mirror_lakes2.jpg)
-![Mirror Lakes on way to Milford Sound](te_anau/mirror_lakes3.jpg)
-![Cascade Creek 'beech' forest](te_anau/cascade_creek1.jpg)
-![Cascade Creek 'beech' forest](te_anau/cascade_creek2.jpg)
-![Cascade Creek 'beech' forest](te_anau/cascade_creek3.jpg)
-![Cascade Creek 'beech' forest](te_anau/cascade_creek4.jpg)
-![The Chasm (on way to Milford Sound)](te_anau/the_chasm.jpg)
-![The Chasm (on way to Milford Sound)](te_anau/the_chasm3.jpg)
-![Kea at the Chasm (near Milford Sound)](te_anau/kea_crowd.jpg)
-![The Chasm (on way to Milford Sound)](te_anau/the_chasm1.jpg)
-![The Chasm (on way to Milford Sound)](te_anau/the_chasm2.jpg)
-![Kea at Cascade Creek on road to Milford Sound - keas (a mountain parrot) are supposedly the most intelligent animal](te_anau/kea.jpg)
-![Road towards Milford Sound](te_anau/milford_sound_road1.jpg)
-![Road towards Milford Sound](te_anau/milford_sound_road2.jpg)
-![Milford Sound rainbows close to base of waterfall](te_anau/milford_rainbow.jpg)
-![Butterfly at Homer Tunnel entrance](te_anau/butterfly.jpg)
-![Seals in Milford Sound](te_anau/milford_seals.jpg)
-![Milford Sound](te_anau/milford_sound1.jpg)
-![Milford Sound](te_anau/milford_sound_boat.jpg)
-![Milford Sound](te_anau/milford_sound_waterfall.jpg)
-![Milford Sound](te_anau/milford_sound_rainbow.jpg)
-![Milford Sound](te_anau/milford_sound_distance.jpg)
-![Cadrona Pass](fox_glacier/cadrona_pass.jpg)
-![Haast Pass](fox_glacier/haast_pass.jpg)
-![Ship Creek](fox_glacier/ship_creek.jpg)
-![Ship Creek](fox_glacier/ship_creek2.jpg)
-![Ship Creek](fox_glacier/ship_creek3.jpg)
-![Knight Point](fox_glacier/knight_point.jpg)
-![Punakaiki Pancake Rocks](punakaiki/punakaiki1.jpg)
-![Punakaiki Pancake Rocks](punakaiki/punakaiki2.jpg)
-![Bull kelp at Punakaiki](punakaiki/punakaiki_kelp.jpg)
-![Franz Josef glacier](punakaiki/franz_josef1.jpg)
-![Franz Josef glacier](punakaiki/glacier_closeup.jpg)
-![Franz Josef glacier](punakaiki/glacier_near.jpg)
-![Pukeko at Greymouth - white tail ruff is warning sign](punakaiki/greymouth_pukeko.jpg)
-![Lewis Pass](christchurch/lewis_pass.jpg)
-![Shags south of Kaikoura](christchurch/shags.jpg)
-![Shag south of Kaikoura](christchurch/shag.jpg)
-![Arthur's Pass](christchurch/arthurs_pass.jpg)
-![Arthur's Pass road](christchurch/arthurs_pass_road.jpg)
-![Arthur's Pass: Kura Tawhiti](christchurch/kura_tawhiti.jpg)
-![Arthur's Pass: Kura Tawhiti](christchurch/kura_tawhiti2.jpg)
-![Maori bird trap - at Rotorua](waitomo/maori_bird_trap.jpg)
-![Rotorua Te Puia: mud pool](waitomo/mud_pool1.jpg)
-![Rotorua Te Puia: mud pool](waitomo/mud_pool2.jpg)
-![Rotorua Te Puia: geysers](waitomo/geysers.jpg)
-![Rotorua Te Puia: hot lake](waitomo/hot_lake.jpg)
-![Rotorua Te Puia: geysers](waitomo/geysers2.jpg)
-![Rotorua Te Puia: mud pool](waitomo/mud_pool3.jpg)
-![Me outside glow-worm cave in Waitomo](waitomo/me_glow_worm_cave.jpg)
-![Waitomo cave](waitomo/waitomo_cave.jpg)
-![Bones of Moa in Waitomo cave](waitomo/moa_bones.jpg)
-![Glow-worms in Waitomo caves](waitomo/glow_worms.jpg)
-![Cave weta in Waitomo caves](waitomo/cave_weta.jpg)
-![Matamata](matamata/matamata.jpg)
-![Matamata - Hobbiton in the 'Lord of the Rings' films](matamata/hobbiton.jpg)
-![Matamata - Bilbo's hobbit-hole](matamata/bilbo_hole.jpg)
-![Matamata - remains of oak tree prop](matamata/oak_tree_prop.jpg)
-![Gannets at Murawai](auckland_again/gannets1.jpg)
-![Gannets at Murawai](auckland_again/gannets2.jpg)
+#gallery
+auckland/auckland_skyline.jpg	auckland/auckland_skyline.jpg
+auckland/mount_eden.jpg	auckland/mount_eden.jpg
+dunedin/dunedin_centre.jpg	dunedin/dunedin_centre.jpg
+dunedin/dunedin_station.jpg	dunedin/dunedin_station.jpg
+dunedin/black_swan.jpg	dunedin/black_swan.jpg
+dunedin/spoonbills_shelducks.jpg	dunedin/spoonbills_shelducks.jpg
+dunedin/pukekos.jpg	dunedin/pukekos.jpg
+dunedin/variable_oyster_catcher.jpg	dunedin/variable_oyster_catcher.jpg
+dunedin/penguin_colony.jpg	dunedin/penguin_colony.jpg
+dunedin/penguin_juvenile.jpg	dunedin/penguin_juvenile.jpg
+dunedin/penguin_juvenile2.jpg	dunedin/penguin_juvenile2.jpg
+dunedin/penguin_moulting.jpg	dunedin/penguin_moulting.jpg
+dunedin/penguin_colony2.jpg	dunedin/penguin_colony2.jpg
+dunedin/penguin_in_from_sea.jpg	dunedin/penguin_in_from_sea.jpg
+dunedin/otago_peninsula1.jpg	dunedin/otago_peninsula1.jpg
+dunedin/otago_peninsula2.jpg	dunedin/otago_peninsula2.jpg
+dunedin/taiaroa_head.jpg	dunedin/taiaroa_head.jpg
+invercargill/nugget_head.jpg	invercargill/nugget_head.jpg
+invercargill/bull_kelp.jpg	invercargill/bull_kelp.jpg
+invercargill/nugget_head_bush.jpg	invercargill/nugget_head_bush.jpg
+invercargill/catlins_coast.jpg	invercargill/catlins_coast.jpg
+invercargill/catlins_engine.jpg	invercargill/catlins_engine.jpg
+invercargill/catlins_ferns.jpg	invercargill/catlins_ferns.jpg
+invercargill/catlins_tree_growths.jpg	invercargill/catlins_tree_growths.jpg
+invercargill/curio_lighthouse.jpg	invercargill/curio_lighthouse.jpg
+invercargill/mclean_falls.jpg	invercargill/mclean_falls.jpg
+invercargill/curio_bay.jpg	invercargill/curio_bay.jpg
+invercargill/petrified_tree.jpg	invercargill/petrified_tree.jpg
+invercargill/sea_anemones.jpg	invercargill/sea_anemones.jpg
+invercargill/sea_lions_curio1.jpg	invercargill/sea_lions_curio1.jpg
+invercargill/sea_lions_curio2.jpg	invercargill/sea_lions_curio2.jpg
+invercargill/sea_lions_curio3.jpg	invercargill/sea_lions_curio3.jpg
+invercargill/sea_lions_curio4.jpg	invercargill/sea_lions_curio4.jpg
+invercargill/tautuku_estuary.jpg	invercargill/tautuku_estuary.jpg
+invercargill/tuatara1.jpg	invercargill/tuatara1.jpg
+invercargill/tuatara2.jpg	invercargill/tuatara2.jpg
+stewart_island/stewart_chessboard.jpg	stewart_island/stewart_chessboard.jpg
+stewart_island/iona_island.jpg	stewart_island/iona_island.jpg
+stewart_island/ulva_beach.jpg	stewart_island/ulva_beach.jpg
+stewart_island/ulva_island.jpg	stewart_island/ulva_island.jpg
+stewart_island/ulva_island2.jpg	stewart_island/ulva_island2.jpg
+stewart_island/ulva_forest1.jpg	stewart_island/ulva_forest1.jpg
+stewart_island/ulva_forest2.jpg	stewart_island/ulva_forest2.jpg
+stewart_island/umbrella_ferns.jpg	stewart_island/umbrella_ferns.jpg
+stewart_island/ulva_fern.jpg	stewart_island/ulva_fern.jpg
+stewart_island/lancewood.jpg	stewart_island/lancewood.jpg
+stewart_island/ulva_fern2.jpg	stewart_island/ulva_fern2.jpg
+stewart_island/hen_chick_fern.jpg	stewart_island/hen_chick_fern.jpg
+stewart_island/rata_tree.jpg	stewart_island/rata_tree.jpg
+stewart_island/hen_chick_fern2.jpg	stewart_island/hen_chick_fern2.jpg
+stewart_island/hen_chick_fern_closeup.jpg	stewart_island/hen_chick_fern_closeup.jpg
+stewart_island/nz_robin.jpg	stewart_island/nz_robin.jpg
+stewart_island/weka1.jpg	stewart_island/weka1.jpg
+stewart_island/weka2.jpg	stewart_island/weka2.jpg
+stewart_island/nz_robin2.jpg	stewart_island/nz_robin2.jpg
+stewart_island/elephant_seal.jpg	stewart_island/elephant_seal.jpg
+stewart_island/elephant_seal_spot.jpg	stewart_island/elephant_seal_spot.jpg
+wanaka/lake_wakatipu.jpg	wanaka/lake_wakatipu.jpg
+wanaka/lake_wanaka.jpg	wanaka/lake_wanaka.jpg
+wanaka/puzzling_world.jpg	wanaka/puzzling_world.jpg
+wanaka/wanaka_tiles.jpg	wanaka/wanaka_tiles.jpg
+wanaka/tile_1956.jpg	wanaka/tile_1956.jpg
+wanaka/black_billed_gulls.jpg	wanaka/black_billed_gulls.jpg
+te_anau/te_anau_lakes.jpg	te_anau/te_anau_lakes.jpg
+te_anau/mirror_lakes1.jpg	te_anau/mirror_lakes1.jpg
+te_anau/mirror_lakes2.jpg	te_anau/mirror_lakes2.jpg
+te_anau/mirror_lakes3.jpg	te_anau/mirror_lakes3.jpg
+te_anau/cascade_creek1.jpg	te_anau/cascade_creek1.jpg
+te_anau/cascade_creek2.jpg	te_anau/cascade_creek2.jpg
+te_anau/cascade_creek3.jpg	te_anau/cascade_creek3.jpg
+te_anau/cascade_creek4.jpg	te_anau/cascade_creek4.jpg
+te_anau/the_chasm.jpg	te_anau/the_chasm.jpg
+te_anau/the_chasm3.jpg	te_anau/the_chasm3.jpg
+te_anau/kea_crowd.jpg	te_anau/kea_crowd.jpg
+te_anau/the_chasm1.jpg	te_anau/the_chasm1.jpg
+te_anau/the_chasm2.jpg	te_anau/the_chasm2.jpg
+te_anau/kea.jpg	te_anau/kea.jpg
+te_anau/milford_sound_road1.jpg	te_anau/milford_sound_road1.jpg
+te_anau/milford_sound_road2.jpg	te_anau/milford_sound_road2.jpg
+te_anau/milford_rainbow.jpg	te_anau/milford_rainbow.jpg
+te_anau/butterfly.jpg	te_anau/butterfly.jpg
+te_anau/milford_seals.jpg	te_anau/milford_seals.jpg
+te_anau/milford_sound1.jpg	te_anau/milford_sound1.jpg
+te_anau/milford_sound_boat.jpg	te_anau/milford_sound_boat.jpg
+te_anau/milford_sound_waterfall.jpg	te_anau/milford_sound_waterfall.jpg
+te_anau/milford_sound_rainbow.jpg	te_anau/milford_sound_rainbow.jpg
+te_anau/milford_sound_distance.jpg	te_anau/milford_sound_distance.jpg
+fox_glacier/cadrona_pass.jpg	fox_glacier/cadrona_pass.jpg
+fox_glacier/haast_pass.jpg	fox_glacier/haast_pass.jpg
+fox_glacier/ship_creek.jpg	fox_glacier/ship_creek.jpg
+fox_glacier/ship_creek2.jpg	fox_glacier/ship_creek2.jpg
+fox_glacier/ship_creek3.jpg	fox_glacier/ship_creek3.jpg
+fox_glacier/knight_point.jpg	fox_glacier/knight_point.jpg
+punakaiki/punakaiki1.jpg	punakaiki/punakaiki1.jpg
+punakaiki/punakaiki2.jpg	punakaiki/punakaiki2.jpg
+punakaiki/punakaiki_kelp.jpg	punakaiki/punakaiki_kelp.jpg
+punakaiki/franz_josef1.jpg	punakaiki/franz_josef1.jpg
+punakaiki/glacier_closeup.jpg	punakaiki/glacier_closeup.jpg
+punakaiki/glacier_near.jpg	punakaiki/glacier_near.jpg
+punakaiki/greymouth_pukeko.jpg	punakaiki/greymouth_pukeko.jpg
+christchurch/lewis_pass.jpg	christchurch/lewis_pass.jpg
+christchurch/shags.jpg	christchurch/shags.jpg
+christchurch/shag.jpg	christchurch/shag.jpg
+christchurch/arthurs_pass.jpg	christchurch/arthurs_pass.jpg
+christchurch/arthurs_pass_road.jpg	christchurch/arthurs_pass_road.jpg
+christchurch/kura_tawhiti.jpg	christchurch/kura_tawhiti.jpg
+christchurch/kura_tawhiti2.jpg	christchurch/kura_tawhiti2.jpg
+waitomo/maori_bird_trap.jpg	waitomo/maori_bird_trap.jpg
+waitomo/mud_pool1.jpg	waitomo/mud_pool1.jpg
+waitomo/mud_pool2.jpg	waitomo/mud_pool2.jpg
+waitomo/geysers.jpg	waitomo/geysers.jpg
+waitomo/hot_lake.jpg	waitomo/hot_lake.jpg
+waitomo/geysers2.jpg	waitomo/geysers2.jpg
+waitomo/mud_pool3.jpg	waitomo/mud_pool3.jpg
+waitomo/me_glow_worm_cave.jpg	waitomo/me_glow_worm_cave.jpg
+waitomo/waitomo_cave.jpg	waitomo/waitomo_cave.jpg
+waitomo/moa_bones.jpg	waitomo/moa_bones.jpg
+waitomo/glow_worms.jpg	waitomo/glow_worms.jpg
+waitomo/cave_weta.jpg	waitomo/cave_weta.jpg
+matamata/matamata.jpg	matamata/matamata.jpg
+matamata/hobbiton.jpg	matamata/hobbiton.jpg
+matamata/bilbo_hole.jpg	matamata/bilbo_hole.jpg
+matamata/oak_tree_prop.jpg	matamata/oak_tree_prop.jpg
+auckland_again/gannets1.jpg	auckland_again/gannets1.jpg
+auckland_again/gannets2.jpg	auckland_again/gannets2.jpg

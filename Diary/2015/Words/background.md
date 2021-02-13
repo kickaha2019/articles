@@ -1,13 +1,5 @@
----
-images:
-- path: background/Atlantis3.jpg
-  tag: Atlantis 3
-- path: background/cathedral.png
-  tag: Cathedral
-- path: background/unity.jpg
-  tag: Unity
----
-![Atlantis 3](background/Atlantis3.jpg)
+#image background/Atlantis3.jpg
+#markdown
 *Words* will be a lot of pages of words to read. What background
 to display these words over has occupied a lot of my time. My first
 thought was to go for something similar to the inside of the crystal
@@ -22,7 +14,8 @@ to generate height maps. Again such a backdrop would have drowned
 the foreground text. Thoughts kept coming, about wavering Escher
 staircases or Margritte apples and umbrellas bobbing around.
 
-![Cathedral](background/cathedral.png)
+#image background/cathedral.png
+#markdown
 The next serious thought came when I watched a music video for
 the Japanese electronica group [Perfume](https://www.perfume-global.com/).
 This video had the camera moving through wifeframe buildings -
@@ -37,7 +30,8 @@ rotated. It also wasn't fast enough - even after optimisation it
 still ate up the CPU on our iMac. So it wouldn't have worked well
 on a tablet. Sigh.
 
-![Unity](background/unity.jpg)
+#image background/unity.jpg
+#markdown
 I began looking at [Unity](https://unity3d.com) as a means of implementing the game,
 which would address the performance problem. In so doing I
 thought about being very fancy and having as a backdrop and

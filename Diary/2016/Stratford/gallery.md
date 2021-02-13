@@ -1,11 +1,12 @@
-![Swan's Nest Hotel](hotel.jpg)
-![Entrance to Buttefly Farm](farm_entrance.jpg)
-![Hot and humid Mayan-ish pool](mayan_pool.jpg)
-![One of the many butterflies](butterfly.jpg)
-![Menu at Fourteas](fourteas_menu.jpg)
-![Timer for when tea ready at Fourteas](fourteas_timer.jpg)
-![MAD museum exhibit](mad1.jpg)
-![MAD museum exhibit](mad2.jpg)
-![Countess of Evesham](countess.jpg)
-![Countess of Evesham interior](countess_interior.jpg)
-![Us on board Countess of Evesham](countess_us.jpg)
+#gallery
+hotel.jpg	hotel.jpg
+farm_entrance.jpg	farm_entrance.jpg
+mayan_pool.jpg	mayan_pool.jpg
+butterfly.jpg	butterfly.jpg
+fourteas_menu.jpg	fourteas_menu.jpg
+fourteas_timer.jpg	fourteas_timer.jpg
+mad1.jpg	mad1.jpg
+mad2.jpg	mad2.jpg
+countess.jpg	countess.jpg
+countess_interior.jpg	countess_interior.jpg
+countess_us.jpg	countess_us.jpg

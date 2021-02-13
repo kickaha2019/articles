@@ -1,18 +1,6 @@
----
-date: October 24th 2015
-anchors:
-- Wookey Hole Caves
-images:
-- path: wookey_hole.JPG
-  tag: Wookey Hole outside cave
-- path: wookey_cave.JPG
-  tag: Inside Wookey Hole cave
-- path: wookey_cheese.JPG
-  tag: Cheese maturing inside cave
-- path: wookey_dinos.JPG
-  tag: How the mighty have fallen at Wookey Hole
----
-![Wookey Hole outside cave](wookey_hole.JPG)
+#date October 24th 2015
+#image wookey_hole.JPG
+#markdown
 It had been dry if not blazing sun, but Saturday (24th) changed that. We voyaged through
 the rain to see *Clarks Shoe Museum* in Street but they failed
 to open! In desperation we went to [Wookey Hole](https://www.wookey.co.uk/) where so long ago

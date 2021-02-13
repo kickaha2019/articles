@@ -1,11 +1,6 @@
----
-title: 'Cleopatra: A Queen''s Destiny'
-images:
-- path: Cleopatra.jpg
-  tag: 'Cleopatra: A Queen''s Destiny'
----
-![Cleopatra: A Queen's Destiny](Cleopatra.jpg)
-
+#title Cleopatra: A Queen's Destiny
+#image	Cleopatra.jpg
+#markdown
 "Cleopatra: A Queen's Destiny" (Kheops 2007) is set in Cleopatra's Egypt, and has you as Thomas investigating the mysterious disappearance of astrologer Akkad and his daughter Iris.  In your quest you will visit the Pharos Lighthouse, mix potions, persuade ancient machinery to work, penetrate mausoleums, deal with crocodiles, and learn a little Greek.
 
 The puzzles are all standard Adventuring fare, no arcade or timed challenges.  The clues you find seem to have lost something in translation at one or two points.  The game takes place over a number of days and according to your choice at the start some of these days will be lucky, some unlucky.  On unlucky days extra problems are added which means writing a walkthrough is trickier.

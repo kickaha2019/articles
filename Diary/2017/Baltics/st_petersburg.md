@@ -1,34 +1,7 @@
----
-date: July 22nd 2017
-anchors:
-- St. Isaac's Cathedral
-- Catherine Palace
-- Faberge Museum
-- Pushkin Art Gallery
-title: St Petersburg
-images:
-- path: russia_1.JPG
-  tag: St Nicholas cathedral in St Petersburg
-- path: russia_10.JPG
-  tag: Catherine Palace in St Petersburg
-- path: russia_11.JPG
-  tag: Catherine Palace in St Petersburg
-- path: russia_12.JPG
-  tag: Catherine Palace in St Petersburg
-- path: russia_13.JPG
-  tag: Catherine Palace in St Petersburg
-- path: russia_14.JPG
-  tag: Catherine Palace in St Petersburg
-- path: russia_4.JPG
-  tag: St Isaac cathedral in St Petersburg
-- path: russia_5.JPG
-  tag: Wedding couple getting snapped in St Petersburg
-- path: russia_egg.JPG
-  tag: Faberge museum in St Petersburg
-- path: russia_shop.JPG
-  tag: Pushkin Art Gallery in St Petersburg
----
-![Catherine Palace in St Petersburg](russia_10.JPG)
+#title St Petersburg
+#date July 22nd 2017
+#image russia_10.JPG
+#markdown
 St. Petersburg was the centre of our cruise, a place of contrasts. In the city
 potholed roads and delapidated buildings which contrasted with the neat new motorway
 running past luxury hotels to
@@ -51,7 +24,8 @@ kittens about mice but the price was $800. We had a photo stop at
 where I saw a bridal couple getting photographed. Brides and grooms go round
 the city to be snapped on the day. Divorce rate here is 75%.
 
-![St Isaac cathedral in St Petersburg](russia_4.JPG)
+#image russia_4.JPG
+#markdown
 It took a long time getting through Russian border controls both ways. When there
 are queues the first queue is quickest as they let that queue use the booths for
 the opposite directions. The officer when I was returning second time kept saying some

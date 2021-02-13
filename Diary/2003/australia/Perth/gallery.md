@@ -1,4 +1,5 @@
-![Rottnest Island](rottnest.jpg)
-![Rottnest Island](rottnest2.jpg)
-![Quokka investigating walkie talkie](walkie_talkie.jpg)
-![Quokka - very tame and approachable](quokka.jpg)
+#gallery
+rottnest.jpg	rottnest.jpg
+rottnest2.jpg	rottnest2.jpg
+walkie_talkie.jpg	walkie_talkie.jpg
+quokka.jpg	quokka.jpg

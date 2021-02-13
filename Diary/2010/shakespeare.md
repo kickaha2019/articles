@@ -1,8 +1,7 @@
----
-icon: "/Users/peter/Synch/Website/Articles/Films/drama.png"
-title: Love's Labours Lost
-date: Tuesday, 20 July 2010
----
+#title Love's Labours Lost
+#icon /Users/peter/Synch/Website/Articles/Films/drama.png
+#date Tuesday, 20 July 2010
+#markdown
 Virginia and I try to see some
 [open air Shakespeare](https://www.cambridgeshakespeare.com/)
 each year. One feels for the actors and actresses who perform in the variable English weather. Happily July 20th was a fine day when we went and saw "Love's Labours Lost" in the gardens of

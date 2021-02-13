@@ -1,33 +1,16 @@
----
-title: New home!
-date: Friday, 29 April 2005
-images:
-- path: bathroom.jpg
-  tag: The bathroom - anyone know a good plumber?
-- path: furry_friends.jpg
-  tag: Furry friends Fleur Hamilton Keelie Peter Jr
-- path: immersion_heater.jpg
-  tag: Immersion heater
-- path: kitchen.jpg
-  tag: The kitchen
-- path: loft.jpg
-  tag: The loft - to be explored area
-- path: lounge.jpg
-  tag: The lounge - has that lived in look already
-- path: study.jpg
-  tag: The study
-- path: under_the_stairs.jpg
-  tag: Under the stairs with some DIY wiring
----
+#title New home!
+#date Friday, 29 April 2005
+#markdown
 We're not exactly settled in yet but please look around our new home. Feel free to put your feet up and rest on the sofa (if there's space which there isn't.) Or imagine you're signing our imaginary visitors book. The move went pretty well and NTL connected us up to TV (so I could watch Dr Who meet a Dalek), the telephone, and broadband internet (so I could upload these webpages.)
 
 A lot remains to be sorted out - the fridge freezer and other equipment doesn't quite fit into the gaps, loads of boxes remain to be unpacked, the gas may not be connected. But I'm grateful to be here in what I hope will be more relaxing than the last house.
 
-![The bathroom - anyone know a good plumber?](bathroom.jpg)
-![Furry friends Fleur Hamilton Keelie Peter Jr](furry_friends.jpg)
-![Immersion heater](immersion_heater.jpg)
-![The kitchen](kitchen.jpg)
-![The loft - to be explored area](loft.jpg)
-![The lounge - has that lived in look already](lounge.jpg)
-![The study](study.jpg)
-![Under the stairs with some DIY wiring](under_the_stairs.jpg)
+#gallery
+bathroom.jpg	bathroom.jpg
+furry_friends.jpg	furry_friends.jpg
+immersion_heater.jpg	immersion_heater.jpg
+kitchen.jpg	kitchen.jpg
+loft.jpg	loft.jpg
+lounge.jpg	lounge.jpg
+study.jpg	study.jpg
+under_the_stairs.jpg	under_the_stairs.jpg

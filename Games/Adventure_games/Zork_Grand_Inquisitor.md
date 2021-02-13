@@ -1,10 +1,5 @@
----
-images:
-- path: Zork_Grand_Inquisitor.jpg
-  tag: Zork Grand Inquisitor
----
-![Zork Grand Inquisitor](Zork_Grand_Inquisitor.jpg)
-
+#image	Zork_Grand_Inquisitor.jpg
+#markdown
 **Zork Grand Inquisitor** (1997) is a classic Adventure game (both in years and status).
 You are an unnamed anonymous Adventurer tasked with restoring
 to the the land after it has been banished by the Grand Inquisitor (a 

@@ -1,3 +1,4 @@
+#markdown
 "Present Hunt" has been tested on the following browser and
 operating system combinations:
 

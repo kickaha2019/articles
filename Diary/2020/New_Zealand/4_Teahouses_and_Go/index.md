@@ -1,47 +1,6 @@
----
-date: January 8th 2020
-anchors:
-- Shinjuku Gyoen National Garden
-- Rakuu-tei Tea House
-- Nihon Ki-in Tokyo HQ
-- Tempura Abe Honten
-images:
-- path: IMG_0738.jpg
-  tag: Shinjuku Gyoen
-- path: IMG_0740.jpg
-  tag: Shinjuku Gyoen
-- path: IMG_0743.jpg
-  tag: Shinjuku Gyoen
-- path: IMG_0746.jpg
-  tag: Rakuutei Teahouse
-- path: IMG_0744.jpg
-  tag: Rakuutei Teahouse
-- path: IMG_0752.jpg
-  tag: Teahouse ticket machine
-- path: IMG_0754.jpg
-  tag: Inside the teahouse
-- path: IMG_0758.jpg
-  tag: Inside the teahouse
-- path: IMG_0757.jpg
-  tag: Green tea and Japanese sweet
-- path: IMG_0760.jpg
-  tag: Underground to Ichigaya
-- path: IMG_0763.jpg
-  tag: Ichigaya exit
-- path: IMG_0764.jpg
-  tag: Nihon Kiin
-- path: IMG_0768.jpg
-  tag: Yugen no ma
-- path: IMG_0773.jpg
-  tag: Nihon Kiin museum
-- path: IMG_0781.jpg
-  tag: Tempura Abe Honten entrance
-- path: IMG_0778.jpg
-  tag: Inside Tempura Abe Honten
-- path: IMG_0777.jpg
-  tag: My tempura meal
----
-![Shinjuku Gyoen](IMG_0738.jpg)
+#date January 8th 2020
+#image IMG_0738.jpg
+#markdown
 I barely slept the previous night, perhaps my brain was overheated thanks to the
 [Robot Restaurant](https://shinjuku-robot.com/sp/),
 perhaps due to the timezone change. I was the first to breakfast at 6:30
@@ -62,7 +21,8 @@ On entering I was greeted by an old lady (I forgot to shut the sliding door) who
 gave me a Japanese sweet and a wooden knife to cut it into bitesize pieces. The green tea came
 later and was interesting, not what I was used to.
 
-![Nihon Kiin](IMG_0764.jpg)
+#image IMG_0764.jpg
+#markdown
 I confused my PASMO card when I went to the wrong line at Shinjuku Sanchome Station to
 get to Ichigaya then backed out. Happily staff saved the day. [Google Maps](https://www.google.com/maps) saw me
 safely from Ichigaya to the

@@ -1,22 +1,6 @@
----
-date: February 16th 2018
-title: Valentine's Day again
-images:
-- path: P1380546.JPG
-  tag: Say it with flowers
-- path: P1380535.JPG
-  tag: Exchange of cards and bath bombs
-- path: P1380536.JPG
-  tag: Virginia at our corner table
-- path: P1380538.JPG
-  tag: Hot and sour soup and checken and sweetcorn soup
-- path: P1380539.JPG
-  tag: Hors d'oeuvres
-- path: P1380541.JPG
-  tag: Crispy fried duck
-- path: P1380542.JPG
-  tag: Sizzling prawns and other dishes
----
+#title Valentine's Day again
+#date February 16th 2018
+#markdown
 (Valentine's Day is the 14th but we have decided having a meal that day is
 a bad idea. After we found ourselves eating in a typing pool layout next to
 a drunken couple).
@@ -35,10 +19,11 @@ sat in the corner we often sit in. For me it's an experience as much as
 it is eating. They kindly gave Virginia one of the roses left over from
 their Valentine's Day stock.
 
-![Say it with flowers](P1380546.JPG)
-![Exchange of cards and bath bombs](P1380535.JPG)
-![Virginia at our corner table](P1380536.JPG)
-![Hot and sour soup and checken and sweetcorn soup](P1380538.JPG)
-![Hors d'oeuvres](P1380539.JPG)
-![Crispy fried duck](P1380541.JPG)
-![Sizzling prawns and other dishes](P1380542.JPG)
+#gallery
+P1380546.JPG	P1380546.JPG
+P1380535.JPG	P1380535.JPG
+P1380536.JPG	P1380536.JPG
+P1380538.JPG	P1380538.JPG
+P1380539.JPG	P1380539.JPG
+P1380541.JPG	P1380541.JPG
+P1380542.JPG	P1380542.JPG

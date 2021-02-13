@@ -1,71 +1,7 @@
----
-title: First day of tour
-anchors:
-- National Museum of Korea
-- Seoul Tower
-- Changdeokgung Palace
-- Jongno Tower
-- Gwangjang Market
-date: May 10th 2016
-images:
-- path: museum.jpg
-  tag: National Museum of Korea
-- path: museum_crown.jpg
-  tag: Silla Crown in the museum
-- path: museum_urns.jpg
-  tag: Funerary urns in the museum
-- path: namsan_tower.jpg
-  tag: North Seoul Tower in Namsan Park
-- path: namsan_tower_sweetshop.jpg
-  tag: Sweetshop at top of Tower
-- path: seoul_costume_shop.jpg
-  tag: Costume shp in Seoul
-- path: palace_entrance.jpg
-  tag: Entrance to Changdeokgung Palace
-- path: palace.jpg
-  tag: Changdeokgung Palace
-- path: palace_pavilions.jpg
-  tag: Palace pavilions
-- path: palace_rooftop.jpg
-  tag: Creatures on pavilions roofs
-- path: palace_lock.jpg
-  tag: Traditional lock
-- path: palace_sundial.jpg
-  tag: Traditional sundial
-- path: palace_markers.jpg
-  tag: Where to stand for officials of different ranks
-- path: palace_throne.jpg
-  tag: Palace throne
-- path: huwon_pond.jpg
-  tag: Secret Garden pond
-- path: huwon_dressing_up.jpg
-  tag: Visitors dressing up
-- path: huwon_library.jpg
-  tag: Secret Garden library
-- path: huwon_map_pond.jpg
-  tag: Secret Garden pond in shape of Korea
-- path: gwangjang1.jpg
-  tag: Gwangjang Market
-- path: gwangjang_costume.jpg
-  tag: Costume shop in market
-- path: gwangjang_fish.jpg
-  tag: Fish in market
-- path: gwangjang_pancakes.jpg
-  tag: Korean pancakes in market
-- path: gwangjang_shoes.jpg
-  tag: Market shop
-- path: gwangjang_stall.jpg
-  tag: Food stall in market
-- path: gwangjang_towels.jpg
-  tag: Towels in market
-- path: gwangjang_veg.jpg
-  tag: Vegetables in market
-- path: seoul_menu.jpg
-  tag: Seoul restaurant menu
-- path: naengmyeon.jpg
-  tag: The frozen noodle soup
----
-![Silla Crown in the museum](museum_crown.jpg)
+#title First day of tour
+#date May 10th 2016
+#image museum_crown.jpg
+#markdown
 The buffet breakfast (included in the holiday) was a mix of Western and Korean, there were only a fork
 and spoon on the tables so I first tried eating scrambled eggs and bacon without the aid of a knife.
 Later discovered there were knives to be had. I dozed off again afterwards as my body clock was out of
@@ -87,7 +23,8 @@ on a fine day the views would have been impressive from the top of the tower. St
 long way, and there were sweetshops at the top for the children. Namsan means South Mountain we were
 told - odd that Namsan in sound is so close to Nan Shan which would be the Chinese for South Mountain.
 
-![Changdeokgung Palace](palace.jpg)
+#image palace.jpg
+#markdown
 We were dropped in a good location for something to eat - a kind couple from Germany took pity on me,
 and let me join them for a lunch of Bibimbap and dumplings. A decent place and it was great talking to
 them. In Korea they use red for female (yin) and blue for male (yang). Got some postcards on the way
@@ -100,7 +37,8 @@ shape of Korea, much photogenic like the young girls who had fitted themselves o
 Our guide said most would be visitors from China and Taiwan who fancied wearing Korean period costumes
 from watching Korean TV dramas.
 
-![Gwangjang Market](gwangjang1.jpg)
+#image gwangjang1.jpg
+#markdown
 The tour rounded off with the day's highlight for me - a walk through the complicated matrix that is
 [Gwangjang Market](http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273761).
 A miraculous collection of stalls selling food, many where you can sit and eat. Some

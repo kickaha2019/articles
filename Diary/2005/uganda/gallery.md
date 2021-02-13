@@ -1,40 +1,41 @@
-![Rural huts in Masindi](masindi.JPG)
-![Mosquito net](mosquito_nets.JPG)
-![English as she is wrote](lamenting_sign.jpg)
-![The drums will speak for miles and miles](drums.JPG)
-![Loofahs going cheap](loofahs.jpg)
-![Battery recharging](battery_charging.jpg)
-![Pots and pans for sale](pots_and_pans.jpg)
-![Phone kiosk](phone_kiosk.JPG)
-![Sewing shop](sewing_shop.JPG)
-![Chicken run - not only the humans have life tough here](chicken_run.jpg)
-![Brick kiln make your own bricks here](brick_kiln.JPG)
-![Charcoal stove - a hungry Molech-like demon](charcoal_stove.JPG)
-![Rural field with termite mound](field_with_termites.JPG)
-![Traditional beehive](traditional_beehive.JPG)
-![Child herders - it's not all play for children in Uganda](child_herders.JPG)
-![Water carrieress](girl_with_jerrycan.jpg)
-![The equator might not be here but shops certainly are](equator.JPG)
-![Village bell from a car inner wheel](village_bell.jpg)
-![Rwancerere Church - full past over-flowing](rwancerere_church.JPG)
-![Despite the conditions impeccably clean](clean_cassocks.JPG)
-![Drummer drumming](drummer_drumming.JPG)
-![Shuuku dance - an exhausting Acholi dance](school_dance.JPG)
-![Borehole at Masindi](masindi_borehole.JPG)
-![Pit toilet - this is important to the village](pit_toilet.jpg)
-![The Batwa (pygmies) were noted warriors once](batwa_archers.JPG)
-![Aid is providing the Batwa with better huts than these for accommodation](batwa_hut.JPG)
-![Brick carriers (young)](brick_carriers.jpg)
-![Kaharo trees](kaharo_trees.JPG)
-![Karuma Falls on the majestic White Nile](karuma_falls.JPG)
-![Tree in Masindi](masindi_tree.JPG)
-![Longhorn cattle traditionally herded by the Acholi](longhorn_cattle.jpg)
-![A field of papyrus](papyrus_field.JPG)
-![Rwanda volcano](rwanda_volcano.JPG)
-![Candelabra tree - not a cactus as I thought!](candelabra_tree.JPG)
-![A pipit?](pipit.JPG)
-![A ruffled pied crow](pied_crow.JPG)
-![Malibu stork on a waste tip](malibu_stork.JPG)
-![Butterfly dreaming](butterfly.jpg)
-![A species of kite](kite.jpg)
-![Weaver bird nests - entered from below](weaver_bird_nests.JPG)
+#gallery
+masindi.JPG	masindi.JPG
+mosquito_nets.JPG	mosquito_nets.JPG
+lamenting_sign.jpg	lamenting_sign.jpg
+drums.JPG	drums.JPG
+loofahs.jpg	loofahs.jpg
+battery_charging.jpg	battery_charging.jpg
+pots_and_pans.jpg	pots_and_pans.jpg
+phone_kiosk.JPG	phone_kiosk.JPG
+sewing_shop.JPG	sewing_shop.JPG
+chicken_run.jpg	chicken_run.jpg
+brick_kiln.JPG	brick_kiln.JPG
+charcoal_stove.JPG	charcoal_stove.JPG
+field_with_termites.JPG	field_with_termites.JPG
+traditional_beehive.JPG	traditional_beehive.JPG
+child_herders.JPG	child_herders.JPG
+girl_with_jerrycan.jpg	girl_with_jerrycan.jpg
+equator.JPG	equator.JPG
+village_bell.jpg	village_bell.jpg
+rwancerere_church.JPG	rwancerere_church.JPG
+clean_cassocks.JPG	clean_cassocks.JPG
+drummer_drumming.JPG	drummer_drumming.JPG
+school_dance.JPG	school_dance.JPG
+masindi_borehole.JPG	masindi_borehole.JPG
+pit_toilet.jpg	pit_toilet.jpg
+batwa_archers.JPG	batwa_archers.JPG
+batwa_hut.JPG	batwa_hut.JPG
+brick_carriers.jpg	brick_carriers.jpg
+kaharo_trees.JPG	kaharo_trees.JPG
+karuma_falls.JPG	karuma_falls.JPG
+masindi_tree.JPG	masindi_tree.JPG
+longhorn_cattle.jpg	longhorn_cattle.jpg
+papyrus_field.JPG	papyrus_field.JPG
+rwanda_volcano.JPG	rwanda_volcano.JPG
+candelabra_tree.JPG	candelabra_tree.JPG
+pipit.JPG	pipit.JPG
+pied_crow.JPG	pied_crow.JPG
+malibu_stork.JPG	malibu_stork.JPG
+butterfly.jpg	butterfly.jpg
+kite.jpg	kite.jpg
+weaver_bird_nests.JPG	weaver_bird_nests.JPG

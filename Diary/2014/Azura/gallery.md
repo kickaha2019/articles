@@ -1,125 +1,126 @@
-![The terminal in Southampton with the huge Azura behind it](terminal.JPG)
-![Cars being unloaded](unloading.JPG)
-![Baggage waiting to be shipped onboard](cases.JPG)
-![Waiting to go to a desk to be processed](processing.JPG)
-![The end of the maze and onto the ship!](end_of_maze.JPG)
-![The impressive atrium on the Azura](atrium.JPG)
-![The muster drill - a dress rehearsal for abandoning ship](muster.JPG)
-![Laundrette on our deck on Azura](laund_door.JPG)
-![Inside the laundrette on Azura](laund_inside.JPG)
-![Laundrette washers](washers.JPG)
-![Plumbing for the washer dryers](laund_plumbing.JPG)
-![Laundrette sink](laund_sink.JPG)
-![Wiring diagram for laundrette](laund_diagram.JPG)
-![Line dancing in the atrium on Azura](line_dancing1.JPG)
-![Individuals yet a group](line_dancing2.JPG)
-![800 seat Playhouse on the Azura - not big enough for a 3000 passenger ship!](playhouse.JPG)
-![Malabar used for some entertainments](malabar.JPG)
-![The stages had professional lighting and sound systems](stage_lighting.JPG)
-![People filing off the ship in Gibraltar](leaving_ship.JPG)
-![Scoops for dredging?](scoops1.JPG)
-![They resembled monstrous metal spiders](scoops2.JPG)
-![Our second visit to Gibraltar](gibraltar.JPG)
-![Gate into Casemates Square in Gibraltar](casemates_gate.JPG)
-![Gibraltar invaded by tourists](invasion.JPG)
-![Busker blowing big bubbles in Gibraltar](bubbles.JPG)
-![Chimney stacks at a port factory at Gibraltar](towers.JPG)
-![Our coach to Mt Etna](coach.JPG)
-![Coach certificate](certificate.JPG)
-![Hills around Mt Etna](hills.JPG)
-![Volcanic debris at Mt Etna](debris.JPG)
-![Grass trying to recolonise the volcanic soil](grass.JPG)
-![Twisted rock from lava flow at Mt Etna](lava_flow.JPG)
-![One of the Silvestri craters at Mt Etna](crater.JPG)
-![Volcanoes leave almost a moonscape](crater2.JPG)
-![Colours from inside the earth](sulphur.JPG)
-![Looking towards the summit of Mt Etna](summit.JPG)
-![Corfu: metal sculpture or derelict sign? Perhaps both!](sign.JPG)
-![Might not pass the MOT in the UK](car.JPG)
-![Parade of scooters in Corfu](scooters.JPG)
-![A factory which has seen better days in Corfu](factory.JPG)
-![Our good ship Azura at Corfu](ship.JPG)
-![Approaching Dubrovnik from sea](approaching.JPG)
-![Dubrovnik's walls facing the sea](seawalls.JPG)
-![Glass ornaments on sale](ornaments.JPG)
-![Dubrovnik city square](square.JPG)
-![Lady clad in traditional costume](traditional.JPG)
-![Dalmatian dogs come from the Dubrovnik area](dog.JPG)
-![Food stall to attract the tourists in Dubrovnik](food.JPG)
-![Refreshment shoppe in Dubrovnik](shop.JPG)
-![Ice cream to relieve the heat](ice_cream.JPG)
-![The Ventura moored behind us at Dubrovnik](ventura.JPG)
-![St Marks Square Venice from Azura sailing in](st_marks_square.JPG)
-![Bridge of Sighs in Venice](bridge_of_sighs.JPG)
-![Lion on pedestal at St Marks Square](lion.JPG)
-![15 was our tour party](parties.JPG)
-![Doge's Palace in Venice exterior](doge_palace1.JPG)
-![Doge's Palace interior](doge_palace.JPG)
-![Where to post denunciations in the Doge's Palace](denounce.JPG)
-![24-hour clock in Doge's Palace](venice_clock.JPG)
-![Zodiac clock in Doge's Palace](zodiac.JPG)
-![Gondolas for the gondola ride in Venice](gondolas1.JPG)
-![Us on our gondola](gondolas2.JPG)
-![Our gondolier](gondolier.JPG)
-![Gondola ride](canal1.JPG)
-![Gondola ride](canal2.JPG)
-![Gondola ride passing restaurant](ristorante.JPG)
-![Gondola ride on Grand Canal](canal3.JPG)
-![St Marks Basilica in Venice](basilica.JPG)
-![Entering Malta harbour](entering.JPG)
-![Tug for refuelling Azura at Malta](tug.JPG)
-![Entering Mdina in Malta](mdina1.JPG)
-![Mdina street](mdina2.JPG)
-![Mdina street](mdina4.JPG)
-![Mdina street](mdina5.JPG)
-![Mdina cathedral](mdina3.JPG)
-![Gravestone floor](gravestones.JPG)
-![Picture in the cathedral](malta_church.JPG)
-![Cathedral altar](altar.JPG)
-![Palazzo Paradiso in Malta](palazzo0.JPG)
-![Palazzo ceiling](palazzo1.JPG)
-![Palazzo dining room](palazzo2.JPG)
-![Palazzo hall](palazzo3.JPG)
-![Palazzo decoration](palazzo4.JPG)
-![Seventeen entrance on Azura](entrance.JPG)
-![The reception desk at Seventeen](desk.JPG)
-![Menus ready to be presented](menus.JPG)
-![Seventeen tables](tables.JPG)
-![Us at our table](us.JPG)
-![The menu](menu.JPG)
-![Warm bread to start the meal](bread.JPG)
-![Virginia's crayfish cocktail starter](crayfish_cocktail.JPG)
-![My ravioli starter](ravioli.JPG)
-![Gratuitous soup](soup.JPG)
-![We both had the lamb](lamb.JPG)
-![A gratuitous wobbly thingy](thingy.JPG)
-![Virginia had the brulee trio dessert](brulees.JPG)
-![I had the terrine dessert](terrine.JPG)
-![A post meal treat](coup_de_grace.JPG)
-![A good meal at Seventeen on Azura!](good_meal.JPG)
-![Cadiz postbox](postbox.JPG)
-![A handy municipal fountain in Cadiz](fountain.JPG)
-![A pleasant open area in Cadiz](area.JPG)
-![A water exhibit](fountain2.JPG)
-![Cadiz church](church.JPG)
-![Hall in Cadiz](hall.JPG)
-![Promenade deck side clock](clock.JPG)
-![Deck chairs](deck_chairs.JPG)
-![Hoses](hoses.JPG)
-![Ladder](ladder.JPG)
-![Lamp](lamp.JPG)
-![Life jackets](life_jackets.JPG)
-![Lifebelt](lifebelt.JPG)
-![Painter of the rope variety](painter.JPG)
-![Wet floor indicator](wet_floor.JPG)
-![Wire](wire.JPG)
-![Glass House bar and eaterie on Azura](glass_house.JPG)
-![Java bar](java_bar.JPG)
-![Appliances behind a bar](bar_appliances.JPG)
-![Our table in the Oriental Restaurant on Azura](our_table.JPG)
-![Dispensers for salt and pepper and sugar](dispensers.JPG)
-![The Azura atrium floor needed repair by the end of the cruise](atrium_repair.JPG)
-![It's all about money from one angle](flowers.JPG)
-![The miniscule library on Azura](library.JPG)
-![The Oriental Restaurant on Azura](oriental.JPG)
-![The art adorned stairwells](stairwell.JPG)
+#gallery
+terminal.JPG	terminal.JPG
+unloading.JPG	unloading.JPG
+cases.JPG	cases.JPG
+processing.JPG	processing.JPG
+end_of_maze.JPG	end_of_maze.JPG
+atrium.JPG	atrium.JPG
+muster.JPG	muster.JPG
+laund_door.JPG	laund_door.JPG
+laund_inside.JPG	laund_inside.JPG
+washers.JPG	washers.JPG
+laund_plumbing.JPG	laund_plumbing.JPG
+laund_sink.JPG	laund_sink.JPG
+laund_diagram.JPG	laund_diagram.JPG
+line_dancing1.JPG	line_dancing1.JPG
+line_dancing2.JPG	line_dancing2.JPG
+playhouse.JPG	playhouse.JPG
+malabar.JPG	malabar.JPG
+stage_lighting.JPG	stage_lighting.JPG
+leaving_ship.JPG	leaving_ship.JPG
+scoops1.JPG	scoops1.JPG
+scoops2.JPG	scoops2.JPG
+gibraltar.JPG	gibraltar.JPG
+casemates_gate.JPG	casemates_gate.JPG
+invasion.JPG	invasion.JPG
+bubbles.JPG	bubbles.JPG
+towers.JPG	towers.JPG
+coach.JPG	coach.JPG
+certificate.JPG	certificate.JPG
+hills.JPG	hills.JPG
+debris.JPG	debris.JPG
+grass.JPG	grass.JPG
+lava_flow.JPG	lava_flow.JPG
+crater.JPG	crater.JPG
+crater2.JPG	crater2.JPG
+sulphur.JPG	sulphur.JPG
+summit.JPG	summit.JPG
+sign.JPG	sign.JPG
+car.JPG	car.JPG
+scooters.JPG	scooters.JPG
+factory.JPG	factory.JPG
+ship.JPG	ship.JPG
+approaching.JPG	approaching.JPG
+seawalls.JPG	seawalls.JPG
+ornaments.JPG	ornaments.JPG
+square.JPG	square.JPG
+traditional.JPG	traditional.JPG
+dog.JPG	dog.JPG
+food.JPG	food.JPG
+shop.JPG	shop.JPG
+ice_cream.JPG	ice_cream.JPG
+ventura.JPG	ventura.JPG
+st_marks_square.JPG	st_marks_square.JPG
+bridge_of_sighs.JPG	bridge_of_sighs.JPG
+lion.JPG	lion.JPG
+parties.JPG	parties.JPG
+doge_palace1.JPG	doge_palace1.JPG
+doge_palace.JPG	doge_palace.JPG
+denounce.JPG	denounce.JPG
+venice_clock.JPG	venice_clock.JPG
+zodiac.JPG	zodiac.JPG
+gondolas1.JPG	gondolas1.JPG
+gondolas2.JPG	gondolas2.JPG
+gondolier.JPG	gondolier.JPG
+canal1.JPG	canal1.JPG
+canal2.JPG	canal2.JPG
+ristorante.JPG	ristorante.JPG
+canal3.JPG	canal3.JPG
+basilica.JPG	basilica.JPG
+entering.JPG	entering.JPG
+tug.JPG	tug.JPG
+mdina1.JPG	mdina1.JPG
+mdina2.JPG	mdina2.JPG
+mdina4.JPG	mdina4.JPG
+mdina5.JPG	mdina5.JPG
+mdina3.JPG	mdina3.JPG
+gravestones.JPG	gravestones.JPG
+malta_church.JPG	malta_church.JPG
+altar.JPG	altar.JPG
+palazzo0.JPG	palazzo0.JPG
+palazzo1.JPG	palazzo1.JPG
+palazzo2.JPG	palazzo2.JPG
+palazzo3.JPG	palazzo3.JPG
+palazzo4.JPG	palazzo4.JPG
+entrance.JPG	entrance.JPG
+desk.JPG	desk.JPG
+menus.JPG	menus.JPG
+tables.JPG	tables.JPG
+us.JPG	us.JPG
+menu.JPG	menu.JPG
+bread.JPG	bread.JPG
+crayfish_cocktail.JPG	crayfish_cocktail.JPG
+ravioli.JPG	ravioli.JPG
+soup.JPG	soup.JPG
+lamb.JPG	lamb.JPG
+thingy.JPG	thingy.JPG
+brulees.JPG	brulees.JPG
+terrine.JPG	terrine.JPG
+coup_de_grace.JPG	coup_de_grace.JPG
+good_meal.JPG	good_meal.JPG
+postbox.JPG	postbox.JPG
+fountain.JPG	fountain.JPG
+area.JPG	area.JPG
+fountain2.JPG	fountain2.JPG
+church.JPG	church.JPG
+hall.JPG	hall.JPG
+clock.JPG	clock.JPG
+deck_chairs.JPG	deck_chairs.JPG
+hoses.JPG	hoses.JPG
+ladder.JPG	ladder.JPG
+lamp.JPG	lamp.JPG
+life_jackets.JPG	life_jackets.JPG
+lifebelt.JPG	lifebelt.JPG
+painter.JPG	painter.JPG
+wet_floor.JPG	wet_floor.JPG
+wire.JPG	wire.JPG
+glass_house.JPG	glass_house.JPG
+java_bar.JPG	java_bar.JPG
+bar_appliances.JPG	bar_appliances.JPG
+our_table.JPG	our_table.JPG
+dispensers.JPG	dispensers.JPG
+atrium_repair.JPG	atrium_repair.JPG
+flowers.JPG	flowers.JPG
+library.JPG	library.JPG
+oriental.JPG	oriental.JPG
+stairwell.JPG	stairwell.JPG

@@ -1,18 +1,6 @@
----
-date: October 22nd 2015
-anchors:
-- Axbridge
-images:
-- path: parsonage.JPG
-  tag: The Parsonage where we stayed
-- path: parsonage_view.JPG
-  tag: View from the Parsonage
-- path: axbridge_square.JPG
-  tag: Medieval square in Axbridge
-- path: lamb_inn.JPG
-  tag: Lamb Inn in Axbridge
----
-![The Parsonage where we stayed](parsonage.JPG)
+#date October 22nd 2015
+#image parsonage.JPG
+#markdown
 Our long weekend started with a stressful journey to Axbridge through the heart of
 Coventry. The Satnav meant kindly probably, meaning to miss congestion, but I would
 happily have missed the feeling of doom I get from driving around lost inside a
@@ -29,6 +17,7 @@ room. A great view down to the nearby reservoir. Not a lot of parking space, sli
 challenge reversing the car to get back down the trail in. We didn't get a key for the
 room which caused me perhaps unnecessary unease.
 
-![Lamb Inn in Axbridge](lamb_inn.JPG)
+#image lamb_inn.JPG
+#markdown
 We ate in Axbridge itself at the [Lamb Inn](https://www.butcombe.com/pubs/the-lamb-hotel/), I admired its
 charm and antiquity and oak beams as I had a Butcombe Ale pie.

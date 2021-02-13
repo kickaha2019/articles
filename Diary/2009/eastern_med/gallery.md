@@ -1,117 +1,118 @@
-![The Aurora](cruise/aurora.JPG)
-![The Aurora at Gibraltar](cruise/at_gibraltar.JPG)
-![Our cabin](cruise/cabin.JPG)
-![Looking out of our cabin during inclement weather](cruise/inclement_weather.JPG)
-![Our cabin](cruise/cabin2.JPG)
-![Our bathroom](cruise/bathroom.JPG)
-![Our sink](cruise/sink.JPG)
-![Our hallway](cruise/hallway.JPG)
-![Cleaning automaton](cruise/cleaning.JPG)
-![Staircase view](cruise/staircase.JPG)
-![For inclement weather](cruise/sickbag.JPG)
-![Where to book more cruises](cruise/bookings.JPG)
-![The atrium](cruise/atrium.JPG)
-![Me at atrium base](cruise/me_atrium.JPG)
-![The Medina restaurant](cruise/medina.JPG)
-![Cafe Bordeaux](cruise/cafe_bordeaux.JPG)
-![Alexandria restaurant](cruise/alexandria.JPG)
-![Sidewalk cafe](cruise/sidewalk_cafe.JPG)
-![Pennant Grill](cruise/pennant_grill.JPG)
-![The galleys on board ship](cruise/galleys.JPG)
-![Laundrette](cruise/laundrette.JPG)
-![Virginia in one of the many shops](cruise/shop.JPG)
-![Library](cruise/library.JPG)
-![Cyb@Study](cruise/cyber_study.JPG)
-![Virginia on Internet](cruise/ginny_on_internet.JPG)
-![Top of ship](cruise/top_of_ship.JPG)
-![Radio / radar](cruise/radio.JPG)
-![Top of ship](cruise/top2.JPG)
-![Looking aft](cruise/aft.JPG)
-![Pool](cruise/pool.JPG)
-![Promenade deck](cruise/promenade.JPG)
-![Lifeboat](cruise/lifeboat.JPG)
-![Lifeboat - it floats!](cruise/lifeboat_floats.JPG)
-![Window washing](cruise/window_washing.JPG)
-![Masquerade](cruise/masquerade.JPG)
-![Champions](cruise/champions.JPG)
-![Carmens](cruise/carmens.JPG)
-![Aft of ship](cruise/aft_pools.JPG)
-![Atrium top](cruise/atrium_top.JPG)
-![Casino](cruise/casino.JPG)
-![Photo shop](cruise/photo_shop.JPG)
-![Mayfair shop](cruise/mayfair.JPG)
-![More shops](cruise/more_shops.JPG)
-![Passengers ready to go ashore](cruise/passengers_ready.JPG)
-![Giza with pyramids in distance](egypt/giza.JPG)
-![Pyramids](egypt/pyramids1.JPG)
-![More pyramids](egypt/pyramids2.JPG)
-![Pyramid](egypt/pyramids3.JPG)
-![Sphinx](egypt/sphinx1.JPG)
-![Sphinx](egypt/sphinx2.JPG)
-![Where Aphrodite was born in Cyprus](cyprus/aphrodite_born.JPG)
-![Paphos mosaics](cyprus/paphos_mosaics.JPG)
-![Paphos mosaic](cyprus/paphos_mosaics2.JPG)
-![Paphos mosaic](cyprus/paphos_mosaics3.JPG)
-![Virginia at Paphos](cyprus/paphos_ginny.JPG)
-![Paphos mosaic](cyprus/paphos_mosaics4.JPG)
-![Paphos site](cyprus/paphos_site.JPG)
-![Paphos harbour](cyprus/paphos_harbour.JPG)
-![Me at Paphos harbour](cyprus/paphos_me.JPG)
-![Looking down at Lindos](rhodes/lindos_look_down.JPG)
-![Lindos Acropolis](rhodes/lindos_acropolis.JPG)
-![Lindos town](rhodes/lindos_town.JPG)
-![Virginia at Lindos Acropolis](rhodes/lindos_ginny.JPG)
-![Lindos sculpture](rhodes/lindos_sculpture.JPG)
-![Cats at Lindos](rhodes/lindos_cats.JPG)
-![Tablecloth sales people](rhodes/lindos_tablecloths.JPG)
-![Lindos town](rhodes/lindos_town2.JPG)
-![Lindos town](rhodes/lindos_town3.JPG)
-![Lindos town](rhodes/lindos_town4.JPG)
-![Lindos town](rhodes/lindos_town5.JPG)
-![Lindos town](rhodes/lindos_town6.JPG)
-![Lindos town](rhodes/lindos_town7.JPG)
-![Rhodes Crusader castle](rhodes/crusader_castle.JPG)
-![Rhodes Crusader castle](rhodes/crusader_castle2.JPG)
-![Rhodes Crusader castle](rhodes/crusader_castle3.JPG)
-![Rhodes](rhodes/rhodes.JPG)
-![Rhodes from ship](rhodes/rhodes_from_ship.JPG)
-![Virgin Mary's house at Ephesus](ephesus/ep_v_mary.JPG)
-![Wishes here](ephesus/ep_wishes.JPG)
-![Array of columns](ephesus/ep_columns.JPG)
-![Ephesus](ephesus/ep1.JPG)
-![Ephesus](ephesus/ep2.JPG)
-![Ephesus](ephesus/ep3.JPG)
-![Ephesus - healer's sign](ephesus/ep_healer.JPG)
-![Ephesus - our guide Oz](ephesus/ep_oz.JPG)
-![Ephesus - Nike statue](ephesus/ep_nike.JPG)
-![Ephesus](ephesus/ep4.JPG)
-![Ephesus](ephesus/ep5.JPG)
-![Ephesus - one of the many cats](ephesus/ep_cat.JPG)
-![Ephesus](ephesus/ep6.JPG)
-![Ephesus](ephesus/ep7.JPG)
-![Ephesus - carving of Medusa](ephesus/ep_medusa.JPG)
-![Ephesus - communal latrine](ephesus/ep_latrine.JPG)
-![Ephesus - library](ephesus/ep_lib1.JPG)
-![Ephesus - library](ephesus/ep_lib2.JPG)
-![Ephesus - library](ephesus/ep_lib3.JPG)
-![Ephesus - amphitheatre](ephesus/ep_amphitheatre.JPG)
-![Ephesus](ephesus/ep8.JPG)
-![Ephesus](ephesus/ep9.JPG)
-![Ephesus - way to harbour](ephesus/ep_harbour.JPG)
-![Ephesus](ephesus/ep10.JPG)
-![Ephesus](ephesus/ep11.JPG)
-![St John's Basilica](ephesus/basilica.JPG)
-![St John's Basilica](ephesus/basilica_ginny.JPG)
-![St John's Basilica](ephesus/basilica2.JPG)
-![St John's Basilica - bapistry](ephesus/basilica_baptistry.JPG)
-![St John's Basilica](ephesus/basilica3.JPG)
-![Status of Artemis](ephesus/artemis.JPG)
-![Turkish carpet weaver](ephesus/carpet_weaver.JPG)
-![Parthenon](athens/parthenon.JPG)
-![Athens Acropolis](athens/athens_acropolis.JPG)
-![Parthenon](athens/parthenon2.JPG)
-![Parthenon](athens/parthenon3.JPG)
-![Parthenon](athens/parthenon4.JPG)
-![Gibraltar](gibraltar/gib1.JPG)
-![Gibraltar](gibraltar/gib2.JPG)
-![Gibraltar](gibraltar/gib3.JPG)
+#gallery
+cruise/aurora.JPG	cruise/aurora.JPG
+cruise/at_gibraltar.JPG	cruise/at_gibraltar.JPG
+cruise/cabin.JPG	cruise/cabin.JPG
+cruise/inclement_weather.JPG	cruise/inclement_weather.JPG
+cruise/cabin2.JPG	cruise/cabin2.JPG
+cruise/bathroom.JPG	cruise/bathroom.JPG
+cruise/sink.JPG	cruise/sink.JPG
+cruise/hallway.JPG	cruise/hallway.JPG
+cruise/cleaning.JPG	cruise/cleaning.JPG
+cruise/staircase.JPG	cruise/staircase.JPG
+cruise/sickbag.JPG	cruise/sickbag.JPG
+cruise/bookings.JPG	cruise/bookings.JPG
+cruise/atrium.JPG	cruise/atrium.JPG
+cruise/me_atrium.JPG	cruise/me_atrium.JPG
+cruise/medina.JPG	cruise/medina.JPG
+cruise/cafe_bordeaux.JPG	cruise/cafe_bordeaux.JPG
+cruise/alexandria.JPG	cruise/alexandria.JPG
+cruise/sidewalk_cafe.JPG	cruise/sidewalk_cafe.JPG
+cruise/pennant_grill.JPG	cruise/pennant_grill.JPG
+cruise/galleys.JPG	cruise/galleys.JPG
+cruise/laundrette.JPG	cruise/laundrette.JPG
+cruise/shop.JPG	cruise/shop.JPG
+cruise/library.JPG	cruise/library.JPG
+cruise/cyber_study.JPG	cruise/cyber_study.JPG
+cruise/ginny_on_internet.JPG	cruise/ginny_on_internet.JPG
+cruise/top_of_ship.JPG	cruise/top_of_ship.JPG
+cruise/radio.JPG	cruise/radio.JPG
+cruise/top2.JPG	cruise/top2.JPG
+cruise/aft.JPG	cruise/aft.JPG
+cruise/pool.JPG	cruise/pool.JPG
+cruise/promenade.JPG	cruise/promenade.JPG
+cruise/lifeboat.JPG	cruise/lifeboat.JPG
+cruise/lifeboat_floats.JPG	cruise/lifeboat_floats.JPG
+cruise/window_washing.JPG	cruise/window_washing.JPG
+cruise/masquerade.JPG	cruise/masquerade.JPG
+cruise/champions.JPG	cruise/champions.JPG
+cruise/carmens.JPG	cruise/carmens.JPG
+cruise/aft_pools.JPG	cruise/aft_pools.JPG
+cruise/atrium_top.JPG	cruise/atrium_top.JPG
+cruise/casino.JPG	cruise/casino.JPG
+cruise/photo_shop.JPG	cruise/photo_shop.JPG
+cruise/mayfair.JPG	cruise/mayfair.JPG
+cruise/more_shops.JPG	cruise/more_shops.JPG
+cruise/passengers_ready.JPG	cruise/passengers_ready.JPG
+egypt/giza.JPG	egypt/giza.JPG
+egypt/pyramids1.JPG	egypt/pyramids1.JPG
+egypt/pyramids2.JPG	egypt/pyramids2.JPG
+egypt/pyramids3.JPG	egypt/pyramids3.JPG
+egypt/sphinx1.JPG	egypt/sphinx1.JPG
+egypt/sphinx2.JPG	egypt/sphinx2.JPG
+cyprus/aphrodite_born.JPG	cyprus/aphrodite_born.JPG
+cyprus/paphos_mosaics.JPG	cyprus/paphos_mosaics.JPG
+cyprus/paphos_mosaics2.JPG	cyprus/paphos_mosaics2.JPG
+cyprus/paphos_mosaics3.JPG	cyprus/paphos_mosaics3.JPG
+cyprus/paphos_ginny.JPG	cyprus/paphos_ginny.JPG
+cyprus/paphos_mosaics4.JPG	cyprus/paphos_mosaics4.JPG
+cyprus/paphos_site.JPG	cyprus/paphos_site.JPG
+cyprus/paphos_harbour.JPG	cyprus/paphos_harbour.JPG
+cyprus/paphos_me.JPG	cyprus/paphos_me.JPG
+rhodes/lindos_look_down.JPG	rhodes/lindos_look_down.JPG
+rhodes/lindos_acropolis.JPG	rhodes/lindos_acropolis.JPG
+rhodes/lindos_town.JPG	rhodes/lindos_town.JPG
+rhodes/lindos_ginny.JPG	rhodes/lindos_ginny.JPG
+rhodes/lindos_sculpture.JPG	rhodes/lindos_sculpture.JPG
+rhodes/lindos_cats.JPG	rhodes/lindos_cats.JPG
+rhodes/lindos_tablecloths.JPG	rhodes/lindos_tablecloths.JPG
+rhodes/lindos_town2.JPG	rhodes/lindos_town2.JPG
+rhodes/lindos_town3.JPG	rhodes/lindos_town3.JPG
+rhodes/lindos_town4.JPG	rhodes/lindos_town4.JPG
+rhodes/lindos_town5.JPG	rhodes/lindos_town5.JPG
+rhodes/lindos_town6.JPG	rhodes/lindos_town6.JPG
+rhodes/lindos_town7.JPG	rhodes/lindos_town7.JPG
+rhodes/crusader_castle.JPG	rhodes/crusader_castle.JPG
+rhodes/crusader_castle2.JPG	rhodes/crusader_castle2.JPG
+rhodes/crusader_castle3.JPG	rhodes/crusader_castle3.JPG
+rhodes/rhodes.JPG	rhodes/rhodes.JPG
+rhodes/rhodes_from_ship.JPG	rhodes/rhodes_from_ship.JPG
+ephesus/ep_v_mary.JPG	ephesus/ep_v_mary.JPG
+ephesus/ep_wishes.JPG	ephesus/ep_wishes.JPG
+ephesus/ep_columns.JPG	ephesus/ep_columns.JPG
+ephesus/ep1.JPG	ephesus/ep1.JPG
+ephesus/ep2.JPG	ephesus/ep2.JPG
+ephesus/ep3.JPG	ephesus/ep3.JPG
+ephesus/ep_healer.JPG	ephesus/ep_healer.JPG
+ephesus/ep_oz.JPG	ephesus/ep_oz.JPG
+ephesus/ep_nike.JPG	ephesus/ep_nike.JPG
+ephesus/ep4.JPG	ephesus/ep4.JPG
+ephesus/ep5.JPG	ephesus/ep5.JPG
+ephesus/ep_cat.JPG	ephesus/ep_cat.JPG
+ephesus/ep6.JPG	ephesus/ep6.JPG
+ephesus/ep7.JPG	ephesus/ep7.JPG
+ephesus/ep_medusa.JPG	ephesus/ep_medusa.JPG
+ephesus/ep_latrine.JPG	ephesus/ep_latrine.JPG
+ephesus/ep_lib1.JPG	ephesus/ep_lib1.JPG
+ephesus/ep_lib2.JPG	ephesus/ep_lib2.JPG
+ephesus/ep_lib3.JPG	ephesus/ep_lib3.JPG
+ephesus/ep_amphitheatre.JPG	ephesus/ep_amphitheatre.JPG
+ephesus/ep8.JPG	ephesus/ep8.JPG
+ephesus/ep9.JPG	ephesus/ep9.JPG
+ephesus/ep_harbour.JPG	ephesus/ep_harbour.JPG
+ephesus/ep10.JPG	ephesus/ep10.JPG
+ephesus/ep11.JPG	ephesus/ep11.JPG
+ephesus/basilica.JPG	ephesus/basilica.JPG
+ephesus/basilica_ginny.JPG	ephesus/basilica_ginny.JPG
+ephesus/basilica2.JPG	ephesus/basilica2.JPG
+ephesus/basilica_baptistry.JPG	ephesus/basilica_baptistry.JPG
+ephesus/basilica3.JPG	ephesus/basilica3.JPG
+ephesus/artemis.JPG	ephesus/artemis.JPG
+ephesus/carpet_weaver.JPG	ephesus/carpet_weaver.JPG
+athens/parthenon.JPG	athens/parthenon.JPG
+athens/athens_acropolis.JPG	athens/athens_acropolis.JPG
+athens/parthenon2.JPG	athens/parthenon2.JPG
+athens/parthenon3.JPG	athens/parthenon3.JPG
+athens/parthenon4.JPG	athens/parthenon4.JPG
+gibraltar/gib1.JPG	gibraltar/gib1.JPG
+gibraltar/gib2.JPG	gibraltar/gib2.JPG
+gibraltar/gib3.JPG	gibraltar/gib3.JPG

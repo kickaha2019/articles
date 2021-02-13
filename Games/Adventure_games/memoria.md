@@ -1,10 +1,5 @@
----
-images:
-- path: Memoria.jpg
-  tag: Memoria
----
-![Memoria](Memoria.jpg)
-
+#image	Memoria.jpg
+#markdown
 *Memoria* (2013) from [Daedalic Entertainment](https://www.daedalic.com/)
 is the sequel to
 to *Chains of Satinav*.  Geron's fairy and friend Nuri

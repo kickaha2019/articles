@@ -1,24 +1,8 @@
----
-date: March 28th 2018
-title: Goodbye to Tabitha
-icon: DSCF0029.JPG
-images:
-- path: DSCF0006.jpg
-  tag: Virginia holding Tabitha soon after we got her
-- path: IMG_1722.jpg
-  tag: Tabitha on a cat tree
-- path: DSCF0022.JPG
-  tag: Tabitha in the snow
-- path: IMG_1995.JPG
-  tag: Tabitha on the bed
-- path: lapsit.jpg
-  tag: Tabitha lapsitting
-- path: IMG_0452.JPG
-  tag: Tabitha in back garden
-- path: IMG_0484.JPG
-  tag: Tabitha in basket
----
-![Tabitha in basket](IMG_0484.JPG)
+#title Goodbye to Tabitha
+#icon DSCF0029.JPG
+#date March 28th 2018
+#image IMG_0484.JPG
+#markdown
 The world cried today and we cried with it. Our eldest cat Tabitha was
 put to sleep this lunchtime.
 
@@ -28,7 +12,8 @@ the official birthday for our quean. And royalty she was - a blue-eyed
 rare chocolate colour point Ragdoll. Tabitha looked down on our
 second cat Amelia as a naughty little schoolgirl one cattery owner said.
 
-![Virginia holding Tabitha soon after we got her](DSCF0006.jpg)
+#image DSCF0006.jpg
+#markdown
 In her first five years Tabitha was named Fleur, she had kittens,
 was said to be a good mother.
 She also suffered being exhibited in cat shows, and won prizes.
@@ -45,7 +30,8 @@ good friends Alex and Howie, and a pleasant experience it was too.
 Virginia decided a cat would be a great birthday present for my 50th,
 and indeed Tabitha was the best birthday present I've ever had.)
 
-![Tabitha in the snow](DSCF0022.JPG)
+#image DSCF0022.JPG
+#markdown
 We set down the carrying basket in the kitchen. Opened it. And
 Fleur renamed Tabitha got out. She wandered around like a prisoner at Colditz
 checking out the escape routes.  Then vanished under the kitchen
@@ -61,7 +47,8 @@ toys but none were very attractive, indeed the [Crinkle Play Tunnel Cat Toy](htt
 she found frightening. In the early years she was quite happy
 playing with ping pong balls up and down the stairs.
 
-![Tabitha lapsitting](lapsit.jpg)
+#image lapsit.jpg
+#markdown
 We did try other toys over the years, one
 particular failure was the 'Thing in a Bag', a brown bag with a motor
 in it which scared poor Tabitha. (Thunder and lightning and fireworks
@@ -74,7 +61,8 @@ plaintive miaows which tugged at our hearts she also had a very odd
 deep growling noise.  And even
 ground her teeth at times when she was happy.
 
-![Tabitha on a cat tree](IMG_1722.jpg)
+#image IMG_1722.jpg
+#markdown
 In June 2006 Virginia's father helped us by putting up an enclosure
 so Tabitha could go outside yet we didn't have to worry about her
 jumping over fences when we weren't with her. She liked drinking wild water and often went
@@ -89,7 +77,8 @@ when she sat in the lid of the Scrabble box. Playing Scrabble with Amelia and
 Tabitha around was chancy as they would walk across the board, Amelia even
 one time deliberately kicked the tiles with her back feet.
 
-![Tabitha in back garden](IMG_0452.JPG)
+#image IMG_0452.JPG
+#markdown
 In February 2007 we got Amelia as a kitten to be company for Tabitha.
 This was perhaps a mistake as Tabitha wasn't maternal to Amelia. She hissed at the
 intruder. They mostly tolerated each other, Tabitha being cautious of
@@ -106,7 +95,8 @@ Tabitha would be placed on the bed, and Amelia would impatiently wait for
 her share of the bribe. The bribe for ages was Thrive which was very popular,
 the only way to get Amelia down from the cat tree in the enclosure.
 
-![Tabitha on the bed](IMG_1995.JPG)
+#image IMG_1995.JPG
+#markdown
 Tabitha loved lying in the sun in the back garden. She was no threat to the
 local wildlife unlike Amelia. She would stay outside for hours. She was a
 great companion always ready for a lapsit -	we could shout upstairs for a

@@ -1,3 +1,4 @@
+#markdown
 I use [Parallels](https://www.parallels.com/products/desktop/)
 to be able to run the Windows operating system on the Mac.
 Works pretty well.

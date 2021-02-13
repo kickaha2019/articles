@@ -1,16 +1,7 @@
----
-title: Max Gate
-date: March 28th 2019
-anchors:
-- The Sun Inn
-- Max Gate
-images:
-- path: P1390290.jpg
-  tag: Max Gate
-- path: P1390250.jpg
-  tag: Sun Inn where we dined thrice
----
-![Max Gate](P1390290.jpg)
+#title Max Gate
+#date March 28th 2019
+#image P1390290.jpg
+#markdown
 We were about to use our [National Trust](https://www.nationaltrust.org.uk/) membership again at [Kingston Lacy](https://www.nationaltrust.org.uk/kingston-lacy) but the Satnav died,
 eerily exactly a year since we lost Tabitha. We felt bereft and lost, no car atlas in the car,
 we were lost in the wilds. You come to rely on technology and only realise how much you rely

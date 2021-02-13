@@ -1,18 +1,19 @@
-![Stonehenge](stonehenge1.JPG)
-![Stonehenge](stonehenge2.JPG)
-![Stonehenge](stonehenge3.JPG)
-![Stonehenge](stonehenge4.JPG)
-![Stonehenge](stonehenge5.JPG)
-![Longleat House](longleat_ginny.JPG)
-![Longleat House](longleat_peter.JPG)
-![Longleat House](longleat_garden.JPG)
-![Gorilla marooned at Longleat](gorilla.JPG)
-![Longleat visitor train](visitor_train.JPG)
-![Seal being fed from visitor boat at Longleat](seal.JPG)
-![Meerkats](meerkats.JPG)
-![Longleat gardens](plinth.JPG)
-![Longleat summer house](summer_house.JPG)
-![Avebury Stone Circle](avebury1.JPG)
-![Avebury Stone Circle](avebury2.JPG)
-![Avebury Stone Circle](avebury3.JPG)
-![Avebury Stone Circle](avebury4.JPG)
+#gallery
+stonehenge1.JPG	stonehenge1.JPG
+stonehenge2.JPG	stonehenge2.JPG
+stonehenge3.JPG	stonehenge3.JPG
+stonehenge4.JPG	stonehenge4.JPG
+stonehenge5.JPG	stonehenge5.JPG
+longleat_ginny.JPG	longleat_ginny.JPG
+longleat_peter.JPG	longleat_peter.JPG
+longleat_garden.JPG	longleat_garden.JPG
+gorilla.JPG	gorilla.JPG
+visitor_train.JPG	visitor_train.JPG
+seal.JPG	seal.JPG
+meerkats.JPG	meerkats.JPG
+plinth.JPG	plinth.JPG
+summer_house.JPG	summer_house.JPG
+avebury1.JPG	avebury1.JPG
+avebury2.JPG	avebury2.JPG
+avebury3.JPG	avebury3.JPG
+avebury4.JPG	avebury4.JPG

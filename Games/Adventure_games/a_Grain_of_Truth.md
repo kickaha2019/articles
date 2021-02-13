@@ -1,10 +1,5 @@
----
-images:
-- path: a_Grain_of_Truth.jpg
-  tag: a Grain of Truth
----
-![a Grain of Truth](a_Grain_of_Truth.jpg)
-
+#image	a_Grain_of_Truth.jpg
+#markdown
 [a Grain of Truth](http://www.zamolski.com/agot/)
 (Poland 2012)  is a beautiful game by Marek and Marcin Rudowski.  The refreshingly different storyline has Myosotis travelling her world, trading stories.  She hopes one day to find her own story which has been mysteriously taken from her.  You play Myosotis as she goes in quest of a wiseman who lives among the floating rocks who's bound to know everything.  Myosotis's world of strange creatures and mystical trees has been fleshed out previously adding depth to "a Grain of Truth".
 

@@ -1,13 +1,7 @@
----
-date: September 8th 2018
-anchors:
-- English Market Cork
-title: Cork
-images:
-- path: cork1.jpg
-  tag: English Market Cork
----
-![English Market Cork](cork1.jpg)
+#title Cork
+#date September 8th 2018
+#image cork1.jpg
+#markdown
 We caught the shuttle bus from the port at Ringaskiddy
 into Cork with our friends Terry and Cath, had a drink at
 a coffee shop, admired the odd leaning lamp posts

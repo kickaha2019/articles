@@ -1,18 +1,6 @@
----
-date: February 22nd 2019
-title: Snowdrop time again
-anchors:
-- Anglesey Abbey
-images:
-- path: P1390143.jpg
-  tag: Some of the many snowdrops
-- path: P1390148.jpg
-  tag: Wonderful mix of shades and shapes
-- path: P1390149.jpg
-  tag: Plant with cotton like buds on it
-- path: P1390156.jpg
-  tag: Looking back at the mill
----
+#title Snowdrop time again
+#date February 22nd 2019
+#markdown
 Seeing snowdrops time again at [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill)! A wonderfully fine day for
 doing so! The snowdrops were out! The cream on the mixture of textures and
 shapes and hues on display. What problem could there be? They even had
@@ -23,7 +11,8 @@ had turned up. We barely found space in the overflow car park to the overflow
 car park. [National Trust](https://www.nationaltrust.org.uk/)'s website had warned us. So it was our own fault.
 My sister had come down to Cambridge which was why we went on this Friday.
 
-![Some of the many snowdrops](P1390143.jpg)
-![Wonderful mix of shades and shapes](P1390148.jpg)
-![Plant with cotton like buds on it](P1390149.jpg)
-![Looking back at the mill](P1390156.jpg)
+#gallery
+P1390143.jpg	P1390143.jpg
+P1390148.jpg	P1390148.jpg
+P1390149.jpg	P1390149.jpg
+P1390156.jpg	P1390156.jpg

@@ -1,16 +1,6 @@
----
-date: December 2nd 2016
-anchors:
-- Thursford Collection
-images:
-- path: DSCF7241.JPG
-  tag: Virginia at Fantasy Land
-- path: DSCF7246.JPG
-  tag: Carousel
-- path: DSCF7252.JPG
-  tag: Illuminated trees
----
-![Virginia at Fantasy Land](DSCF7241.JPG)
+#date December 2nd 2016
+#image DSCF7241.JPG
+#markdown
 Time for the [Thursford Christmas Spectacular](https://www.thursford.com/christmas-spectacular/) again!
 This year we almost didn't make it as we both fell ill with streaming noses and coughs and
 colds. But such is our dedication to starting the Christmas season properly we forced
@@ -24,7 +14,8 @@ it wasn't even lukewarm. In this venue they give you a table number and bring th
 you. Santa's Magical Journey looked pretty much like it did last year, in fact Thursford as
 a whole did though there is a new toy shop there.
 
-![Carousel](DSCF7246.JPG)
+#image DSCF7246.JPG
+#markdown
 We killed the time before 2pm by squeezing through the bustle in the shops (the coaches had
 arrived and unloaded by this point), sat on the carousel for a drink, then took our seats. We like to sit
 at the back where you're not trapped in. The extra seating they put in for the show is a bit cramped
@@ -36,7 +27,8 @@ The comedian was pretty clean - a pleasant change from the obscenity equals humo
 modern days. I enjoyed the first half - just more variety. The doves continued to fly at the
 end of the performance. It was the 40th so looking back.
 
-![Illuminated trees](DSCF7252.JPG)
+#image DSCF7252.JPG
+#markdown
 After the show we were fortunate to meet up with my cousin Pat and her husband
 Richard in the marquee for a bite to eat before we left. We had thought they weren't going to
 be able to make this year when we were there.

@@ -1,47 +1,8 @@
----
-icon: P1380452.JPG
-date: Nov 10th 2017
-anchors:
-- Mutford
-- SEA LIFE Great Yarmouth
-- Time and Tide Museum of Great Yarmouth Life
-- Africa Alive!
-title: Lounging in Lowestoft
-images:
-- path: P1380440.JPG
-  tag: Pond Farm cottage
-- path: P1380435.JPG
-  tag: Inside the cottage
-- path: P1380442.JPG
-  tag: Sea Life Great Yarmouth
-- path: P1380448.JPG
-  tag: Inside Sea Life
-- path: P1380452.JPG
-  tag: Inside Sea Life
-- path: P1380453.JPG
-  tag: Inside Sea Life
-- path: P1380454.JPG
-  tag: Hot chocolate cream marshmallows and wafer
-- path: P1380444.JPG
-  tag: The Winter Gardens in Great Yarmouth
-- path: P1380464.JPG
-  tag: Time and Tide museum
-- path: P1380456.JPG
-  tag: Inside the Time and Tide museum
-- path: P1380467.JPG
-  tag: Africa Alive
-- path: P1380472.JPG
-  tag: Africa Alive
-- path: P1380477.JPG
-  tag: Africa Alive
-- path: P1380478.JPG
-  tag: Africa Alive
-- path: P1380480.JPG
-  tag: Africa Alive
-- path: P1380483.JPG
-  tag: Africa Alive
----
-![Pond Farm cottage](P1380440.JPG)
+#title Lounging in Lowestoft
+#icon P1380452.JPG
+#date Nov 10th 2017
+#image P1380440.JPG
+#markdown
 We found our way to [Pond Farm Dairy](https://www.sykescottages.co.uk/cottage/Norfolk-Barnby/Pond-Farm-Dairy-954252.html) in Mutford after the Satnav maintained its policy
 of misdirection by taking us to another barn conversion at Ash Farm! It had
 managed to navigate us up the A11 to south of Norwich then across on the A47
@@ -56,7 +17,8 @@ we can see a sweet little pond with ducks and chickens. I bashed my head several
 beams in the cottage, Virginia pointed out a dangerous hook which I managed to avoid happily.
 There was a packet of hobnobs biscuits left out which weren't there when we left.
 
-![Sea Life Great Yarmouth](P1380442.JPG)
+#image P1380442.JPG
+#markdown
 On the Saturday we took another way out of Mutford to the A164, and it was longer
 and more nerve-stretching single track lanes. Located [Sea Life](https://www.visitsealife.com/great-yarmouth/) in Great Yarmouth through
 some narrow lanes, glad it was out of season so we could find places to park.
@@ -75,7 +37,8 @@ plenty of info on the herring trade and the Rows in Great Yarmouth. There was a
 reconstruction of one of the now demolished Rows, with example shops and living rooms -
 I'm a sucker for that kind of times past museum.
 
-![Africa Alive](P1380467.JPG)
+#image P1380467.JPG
+#markdown
 On a sunny Sunday morning we found our way to [Africa Alive!](https://www.africa-alive.co.uk/), a zoo of African animals.
 There were few other visitors it being so late in the year. In the cold of November we walked around a
 little of the park, seeing the lions and cheetahs and giraffes in their enclosures.

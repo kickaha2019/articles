@@ -1,22 +1,7 @@
----
-title: Cadiz
-anchors:
-- Vejer de la Frontera
-- Cape Trafalgar
-date: October 8th 2016
-images:
-- path: trafalgar.jpg
-  tag: Cape Trafalgar
-- path: vejer.jpg
-  tag: Vejer
-- path: vejer2.jpg
-  tag: Vejer
-- path: vejer3.jpg
-  tag: Vejer
-- path: vejer4.jpg
-  tag: Vejer
----
-![Vejer](vejer.jpg)
+#title Cadiz
+#date October 8th 2016
+#image vejer.jpg
+#markdown
 Our first port and first excursion! Cadiz (which the locals say more like Kar-dith, Kay-diss is
 the French way) has beautiful wide long beaches, one originally for women only (called beach of the
 women) then Victory beach which has cafes sited on the sand.

@@ -1,3 +1,4 @@
+#markdown
 I use Apple's *Notes* to keep structured notes in. I use *Notes*
 in preference to other personal management software because it is
 free, and the replication between the Mac and iPad and iPhone works

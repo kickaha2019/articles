@@ -1,11 +1,6 @@
----
-title: 'The Dark Eye: Chains of Satinav'
-images:
-- path: chains_of_satinav.jpg
-  tag: 'The Dark Eye: Chains of Satinav'
----
-![The Dark Eye: Chains of Satinav](chains_of_satinav.jpg)
-
+#title The Dark Eye: Chains of Satinav
+#image	chains_of_satinav.jpg
+#markdown
 [The Dark Eye: Chains of Satinav](https://www.daedalic.com/)
 (Daedalic Entertainment 2012) is set in a fantasy land with magic and portals
 to lands of faerie.  Geron, a humble bird catcher, goes on a long quest to

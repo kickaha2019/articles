@@ -1,13 +1,5 @@
----
-title: Lucky Star Chinese Buffet
-images:
-- path: IMG_2717.JPG
-  tag: Entrance to the Lucky Star
-- path: IMG_2714.JPG
-  tag: The buffet area
-- path: IMG_2715.JPG
-  tag: Tables for the diners
----
+#title Lucky Star Chinese Buffet
+#markdown
 We used to go to the
 *Lucky Star* quite a
 lot, after seeing a film at what was
@@ -27,6 +19,7 @@ was disconcerting one time when we were hovering, thinking
 about where to eat, and the manageress almost tried to
 drag us in physically.
 
-![Entrance to the Lucky Star](IMG_2717.JPG)
-![The buffet area](IMG_2714.JPG)
-![Tables for the diners](IMG_2715.JPG)
+#gallery
+IMG_2717.JPG	IMG_2717.JPG
+IMG_2714.JPG	IMG_2714.JPG
+IMG_2715.JPG	IMG_2715.JPG

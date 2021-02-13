@@ -1,6 +1,5 @@
----
-title: SubRip Text
----
+#title SubRip Text
+#markdown
 The SubRip file format may be the most basic of subtitle file formats but it
 is very useful. There's information on it on the
 [Matro&scaron;ka](https://matroska.org/technical/subtitles.html#srt-subtitles) website,

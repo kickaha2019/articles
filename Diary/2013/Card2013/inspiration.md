@@ -1,7 +1,6 @@
----
-title: 1:Inspiration
-date: 8th August 2013
----
+#title 1:Inspiration
+#date 8th August 2013
+#markdown
 [Jacquie Lawson](https://www.jacquielawson.com) does these marvellous
 E-cards which were a pleasant discovery when I was first sent one.
 Crossing that with a computer game seemed worth trying.

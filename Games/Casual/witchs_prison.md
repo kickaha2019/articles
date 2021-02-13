@@ -1,11 +1,6 @@
----
-title: 'Nightmare Adventures: Witch''s Prison'
-images:
-- path: WitchPrison.jpg
-  tag: 'Nightmare Adventures: Witch''s Prison'
----
-![Nightmare Adventures: Witch's Prison](WitchPrison.jpg)
-
+#title Nightmare Adventures: Witch's Prison
+#image	WitchPrison.jpg
+#markdown
 "Nightmare Adventures: Witch's Prison" (
 [Ghost Ship Studios](http://www.ghostshipstudios.com/)
 2010) is a Adventure-lite casual game in which you guide the heroine to the heart of the mystery in Arkham Asylum. This isn't horror as such but there is a macabre edge to many of the scenes.

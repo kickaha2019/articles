@@ -1,7 +1,6 @@
----
-title: 5:Final bugs
-date: 15th December 2013
----
+#title 5:Final bugs
+#date 15th December 2013
+#markdown
 Sometimes a click would result in two click events, and
 if this happened when finding a soft toy the image of
 the found soft toy would vanish too quickly.  Fixed

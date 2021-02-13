@@ -1,14 +1,6 @@
----
-title: The Phoenix, Histon
-anchors:
-- The Phoenix Bar & Restaurant
-images:
-- path: DSCF4816.JPG
-  tag: The front of the Phoenix
-- path: IMG_2733.JPG
-  tag: The area we normally eat in
----
-![The front of the Phoenix](DSCF4816.JPG)
+#title The Phoenix, Histon
+#image DSCF4816.JPG
+#markdown
 *The Phoenix* was a superior Chinese
 restaurant in Histon where we live.  It's where
 we liked to go for special occasions.  Virginia and I
@@ -23,7 +15,8 @@ it saves mental effort!  I to be different ordered the
 hot and sour soup (rather than the delicious chicken
 and sweetcorn) and then suffered how hot and spicy it is.
 
-![The area we normally eat in](IMG_2733.JPG)
+#image IMG_2733.JPG
+#markdown
 The heart of the meal for me was the crispy fried duck,
 making the pancakes with plum sauce and bamboo shoots
 and the duck.  Yum yum yum.

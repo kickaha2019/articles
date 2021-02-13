@@ -1,10 +1,11 @@
-![Christmas trees awaiting purchase](IMG_1760.jpeg)
-![Christmas tree packaging technology](IMG_1762.jpeg)
-![Our tree getting all meshed up](IMG_1766.jpeg)
-![Trussed up and ready to go home](IMG_1768.jpeg)
-![Another kind of tree is normally there](IMG_1773.jpeg)
-![A weighty base to stand the Xmas tree on](IMG_1774.jpeg)
-![Ready to unwrap](IMG_1776.jpeg)
-![Water added to the base both for moisture and weight](IMG_1777.jpeg)
-![Unfurled](IMG_1778.jpeg)
-![Decorated](IMG_1779.jpeg)
+#gallery
+IMG_1760.jpeg	IMG_1760.jpeg
+IMG_1762.jpeg	IMG_1762.jpeg
+IMG_1766.jpeg	IMG_1766.jpeg
+IMG_1768.jpeg	IMG_1768.jpeg
+IMG_1773.jpeg	IMG_1773.jpeg
+IMG_1774.jpeg	IMG_1774.jpeg
+IMG_1776.jpeg	IMG_1776.jpeg
+IMG_1777.jpeg	IMG_1777.jpeg
+IMG_1778.jpeg	IMG_1778.jpeg
+IMG_1779.jpeg	IMG_1779.jpeg

@@ -1,63 +1,64 @@
-![Holiday Inn in Southampton](preboarding/p01_inn.JPG)
-![Mottisfont House](preboarding/p02_mottisfont.JPG)
-![Virginia at Mottisfont](preboarding/p03_ginny.JPG)
-![The Mottisfont font or spring](preboarding/p04_spring.JPG)
-![Flowers in the walled garden](preboarding/p05_flowers.JPG)
-![Centre of walled garden](preboarding/p06_centre.JPG)
-![Avenue of trees at Mottisfont](preboarding/p07_avenue.JPG)
-![Brass band sendoff for the Oriana](oriana/p08_band.JPG)
-![Our cabin on the Oriana](oriana/p09_cabin.JPG)
-![The books I brought to read on the voyage](oriana/p10_books.JPG)
-![The atrium on the Oriana](oriana/p11_atrium.JPG)
-![Roof of the atrium](oriana/p12_roof.JPG)
-![The Peninsular restaurant where we dined](oriana/p13_restaurant.JPG)
-![The Peninsular restaurant where we dined](oriana/p14_restaurant.JPG)
-![Our dinner table](oriana/p15_table.JPG)
-![Ocean Grill](oriana/p16_ocean.JPG)
-![Us at the Ocean Grill](oriana/p17_us.JPG)
-![Portobello Mushroom a la Marco Pierre White](oriana/p18_mushroom.JPG)
-![A chocolate fountain for the temptable](oriana/p19_fountain.JPG)
-![The library on the Oriana](oriana/p20_library.JPG)
-![Andersons](oriana/p21_andersons.JPG)
-![Virginia in Andersons](oriana/p22_ginny.JPG)
-![Cake for the Queen's jubilee](oriana/p23_queen.JPG)
-![Crows Nest bar](oriana/p24_crows.JPG)
-![Oriana promenade deck](oriana/p25_promenade.JPG)
-![Pineapple cultivation on Sao Miguel island](ponta_delgada/p26_water.JPG)
-![Pineapple greenhouse](ponta_delgada/p27_greenhouse.JPG)
-![A pineapple on its way to its fate](ponta_delgada/p28_pineapple.JPG)
-![Statue at pineapple plantation](ponta_delgada/p29_statue.JPG)
-![Modern art at pineapple plantation](ponta_delgada/p30_art.JPG)
-![Pineapples for sale in various receptacles](ponta_delgada/p31_sale.JPG)
-![Ribeira Grande](ponta_delgada/p32_ribeira.JPG)
-![Lagoa del Fogo on a foggy day](ponta_delgada/p33_fog.JPG)
-![Ribeira Grande](ponta_delgada/p34_digger.JPG)
-![Ribeira Grande](ponta_delgada/p35_white_hall.JPG)
-![The doomed whale-watching expedition](horta/p36_whales.JPG)
-![Faial island](horta/p37_faial.JPG)
-![Oriana in Las Palmas, Madeira](funchal/p38_oriana.JPG)
-![Las Palmas](funchal/p39_palmas.JPG)
-![Oriana in Las Palmas, Madeira](funchal/p40_oriana.JPG)
-![Columbus in Las Palmas](funchal/p41_columbus.JPG)
-![Las Palmas](funchal/p42_reds.JPG)
-![Las Palmas](funchal/p43_palmas.JPG)
-![Reids Hotel in Las Palmas](funchal/p44_reids.JPG)
-![Bandama Caldera on Gran Canaria on a foggy day](gran_canaria/p45_bandama.JPG)
-![Teror on Gran Canaria](gran_canaria/p46_teror.JPG)
-![A Dragon Tree](gran_canaria/p47_dragon.JPG)
-![Iglesia de San Juan in Arucas](gran_canaria/p48_iglesias.JPG)
-![Iglesia de San Juan](gran_canaria/p49_iglesias.JPG)
-![Iglesia de San Juan](gran_canaria/p50_candles.JPG)
-![Arucas](gran_canaria/p51_arucas.JPG)
-![Banana hacienda on Gran Canaria](gran_canaria/p52_hacienda.JPG)
-![Banana hacienda on Gran Canaria](gran_canaria/p53_plantation.JPG)
-![Banana hacienda on Gran Canaria](gran_canaria/p54_hacienda.JPG)
-![Banana hacienda on Gran Canaria](gran_canaria/p55_bananas.JPG)
-![Virginia at the Banana hacienda](gran_canaria/p56_ginny.JPG)
-![Lisbon from the Tagus river](lisbon/p57_lisbon.JPG)
-![Lisbon from the Tagus river](lisbon/p58_lisbon.JPG)
-![Oriana at Lisbon](lisbon/p59_oriana.JPG)
-![Lisbon from the Tagus river](lisbon/p60_lisbon.JPG)
-![Lisbon from the Tagus river](lisbon/p61_lisbon.JPG)
-![Fountain in Lisbon](lisbon/p62_fountain.JPG)
-![Park in Lisbon](lisbon/p63_park.JPG)
+#gallery
+preboarding/p01_inn.JPG	preboarding/p01_inn.JPG
+preboarding/p02_mottisfont.JPG	preboarding/p02_mottisfont.JPG
+preboarding/p03_ginny.JPG	preboarding/p03_ginny.JPG
+preboarding/p04_spring.JPG	preboarding/p04_spring.JPG
+preboarding/p05_flowers.JPG	preboarding/p05_flowers.JPG
+preboarding/p06_centre.JPG	preboarding/p06_centre.JPG
+preboarding/p07_avenue.JPG	preboarding/p07_avenue.JPG
+oriana/p08_band.JPG	oriana/p08_band.JPG
+oriana/p09_cabin.JPG	oriana/p09_cabin.JPG
+oriana/p10_books.JPG	oriana/p10_books.JPG
+oriana/p11_atrium.JPG	oriana/p11_atrium.JPG
+oriana/p12_roof.JPG	oriana/p12_roof.JPG
+oriana/p13_restaurant.JPG	oriana/p13_restaurant.JPG
+oriana/p14_restaurant.JPG	oriana/p14_restaurant.JPG
+oriana/p15_table.JPG	oriana/p15_table.JPG
+oriana/p16_ocean.JPG	oriana/p16_ocean.JPG
+oriana/p17_us.JPG	oriana/p17_us.JPG
+oriana/p18_mushroom.JPG	oriana/p18_mushroom.JPG
+oriana/p19_fountain.JPG	oriana/p19_fountain.JPG
+oriana/p20_library.JPG	oriana/p20_library.JPG
+oriana/p21_andersons.JPG	oriana/p21_andersons.JPG
+oriana/p22_ginny.JPG	oriana/p22_ginny.JPG
+oriana/p23_queen.JPG	oriana/p23_queen.JPG
+oriana/p24_crows.JPG	oriana/p24_crows.JPG
+oriana/p25_promenade.JPG	oriana/p25_promenade.JPG
+ponta_delgada/p26_water.JPG	ponta_delgada/p26_water.JPG
+ponta_delgada/p27_greenhouse.JPG	ponta_delgada/p27_greenhouse.JPG
+ponta_delgada/p28_pineapple.JPG	ponta_delgada/p28_pineapple.JPG
+ponta_delgada/p29_statue.JPG	ponta_delgada/p29_statue.JPG
+ponta_delgada/p30_art.JPG	ponta_delgada/p30_art.JPG
+ponta_delgada/p31_sale.JPG	ponta_delgada/p31_sale.JPG
+ponta_delgada/p32_ribeira.JPG	ponta_delgada/p32_ribeira.JPG
+ponta_delgada/p33_fog.JPG	ponta_delgada/p33_fog.JPG
+ponta_delgada/p34_digger.JPG	ponta_delgada/p34_digger.JPG
+ponta_delgada/p35_white_hall.JPG	ponta_delgada/p35_white_hall.JPG
+horta/p36_whales.JPG	horta/p36_whales.JPG
+horta/p37_faial.JPG	horta/p37_faial.JPG
+funchal/p38_oriana.JPG	funchal/p38_oriana.JPG
+funchal/p39_palmas.JPG	funchal/p39_palmas.JPG
+funchal/p40_oriana.JPG	funchal/p40_oriana.JPG
+funchal/p41_columbus.JPG	funchal/p41_columbus.JPG
+funchal/p42_reds.JPG	funchal/p42_reds.JPG
+funchal/p43_palmas.JPG	funchal/p43_palmas.JPG
+funchal/p44_reids.JPG	funchal/p44_reids.JPG
+gran_canaria/p45_bandama.JPG	gran_canaria/p45_bandama.JPG
+gran_canaria/p46_teror.JPG	gran_canaria/p46_teror.JPG
+gran_canaria/p47_dragon.JPG	gran_canaria/p47_dragon.JPG
+gran_canaria/p48_iglesias.JPG	gran_canaria/p48_iglesias.JPG
+gran_canaria/p49_iglesias.JPG	gran_canaria/p49_iglesias.JPG
+gran_canaria/p50_candles.JPG	gran_canaria/p50_candles.JPG
+gran_canaria/p51_arucas.JPG	gran_canaria/p51_arucas.JPG
+gran_canaria/p52_hacienda.JPG	gran_canaria/p52_hacienda.JPG
+gran_canaria/p53_plantation.JPG	gran_canaria/p53_plantation.JPG
+gran_canaria/p54_hacienda.JPG	gran_canaria/p54_hacienda.JPG
+gran_canaria/p55_bananas.JPG	gran_canaria/p55_bananas.JPG
+gran_canaria/p56_ginny.JPG	gran_canaria/p56_ginny.JPG
+lisbon/p57_lisbon.JPG	lisbon/p57_lisbon.JPG
+lisbon/p58_lisbon.JPG	lisbon/p58_lisbon.JPG
+lisbon/p59_oriana.JPG	lisbon/p59_oriana.JPG
+lisbon/p60_lisbon.JPG	lisbon/p60_lisbon.JPG
+lisbon/p61_lisbon.JPG	lisbon/p61_lisbon.JPG
+lisbon/p62_fountain.JPG	lisbon/p62_fountain.JPG
+lisbon/p63_park.JPG	lisbon/p63_park.JPG

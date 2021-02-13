@@ -1,68 +1,6 @@
----
-date: March 28th 2013
-anchors:
-- Fukuchi-In
-images:
-- path: p92_train.JPG
-  tag: Train to Osaka Universal Studios theme park
-- path: p93_rural.JPG
-  tag: Rural scenery near Osaka
-- path: p94_railway.JPG
-  tag: Funicular railway to Koyasan
-- path: p95_lunch.JPG
-  tag: Lunch at Koyasan restaurant
-- path: p96_temple.JPG
-  tag: Koyasan temple
-- path: p97_temple.JPG
-  tag: Koyasan temple
-- path: p98_pagoda.JPG
-  tag: Koyasan temple
-- path: p99_wheelchair.JPG
-  tag: Ceremonial washing at Koyasan temple
-- path: p100_pilgrims.JPG
-  tag: Buddhist faithful on a tour of Koyasan
-- path: p101_temple.JPG
-  tag: Koyasan temple
-- path: p103_rocks.JPG
-  tag: Koyasan rock garden
-- path: p104_rocks.JPG
-  tag: Koyasan rock garden
-- path: p105_temple.JPG
-  tag: Koyasan temple
-- path: p106_umbrellas.JPG
-  tag: Koyasan umbrellas for sale
-- path: p107_telephones.JPG
-  tag: Koyasan telephone boxes
-- path: p108_cemetery.JPG
-  tag: Koyasan cemetery which is very big
-- path: p109_memorial.JPG
-  tag: Unusual memorial at Koyasan cemetery
-- path: p110_road.JPG
-  tag: Road digging in Koyasan
-- path: p111_inn.JPG
-  tag: Fukuchi-In inn in Koyasan
-- path: p112_inn.JPG
-  tag: Fukuchi-In inn
-- path: p113_slippers.JPG
-  tag: Fukuchi-In inn
-- path: p114_rocks.JPG
-  tag: Fukuchi-In inn
-- path: p115_fountain.JPG
-  tag: Fukuchi-In inn
-- path: p116_inn.JPG
-  tag: Fukuchi-In inn
-- path: p117_inn.JPG
-  tag: Fukuchi-In inn
-- path: p118_room.JPG
-  tag: Fukuchi-In inn room
-- path: p119_bed.JPG
-  tag: Fukuchi-In inn room bed
-- path: p120_breakfast.JPG
-  tag: Fukuchi-In inn breakfast
-- path: p121_cable.JPG
-  tag: Funicular railway station at Koyasan
----
-![Train to Osaka Universal Studios theme park](p92_train.JPG)
+#date March 28th 2013
+#image p92_train.JPG
+#markdown
 I wasn't sure when I dropped off my main case that the front desk
 staff at the Karasuma understood me (I was very relieved to see my case
 when I reached Osaka the following day).  The guide was already there
@@ -81,7 +19,8 @@ had donated a polar bear cub to Osaka zoo.  It's no longer a cub now.
 A good chat with the guide, her English wasn't bad but I had to expand
 some questions like "How long have you been a guide".
 
-![Funicular railway to Koyasan](p94_railway.JPG)
+#image p94_railway.JPG
+#markdown
 Quite a trip still after the guide left me to my fate at Shin Imamiya,
 the train went through very scenic hills and then we had a funicular
 railway up to Koyasan.  I could have done without two fellow tourists
@@ -108,7 +47,8 @@ This hotel which must be close to a ryokan also had an onsen but I
 wasn't brave enough to try it.  And the Fukuchi-In also had very
 good Wifi!
 
-![Koyasan rock garden](p103_rocks.JPG)
+#image p103_rocks.JPG
+#markdown
 I couldn't check in until 3pm so I went to tour the Koyasan site
 as much as I could in a rainy afternoon, after having some Kitsune
 udon for lunch.  Koyasan has plenty of shops (both normal and
@@ -129,7 +69,8 @@ stupas and lanterns.  There was a space rocket (go figure),
 and Nissan had a couple of assembly line workers on a corporate
 effort.  By this stage I was pretty full of temple seeing.
 
-![Fukuchi-In inn in Koyasan](p111_inn.JPG)
+#image p111_inn.JPG
+#markdown
 I got a trainee girl learning English when I finally checked in,
 I hope I was encouraging to her.  But it was hard going as any
 questions threw her off her reading of the script.  I read

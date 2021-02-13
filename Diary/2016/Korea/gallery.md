@@ -1,158 +1,159 @@
-![Toilets at the Aventree Hotel in Seoul](bidet.jpg)
-![Toilet control panel](bidet_control.jpg)
-![Coin laundry in the Aventree Hotel](seoul_laundry.jpg)
-![Jongno Tower near the Aventree Hotel](seoul_jongno_tower.jpg)
-![Shop selling calligraphy paper and brushes](seoul_brushes.jpg)
-![National Museum of Korea](museum.jpg)
-![Silla Crown in the museum](museum_crown.jpg)
-![Funerary urns in the museum](museum_urns.jpg)
-![North Seoul Tower in Namsan Park](namsan_tower.jpg)
-![Sweetshop at top of Tower](namsan_tower_sweetshop.jpg)
-![Costume shp in Seoul](seoul_costume_shop.jpg)
-![Entrance to Changdeokgung Palace](palace_entrance.jpg)
-![Changdeokgung Palace](palace.jpg)
-![Palace pavilions](palace_pavilions.jpg)
-![Creatures on pavilions roofs](palace_rooftop.jpg)
-![Traditional lock](palace_lock.jpg)
-![Traditional sundial](palace_sundial.jpg)
-![Where to stand for officials of different ranks](palace_markers.jpg)
-![Palace throne](palace_throne.jpg)
-![Secret Garden pond](huwon_pond.jpg)
-![Visitors dressing up](huwon_dressing_up.jpg)
-![Secret Garden library](huwon_library.jpg)
-![Secret Garden pond in shape of Korea](huwon_map_pond.jpg)
-![Gwangjang Market](gwangjang1.jpg)
-![Costume shop in market](gwangjang_costume.jpg)
-![Fish in market](gwangjang_fish.jpg)
-![Korean pancakes in market](gwangjang_pancakes.jpg)
-![Market shop](gwangjang_shoes.jpg)
-![Food stall in market](gwangjang_stall.jpg)
-![Towels in market](gwangjang_towels.jpg)
-![Vegetables in market](gwangjang_veg.jpg)
-![Seoul restaurant menu](seoul_menu.jpg)
-![The frozen noodle soup](naengmyeon.jpg)
-![Korean Folk Village](folk_museum1.jpg)
-![Buildings at Korean Folk Village](folk_museum2.jpg)
-![Korean Folk Village](folk_museum3.jpg)
-![Korean Folk Village](folk_museum4.jpg)
-![Korean Folk Village](folk_museum5.jpg)
-![Model village guardians at Korean Folk Village](folk_museum6.jpg)
-![Korean Folk Village](folk_museum7.jpg)
-![Korean Folk Village](folk_museum8.jpg)
-![Children learning the art of interrogation at Korean Folk Village](folk_museum9.jpg)
-![Blacksmith at Korean Folk Village](folk_museum10.jpg)
-![Visiting children having lunch at Korean Folk Village](folk_museum11.jpg)
-![Service station food hall](foodhall.jpg)
-![Tteok wang mandu guk dish](tteok_wang_mandu_guk.jpg)
-![Grilled squid shop at service station](grilled_squid.jpg)
-![Bins for different kinds of rubbish](recycling.jpg)
-![Songnisan Park](songnisan1.jpg)
-![Shop before Beopjusa](songnisan_shop.jpg)
-![Beopjusa high monk memorials](songnisan2.jpg)
-![National Treasure stone lantern](songnisan_stone_lantern.jpg)
-![Beopjusa bell and drum and dragon](songnisan_bell.jpg)
-![Beopjusa Buddha](songnisan_buddha.jpg)
-![Beopjusa Buddha](songnisan_buddha2.jpg)
-![Beopjusa where monk prays in hall](songnisan_desk.jpg)
-![Buddha has many meaningful hand signs](songnisan_hands.jpg)
-![Buddhism has colourful hells](songnisan_hell.jpg)
-![Buddha and his numerous disciples](songnisan_icons.jpg)
-![Lanterns with prayers attached at Beopjusa](songnisan_lanterns.jpg)
-![Price list for prayers at Beopjusa](songnisan_pricelist.jpg)
-![You can pay for prayers on roof tiles too](songnisan_tiles.jpg)
-![Beopjusa](songnisan3.jpg)
-![Daegu Grand Hotel](daegu_grand.jpg)
-![Daegu Grand Hotel interior](daegu_grand2.jpg)
-![Quasi-Japanese food place](daegu_don_don.jpg)
-![Silla tombs at Daereungwon](silla_tumuli.jpg)
-![Silla tomb at Daereungwon](silla_mound.jpg)
-![Cheonmachong Tomb](silla_tomb.jpg)
-![Daereungwon](silla_tree.jpg)
-![Cheomseongdae Royal Observatory](silla_observatory.jpg)
-![Go stones from Silla tomb](silla_go_stones.jpg)
-![King Wonseong's burial mound](wonseong_tomb.jpg)
-![Bulguska Temple gate](bulguska_gate.jpg)
-![Bulguska Temple](bulguska1.jpg)
-![Bulguska Temple](bulguska2.jpg)
-![Bulguska Temple](bulguska3.jpg)
-![Bulguska Temple](bulguska4.jpg)
-![Bulguska Temple](bulguska5.jpg)
-![Piles of stones as free prayers](bulguska6.jpg)
-![Touch the pig might make you rich](bulguska_pig.jpg)
-![Gyeongju Commodore Hotel](commodore_hotel.jpg)
-![Lake by the hotel](commodore_lake.jpg)
-![Seokguram grotto](seokguram.jpg)
-![Stripey squirrel at Seokguram](seokguram_squirrel.jpg)
-![Ceremonial basin at Seokguram](seokguram_wash.jpg)
-![Fishing nets at Guryongpo](fishing_nets.jpg)
-![Fishing boat (note lights to atract squid) at Guryongpo](fishing_boat.jpg)
-![Caught crabs at Guryongpo](crabs.jpg)
-![Preparing kimbap in Guryongpo restaurant](preparing_kimbap.jpg)
-![Dumplings I had at Guryongpo](guryongpo_dumplings.jpg)
-![Japanese street at Guryongpo](guryongpo_jap1.jpg)
-![Guryongpo Japanese style house](guryongpo_jap2.jpg)
-![Guryongpo Japanese style room](guryongpo_jap3.jpg)
-![Tiger's tail area at Homigot](homigot.jpg)
-![Hand in sea at Homigot](homigot_hand.jpg)
-![Octopus not for eating at Homigot](homigot_octopus.jpg)
-![Korean striped melons](melons.jpg)
-![Gyeongju Seongdong Market](seongdong_market0.jpg)
-![Gyeongju Seongdong Market](seongdong_market.jpg)
-![Gyeongju Seongdong Market](seongdong_market1.jpg)
-![Gyeongju Seongdong Market](seongdong_market2.jpg)
-![Gyeongju Seongdong Market](seongdong_market5.jpg)
-![This looked and tasted like a kitchen wipe](seongdong_market7.jpg)
-![Gyeongju Seongdong Market fish](seongdong_market_fish.jpg)
-![Gyeongju Seongdong Market octopi](seongdong_market_octopi.jpg)
-![Gulbulsa Buddhist temple](gulbulsa.jpg)
-![Gulbulsa Buddhist temple](gulbulsa2.jpg)
-![The dammed Lake Unmun](unmun_lake.jpg)
-![Villages forced to move by the dam](unmun_lake1.jpg)
-![Approach to Unmunsa Buddhist nun's temple](unmunsa.jpg)
-![Unmunsa gate](unmunsa_gate.jpg)
-![Old tree at Unmunsa](unmunsa_tree.jpg)
-![Lanterns at Unmunsa](unmunsa2.jpg)
-![Lanterns at Unmunsa](unmunsa_lanterns.jpg)
-![Washing baby Buddha at Unmunsa](unmunsa3.jpg)
-![Elaborate panelling at Unmunsa](unmunsa4.jpg)
-![Unmunsa Buddhist nun's temple](unmunsa5.jpg)
-![Unmunsa Buddhist nun's temple](unmunsa6.jpg)
-![Unmunsa Buddhist nun's temple](unmunsa7.jpg)
-![Feeding the pilgrims on Buddha's birthday](unmunsa_f1.jpg)
-![What each pilgrim gets](unmunsa_f2.jpg)
-![The washers uppers ready](unmunsa_f3.jpg)
-![Shoes of the pilgrims](unmunsa_shoes.jpg)
-![Goddess of mercy with donations](unmunsa_statue.jpg)
-![Ceremonial washing at Unmunsa](unmunsa_wash.jpg)
-![Tongdosa service station](tongdosa.jpg)
-![Tongdosa menu](tongdosa_menu.jpg)
-![Udon and fried tofu](udon.jpg)
-![Jagalchi fish market](jagalchi1.jpg)
-![Jagalchi fish market](jagalchi2.jpg)
-![One man band](jagalchi3.jpg)
-![Jagalchi fish market](jagalchi4.jpg)
-![Jagalchi fish market](jagalchi5.jpg)
-![Jagalchi fish market](jagalchi6.jpg)
-![Busan street](jagalchi7.jpg)
-![Busan Tower](busan_tower.jpg)
-![View from Busan Tower](busan_tower2.jpg)
-![Dragon at Busan Tower](busan_tower3.jpg)
-![Tower Hill Hotel at Busan](busan_hotel.jpg)
-![What you can have done to your feet](busan_foot_massage.jpg)
-![Busan Mall](busan_mall.jpg)
-![Shabu Shabu restaurant in the mall](shabu_shabu2.jpg)
-![Shabu Shabu dish before self-cooking](shabu_shabu.jpg)
-![Sanbon area of Gunpo city](sanbon1.jpg)
-![Sanbon area of Gunpo city](sanbon2.jpg)
-![Cake shop in Sanbon](sanbon3.jpg)
-![Mushrooms drying in Sanbon](sanbon4.jpg)
-![Sanbon area of Gunpo city](sanbon5.jpg)
-![Paris Baguette in Sanbon](sanbon_pb2.jpg)
-![Paris Baguette in Sanbon](sanbon_pb1.jpg)
-![Paris Baguette in Sanbon](sanbon_pb3.jpg)
-![Iced blue lemonade](sanbon6.jpg)
-![Sign for BIBA](biba3.jpg)
-![BIBA entrance](biba1.jpg)
-![BIBA list of students by rank](biba2.jpg)
-![Barbecuing at Sanbon restaurant](sanbon_barbecue.jpg)
-![Dino Meat restaurant barbecue with people from BIBA](sanbon_barbecue2.jpg)
+#gallery
+bidet.jpg	bidet.jpg
+bidet_control.jpg	bidet_control.jpg
+seoul_laundry.jpg	seoul_laundry.jpg
+seoul_jongno_tower.jpg	seoul_jongno_tower.jpg
+seoul_brushes.jpg	seoul_brushes.jpg
+museum.jpg	museum.jpg
+museum_crown.jpg	museum_crown.jpg
+museum_urns.jpg	museum_urns.jpg
+namsan_tower.jpg	namsan_tower.jpg
+namsan_tower_sweetshop.jpg	namsan_tower_sweetshop.jpg
+seoul_costume_shop.jpg	seoul_costume_shop.jpg
+palace_entrance.jpg	palace_entrance.jpg
+palace.jpg	palace.jpg
+palace_pavilions.jpg	palace_pavilions.jpg
+palace_rooftop.jpg	palace_rooftop.jpg
+palace_lock.jpg	palace_lock.jpg
+palace_sundial.jpg	palace_sundial.jpg
+palace_markers.jpg	palace_markers.jpg
+palace_throne.jpg	palace_throne.jpg
+huwon_pond.jpg	huwon_pond.jpg
+huwon_dressing_up.jpg	huwon_dressing_up.jpg
+huwon_library.jpg	huwon_library.jpg
+huwon_map_pond.jpg	huwon_map_pond.jpg
+gwangjang1.jpg	gwangjang1.jpg
+gwangjang_costume.jpg	gwangjang_costume.jpg
+gwangjang_fish.jpg	gwangjang_fish.jpg
+gwangjang_pancakes.jpg	gwangjang_pancakes.jpg
+gwangjang_shoes.jpg	gwangjang_shoes.jpg
+gwangjang_stall.jpg	gwangjang_stall.jpg
+gwangjang_towels.jpg	gwangjang_towels.jpg
+gwangjang_veg.jpg	gwangjang_veg.jpg
+seoul_menu.jpg	seoul_menu.jpg
+naengmyeon.jpg	naengmyeon.jpg
+folk_museum1.jpg	folk_museum1.jpg
+folk_museum2.jpg	folk_museum2.jpg
+folk_museum3.jpg	folk_museum3.jpg
+folk_museum4.jpg	folk_museum4.jpg
+folk_museum5.jpg	folk_museum5.jpg
+folk_museum6.jpg	folk_museum6.jpg
+folk_museum7.jpg	folk_museum7.jpg
+folk_museum8.jpg	folk_museum8.jpg
+folk_museum9.jpg	folk_museum9.jpg
+folk_museum10.jpg	folk_museum10.jpg
+folk_museum11.jpg	folk_museum11.jpg
+foodhall.jpg	foodhall.jpg
+tteok_wang_mandu_guk.jpg	tteok_wang_mandu_guk.jpg
+grilled_squid.jpg	grilled_squid.jpg
+recycling.jpg	recycling.jpg
+songnisan1.jpg	songnisan1.jpg
+songnisan_shop.jpg	songnisan_shop.jpg
+songnisan2.jpg	songnisan2.jpg
+songnisan_stone_lantern.jpg	songnisan_stone_lantern.jpg
+songnisan_bell.jpg	songnisan_bell.jpg
+songnisan_buddha.jpg	songnisan_buddha.jpg
+songnisan_buddha2.jpg	songnisan_buddha2.jpg
+songnisan_desk.jpg	songnisan_desk.jpg
+songnisan_hands.jpg	songnisan_hands.jpg
+songnisan_hell.jpg	songnisan_hell.jpg
+songnisan_icons.jpg	songnisan_icons.jpg
+songnisan_lanterns.jpg	songnisan_lanterns.jpg
+songnisan_pricelist.jpg	songnisan_pricelist.jpg
+songnisan_tiles.jpg	songnisan_tiles.jpg
+songnisan3.jpg	songnisan3.jpg
+daegu_grand.jpg	daegu_grand.jpg
+daegu_grand2.jpg	daegu_grand2.jpg
+daegu_don_don.jpg	daegu_don_don.jpg
+silla_tumuli.jpg	silla_tumuli.jpg
+silla_mound.jpg	silla_mound.jpg
+silla_tomb.jpg	silla_tomb.jpg
+silla_tree.jpg	silla_tree.jpg
+silla_observatory.jpg	silla_observatory.jpg
+silla_go_stones.jpg	silla_go_stones.jpg
+wonseong_tomb.jpg	wonseong_tomb.jpg
+bulguska_gate.jpg	bulguska_gate.jpg
+bulguska1.jpg	bulguska1.jpg
+bulguska2.jpg	bulguska2.jpg
+bulguska3.jpg	bulguska3.jpg
+bulguska4.jpg	bulguska4.jpg
+bulguska5.jpg	bulguska5.jpg
+bulguska6.jpg	bulguska6.jpg
+bulguska_pig.jpg	bulguska_pig.jpg
+commodore_hotel.jpg	commodore_hotel.jpg
+commodore_lake.jpg	commodore_lake.jpg
+seokguram.jpg	seokguram.jpg
+seokguram_squirrel.jpg	seokguram_squirrel.jpg
+seokguram_wash.jpg	seokguram_wash.jpg
+fishing_nets.jpg	fishing_nets.jpg
+fishing_boat.jpg	fishing_boat.jpg
+crabs.jpg	crabs.jpg
+preparing_kimbap.jpg	preparing_kimbap.jpg
+guryongpo_dumplings.jpg	guryongpo_dumplings.jpg
+guryongpo_jap1.jpg	guryongpo_jap1.jpg
+guryongpo_jap2.jpg	guryongpo_jap2.jpg
+guryongpo_jap3.jpg	guryongpo_jap3.jpg
+homigot.jpg	homigot.jpg
+homigot_hand.jpg	homigot_hand.jpg
+homigot_octopus.jpg	homigot_octopus.jpg
+melons.jpg	melons.jpg
+seongdong_market0.jpg	seongdong_market0.jpg
+seongdong_market.jpg	seongdong_market.jpg
+seongdong_market1.jpg	seongdong_market1.jpg
+seongdong_market2.jpg	seongdong_market2.jpg
+seongdong_market5.jpg	seongdong_market5.jpg
+seongdong_market7.jpg	seongdong_market7.jpg
+seongdong_market_fish.jpg	seongdong_market_fish.jpg
+seongdong_market_octopi.jpg	seongdong_market_octopi.jpg
+gulbulsa.jpg	gulbulsa.jpg
+gulbulsa2.jpg	gulbulsa2.jpg
+unmun_lake.jpg	unmun_lake.jpg
+unmun_lake1.jpg	unmun_lake1.jpg
+unmunsa.jpg	unmunsa.jpg
+unmunsa_gate.jpg	unmunsa_gate.jpg
+unmunsa_tree.jpg	unmunsa_tree.jpg
+unmunsa2.jpg	unmunsa2.jpg
+unmunsa_lanterns.jpg	unmunsa_lanterns.jpg
+unmunsa3.jpg	unmunsa3.jpg
+unmunsa4.jpg	unmunsa4.jpg
+unmunsa5.jpg	unmunsa5.jpg
+unmunsa6.jpg	unmunsa6.jpg
+unmunsa7.jpg	unmunsa7.jpg
+unmunsa_f1.jpg	unmunsa_f1.jpg
+unmunsa_f2.jpg	unmunsa_f2.jpg
+unmunsa_f3.jpg	unmunsa_f3.jpg
+unmunsa_shoes.jpg	unmunsa_shoes.jpg
+unmunsa_statue.jpg	unmunsa_statue.jpg
+unmunsa_wash.jpg	unmunsa_wash.jpg
+tongdosa.jpg	tongdosa.jpg
+tongdosa_menu.jpg	tongdosa_menu.jpg
+udon.jpg	udon.jpg
+jagalchi1.jpg	jagalchi1.jpg
+jagalchi2.jpg	jagalchi2.jpg
+jagalchi3.jpg	jagalchi3.jpg
+jagalchi4.jpg	jagalchi4.jpg
+jagalchi5.jpg	jagalchi5.jpg
+jagalchi6.jpg	jagalchi6.jpg
+jagalchi7.jpg	jagalchi7.jpg
+busan_tower.jpg	busan_tower.jpg
+busan_tower2.jpg	busan_tower2.jpg
+busan_tower3.jpg	busan_tower3.jpg
+busan_hotel.jpg	busan_hotel.jpg
+busan_foot_massage.jpg	busan_foot_massage.jpg
+busan_mall.jpg	busan_mall.jpg
+shabu_shabu2.jpg	shabu_shabu2.jpg
+shabu_shabu.jpg	shabu_shabu.jpg
+sanbon1.jpg	sanbon1.jpg
+sanbon2.jpg	sanbon2.jpg
+sanbon3.jpg	sanbon3.jpg
+sanbon4.jpg	sanbon4.jpg
+sanbon5.jpg	sanbon5.jpg
+sanbon_pb2.jpg	sanbon_pb2.jpg
+sanbon_pb1.jpg	sanbon_pb1.jpg
+sanbon_pb3.jpg	sanbon_pb3.jpg
+sanbon6.jpg	sanbon6.jpg
+biba3.jpg	biba3.jpg
+biba1.jpg	biba1.jpg
+biba2.jpg	biba2.jpg
+sanbon_barbecue.jpg	sanbon_barbecue.jpg
+sanbon_barbecue2.jpg	sanbon_barbecue2.jpg

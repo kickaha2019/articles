@@ -1,19 +1,5 @@
----
-title: Chiquito
-images:
-- path: DSCF5961.JPG
-  tag: The entrance to Chiquitos
-- path: DSCF5964.JPG
-  tag: The interior facing the bar
-- path: P1380069.JPG
-  tag: Interior view
-- path: P1380070.JPG
-  tag: Interior view
-- path: DSCF5965.JPG
-  tag: The irresistible churros
-- path: P1380071.JPG
-  tag: Baked enchiladas
----
+#title Chiquito
+#markdown
 [Chiquito](https://www.chiquito.co.uk) is a TexMex restaurant chain
 which had a place at Cambridge Leisure Centre, where we often see films
 on Saturday mornings. It's not crowded or noisy like other restaurants
@@ -33,9 +19,10 @@ in the World Showcase at [EPCOT](https://disneyworld.disney.go.com/en_GB/destina
 
 Sadly Chiquitos at the Leisure Centre closed down in 2019.
 
-![The entrance to Chiquitos](DSCF5961.JPG)
-![The interior facing the bar](DSCF5964.JPG)
-![Interior view](P1380069.JPG)
-![Interior view](P1380070.JPG)
-![The irresistible churros](DSCF5965.JPG)
-![Baked enchiladas](P1380071.JPG)
+#gallery
+DSCF5961.JPG	DSCF5961.JPG
+DSCF5964.JPG	DSCF5964.JPG
+P1380069.JPG	P1380069.JPG
+P1380070.JPG	P1380070.JPG
+DSCF5965.JPG	DSCF5965.JPG
+P1380071.JPG	P1380071.JPG

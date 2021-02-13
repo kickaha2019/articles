@@ -1,9 +1,6 @@
----
-icon: "/Users/peter/Synch/Website/Articles/Films/drama.png"
-anchors:
-- Robinson College
-date: 8 August 2012
----
+#icon /Users/peter/Synch/Website/Articles/Films/drama.png
+#date 8 August 2012
+#markdown
 The rain just about held off last night. It was cold and Virginia
 wished she had taken something thicker.  But it didn't pour with
 rain, only a few drops towards the end of the evening.  This was

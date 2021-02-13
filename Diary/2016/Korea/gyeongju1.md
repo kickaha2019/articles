@@ -1,49 +1,7 @@
----
-title: Gyeongju and the Silla Kingdom
-anchors:
-- Cheomseongdae
-- Cheonmachong
-- Bulguksa
-- Commodore Hotel Gyeongju
-- Gyeongju National Museum
-date: May 12th 2016
-images:
-- path: silla_tumuli.jpg
-  tag: Silla tombs at Daereungwon
-- path: silla_mound.jpg
-  tag: Silla tomb at Daereungwon
-- path: silla_tomb.jpg
-  tag: Cheonmachong Tomb
-- path: silla_tree.jpg
-  tag: Daereungwon
-- path: silla_observatory.jpg
-  tag: Cheomseongdae Royal Observatory
-- path: silla_go_stones.jpg
-  tag: Go stones from Silla tomb
-- path: wonseong_tomb.jpg
-  tag: King Wonseong's burial mound
-- path: bulguska_gate.jpg
-  tag: Bulguska Temple gate
-- path: bulguska1.jpg
-  tag: Bulguska Temple
-- path: bulguska2.jpg
-  tag: Bulguska Temple
-- path: bulguska3.jpg
-  tag: Bulguska Temple
-- path: bulguska4.jpg
-  tag: Bulguska Temple
-- path: bulguska5.jpg
-  tag: Bulguska Temple
-- path: bulguska6.jpg
-  tag: Piles of stones as free prayers
-- path: bulguska_pig.jpg
-  tag: Touch the pig might make you rich
-- path: commodore_hotel.jpg
-  tag: Gyeongju Commodore Hotel
-- path: commodore_lake.jpg
-  tag: Lake by the hotel
----
-![Silla tombs at Daereungwon](silla_tumuli.jpg)
+#title Gyeongju and the Silla Kingdom
+#date May 12th 2016
+#image silla_tumuli.jpg
+#markdown
 Checked out of the Grand Hotel after another buffer breakfast - our first stop was the very
 impressive burial mounds of the Silla kingdom at Daereungwon, Gyeongju. Made me think of Sutton
 Hoo but on a far bigger scale. Plenty of school children as usual, and also a film crew shooting
@@ -62,7 +20,8 @@ from the burial mounds - the stars being the golden Royal crowns which were worn
 
 A break for lunch at which my trying for a lighter lunch only got me Korean fast junk food - yeucch.
 
-![King Wonseong's burial mound](wonseong_tomb.jpg)
+#image wonseong_tomb.jpg
+#markdown
 We then saw [King Wonseong's burial mound](http://english.visitkorea.or.kr/enu/index.kto?cid=999477),
 guarded by 4 lions and twelve zodiacal beasts.
 It had an altar in front at which our guide told us the descendants of the Silla Kings

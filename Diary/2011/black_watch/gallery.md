@@ -1,106 +1,107 @@
-![Tabitha in her holiday 'home'](tabitha.JPG)
-![Dover cruise terminal 1](dover1.JPG)
-![The cruise terminal was an old railway station](dover2.JPG)
-![The obstacle course to board the Black Watch](obstacle.JPG)
-![Our cabin's door](cabin_door.JPG)
-![Our cabin 5073](cabin_open.JPG)
-![Virginia makes herself comfortable](cabin_ginny.JPG)
-![The shower in cabin 5073](cabin_shower.JPG)
-![The wash basin in cabin 5073](cabin_basin.JPG)
-![Waiting to 'set sail' from Dover](waiting.JPG)
-![All at sea to Copenhagen](at_sea.JPG)
-![Arrival at Copenhagen](copen1.JPG)
-![New theatre in Copenhagen](copen_theatre.JPG)
-![Amsterdam-like canals in Copenhagen](copen_canal.JPG)
-![Copenhagen Church with its own helter-skelter](copen_spiral.JPG)
-![Tivoli Gardens in Copenhagen](tivoli1.JPG)
-![Virginia in Tivoli Gardens](tivoli_ginny.JPG)
-![Me in Tivoli Gardens](tivoli_me.JPG)
-![Balloon vendor Tivoli Gardens](tivoli_balloon.JPG)
-![Build your own bear shop in Tivoli Gardens](bear1.JPG)
-![Available costumes for your bear](bear2.JPG)
-![The shop was doing good business](bear3.JPG)
-![Dusk in Tivoli Gardens](tivoli2.JPG)
-![Black Watch in Stockholm](stock1.JPG)
-![The Vasa ship in Stockholm](stock_vasa.JPG)
-![Fountain in Stockholm](stock_fount.JPG)
-![Buildings in old part of Stockholm](stock2.JPG)
-![Docked in Tallinn, Estonia](tall.JPG)
-![Coach in Tallinn, Estonia](tall_coach.JPG)
-![The Lahemaa Forest in Estonia](tall_forest.JPG)
-![Lahemaa Forest](tall_forest2.JPG)
-![The Viru Bog in Lahemaa Forest](tall_viru.JPG)
-![Lookout Tower in Viru Bog](tall_tower.JPG)
-![Tower construction](tall_tower2.JPG)
-![View from tower in Viru Bog](tall_tower3.JPG)
-![Hostelry in Lahemaa Forest area](tall_hostelry.JPG)
-![Estonian menu](tall_menu.JPG)
-![Lahemaa Forest beach](tall_beach.JPG)
-![House by the Lahemaa cost](tall_house.JPG)
-![House by the Lahemaa cost](tall_house2.JPG)
-![Peterhof Palace in St Petersburg](peter1.JPG)
-![Peterhof Palace](peter2.JPG)
-![The fountains at Peterhof](peter3.JPG)
-![Getting the fountains ready](peter4.JPG)
-![The fountains turned on](peter5.JPG)
-![Virginia at Peterhof](peter_ginny.JPG)
-![Me at Peterhof](peter_me.JPG)
-![Peterhof fountains](peter6.JPG)
-![Peterhof fountains](peter7.JPG)
-![Peterhof fountains](peter8.JPG)
-![Peterhof fountains](peter9.JPG)
-![Peterhof fountains](peter10.JPG)
-![Peterhof fountains](peter11.JPG)
-![Peterhof Palace](peter12.JPG)
-![Peterhof Palace](peter13.JPG)
-![Narva Triumphal Arch in St Petersburg](arch.JPG)
-![One small part of the Hermitage in St Petersburg](herm1.JPG)
-![Church of the Spilled Blood in St Petersburg](spilled.JPG)
-![Inside the Hermitage](herm2.JPG)
-![Hermitage chandelier](herm3.JPG)
-![Hermitage chandelier](herm4.JPG)
-![Hermitage hall](herm5.JPG)
-![Hermitage chandelier](herm6.JPG)
-![One can take pictures of pictures in the Hermitage](herm7.JPG)
-![Art in the Hermitage](herm8.JPG)
-![Inside the Hermitage](herm9.JPG)
-![Matisse painting in the Hermitage](herm10.JPG)
-![Restaurant on the Neva River in St Petersburg](neva.JPG)
-![St Isaac's Cathedral in St Petersburg](isaac.JPG)
-![Our private car tour in St Petersburg](private.JPG)
-![St Isaac's Cathedral in St Petersburg](isaac2.JPG)
-![Rostral Column in St Petersburg](rostral.JPG)
-![St Petersburg building](st_petersburg.JPG)
-![Aarhus welcome committe](aarhus.JPG)
-![Neolithic amusement centre in Jutland](neolithic.JPG)
-![Frigate Jutland in Ebeltoft in Denmark](frigate1.JPG)
-![The frigate hedged its bets between then wind and propeller power](frigate2.JPG)
-![Different ropes for the frigate](frigate3.JPG)
-![Workshop for the frigate](frigate4.JPG)
-![Stern of the frigate Jutland](frigate5.JPG)
-![The laundrette on our Main Deck](laundrette.JPG)
-![The machines inside the laundrette](laundrette2.JPG)
-![The Glentanar Restaurant on the Black Watch](glentanar.JPG)
-![Braemar lounge looking towards the restaurant](braemar_l.JPG)
-![Braemar Cafe on the Black Watch](braemar_c1.JPG)
-![Inside the Braemar Cafe](braemar_c2.JPG)
-![The Lido Bar on the Black Watch](lido.JPG)
-![The Orchid Room on the Black Watch](orchid.JPG)
-![Some culture at least on the Black Watch](harp.JPG)
-![Glasses laid out for the Captain's Welcome Cocktail party](glasses.JPG)
-![Neptune Lounge on Black Watch](neptune.JPG)
-![Boats have names](boat_name.JPG)
-![Garden Cafe on board the Black Watch](garden_cafe.JPG)
-![Black Watch on sail](on_sail.JPG)
-![Card room on the Black Watch](card_room.JPG)
-![Marina Theatre on the Black Watch](marina.JPG)
-![Main Deck shops](main1.JPG)
-![Main Deck reception](main2.JPG)
-![The Black Watch heads for the horizon](horizon.JPG)
-![The Glentanar Restaurant on the Black Watch](glentanar2.JPG)
-![Braemar Room coffee and tea dispensing area](braemar_coffee.JPG)
-![Pipers Bar on the Black Watch](pipers_bar.JPG)
-![Neptune Lounge on the Black Watch](neptune2.JPG)
-![View from rear of Black Watch](rear.JPG)
-![Braemar Room](braemar_sign.JPG)
-![All but the last day of the cruise we had quiet seas](rough_seas.JPG)
+#gallery
+tabitha.JPG	tabitha.JPG
+dover1.JPG	dover1.JPG
+dover2.JPG	dover2.JPG
+obstacle.JPG	obstacle.JPG
+cabin_door.JPG	cabin_door.JPG
+cabin_open.JPG	cabin_open.JPG
+cabin_ginny.JPG	cabin_ginny.JPG
+cabin_shower.JPG	cabin_shower.JPG
+cabin_basin.JPG	cabin_basin.JPG
+waiting.JPG	waiting.JPG
+at_sea.JPG	at_sea.JPG
+copen1.JPG	copen1.JPG
+copen_theatre.JPG	copen_theatre.JPG
+copen_canal.JPG	copen_canal.JPG
+copen_spiral.JPG	copen_spiral.JPG
+tivoli1.JPG	tivoli1.JPG
+tivoli_ginny.JPG	tivoli_ginny.JPG
+tivoli_me.JPG	tivoli_me.JPG
+tivoli_balloon.JPG	tivoli_balloon.JPG
+bear1.JPG	bear1.JPG
+bear2.JPG	bear2.JPG
+bear3.JPG	bear3.JPG
+tivoli2.JPG	tivoli2.JPG
+stock1.JPG	stock1.JPG
+stock_vasa.JPG	stock_vasa.JPG
+stock_fount.JPG	stock_fount.JPG
+stock2.JPG	stock2.JPG
+tall.JPG	tall.JPG
+tall_coach.JPG	tall_coach.JPG
+tall_forest.JPG	tall_forest.JPG
+tall_forest2.JPG	tall_forest2.JPG
+tall_viru.JPG	tall_viru.JPG
+tall_tower.JPG	tall_tower.JPG
+tall_tower2.JPG	tall_tower2.JPG
+tall_tower3.JPG	tall_tower3.JPG
+tall_hostelry.JPG	tall_hostelry.JPG
+tall_menu.JPG	tall_menu.JPG
+tall_beach.JPG	tall_beach.JPG
+tall_house.JPG	tall_house.JPG
+tall_house2.JPG	tall_house2.JPG
+peter1.JPG	peter1.JPG
+peter2.JPG	peter2.JPG
+peter3.JPG	peter3.JPG
+peter4.JPG	peter4.JPG
+peter5.JPG	peter5.JPG
+peter_ginny.JPG	peter_ginny.JPG
+peter_me.JPG	peter_me.JPG
+peter6.JPG	peter6.JPG
+peter7.JPG	peter7.JPG
+peter8.JPG	peter8.JPG
+peter9.JPG	peter9.JPG
+peter10.JPG	peter10.JPG
+peter11.JPG	peter11.JPG
+peter12.JPG	peter12.JPG
+peter13.JPG	peter13.JPG
+arch.JPG	arch.JPG
+herm1.JPG	herm1.JPG
+spilled.JPG	spilled.JPG
+herm2.JPG	herm2.JPG
+herm3.JPG	herm3.JPG
+herm4.JPG	herm4.JPG
+herm5.JPG	herm5.JPG
+herm6.JPG	herm6.JPG
+herm7.JPG	herm7.JPG
+herm8.JPG	herm8.JPG
+herm9.JPG	herm9.JPG
+herm10.JPG	herm10.JPG
+neva.JPG	neva.JPG
+isaac.JPG	isaac.JPG
+private.JPG	private.JPG
+isaac2.JPG	isaac2.JPG
+rostral.JPG	rostral.JPG
+st_petersburg.JPG	st_petersburg.JPG
+aarhus.JPG	aarhus.JPG
+neolithic.JPG	neolithic.JPG
+frigate1.JPG	frigate1.JPG
+frigate2.JPG	frigate2.JPG
+frigate3.JPG	frigate3.JPG
+frigate4.JPG	frigate4.JPG
+frigate5.JPG	frigate5.JPG
+laundrette.JPG	laundrette.JPG
+laundrette2.JPG	laundrette2.JPG
+glentanar.JPG	glentanar.JPG
+braemar_l.JPG	braemar_l.JPG
+braemar_c1.JPG	braemar_c1.JPG
+braemar_c2.JPG	braemar_c2.JPG
+lido.JPG	lido.JPG
+orchid.JPG	orchid.JPG
+harp.JPG	harp.JPG
+glasses.JPG	glasses.JPG
+neptune.JPG	neptune.JPG
+boat_name.JPG	boat_name.JPG
+garden_cafe.JPG	garden_cafe.JPG
+on_sail.JPG	on_sail.JPG
+card_room.JPG	card_room.JPG
+marina.JPG	marina.JPG
+main1.JPG	main1.JPG
+main2.JPG	main2.JPG
+horizon.JPG	horizon.JPG
+glentanar2.JPG	glentanar2.JPG
+braemar_coffee.JPG	braemar_coffee.JPG
+pipers_bar.JPG	pipers_bar.JPG
+neptune2.JPG	neptune2.JPG
+rear.JPG	rear.JPG
+braemar_sign.JPG	braemar_sign.JPG
+rough_seas.JPG	rough_seas.JPG

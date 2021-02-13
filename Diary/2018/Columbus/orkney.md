@@ -1,16 +1,7 @@
----
-date: September 2nd 2018
-anchors:
-- Ring of Brodgar
-- Skara Brae Prehistoric Village
-title: Kirkwall
-images:
-- path: orkney1.jpg
-  tag: Ring of Brodgar
-- path: orkney2.jpg
-  tag: Skara Brae
----
-![Ring of Brodgar](orkney1.jpg)
+#title Kirkwall
+#date September 2nd 2018
+#image orkney1.jpg
+#markdown
 We did an excursion on the tree bare, windswept, Orkneys to see some striking
 neolithic sites.
 
@@ -22,7 +13,8 @@ has faded into supposition and legend, but perhaps that taint of mystery adds a
 spiritual dimension to the speechless rocks, some of which have fallen asleep.
 The constant supply of visitors made taking pictures difficult!
 
-![Skara Brae](orkney2.jpg)
+#image orkney2.jpg
+#markdown
 The prize of the excursion was
 [Skara Brae](https://www.historicenvironment.scot/visit-a-place/places/skara-brae/),
 a Neolithic village preserved underneath the sands from 5000 years ago.

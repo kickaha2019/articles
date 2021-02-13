@@ -1,41 +1,7 @@
----
-date: January 14th 2020
-anchors:
-- Regent of Rotorua
-- Te Puia
-- Wai-O-Tapu
-icon: IMG_1090.jpg
-images:
-- path: IMG_1085.jpg
-  tag: Te Puia entrance
-- path: IMG_1090.jpg
-  tag: Te Puia
-- path: IMG_1097.jpg
-  tag: Te Puia
-- path: IMG_1110.jpg
-  tag: Hangi meal
-- path: IMG_1112.jpg
-  tag: Te Puia
-- path: IMG_1116.jpg
-  tag: Lady Knox geyser
-- path: IMG_1126.jpg
-  tag: Lady Knox geyser
-- path: lady_knox.jpg
-  tag: Lady Knox geyser
-- path: IMG_1137.jpg
-  tag: Waiotapu
-- path: IMG_1142.jpg
-  tag: Waiotapu
-- path: IMG_1144.jpg
-  tag: Waiotapu
-- path: champage.jpg
-  tag: Champage pool
-- path: IMG_1163.jpg
-  tag: Waiotapu
-- path: IMG_1170.jpg
-  tag: Plane to Wellington
----
-![Hangi meal](IMG_1110.jpg)
+#icon IMG_1090.jpg
+#date January 14th 2020
+#image IMG_1110.jpg
+#markdown
 I checked into the posh [Regent of Rotorua](https://regentrotorua.co.nz/) hotel,
 and showered after my long black
 disaster at [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/).
@@ -54,7 +20,8 @@ hotel. There was no space in the Regent's car park so parked on street
 but had to move car before 9am.
 
 # January 15th 2020
-![Lady Knox geyser](IMG_1116.jpg)
+#image IMG_1116.jpg
+#markdown
 Had a Spanish omelette for breakfast (veg including brocolli) then drove to
 [Waiotapu](https://www.waiotapu.co.nz/).
 First stop was the Lady Knox geyser where a vast crowd had gathered to see them

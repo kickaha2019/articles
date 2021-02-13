@@ -1,10 +1,5 @@
----
-images:
-- path: wasteland_2.jpg
-  tag: Wasteland 2
----
-![Wasteland 2](wasteland_2.jpg)
-
+#image	wasteland_2.jpg
+#markdown
 [Wasteland 2](https://www.inxile-entertainment.com/wasteland2)
 ([InXile Entertainment](https://www.inxile-entertainment.com/) 2014) is a
 turn-based RPG set in a post apocalypse America. Your squad of

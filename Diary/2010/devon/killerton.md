@@ -1,21 +1,7 @@
----
-title: Killerton / Bicton Gardens / Budleigh Salterton
-anchors:
-- Killerton House
-- Bicton Gardens
-- Budleigh Salterton
-date: 3rd May 2010
-images:
-- path: killerton.JPG
-  tag: Killerton House
-- path: bicton.JPG
-  tag: Bicton Park Gardens
-- path: budleigh.JPG
-  tag: Budleigh Salterton
-- path: budleigh_street.JPG
-  tag: Budleigh Salterton
----
-![Killerton House](killerton.JPG)
+#title Killerton / Bicton Gardens / Budleigh Salterton
+#date 3rd May 2010
+#image killerton.JPG
+#markdown
 We went to see on the Monday
 [Killerton House](https://www.nationaltrust.org.uk/killerton),
 an estate which was notable for its owner (a Sir Acland) voluntarily giving it away because he believed such places should be owned communally. Good for him - wouldn't expect that kind of behaviour from even Britain's most socialist MPs. Killerton had a fashion through the ages display upstairs in addition to the usual old books and furniture and pictures.

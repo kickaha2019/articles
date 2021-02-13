@@ -1,28 +1,29 @@
-![Outside the Roman baths](p01_baths.JPG)
-![Bath Abbey](p02_abbey.JPG)
-![Inside the Roman baths](p03_diagram.JPG)
-![Inside the Roman baths](p04_pool.JPG)
-![Inside the Roman baths](p05_pool.JPG)
-![Looking out from the Roman baths](p06_abbey.JPG)
-![Inside the Roman baths](p07_statue.JPG)
-![Minerva temple in the Roman baths](p08_temple.JPG)
-![Inside the Roman baths](p09_channels.JPG)
-![Inside the Roman baths](p10_ochre.JPG)
-![Inside the Roman baths](p11_pool.JPG)
-![Inside the Roman baths](p12_pool.JPG)
-![Inside the Roman baths](p13_green.JPG)
-![Inside the Roman baths](p14_stream.JPG)
-![Inside the Roman baths](p15_pool.JPG)
-![Queen Square](p16_square.JPG)
-![Queen Square](p17_square.JPG)
-![Virginia outside Jane Austen exhibition](p18_ginny.JPG)
-![Circus](p19_circus.JPG)
-![Assembly Rooms](p20_assembly.JPG)
-![Me at the Royal Crescent](p21_me.JPG)
-![Royal Crescent](p22_crescent.JPG)
-![River Avon weir](p23_weir.JPG)
-![Bridge over River Avon](p24_bridge.JPG)
-![Bathampton Weir](p25_weir.JPG)
-![Bathampton Weir](p26_weir.JPG)
-![Dyrham Park](p27_dyrham.JPG)
-![Dyrham Park](p28_dyrham.JPG)
+#gallery
+p01_baths.JPG	p01_baths.JPG
+p02_abbey.JPG	p02_abbey.JPG
+p03_diagram.JPG	p03_diagram.JPG
+p04_pool.JPG	p04_pool.JPG
+p05_pool.JPG	p05_pool.JPG
+p06_abbey.JPG	p06_abbey.JPG
+p07_statue.JPG	p07_statue.JPG
+p08_temple.JPG	p08_temple.JPG
+p09_channels.JPG	p09_channels.JPG
+p10_ochre.JPG	p10_ochre.JPG
+p11_pool.JPG	p11_pool.JPG
+p12_pool.JPG	p12_pool.JPG
+p13_green.JPG	p13_green.JPG
+p14_stream.JPG	p14_stream.JPG
+p15_pool.JPG	p15_pool.JPG
+p16_square.JPG	p16_square.JPG
+p17_square.JPG	p17_square.JPG
+p18_ginny.JPG	p18_ginny.JPG
+p19_circus.JPG	p19_circus.JPG
+p20_assembly.JPG	p20_assembly.JPG
+p21_me.JPG	p21_me.JPG
+p22_crescent.JPG	p22_crescent.JPG
+p23_weir.JPG	p23_weir.JPG
+p24_bridge.JPG	p24_bridge.JPG
+p25_weir.JPG	p25_weir.JPG
+p26_weir.JPG	p26_weir.JPG
+p27_dyrham.JPG	p27_dyrham.JPG
+p28_dyrham.JPG	p28_dyrham.JPG

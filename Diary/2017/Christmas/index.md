@@ -1,52 +1,8 @@
----
-icon: P1380511.JPG
-date: Dec 26th 2017
-title: Celebrating Christmas
-images:
-- path: P1380489.JPG
-  tag: Our lounge
-- path: P1380500.JPG
-  tag: Spirited Away is a great film
-- path: there.jpg
-  tag: Amelia making
-- path: half_there.jpg
-  tag: herself
-- path: not_there.jpg
-  tag: invisible!
-- path: P1380488.JPG
-  tag: Toffee setting
-- path: P1380493.JPG
-  tag: Toffee set
-- path: P1380492.JPG
-  tag: Cache of presents
-- path: P1380496.JPG
-  tag: Some presents wrapped
-- path: P1380504.JPG
-  tag: More presents wrapped
-- path: P1380506.JPG
-  tag: Girton Baptist Church
-- path: P1380507.JPG
-  tag: Girton Baptist Church
-- path: P1380511.JPG
-  tag: Elm Bank care home
-- path: P1380510.JPG
-  tag: Elm Bank care home
-- path: P1380513.JPG
-  tag: At my sisters
-- path: P1380514.JPG
-  tag: At my sisters
-- path: P1380515.JPG
-  tag: M11 tailback
-- path: P1380516.JPG
-  tag: At Virginias folks
-- path: P1380518.JPG
-  tag: At Virginias folks
-- path: P1380519.JPG
-  tag: The famous quiz
-- path: P1380520.JPG
-  tag: Instead of crockery
----
-![Our lounge](P1380489.JPG)
+#title Celebrating Christmas
+#icon P1380511.JPG
+#date Dec 26th 2017
+#image P1380489.JPG
+#markdown
 Christmas begins before Christmas. Christmas begins well before Christmas.
 For us it could be said to begin with Christmas lists. Not being imaginative, or
 strongly endowed with mind-reading abilities, we solicit ideas for what to buy
@@ -62,7 +18,8 @@ parcel arrived from [YesAsia](https://www.yesasia.com/global/en/home.html) on th
 concealing the presents at home from one another - this year I used a suitcase
 which I hope hid the smells of bath stuff.
 
-![Toffee set](P1380493.JPG)
+#image P1380493.JPG
+#markdown
 There a number of traditions to keep going, particularly for Virginia's family.
 She makes toffee which is much appreciated down in Loughton. We take that down
 along with an apple crumble which she made this time without cinnamon to
@@ -76,7 +33,8 @@ got outside so looked around the nearby streets. But sometime later she
 re-materialised as if nothing had happened - she's obviously mastered the art
 of invisibility.
 
-![Elm Bank care home](P1380511.JPG)
+#image P1380511.JPG
+#markdown
 Christmas Day we managed
 to Skype one of Virginia's sisters out in New Zealand. Quite funky display and
 sound waiting for Skype to connect! That it works is a feat of technology.
@@ -94,7 +52,8 @@ Loughton on Boxing Day. So they had started
 the meal at Virginia's parents before we got there. We had to pull crackers
 while the dog was shut outside.
 
-![The famous quiz](P1380519.JPG)
+#image P1380519.JPG
+#markdown
 The next stage is to repair to the house of Virginia's brother William two doors
 away for opening presents, and then the Christmas Quiz run this year by Charlotte.
 A lot of the questions made me realise I'm behind the times and culturally irrelevant.

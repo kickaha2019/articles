@@ -1,7 +1,8 @@
-![The Holiday Inn](holiday_inn.jpg)
-![The buffet which we didn't finish](buffet.jpg)
-![Virginia's cake for the occasion](peter_60th.jpg)
-![Some of the people there](people1.jpg)
-![Some of the people there](people2.jpg)
-![Some of the people there](people3.jpg)
-![Some of the people there](people4.jpg)
+#gallery
+holiday_inn.jpg	holiday_inn.jpg
+buffet.jpg	buffet.jpg
+peter_60th.jpg	peter_60th.jpg
+people1.jpg	people1.jpg
+people2.jpg	people2.jpg
+people3.jpg	people3.jpg
+people4.jpg	people4.jpg

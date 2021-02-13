@@ -1,10 +1,6 @@
----
-images:
-- path: maps.jpg
-  tag: Maps
-date: March 9th 2016
----
-![Maps](maps.jpg)
+#date March 9th 2016
+#image maps.jpg
+#markdown
 My efforts at game-making have become less ambitious over the years.
 This current project was to do a present hunt for Virginia, where she
 followed a paper-trail to find where her birthday (it turned out to be

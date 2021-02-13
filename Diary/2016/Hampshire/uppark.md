@@ -1,16 +1,7 @@
----
-date: March 16th 2016
-anchors:
-- Uppark House and Garden - National Trust
-- Butser Ancient Farm
-title: Uppark and Butser Ancient Farm
-images:
-- path: uppark.JPG
-  tag: Uppark
-- path: butser.JPG
-  tag: Butser Ancient Farm
----
-![Uppark](uppark.JPG)
+#title Uppark and Butser Ancient Farm
+#date March 16th 2016
+#image uppark.JPG
+#markdown
 On the last full day we got to [Uppark](https://www.nationaltrust.org.uk/uppark-house-and-garden) only just in time for a taster tour of the house at 11am
 - the NT website is rather out of step with what's happening on the ground. I found what was
 below the stairs (splendid housekeeper's room, safe for silverware, kitchens, wine cellar,
@@ -24,7 +15,8 @@ in the end), HG Wells used the house for a book, he even played with the elabora
 that a Fetherston-Haugh bride brought with her to the house. We had jacket potatoes - had to send
 them back as got tuna rather cheese first time round.
 
-![Butser Ancient Farm](butser.JPG)
+#image butser.JPG
+#markdown
 We then eventually found [Butser Ancient Farm](http://www.butserancientfarm.co.uk/) despite the satnav (which also betrayed us again
 into a gauntlet of one-track roads to return to East Meon rather than straightforward faster
 motorways). It had already been discovered by several coach loads of school children -

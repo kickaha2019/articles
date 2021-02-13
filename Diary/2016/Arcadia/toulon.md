@@ -1,21 +1,7 @@
----
-title: Toulon
-anchors:
-- Aix en Provence
-date: October 16th 2016
-images:
-- path: aix.jpg
-  tag: Aix En Provence
-- path: aix2.jpg
-  tag: Cezanne's path in Aix
-- path: aix3.jpg
-  tag: Aix cathedral
-- path: aix4.jpg
-  tag: Aix biscuit shop
-- path: aix5.jpg
-  tag: Aix cafe
----
-![Aix En Provence](aix.jpg)
+#title Toulon
+#date October 16th 2016
+#image aix.jpg
+#markdown
 We docked at La Seyne sur Mer then after a very early breakfast caught coach 5 (moving from
 coach 4 which we were at the back after they filled the coach without counting how many were on it)
 to Aix en Provence. Pretty scenery with hilltop villages and vineyards (first in France
@@ -28,7 +14,8 @@ French Revolution). One of our
 party tried sitting on a rising bollard which slowly descended under him and he slowly
 fell to the ground!
 
-![Cezanne's path in Aix](aix2.jpg)
+#image aix2.jpg
+#markdown
 Aix has artistic connections - Cezanne walked each day to paint
 hills and his path is now marked by gold nails in streets. Emile Zola and Darius Milhaud
 and others have plaques to them. On our tour of the artistic streets we saw

@@ -1,65 +1,7 @@
----
-title: Nine dragons and the tiger's tail
-anchors:
-- Seokguram
-- Daewang-Am
-- Guryongpo
-- Homigot Sunrise Square
-- Gyeongju Seongdong Market
-date: May 13th 2016
-images:
-- path: seokguram.jpg
-  tag: Seokguram grotto
-- path: seokguram_squirrel.jpg
-  tag: Stripey squirrel at Seokguram
-- path: seokguram_wash.jpg
-  tag: Ceremonial basin at Seokguram
-- path: fishing_nets.jpg
-  tag: Fishing nets at Guryongpo
-- path: fishing_boat.jpg
-  tag: Fishing boat (note lights to atract squid) at Guryongpo
-- path: crabs.jpg
-  tag: Caught crabs at Guryongpo
-- path: preparing_kimbap.jpg
-  tag: Preparing kimbap in Guryongpo restaurant
-- path: guryongpo_dumplings.jpg
-  tag: Dumplings I had at Guryongpo
-- path: guryongpo_jap1.jpg
-  tag: Japanese street at Guryongpo
-- path: guryongpo_jap2.jpg
-  tag: Guryongpo Japanese style house
-- path: guryongpo_jap3.jpg
-  tag: Guryongpo Japanese style room
-- path: homigot.jpg
-  tag: Tiger's tail area at Homigot
-- path: homigot_hand.jpg
-  tag: Hand in sea at Homigot
-- path: homigot_octopus.jpg
-  tag: Octopus not for eating at Homigot
-- path: melons.jpg
-  tag: Korean striped melons
-- path: seongdong_market0.jpg
-  tag: Gyeongju Seongdong Market
-- path: seongdong_market.jpg
-  tag: Gyeongju Seongdong Market
-- path: seongdong_market1.jpg
-  tag: Gyeongju Seongdong Market
-- path: seongdong_market2.jpg
-  tag: Gyeongju Seongdong Market
-- path: seongdong_market5.jpg
-  tag: Gyeongju Seongdong Market
-- path: seongdong_market7.jpg
-  tag: This looked and tasted like a kitchen wipe
-- path: seongdong_market_fish.jpg
-  tag: Gyeongju Seongdong Market fish
-- path: seongdong_market_octopi.jpg
-  tag: Gyeongju Seongdong Market octopi
-- path: gulbulsa.jpg
-  tag: Gulbulsa Buddhist temple
-- path: gulbulsa2.jpg
-  tag: Gulbulsa Buddhist temple
----
-![Seokguram grotto](seokguram.jpg)
+#title Nine dragons and the tiger's tail
+#date May 13th 2016
+#image seokguram.jpg
+#markdown
 A very busy day. We got taken to see a National Treasure Buddha at
 [Seokguram](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264260) in a
 grotto up a mountain (only it wasn't a real cave more a dome) - along with the usual
@@ -85,7 +27,8 @@ Korean lunch I had something along dim sum lines. On the TV was showing an episo
 Korean TV drama "Mirror of the Witch" which my fellow travellers didn't appreciate the
 cheesy melodrama.
 
-![Hand in sea at Homigot](homigot_hand.jpg)
+#image homigot_hand.jpg
+#markdown
 The coach then drove to Homigot near Pohang and a cove called
 [Homigot Sunrise Square](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=806297) or Tiger's Tail, where many
 Koreans watch the sun rise at the start of the new Lunar Year. The local government
@@ -105,7 +48,8 @@ have a variety of melon which is stripey. Our last stop was a small Buddhist tem
 which has a Buddha sculpture facing in many directions. It's a small poor
 temple, few lanterns with hanging up, whereas the big temples have loads of money.
 
-![Gyeongju Commodore Hotel](commodore_hotel.jpg)
+#image commodore_hotel.jpg
+#markdown
 I did try to eat out in the evening, but getting turned away from one place
 (I don't blame them as if we couldn't communicate it wouldn't be fun for anyone)
 I resorted to eating in the hotel's Japanese restaurant. I've never had tempura before with

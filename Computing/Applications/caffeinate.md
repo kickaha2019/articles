@@ -1,6 +1,5 @@
----
-title: caffeinate
----
+#title caffeinate
+#markdown
 I run a lot of scripts on the *iMac* and some of those scripts
 can run for minutes or even hours (for example scripts which archive
 large directories). So it is more than annoyance if the *iMac*

@@ -1,15 +1,7 @@
----
-date: September 3rd 2018
-anchors:
-- Dunrobin Castle
-title: Invergordon
-images:
-- path: dunrobin2.jpg
-  tag: Dunrobin Castle
-- path: dunrobin1.jpg
-  tag: Dunrobin Castle
----
-![Dunrobin Castle](dunrobin2.jpg)
+#title Invergordon
+#date September 3rd 2018
+#image dunrobin2.jpg
+#markdown
 We did an excursion from Invergordon to see
 [Dunrobin Castle](http://www.dunrobincastle.co.uk) which has a lot of history
 in its walls. The Castle has evolved over the centuries as has its inhabitants.
@@ -24,7 +16,8 @@ knowledge. He was scathing about the BBC and its nature documentaries which he
 felt propagated myths. A shock to have his massive eagle owl flying just over head!
 He stressed that some owls are diurnal not nocturnal.
 
-![Dunrobin Castle](dunrobin1.jpg)
+#image dunrobin1.jpg
+#markdown
 There is also a museum with an eerie collection of
 hunting trophies as well as Pictish stones with cryptic carvings on them.
 The guide said we call them Picts because they drew pictures on

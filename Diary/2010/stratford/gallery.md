@@ -1,18 +1,19 @@
-![Anne Hathaway had a cottage](cottage.JPG)
-![A bare bedroom](cottage_bedroom.JPG)
-![Kitchen](cottage_kitchen.JPG)
-![The cats went for a long weekend too](cat_baskets.JPG)
-![Their accommodation was slightly cheaper than ours](cat_cell.JPG)
-![Tabitha was not impressed](tabitha.JPG)
-![Kenilworth](kenil1.JPG)
-![Kenilworth slighted](kenil2.JPG)
-![Packwood House](pack_house.JPG)
-![A period bathroom](pack_bathroom.JPG)
-![Stately garden](pack_garden.JPG)
-![Baddesley Clinton](badd.JPG)
-![How the last owner knew things](badd_owner.JPG)
-![Coughton Court](coug.JPG)
-![Formal gardens](coug_garden.JPG)
-![Bell-ringers' gallery](bell_ringers.JPG)
-![Ragley Hall](ragley.JPG)
-![I think it's meant to be art](ragley_art.JPG)
+#gallery
+cottage.JPG	cottage.JPG
+cottage_bedroom.JPG	cottage_bedroom.JPG
+cottage_kitchen.JPG	cottage_kitchen.JPG
+cat_baskets.JPG	cat_baskets.JPG
+cat_cell.JPG	cat_cell.JPG
+tabitha.JPG	tabitha.JPG
+kenil1.JPG	kenil1.JPG
+kenil2.JPG	kenil2.JPG
+pack_house.JPG	pack_house.JPG
+pack_bathroom.JPG	pack_bathroom.JPG
+pack_garden.JPG	pack_garden.JPG
+badd.JPG	badd.JPG
+badd_owner.JPG	badd_owner.JPG
+coug.JPG	coug.JPG
+coug_garden.JPG	coug_garden.JPG
+bell_ringers.JPG	bell_ringers.JPG
+ragley.JPG	ragley.JPG
+ragley_art.JPG	ragley_art.JPG

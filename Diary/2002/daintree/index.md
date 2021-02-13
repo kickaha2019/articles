@@ -1,73 +1,6 @@
----
-date: 23 May 2002
-anchors:
-- Bruce Belcher's Daintree River Cruises
-- Daintree Heritage Lodge
-- Cooper Creek Wilderness
-- Thornton Beach
-images:
-- path: belcher_sign.JPG
-  tag: Daintree River Cruise sign
-- path: belcher_boat.JPG
-  tag: Daintree River Cruise boat
-- path: green_tree_frogs.JPG
-  tag: Green tree frogs along for the ride
-- path: achtung_crocodiles.JPG
-  tag: Beware crocodiles sign
-- path: crocodile.JPG
-  tag: Crocodile
-- path: crocodile_2.JPG
-  tag: Crocodile
-- path: egret.JPG
-  tag: Egret
-- path: heritage_reception.JPG
-  tag: Heritage Lodge reception
-- path: heritage_dining.JPG
-  tag: Heritage Lodge dining
-- path: heritage_room.JPG
-  tag: Heritage Lodge room
-- path: aboriginal_pool.JPG
-  tag: Aboriginal pool
-- path: rainforest_floor.JPG
-  tag: Rainforest floor
-- path: knotty_ash.JPG
-  tag: Knotty ash
-- path: cycad.JPG
-  tag: Cycad
-- path: rainforest_canopy.JPG
-  tag: Rainforest canopy
-- path: flying_foxes.JPG
-  tag: Flying foxes
-- path: golden_orb.JPG
-  tag: Golden orb spider
-- path: frilly_dragon.JPG
-  tag: Frilly dragon
-- path: cane_toad.JPG
-  tag: Cane toad
-- path: leaf_tailed_lizard.JPG
-  tag: Leaf tailed lizard
-- path: thornton_beach_sign.JPG
-  tag: Thornton Beach
-- path: thornton_beach.JPG
-  tag: Thornton Beach
-- path: thornton_lifeform.JPG
-  tag: Thornton Beach
-- path: marrdja_sign.JPG
-  tag: Marrdja
-- path: strangler_figs.JPG
-  tag: Strangler figs
-- path: bole.JPG
-  tag: Bole
-- path: leaf_collector.JPG
-  tag: Leaf collector
-- path: hartshorn.JPG
-  tag: Hartshorn
-- path: flowers.JPG
-  tag: Flowers
-- path: mangrove_roots.JPG
-  tag: Mangrove roots
----
-![Daintree River Cruise boat](belcher_boat.JPG)
+#date 23 May 2002
+#image belcher_boat.JPG
+#markdown
 I took a river cruise with Bruce Belcher of
 [Daintree River Cruise](https://www.daintreerivercruisecentre.com.au/)
 before the ferry across the Daintree River. Very good. Not all the passengers paid - we had two green tree frogs for company!  If I had worried about not seeing any crocodiles I needn't have done. Learnt how to tell freshwater from saltwater crocodiles - the freshies have narrow snouts where the salties have broad ones.
@@ -76,12 +9,14 @@ The Daintree is an ancient rainforest still surviving despite the inroads of civ
 The Daintree is also unusual for a rainforest which meets the sea (at beaches like
 *Thornton Beach*).
 
-![Heritage Lodge reception](heritage_reception.JPG)
+#image heritage_reception.JPG
+#markdown
 The [Daintree Heritage Lodge](https://www.heritagelodge.net.au/) was my first taste of eco-tourism. The restaurant was amazing - at night getting there in the dark was an adventure. When you did get there it was more like tables had been set out among the trees. Candles provided token illumination and if you heard a rustling in the undergrowth you feared for the other diners.
 
 In the morning you could see one edge of it overlooked a secret stream winding its way through a leafy gorge below. To supplement the restaurant fare I tried the green ants you can find on the trees. If you lick their posteriors it's like lemon-flavoured battery acid. Has a happy zing to it! Homely off the beaten track stuff.
 
-![Flying foxes](flying_foxes.JPG)
+#image flying_foxes.JPG
+#markdown
 The Lodge is set in a rainforest which feels suprisingly empty, and dim as the canopy cuts down on the light reaching the ground. You hear sounds of the life in the canopy (including the noisome flying foxes.)
 
 I didn't see any rare cassowaries as I hoped but I did go on two good walks with

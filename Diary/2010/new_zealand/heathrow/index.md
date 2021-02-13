@@ -1,11 +1,7 @@
----
-title: Heathrow to Auckland
-date: 15th November 2010
-images:
-- path: heathrow.JPG
-  tag: Bear at Heathrow to wish me Bon Voyage
----
-![Bear at Heathrow to wish me Bon Voyage](heathrow.JPG)
+#title Heathrow to Auckland
+#date 15th November 2010
+#image heathrow.JPG
+#markdown
 This is about a two-week trip I made to New Zealand in November 2010 to see family out in Auckland (Virginia's sister's family,) and to do some tourism. The family part of it was very pleasant, more than justified making the trip, but this article is going to focus on the tourism. NZ is a nice place to me, more livable than the UK, Auckland itself has many uncrowded beaches, good standard of living, and a wide range of scenery and worth seeings.
 
 When to go is a good question. Late November is just coming into summer for New Zealand so that's good, the weather was fine for my visit (when I left it was about 25C in Auckland.) It is coming towards the end of the school year (NZ school years are calendar years) and this means school trips are in season. School parties impacted two of the trips I made (to Tiritiri Matangi and White Island.) The kids were barely supervised which didn't help. I don't know if the end of summer would be better from this point of view.

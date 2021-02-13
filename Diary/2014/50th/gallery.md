@@ -1,10 +1,11 @@
-![Entrance to Histon Baptist Church where the event was held](church.JPG)
-![The cake my sister made for Virginia](cake.JPG)
-![The caller for the Ceilidh drumming up dancers](dance1.JPG)
-![The dancing in progress](dance2.JPG)
-![This is the only dance Virginia and I didn't dance](dance3.JPG)
-![The dancing in motion](dance4.JPG)
-![Some of the people there](people1.JPG)
-![More people there](people2.JPG)
-![The impressive array of puddings](puddings.JPG)
-![Virginia making a little speech](speech.JPG)
+#gallery
+church.JPG	church.JPG
+cake.JPG	cake.JPG
+dance1.JPG	dance1.JPG
+dance2.JPG	dance2.JPG
+dance3.JPG	dance3.JPG
+dance4.JPG	dance4.JPG
+people1.JPG	people1.JPG
+people2.JPG	people2.JPG
+puddings.JPG	puddings.JPG
+speech.JPG	speech.JPG

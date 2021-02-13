@@ -1,6 +1,7 @@
-![Mottistone Manor](mottistone.jpg)
-![Osborne House](osborne.jpg)
-![The Needles](needles.jpg)
-![Shanklin Chine](shanklin_chine.jpg)
-![St Catherine's Lighthouse](st_catherines.jpg)
-![Dinosaur Isle](dinosaur_isle.jpg)
+#gallery
+mottistone.jpg	mottistone.jpg
+osborne.jpg	osborne.jpg
+needles.jpg	needles.jpg
+shanklin_chine.jpg	shanklin_chine.jpg
+st_catherines.jpg	st_catherines.jpg
+dinosaur_isle.jpg	dinosaur_isle.jpg

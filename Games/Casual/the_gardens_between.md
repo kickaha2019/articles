@@ -1,11 +1,6 @@
----
-title: 'The Gardens Between'
-images:
-- path: the_gardens_between.jpg
-  tag: 'The Gardens Between'
----
-![The Gardens Between](the_gardens_between.jpg)
-
+#title The Gardens Between
+#image	the_gardens_between.jpg
+#markdown
 "The Gardens Between" (
 [The Voxel Agents](https://thegardensbetween.com/)
 2018) is a beautiful puzzle game in which you guide a couple of children through a series

@@ -1,143 +1,144 @@
-![Welcome to Japan](p01_welcome.JPG)
-![Cross between art and architecture in Tokyo](p02_arch_art.JPG)
-![Controls on Tokyo hotel toilet seat](p03_toilet.JPG)
-![Cherry blossom fever in Tokyo](p04_cherry.JPG)
-![View from hotel room](p05_view.JPG)
-![Umbrella stands outside Tokyo hotel](p06_umbrellas.JPG)
-![Tokyo Tower](p07_tower.JPG)
-![View from Tokyo Tower](p08_view.JPG)
-![Sake barrels at Meiji Shrine in Tokyo](p09_barrels.JPG)
-![Shinto wedding at Meiji Shrine in Tokyo](p10_wedding.JPG)
-![Good luck tokens at Meiji Shrine in Tokyo](p11_tokens.JPG)
-![Big drum at Meiji Shrine in Tokyo](p12_drum.JPG)
-![Shinto wedding process at Meiji Shrine in Tokyo](p13_wedding.JPG)
-![Wall at Imperial Palace in Tokyo](p14_wall.JPG)
-![East Gardens in Imperial Palace in Tokyo](p15_gardens.JPG)
-![Teahouse in Imperial Palace in Tokyo](p16_teahouse.JPG)
-![Tokyo grows skyward like a forest](p17_skyline.JPG)
-![Narnia-like lamp in Imperial Palace in Tokyo](p18_lamp.JPG)
-![Cleaner at work in Tokyo Metro](p19_cleaner.JPG)
-![Tokyo train interior](p20_train.JPG)
-![Ghibli Museum in Mitaka Tokyo](p21_museum.JPG)
-![Mitaka Station entrance in Tokyo](p22_station.JPG)
-![Breakfast congee at the Tokyo hotel](p23_breakfast.JPG)
-![Tokyo hotel](p24_hotel.JPG)
-![Ringing the bell at Toshugu Shrine in Nikko](p25_bell.JPG)
-![Good luck tokens at Toshugu Shrine](p26_tokens.JPG)
-![Ceremonial washing howto at Toshugu Shrine](p27_washing.JPG)
-![Buildings at Toshugu Shrine](p28_shrine.JPG)
-![Part of Monkey frieze at Toshugu Shrine](p29_frieze.JPG)
-![Good luck charms on sale at Toshugu Shrine](p30_charms.JPG)
-![Torii gate at Toshugu Shrine](p31_gate.JPG)
-![Ceremonial lanterns at Toshugu Shrine](p32_lanterns.JPG)
-![Buildings at Toshugu Shrine](p33_shrine.JPG)
-![Old tree at Toshugu Shrine](p34_tree.JPG)
-![Tamozawa Imperial Villa in Nikko](p35_villa.JPG)
-![Tamozawa Imperial Villa](p36_villa.JPG)
-![Kegon Waterfall in Nikko](p37_kegon.JPG)
-![Fish snacks at Kegon Waterfall](p38_fish.JPG)
-![Yamanote Loop Line in Tokyo](p39_loop.JPG)
-![Best view of Mount Fuji we got](p40_fuji.JPG)
-![Mount Fuji from as far as coach went](p41_mount.JPG)
-![Owakudani Boiling Valley on a very foggy day](p42_cable.JPG)
-![Pirate boat cruise on Lake Ashi](p43_pirate.JPG)
-![Odawara tea rooms](p44_tearooms.JPG)
-![Note miniscule thimble of milk for coffee](p45_coffee.JPG)
-![Trains including the bullet train in Japan run to time](p46_train.JPG)
-![Shoe rack at Nijo Castle in Kyoto](p47_rack.JPG)
-![Nijo Castle](p48_nijo.JPG)
-![Nijo Castle](p49_bells.JPG)
-![Nightingale floor mechanism at Nijo Castle](p50_floor.JPG)
-![Nijo Castle](p51_nijo.JPG)
-![Golden Pavilion in Kyoto](p52_pavilion.JPG)
-![Golden Pavilion](p53_golden.JPG)
-![Kyoto Imperial Palace](p54_palace.JPG)
-![Kyoto Imperial Palace](p55_palace.JPG)
-![Kyoto Imperial Palace](p56_bridge.JPG)
-![Kyoto Imperial Palace](p57_palace.JPG)
-![Kyoto Imperial Palace](p58_palace.JPG)
-![Shinto temple in Kyoto](p59_shrine.JPG)
-![with display of rabbits](p60_rabbits.JPG)
-![Umbrella related device in Kyoto](p61_umbrella.JPG)
-![Graveyard on way to Nara from Kyoto](p62_graveyard.JPG)
-![Beware the deer in Nara](p63_deer.JPG)
-![Roasted yam at Nara](p64_yam.JPG)
-![Guardian statue at Todaiji temple](p65_statue.JPG)
-![Large wooden building at Todaiji temple](p66_temple.JPG)
-![housing a large Buddha](p67_buddha.JPG)
-![and shop](p68_shop.JPG)
-![Ceremonial washing at Kasuga Taisha shrine](p69_washing.JPG)
-![More deer at Kasuga shrine in Nara](p70_deer.JPG)
-![Old tree at Kasuga Shinto shrine](p71_tree.JPG)
-![Kasuga Shinto shrine](p72_shrine.JPG)
-![Some of the 3000 lanterns at Kasuga shrine](p73_lanterns.JPG)
-![Japanese food](p74_food.JPG)
-![Sushi bar in Kyoto](p75_sushi.JPG)
-![Zen garden at Ryoanji Temple in Kyoto](p76_zen.JPG)
-![Ryoanji Temple in Kyoto](p77_temple.JPG)
-![Monument masons in Kyoto](p78_masonry.JPG)
-![Traffic warden in Kyoto](p79_warden.JPG)
-![Second-hand umbrellas stall in Kyoto](p80_stall.JPG)
-![Zen garden at Silver Pavilion in Kyoto](p81_zen.JPG)
-![Silver Pavilion](p82_silver.JPG)
-![Food stall in Kyoto](p83_stall.JPG)
-![Food shop in Kyoto with moving octopus](p84_octopus.JPG)
-![Teddy bears fishing along Philosophers Walk](p85_teddies.JPG)
-![Figures on roof along Philosophers Walk](p86_roof.JPG)
-![Philosophers Walk in Kyoto](p87_walk.JPG)
-![Bear shop in Kyoto](p88_shop.JPG)
-![Nishiki Food Market shop in Kyoto](p89_food.JPG)
-![Nishiki Food Market shop](p90_food.JPG)
-![Nishiki Food Market shop](p91_food.JPG)
-![Train to Osaka Universal Studios theme park](p92_train.JPG)
-![Rural scenery near Osaka](p93_rural.JPG)
-![Funicular railway to Koyasan](p94_railway.JPG)
-![Lunch at Koyasan restaurant](p95_lunch.JPG)
-![Koyasan temple](p96_temple.JPG)
-![Koyasan temple](p97_temple.JPG)
-![Koyasan temple](p98_pagoda.JPG)
-![Ceremonial washing at Koyasan temple](p99_wheelchair.JPG)
-![Buddhist faithful on a tour of Koyasan](p100_pilgrims.JPG)
-![Koyasan temple](p101_temple.JPG)
-![Koyasan rock garden](p103_rocks.JPG)
-![Koyasan rock garden](p104_rocks.JPG)
-![Koyasan temple](p105_temple.JPG)
-![Koyasan umbrellas for sale](p106_umbrellas.JPG)
-![Koyasan telephone boxes](p107_telephones.JPG)
-![Koyasan cemetery which is very big](p108_cemetery.JPG)
-![Unusual memorial at Koyasan cemetery](p109_memorial.JPG)
-![Road digging in Koyasan](p110_road.JPG)
-![Fukuchi-In inn in Koyasan](p111_inn.JPG)
-![Fukuchi-In inn](p112_inn.JPG)
-![Fukuchi-In inn](p113_slippers.JPG)
-![Fukuchi-In inn](p114_rocks.JPG)
-![Fukuchi-In inn](p115_fountain.JPG)
-![Fukuchi-In inn](p116_inn.JPG)
-![Fukuchi-In inn](p117_inn.JPG)
-![Fukuchi-In inn room](p118_room.JPG)
-![Fukuchi-In inn room bed](p119_bed.JPG)
-![Fukuchi-In inn breakfast](p120_breakfast.JPG)
-![Funicular railway station at Koyasan](p121_cable.JPG)
-![Osaka platform markings](p122_platform.JPG)
-![Tempura lunch in Osaka Gourmet Museum](p123_tempura.JPG)
-![Woman with dog in Osaka underground](p124_dog.JPG)
-![Osaka train cockpit](p125_cockpit.JPG)
-![Osaka Castle](p126_castle.JPG)
-![Osaka Kaiyukan Aquarium](p127_aquarium.JPG)
-![Kaiyukan Aquarium](p128_aquarium.JPG)
-![Kaiyukan Aquarium](p129_rays.JPG)
-![Kaiyukan Aquarium](p130_shoal.JPG)
-![Kaiyukan Aquarium](p131_aquarium.JPG)
-![Kaiyukan Aquarium](p132_crabs.JPG)
-![Kaiyukan Aquarium](p133_tank.JPG)
-![Osaka JR station](p134_station.JPG)
-![Last proper meal in Japan](p135_meal.JPG)
-![Model of Umeda Sky Building in Osaka](p135_model.JPG)
-![Umeda Sky Building](p137_sky_tower.JPG)
-![Roof of Umeda Sky Building](p138_roof.JPG)
-![Lockers in Osaka](p139_lockers.JPG)
-![Kansai Airport in Osaka](p140_kansai.JPG)
-![Kansai Airport in Osaka](p141_kansai.JPG)
-![Plane to Paris from Osaka](p142_plane.JPG)
-![Two spare seats next to me!](p143_spare.JPG)
-![Into the sunset](p144_sunset.JPG)
+#gallery
+p01_welcome.JPG	p01_welcome.JPG
+p02_arch_art.JPG	p02_arch_art.JPG
+p03_toilet.JPG	p03_toilet.JPG
+p04_cherry.JPG	p04_cherry.JPG
+p05_view.JPG	p05_view.JPG
+p06_umbrellas.JPG	p06_umbrellas.JPG
+p07_tower.JPG	p07_tower.JPG
+p08_view.JPG	p08_view.JPG
+p09_barrels.JPG	p09_barrels.JPG
+p10_wedding.JPG	p10_wedding.JPG
+p11_tokens.JPG	p11_tokens.JPG
+p12_drum.JPG	p12_drum.JPG
+p13_wedding.JPG	p13_wedding.JPG
+p14_wall.JPG	p14_wall.JPG
+p15_gardens.JPG	p15_gardens.JPG
+p16_teahouse.JPG	p16_teahouse.JPG
+p17_skyline.JPG	p17_skyline.JPG
+p18_lamp.JPG	p18_lamp.JPG
+p19_cleaner.JPG	p19_cleaner.JPG
+p20_train.JPG	p20_train.JPG
+p21_museum.JPG	p21_museum.JPG
+p22_station.JPG	p22_station.JPG
+p23_breakfast.JPG	p23_breakfast.JPG
+p24_hotel.JPG	p24_hotel.JPG
+p25_bell.JPG	p25_bell.JPG
+p26_tokens.JPG	p26_tokens.JPG
+p27_washing.JPG	p27_washing.JPG
+p28_shrine.JPG	p28_shrine.JPG
+p29_frieze.JPG	p29_frieze.JPG
+p30_charms.JPG	p30_charms.JPG
+p31_gate.JPG	p31_gate.JPG
+p32_lanterns.JPG	p32_lanterns.JPG
+p33_shrine.JPG	p33_shrine.JPG
+p34_tree.JPG	p34_tree.JPG
+p35_villa.JPG	p35_villa.JPG
+p36_villa.JPG	p36_villa.JPG
+p37_kegon.JPG	p37_kegon.JPG
+p38_fish.JPG	p38_fish.JPG
+p39_loop.JPG	p39_loop.JPG
+p40_fuji.JPG	p40_fuji.JPG
+p41_mount.JPG	p41_mount.JPG
+p42_cable.JPG	p42_cable.JPG
+p43_pirate.JPG	p43_pirate.JPG
+p44_tearooms.JPG	p44_tearooms.JPG
+p45_coffee.JPG	p45_coffee.JPG
+p46_train.JPG	p46_train.JPG
+p47_rack.JPG	p47_rack.JPG
+p48_nijo.JPG	p48_nijo.JPG
+p49_bells.JPG	p49_bells.JPG
+p50_floor.JPG	p50_floor.JPG
+p51_nijo.JPG	p51_nijo.JPG
+p52_pavilion.JPG	p52_pavilion.JPG
+p53_golden.JPG	p53_golden.JPG
+p54_palace.JPG	p54_palace.JPG
+p55_palace.JPG	p55_palace.JPG
+p56_bridge.JPG	p56_bridge.JPG
+p57_palace.JPG	p57_palace.JPG
+p58_palace.JPG	p58_palace.JPG
+p59_shrine.JPG	p59_shrine.JPG
+p60_rabbits.JPG	p60_rabbits.JPG
+p61_umbrella.JPG	p61_umbrella.JPG
+p62_graveyard.JPG	p62_graveyard.JPG
+p63_deer.JPG	p63_deer.JPG
+p64_yam.JPG	p64_yam.JPG
+p65_statue.JPG	p65_statue.JPG
+p66_temple.JPG	p66_temple.JPG
+p67_buddha.JPG	p67_buddha.JPG
+p68_shop.JPG	p68_shop.JPG
+p69_washing.JPG	p69_washing.JPG
+p70_deer.JPG	p70_deer.JPG
+p71_tree.JPG	p71_tree.JPG
+p72_shrine.JPG	p72_shrine.JPG
+p73_lanterns.JPG	p73_lanterns.JPG
+p74_food.JPG	p74_food.JPG
+p75_sushi.JPG	p75_sushi.JPG
+p76_zen.JPG	p76_zen.JPG
+p77_temple.JPG	p77_temple.JPG
+p78_masonry.JPG	p78_masonry.JPG
+p79_warden.JPG	p79_warden.JPG
+p80_stall.JPG	p80_stall.JPG
+p81_zen.JPG	p81_zen.JPG
+p82_silver.JPG	p82_silver.JPG
+p83_stall.JPG	p83_stall.JPG
+p84_octopus.JPG	p84_octopus.JPG
+p85_teddies.JPG	p85_teddies.JPG
+p86_roof.JPG	p86_roof.JPG
+p87_walk.JPG	p87_walk.JPG
+p88_shop.JPG	p88_shop.JPG
+p89_food.JPG	p89_food.JPG
+p90_food.JPG	p90_food.JPG
+p91_food.JPG	p91_food.JPG
+p92_train.JPG	p92_train.JPG
+p93_rural.JPG	p93_rural.JPG
+p94_railway.JPG	p94_railway.JPG
+p95_lunch.JPG	p95_lunch.JPG
+p96_temple.JPG	p96_temple.JPG
+p97_temple.JPG	p97_temple.JPG
+p98_pagoda.JPG	p98_pagoda.JPG
+p99_wheelchair.JPG	p99_wheelchair.JPG
+p100_pilgrims.JPG	p100_pilgrims.JPG
+p101_temple.JPG	p101_temple.JPG
+p103_rocks.JPG	p103_rocks.JPG
+p104_rocks.JPG	p104_rocks.JPG
+p105_temple.JPG	p105_temple.JPG
+p106_umbrellas.JPG	p106_umbrellas.JPG
+p107_telephones.JPG	p107_telephones.JPG
+p108_cemetery.JPG	p108_cemetery.JPG
+p109_memorial.JPG	p109_memorial.JPG
+p110_road.JPG	p110_road.JPG
+p111_inn.JPG	p111_inn.JPG
+p112_inn.JPG	p112_inn.JPG
+p113_slippers.JPG	p113_slippers.JPG
+p114_rocks.JPG	p114_rocks.JPG
+p115_fountain.JPG	p115_fountain.JPG
+p116_inn.JPG	p116_inn.JPG
+p117_inn.JPG	p117_inn.JPG
+p118_room.JPG	p118_room.JPG
+p119_bed.JPG	p119_bed.JPG
+p120_breakfast.JPG	p120_breakfast.JPG
+p121_cable.JPG	p121_cable.JPG
+p122_platform.JPG	p122_platform.JPG
+p123_tempura.JPG	p123_tempura.JPG
+p124_dog.JPG	p124_dog.JPG
+p125_cockpit.JPG	p125_cockpit.JPG
+p126_castle.JPG	p126_castle.JPG
+p127_aquarium.JPG	p127_aquarium.JPG
+p128_aquarium.JPG	p128_aquarium.JPG
+p129_rays.JPG	p129_rays.JPG
+p130_shoal.JPG	p130_shoal.JPG
+p131_aquarium.JPG	p131_aquarium.JPG
+p132_crabs.JPG	p132_crabs.JPG
+p133_tank.JPG	p133_tank.JPG
+p134_station.JPG	p134_station.JPG
+p135_meal.JPG	p135_meal.JPG
+p135_model.JPG	p135_model.JPG
+p137_sky_tower.JPG	p137_sky_tower.JPG
+p138_roof.JPG	p138_roof.JPG
+p139_lockers.JPG	p139_lockers.JPG
+p140_kansai.JPG	p140_kansai.JPG
+p141_kansai.JPG	p141_kansai.JPG
+p142_plane.JPG	p142_plane.JPG
+p143_spare.JPG	p143_spare.JPG
+p144_sunset.JPG	p144_sunset.JPG

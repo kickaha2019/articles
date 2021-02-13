@@ -1,11 +1,6 @@
----
-title: Lost Horizon
-images:
-- path: LostHorizon.jpg
-  tag: Lost Horizon
----
-![Lost Horizon](LostHorizon.jpg)
-
+#title Lost Horizon
+#image	LostHorizon.jpg
+#markdown
 [Lost Horizon](http://lost-horizon.deepsilver.co.uk/index_en.html)
 ([Animation Arts](http://www.animationarts.de/)
 2010) is an Adventure game from the team responsible for the "Secret Files" games. Very interesting extra on the game DVD is a prototype of "Lost Horizon" which hints at a different story-line, and also uses 3D models from the "Secret Files" games!

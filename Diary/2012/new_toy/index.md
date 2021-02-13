@@ -1,10 +1,6 @@
----
-date: Sunday, 12 August 2012
-images:
-- path: ipad.JPG
-  tag: New iPad
----
-![New iPad](ipad.JPG)
+#date Sunday, 12 August 2012
+#image ipad.JPG
+#markdown
 I now have an iPad, I've joined the ranks of tablet owners.  My problem now is to justify having it!
 
 One justification is that it's a good thing to take on holiday.  I've already loaded nearly 200 books onto it which will last me several holidays even at the rate I read.  And I can keep in touch using email and the web through it.

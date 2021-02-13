@@ -1,11 +1,7 @@
----
-date: September 28th 2020
-title: Alfie's Barn
-images:
-- path: IMG_1703.jpeg
-  tag:  Alfie's Barn
----
-![Alfie's Barn](IMG_1703.jpeg)
+#title Alfie's Barn
+#date September 28th 2020
+#image IMG_1703.jpeg
+#markdown
 I filled up Virginia's car in the morning, hampered by the roadworks in Histon. An old dear pulled up at the Station Road garage after me, with music blaring louder than any teenage tearaway. She had it deafening everyone even as she filled up, and didn’t wear a mask when she went to pay.
 
 Virginia drove down to Loughton, stopping at Eddington for 2 Chinese meals for two which we had this evening. We were held up in Loughton by roadworks near Virginia's Mum and Dad, then held up on the M25 by debris on the road, so later than intended to

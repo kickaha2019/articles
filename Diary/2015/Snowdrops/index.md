@@ -1,15 +1,5 @@
----
-date: February 7th 2015
-anchors:
-- Anglesey Abbey
-images:
-- path: DSCF5953.JPG
-  tag: Snowdrops of Anglesey Abbey
-- path: DSCF5954.JPG
-  tag: Even in winter there is artistry in the gardens to behold
-- path: DSCF5955.JPG
-  tag: Snow has left its footprints on this walk
----
+#date February 7th 2015
+#markdown
 There are various rituals which mark the turning of a year for me.
 I can think of my own birthday halfway through the year, I can
 think of Christmas and New Year of course which is a busier family time.
@@ -30,6 +20,7 @@ A pleasant stroll in an other-worldly place, slightly
 removed from the stressful society we inhabit. Doors in walls make
 me think fondly of "The Silver Chair".
 
-![Snowdrops of Anglesey Abbey](DSCF5953.JPG)
-![Even in winter there is artistry in the gardens to behold](DSCF5954.JPG)
-![Snow has left its footprints on this walk](DSCF5955.JPG)
+#gallery
+DSCF5953.JPG	DSCF5953.JPG
+DSCF5954.JPG	DSCF5954.JPG
+DSCF5955.JPG	DSCF5955.JPG

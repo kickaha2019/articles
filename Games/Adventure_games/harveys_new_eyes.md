@@ -1,11 +1,6 @@
----
-title: 'Edna and Harvey: Harvey''s New Eyes'
-images:
-- path: harveys_new_eyes.jpg
-  tag: 'Edna and Harvey: Harvey''s New Eyes'
----
-![Edna and Harvey: Harvey's New Eyes](harveys_new_eyes.jpg)
-
+#title Edna and Harvey: Harvey's New Eyes
+#image	harveys_new_eyes.jpg
+#markdown
 [Edna and Harvey: Harvey's New Eyes](https://www.daedalic.com/games)
 (Daedalic Entertainment 2013) is the 'sequel' to
 to *Edna and Harvey: The Breakout*.  This time the player guides

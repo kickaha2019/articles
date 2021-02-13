@@ -1,15 +1,16 @@
-![The Parsonage where we stayed](axbridge/parsonage.JPG)
-![View from the Parsonage](axbridge/parsonage_view.JPG)
-![Medieval square in Axbridge](axbridge/axbridge_square.JPG)
-![Lamb Inn in Axbridge](axbridge/lamb_inn.JPG)
-![Cheddar Gorge](cheddar_gorge/cheddar_gorge.JPG)
-![Inside cave at Cheddar Gorge](cheddar_gorge/cheddar_cave1.JPG)
-![Inside cave at Cheddar Gorge](cheddar_gorge/cheddar_cave2.JPG)
-![Inside cave at Cheddar Gorge](cheddar_gorge/cheddar_cave3.JPG)
-![Inside cave at Cheddar Gorge](cheddar_gorge/cheddar_cave4.JPG)
-![Inside cave at Cheddar Gorge](cheddar_gorge/cheddar_cave5.JPG)
-![King John's Hunting Lodge](cheddar_gorge/hunting_lodge.JPG)
-![Wookey Hole outside cave](wookey_hole/wookey_hole.JPG)
-![Inside Wookey Hole cave](wookey_hole/wookey_cave.JPG)
-![Cheese maturing inside cave](wookey_hole/wookey_cheese.JPG)
-![How the mighty have fallen at Wookey Hole](wookey_hole/wookey_dinos.JPG)
+#gallery
+axbridge/parsonage.JPG	axbridge/parsonage.JPG
+axbridge/parsonage_view.JPG	axbridge/parsonage_view.JPG
+axbridge/axbridge_square.JPG	axbridge/axbridge_square.JPG
+axbridge/lamb_inn.JPG	axbridge/lamb_inn.JPG
+cheddar_gorge/cheddar_gorge.JPG	cheddar_gorge/cheddar_gorge.JPG
+cheddar_gorge/cheddar_cave1.JPG	cheddar_gorge/cheddar_cave1.JPG
+cheddar_gorge/cheddar_cave2.JPG	cheddar_gorge/cheddar_cave2.JPG
+cheddar_gorge/cheddar_cave3.JPG	cheddar_gorge/cheddar_cave3.JPG
+cheddar_gorge/cheddar_cave4.JPG	cheddar_gorge/cheddar_cave4.JPG
+cheddar_gorge/cheddar_cave5.JPG	cheddar_gorge/cheddar_cave5.JPG
+cheddar_gorge/hunting_lodge.JPG	cheddar_gorge/hunting_lodge.JPG
+wookey_hole/wookey_hole.JPG	wookey_hole/wookey_hole.JPG
+wookey_hole/wookey_cave.JPG	wookey_hole/wookey_cave.JPG
+wookey_hole/wookey_cheese.JPG	wookey_hole/wookey_cheese.JPG
+wookey_hole/wookey_dinos.JPG	wookey_hole/wookey_dinos.JPG

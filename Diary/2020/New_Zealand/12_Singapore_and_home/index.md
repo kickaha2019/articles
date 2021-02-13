@@ -1,52 +1,7 @@
----
-date: January 20th 2020
-anchors:
-- ParkRoyal on Pickering
-- Gardens by the Bay
-icon: IMG_1327.jpg
-images:
-- path: IMG_1285.jpg
-  tag: Flight to Singapore
-- path: IMG_1339.jpg
-  tag: ParkRoyal Hotel
-- path: IMG_1344.jpg
-  tag: 5th floor Wellness
-- path: IMG_1286.jpg
-  tag: My room
-- path: IMG_1287.jpg
-  tag: My room
-- path: IMG_1288.jpg
-  tag: My room
-- path: IMG_1290.jpg
-  tag: Nasi Goreng
-- path: IMG_1330.jpg
-  tag: Singapore MTR
-- path: IMG_1331.jpg
-  tag: Singapore MTR sign
-- path: IMG_1298.jpg
-  tag: Gardens by the Bay
-- path: IMG_1299.jpg
-  tag: Gardens by the Bay
-- path: IMG_1306.jpg
-  tag: Supertree Grove lightshow
-- path: IMG_1309.jpg
-  tag: Supertree Grove lightshow
-- path: IMG_1320.jpg
-  tag: Floral Fantasy
-- path: IMG_1326.jpg
-  tag: Floral Fantasy
-- path: IMG_1327.jpg
-  tag: Floral Fantasy
-- path: IMG_1310.jpg
-  tag: Marina Bay
-- path: IMG_1332.jpg
-  tag: Chinatown Year of Rat
-- path: IMG_1336.jpg
-  tag: Chinatown Year of Rat
-- path: IMG_1352.jpg
-  tag: Back to Blighty
----
-![Flight to Singapore](IMG_1285.jpg)
+#icon IMG_1327.jpg
+#date January 20th 2020
+#image IMG_1285.jpg
+#markdown
 I slummed it at [Auckland Airport](https://www.aucklandairport.co.nz/) by having had sausage egg mcmuffin at Macdonalds.
 For some reason my credit card was refused so had to fall back to cash.
 There was a lady surveying what passengers thought of New Zealand tourism
@@ -60,7 +15,8 @@ didn't really click for me. [Singapore airport](https://www.changiairport.com/) 
 no queueing at immigration, so soon out that the private car hire driver wasn't there. He
 had parked at an angle in the car park and we got told off by another driver.
 
-![ParkRoyal Hotel](IMG_1339.jpg)
+#image IMG_1339.jpg
+#markdown
 My hotel in Singapore ([ParkRoyal on Pickering](https://www.panpacific.com/en/hotels-and-resorts/pr-pickering.html/)) was another luxury joint.
 I had Nasi Goreng to keep me going, and exchanged some pounds before a very helpful
 staff member advised me to use the MTR which worked brilliantly to get me to
@@ -73,7 +29,8 @@ clever waterfall effects, then saw the Rats in Chinatown for Chinese New Year
 and got some cookies to take back.
 
 # January 21st 2020
-![Back to Blighty](IMG_1352.jpg)
+#image IMG_1352.jpg
+#markdown
 Slept not too badly on the last night of the holiday, had rice congee
 for breakfast without being sure what I put in it, then had an omelette made to order.
 I tried to sprinkle cinnamon on it but it was more than a sprinkle.

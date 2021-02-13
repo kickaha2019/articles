@@ -1,10 +1,6 @@
----
-title: 'Lumino_City'
-images:
-- path: Lumino_City.jpeg
----
-![Lumino_City](Lumino_City.jpeg)
-
+#title Lumino_City
+#image	Lumino_City.jpeg
+#markdown
 "Lumino City" (
 [State of Play](http://www.luminocitygame.com/)
 2015) sees you guiding Lumi on a quest to find her missing grandfather. The star

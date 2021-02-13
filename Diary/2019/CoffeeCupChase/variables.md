@@ -1,3 +1,4 @@
+#markdown
 This is a list of variables used inside the code generated from the DSL for
 *Mug. Missing.*. It's more a reminder for me than useful to anyone else.
 

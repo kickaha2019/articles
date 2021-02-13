@@ -1,11 +1,6 @@
----
-title: 'Avernum: Escape from the Pit'
-images:
-- path: Avernum.jpg
-  tag: 'Avernum: Escape from the Pit'
----
-![Avernum: Escape from the Pit](Avernum.jpg)
-
+#title Avernum: Escape from the Pit
+#image	Avernum.jpg
+#markdown
 [Avernum: Escape from the Pit](http://www.avernum.com/avernum/index.html)
 (2012) is a remake of the remake of "Blades of Exiles" from
 [Spiderweb Games](http://www.spiderwebsoftware.com/).

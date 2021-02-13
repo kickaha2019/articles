@@ -1,22 +1,23 @@
-![Start of Green Island tour](green_sign.JPG)
-![Catamaran to Green Island](catamaran.JPG)
-![Catamaran head on view](catamaran_bow.JPG)
-![Green Island beach](beach.JPG)
-![Green Island sign](island_sign.JPG)
-![Semi-submersible at Green Island](semisub.JPG)
-![Semi-submersible interior](sub_inside.JPG)
-![View of fish from semi-submersible](fish.JPG)
-![View of coral](coral.JPG)
-![View of more coral](more_coral.JPG)
-![A giant clam!](clam.JPG)
-![Mynahs in Cairns](mynahs.JPG)
-![Cairns coast](coast.JPG)
-![Sugar-cane fields](sugarcane.JPG)
-![Start of Skyway to Kuranda](cable_car1.JPG)
-![Kuranda Skyway](cable_car2.JPG)
-![Hartshorn](hartshorn.JPG)
-![Kuranda hills](kuranda_hills.JPG)
-![Kuranda river](kuranda_river.JPG)
-![Kuranda train back to Cairns](kuranda_train1.JPG)
-![Train stop](kuranda_train2.JPG)
-![Falls along the train-ride](kuranda_falls.JPG)
+#gallery
+green_sign.JPG	green_sign.JPG
+catamaran.JPG	catamaran.JPG
+catamaran_bow.JPG	catamaran_bow.JPG
+beach.JPG	beach.JPG
+island_sign.JPG	island_sign.JPG
+semisub.JPG	semisub.JPG
+sub_inside.JPG	sub_inside.JPG
+fish.JPG	fish.JPG
+coral.JPG	coral.JPG
+more_coral.JPG	more_coral.JPG
+clam.JPG	clam.JPG
+mynahs.JPG	mynahs.JPG
+coast.JPG	coast.JPG
+sugarcane.JPG	sugarcane.JPG
+cable_car1.JPG	cable_car1.JPG
+cable_car2.JPG	cable_car2.JPG
+hartshorn.JPG	hartshorn.JPG
+kuranda_hills.JPG	kuranda_hills.JPG
+kuranda_river.JPG	kuranda_river.JPG
+kuranda_train1.JPG	kuranda_train1.JPG
+kuranda_train2.JPG	kuranda_train2.JPG
+kuranda_falls.JPG	kuranda_falls.JPG

@@ -1,41 +1,42 @@
-![Our bags packed in the boot of the car](england/bags_packed.jpg)
-![Tossed at South Mimms](england/tossed.jpg)
-![Holiday Inn Express](england/holiday_inn.jpg)
-![Pizza Hut](england/pizza_hut.jpg)
-![Pizzas in Pizza Hut](england/pizzas.jpg)
-![Mottisfont house](england/house.jpg)
-![The font of Mottisfont](england/font.jpg)
-![Mottisfont gardens](england/gardens.jpg)
-![Unloading bags at the Cruise Terminal](england/unloading.jpg)
-![Our soft toy Beatrice in the cabin](arcadia/beatrice.jpg)
-![View from our cabin complete with painter](arcadia/cabin_view.jpg)
-![Meridian restaurant where we mostly dined in the evenings](arcadia/meridian.jpg)
-![The Belvedere buffet area](arcadia/belvedere.jpg)
-![Ocean Grill restaurant](arcadia/ocean_grill.jpg)
-![Virginia in Ocean Grill](arcadia/ocean_grill1.jpg)
-![My main in the Ocean Grill tasty](arcadia/ocean_grill2.jpg)
-![Sindhu restaurant](arcadia/sindhu1.jpg)
-![Bar area on the Arcadia](arcadia/bar.jpg)
-![Jaws mat for boarding tenders](arcadia/jaws_mat.jpg)
-![Promenade deck](arcadia/promenade.jpg)
-![Crew only prow area](arcadia/prow.jpg)
-![Palladium Theatre](arcadia/theatre.jpg)
-![View of Arcadia after we disembarked](arcadia/farewell.jpg)
-![Arcadia moored in Olden](norway/arcadia.jpg)
-![Olden Church](norway/church.jpg)
-![The altar](norway/altar.jpg)
-![Antlers inside the Church](norway/antlers.jpg)
-![Railway chapel in Andalsnes](norway/chapel.jpg)
-![Inside the railway chapel](norway/chapel_inside.jpg)
-![Hverir](iceland/hverir.jpg)
-![Hverir](iceland/hverir1.jpg)
-![Dimmuborgir](iceland/dimmuborgir.jpg)
-![Godafoss](iceland/godafoss.jpg)
-![Halligrims Church in Reykjavik](iceland/hallgrim.jpg)
-![Hellisheidi power station](iceland/power_station.jpg)
-![Kj&ouml;t &amp; K&uacute;nst](iceland/kitchen.jpg)
-![Geothermal park](iceland/park.jpg)
-![One side America one side Eurasia](iceland/cleft.jpg)
-![Thingvellir Lake](iceland/th_lake.jpg)
-![St Patrick's Cathedral](dublin/cathedral.jpg)
-![Celtic Nights show](dublin/dancing.jpg)
+#gallery
+england/bags_packed.jpg	england/bags_packed.jpg
+england/tossed.jpg	england/tossed.jpg
+england/holiday_inn.jpg	england/holiday_inn.jpg
+england/pizza_hut.jpg	england/pizza_hut.jpg
+england/pizzas.jpg	england/pizzas.jpg
+england/house.jpg	england/house.jpg
+england/font.jpg	england/font.jpg
+england/gardens.jpg	england/gardens.jpg
+england/unloading.jpg	england/unloading.jpg
+arcadia/beatrice.jpg	arcadia/beatrice.jpg
+arcadia/cabin_view.jpg	arcadia/cabin_view.jpg
+arcadia/meridian.jpg	arcadia/meridian.jpg
+arcadia/belvedere.jpg	arcadia/belvedere.jpg
+arcadia/ocean_grill.jpg	arcadia/ocean_grill.jpg
+arcadia/ocean_grill1.jpg	arcadia/ocean_grill1.jpg
+arcadia/ocean_grill2.jpg	arcadia/ocean_grill2.jpg
+arcadia/sindhu1.jpg	arcadia/sindhu1.jpg
+arcadia/bar.jpg	arcadia/bar.jpg
+arcadia/jaws_mat.jpg	arcadia/jaws_mat.jpg
+arcadia/promenade.jpg	arcadia/promenade.jpg
+arcadia/prow.jpg	arcadia/prow.jpg
+arcadia/theatre.jpg	arcadia/theatre.jpg
+arcadia/farewell.jpg	arcadia/farewell.jpg
+norway/arcadia.jpg	norway/arcadia.jpg
+norway/church.jpg	norway/church.jpg
+norway/altar.jpg	norway/altar.jpg
+norway/antlers.jpg	norway/antlers.jpg
+norway/chapel.jpg	norway/chapel.jpg
+norway/chapel_inside.jpg	norway/chapel_inside.jpg
+iceland/hverir.jpg	iceland/hverir.jpg
+iceland/hverir1.jpg	iceland/hverir1.jpg
+iceland/dimmuborgir.jpg	iceland/dimmuborgir.jpg
+iceland/godafoss.jpg	iceland/godafoss.jpg
+iceland/hallgrim.jpg	iceland/hallgrim.jpg
+iceland/power_station.jpg	iceland/power_station.jpg
+iceland/kitchen.jpg	iceland/kitchen.jpg
+iceland/park.jpg	iceland/park.jpg
+iceland/cleft.jpg	iceland/cleft.jpg
+iceland/th_lake.jpg	iceland/th_lake.jpg
+dublin/cathedral.jpg	dublin/cathedral.jpg
+dublin/dancing.jpg	dublin/dancing.jpg

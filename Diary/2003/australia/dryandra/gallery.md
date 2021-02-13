@@ -1,4 +1,5 @@
-![My hut at Dryandra](my_hut.jpg)
-![Entrance to Barna Mia](entrance.jpg)
-![Boodies through a glass darkly](boodies.jpg)
-![Green lorikeet](lorikeet.jpg)
+#gallery
+my_hut.jpg	my_hut.jpg
+entrance.jpg	entrance.jpg
+boodies.jpg	boodies.jpg
+lorikeet.jpg	lorikeet.jpg

@@ -1,7 +1,8 @@
-![An almost plasterlike wall on one side of the canyon](wall.JPG)
-![Stunning shades on the other wall](shades.JPG)
-![Dead tree - wonderful shapes](dead_tree.JPG)
-![A plant (it asked me to be photographed)](plant.JPG)
-![Dreamtime cats walked on the top of the canyon](dreamtime_cats.JPG)
-![White gum tree](white_gumtree.JPG)
-![A Willie Wagtail](willie_wagtail.JPG)
+#gallery
+wall.JPG	wall.JPG
+shades.JPG	shades.JPG
+dead_tree.JPG	dead_tree.JPG
+plant.JPG	plant.JPG
+dreamtime_cats.JPG	dreamtime_cats.JPG
+white_gumtree.JPG	white_gumtree.JPG
+willie_wagtail.JPG	willie_wagtail.JPG

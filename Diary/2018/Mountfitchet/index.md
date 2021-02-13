@@ -1,16 +1,6 @@
----
-title: Mountfitchet Castle
-anchors:
-- Mountfitchet Castle
-date: October 24th 2018
-images:
-- path: P1390045.jpg
-  tag: Norman wooden castle
-- path: P1390043.jpg
-  tag: Toy museum guarded by dinosaurs
-- path: P1390047.jpg
-  tag: Exhibit at Mountfitchet Castle
----
+#title Mountfitchet Castle
+#date October 24th 2018
+#markdown
 So we used up another of the days of holiday I had to use before the end of the year.
 Let's go to [Mountfitchet Castle](https://mountfitchetcastle.com/), that'll be a nice
 outing I thought. It was when we got there, and discovered the car park full, that
@@ -30,6 +20,7 @@ times. Not good times for the villeins and serfs and poachers. The lords
 really lorded it over everyone else. The cafe was heaving so we had lunch
 somewhere else, ending up at our nearest [Beefeater](https://www.beefeater.co.uk/steak-restaurant/Cambridge/Travellers-Rest.html).
 
-![Norman wooden castle](P1390045.jpg)
-![Toy museum guarded by dinosaurs](P1390043.jpg)
-![Exhibit at Mountfitchet Castle](P1390047.jpg)
+#gallery
+P1390045.jpg	P1390045.jpg
+P1390043.jpg	P1390043.jpg
+P1390047.jpg	P1390047.jpg

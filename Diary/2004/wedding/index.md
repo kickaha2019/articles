@@ -1,45 +1,18 @@
----
-title: Reader I married her
-anchors:
-- Grizedale Forest
-- Rydal Mount
-- Castlerigg Stone Circle
-- Loughton Baptist Church
-- Coniston Water
-date: Saturday, 10 July 2004
-images:
-- path: bridesmaids.jpg
-  tag: Us and the bridesmaids
-- path: confetti.jpg
-  tag: Us and the confetti
-- path: car.jpg
-  tag: Us and the car
-- path: love_spoon.JPG
-  tag: Welsh Love Spoon made by Howie
-- path: amazon.jpg
-  tag: The Amazon
-- path: houseboat.jpg
-  tag: Captain Flint's Houseboat
-- path: coniston.jpg
-  tag: Coniston Water from close to Brantwood
-- path: grizedale.jpg
-  tag: Grizedale Forest
-- path: rydal_mount.jpg
-  tag: Wordsworth's home at Rydal Mount
-- path: castlerigg.jpg
-  tag: Castlerigg Stone Circle
----
+#title Reader I married her
+#date Saturday, 10 July 2004
+#markdown
 Virginia and I got married in July then had a honeymoon in the Lake District. The wedding passed off well - the sun shone at the right times for the pictures, I survived making a speech in public.
 
 The Lake District is a key area for me because of the Arthur Ransome connections. His Swallows and Amazons books are key images to me. But the Lakes have other connections - Beatrix Potter who in later life was important in Britain's National Trust. The Lake poets. Just the harmonious scenery. A place to wander lonely as a cloud - but we stayed in the valleys.
 
-![Us and the bridesmaids](bridesmaids.jpg)
-![Us and the confetti](confetti.jpg)
-![Us and the car](car.jpg)
-![Welsh Love Spoon made by Howie](love_spoon.JPG)
-![The Amazon](amazon.jpg)
-![Captain Flint's Houseboat](houseboat.jpg)
-![Coniston Water from close to Brantwood](coniston.jpg)
-![Grizedale Forest](grizedale.jpg)
-![Wordsworth's home at Rydal Mount](rydal_mount.jpg)
-![Castlerigg Stone Circle](castlerigg.jpg)
+#gallery
+bridesmaids.jpg	bridesmaids.jpg
+confetti.jpg	confetti.jpg
+car.jpg	car.jpg
+love_spoon.JPG	love_spoon.JPG
+amazon.jpg	amazon.jpg
+houseboat.jpg	houseboat.jpg
+coniston.jpg	coniston.jpg
+grizedale.jpg	grizedale.jpg
+rydal_mount.jpg	rydal_mount.jpg
+castlerigg.jpg	castlerigg.jpg

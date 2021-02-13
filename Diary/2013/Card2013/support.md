@@ -1,6 +1,5 @@
----
-title: 8:Support
----
+#title 8:Support
+#markdown
 "Card 2013" has been tested on the following browser and
 operating system combinations:
 

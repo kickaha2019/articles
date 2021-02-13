@@ -1,12 +1,13 @@
-![Inside the Contemporary Resort Disneyworld](contemporary1.JPG)
-![Inside the Contemporary Resort Disneyworld](contemporary2.JPG)
-![EPCOT Disneyworld](epcot.JPG)
-![EPCOT Disneyworld](epcot2.JPG)
-![EPCOT Disneyworld](epcot3.JPG)
-![Cultural entertainment EPCOT Disneyworld](mexico.JPG)
-![Inside The Land EPCOT Disneyworld](the_land.JPG)
-![Shopping Village Disneyworld](shopping_village.JPG)
-![Shopping Village Disneyworld](shopping_village2.JPG)
-![Contemporary Resort Disneyworld](contemporary_outside.JPG)
-![Inside The Living Seas EPCOT Disneyworld](living_seas.JPG)
-![Magic Kingdom Disneyworld](magic_kingdom.JPG)
+#gallery
+contemporary1.JPG	contemporary1.JPG
+contemporary2.JPG	contemporary2.JPG
+epcot.JPG	epcot.JPG
+epcot2.JPG	epcot2.JPG
+epcot3.JPG	epcot3.JPG
+mexico.JPG	mexico.JPG
+the_land.JPG	the_land.JPG
+shopping_village.JPG	shopping_village.JPG
+shopping_village2.JPG	shopping_village2.JPG
+contemporary_outside.JPG	contemporary_outside.JPG
+living_seas.JPG	living_seas.JPG
+magic_kingdom.JPG	magic_kingdom.JPG

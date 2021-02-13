@@ -1,20 +1,14 @@
----
-title: A zoo and Swarthmoor Hall
-anchors:
-- South Lakes Safari Zoo
-- Swarthmoor Hall
-date: May 15th 2014
-images:
-- path: swarthmoor_hall.JPG
-  tag: Swarthmoor Hall
----
+#title A zoo and Swarthmoor Hall
+#date May 15th 2014
+#markdown
 Our last full day was the Thursday, we visited the
 [South Lakes Safari Zoo](https://www.southlakessafarizoo.com/) and saw the backside of a tiger sheltering
 from the English weather, mangy deer, lions at least braving the day, rhinos.  I found the
 place rather depressing as a reminder of how Man has trashed the planet.  On the plus side
 homo sapiens is well on the way to making itself extinct.
 
-![Swarthmoor Hall](swarthmoor_hall.JPG)
+#image swarthmoor_hall.JPG
+#markdown
 More rewarding was going to [Swarthmoor Hall](https://www.swarthmoorhall.co.uk/), a key place
 in Quaker history.  The hospitable staff looked after us well.  The hall was interesting, an
 ornate newel post now 4 foot short as the roof had been raised.  George Fox's travelling

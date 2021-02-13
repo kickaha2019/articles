@@ -1,13 +1,14 @@
-![Histon Parish Church](parish_church.JPG)
-![Entrance looking at the organ](entrance.JPG)
-![Choir2000's floral display](choir2000.JPG)
-![The organ with more floral displays](organ.JPG)
-![Side of the organ](organ_side.JPG)
-![Where the choir sit](choir_sit.JPG)
-![Where the congregation sit](congregation_sit.JPG)
-![Where the teddy bear sits!](teddy_bear_sit.JPG)
-![Yet another floral display](display1.JPG)
-![Window display 1](window_display.JPG)
-![Window display 2](window_display2.JPG)
-![Window display 3](window_display3.JPG)
-![Moonlit Mandolins (my father took this)](moonlit_mandolins.jpg)
+#gallery
+parish_church.JPG	parish_church.JPG
+entrance.JPG	entrance.JPG
+choir2000.JPG	choir2000.JPG
+organ.JPG	organ.JPG
+organ_side.JPG	organ_side.JPG
+choir_sit.JPG	choir_sit.JPG
+congregation_sit.JPG	congregation_sit.JPG
+teddy_bear_sit.JPG	teddy_bear_sit.JPG
+display1.JPG	display1.JPG
+window_display.JPG	window_display.JPG
+window_display2.JPG	window_display2.JPG
+window_display3.JPG	window_display3.JPG
+moonlit_mandolins.jpg	moonlit_mandolins.jpg

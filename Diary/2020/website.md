@@ -1,7 +1,6 @@
----
-date: February 25th 2020
-title: Website makeover
----
+#title Website makeover
+#date February 25th 2020
+#markdown
 I've refreshed my personal website a little. Most noticeable will be that the logo at the top of each page has changed. Beneath that are the breadcrumbs - a line giving where in the website the page is, the landing page doesn't have any breadcrumbs. Beneath that on most pages on the left hand side there is an index to either child pages or to sibling pages if there are no children. If there is content on the page then that appears on the right hand side.
 
 Less immediately noticeable is that the website is more responsive to the size of the browser window it is viewed in than before. Four different browser widths are supported: 360 for small phones, then 768, then 1280, then for big screens 1920. The size of images and font sizes used vary according to the browser width. I'm undecided as to whether as the browser window expands in width to stretch the page display sidewards or not.

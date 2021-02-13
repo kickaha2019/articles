@@ -1,17 +1,7 @@
----
-title: Keith Emerson concert
-date: 10th July 2015
-images:
-- path: tarkus.jpg
-  tag: Tarkus album cover
-- path: pictures.jpg
-  tag: Pictures album cover
-- path: trilogy.jpg
-  tag: Trilogy album cover
-- path: debut.jpg
-  tag: Debut album cover
----
-![Pictures album cover](pictures.jpg)
+#title Keith Emerson concert
+#date 10th July 2015
+#image pictures.jpg
+#markdown
 In a different time and place I was a pupil at [Norwich School](https://www.norwich-school.org.uk/).
 We had a music teacher called Bernard Burrell
 who put up with us as he endeavoured to teach music. I appreciate this teacher because one year the syllabus
@@ -27,7 +17,8 @@ I had a collection of LPs with striking cover. Keith Emerson's kingship of the k
 the piano (I'm not sure my piano teachers and examiners consider that a good thing). To this day I still listen
 to progressive rock, and especially ELP. But I never saw them live in concert, only in dreams.
 
-![Trilogy album cover](trilogy.jpg)
+#image trilogy.jpg
+#markdown
 The years turned. Internet and Facebook became part of my existence, I followed Keith Emerson's
 Facebook page.  A month or two ago the page
 announced he was going to do a concert at the [Barbican](https://www.barbican.org.uk/) in London, as part of a series celebrating
@@ -52,7 +43,8 @@ an ice-cream, a crossword, and a rest. The Barbican Centre is a pleasant venue, 
 plenty of places to sit down and wait. There are shops too, and on the spur of the moment
 I got a birthday card.
 
-![Debut album cover](debut.jpg)
+#image debut.jpg
+#markdown
 With a quarter of an hour to go I joined the rest of the audience in the hall, there was only a sheet of
 paper not a proper programme which was a disappointment, but the usherette told me I could move
 nearer the front in the balcony which wasn't very full. So I had a good view of the stage and in
@@ -64,7 +56,8 @@ a link to another universe. Perhaps the tally lights were part of its visual loo
 needed for it to work, similar to the dummy lights on early computers which reassured managers
 the computer was doing something.
 
-![Tarkus album cover](tarkus.jpg)
+#image tarkus.jpg
+#markdown
 The concert started without Keith Emerson on stage, he's a fit and confident 70-year old but
 I didn't begrudge him his late entry or that he had breaks while others played. The music was
 familiar stuff, versions of "Tarkus" and "Endless Enigma", the orchestra did Copland's "Fanfare

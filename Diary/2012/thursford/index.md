@@ -1,27 +1,7 @@
----
-date: December 7th 2012
-anchors:
-- Thursford Collection
-title: Thursford Christmas Show
-images:
-- path: p01_entrance.JPG
-  tag: Entrance to the Thursford Collection
-- path: p02_stage.JPG
-  tag: The wide stage
-- path: p03_carousel.JPG
-  tag: The decorated premises
-- path: p04_fantasy.JPG
-  tag: Fantasy Land
-- path: p05_santa.JPG
-  tag: The way to Santa
-- path: p06_tableaux.JPG
-  tag: One of the tableaux
-- path: p07_decor.JPG
-  tag: The magical decor
-- path: p08_tinsel.JPG
-  tag: The steam engines contrast to the tinsel
----
-![Entrance to the Thursford Collection](p01_entrance.JPG)
+#title Thursford Christmas Show
+#date December 7th 2012
+#image p01_entrance.JPG
+#markdown
 Virginia and I set off at half ten this morning, aiming
 to get there in better time than last year.  It was an
 awful drive, the rain and particularly spray from lorries
@@ -37,7 +17,8 @@ close to Thursford including another water splash rather than
 the route everyone else seemed to take.  Perhaps we should update
 it.
 
-![Fantasy Land](p04_fantasy.JPG)
+#image p04_fantasy.JPG
+#markdown
 We did reach the
 [Thursford Collection](https://www.thursford.com/) just after it opened that day for the matinee
 [Thursford Christmas Spectacular](https://www.thursford.com/christmas-spectacular/) show, ahead of most of the coaches.  A pair of
@@ -54,7 +35,8 @@ Fantasy Land was a comfortable place for a comfort break.
 The contrast of the steam engines with their valves and
 pipes against the ethereal Christmas lights was enchanting.
 
-![The wide stage](p02_stage.JPG)
+#image p02_stage.JPG
+#markdown
 The Christmas show started at two.  It wasn't the wonderful
 novelty of seeing it the last time, second time is always
 different.  There were repeated motifs or devices like the
@@ -71,7 +53,8 @@ used several sets of eyes to see all that was happening.
 It was a visual as well as an aural feast with at one point a
 spectrum of pastel dresses.
 
-![The decorated premises](p03_carousel.JPG)
+#image p03_carousel.JPG
+#markdown
 It was just so crowded.  Shopping was like being trapped in a
 traffic jam through a village with a one-way system.
 Long queues for the toilets.  People chattering

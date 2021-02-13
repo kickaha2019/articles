@@ -1,25 +1,26 @@
-![The old back boiler was behind the lounge gas fire](old_back_boiler.JPG)
-![The airing cupboard](airing_cupboard.JPG)
-![The old hot water cylinder inside the airing cupboard](airing_cupboard2.JPG)
-![Hot water cylinder pipework](old_pipework.JPG)
-![The study cupboard - sadly the site of the new boiler](study_cupboard.JPG)
-![Well organised inside the study cupboard](study_cupboard2.JPG)
-![The new boiler and cylinder and parts](new_parts.JPG)
-![The gasman cometh](gasman_cometh.JPG)
-![Our house is now a danger zone](danger.JPG)
-![The stairs with dust cover](stairs.JPG)
-![The study cupboard with its new occupant](new_boiler.JPG)
-![The inside of the new boiler](new_boiler2.JPG)
-![The new hot water cylinder](new_cylinder.JPG)
-![The old faithfuls now just scrap](scrap.JPG)
-![A loose joint caused water through the lounge ceiling](effects.JPG)
-![Plenty of dirty water fell](plenty.JPG)
-![The stained lounge ceiling](ceiling.JPG)
-![Drop by horrible drop](drop.JPG)
-![The new boiler now installed](installed.JPG)
-![The ceiling gets attended to](ceiling_repair.JPG)
-![That's what is above all that nice Artex](artex_above.JPG)
-![Ceiling covered up again](covered.JPG)
-![Artex back again](artexed.JPG)
-![But a slight splodge on the carpet!](splodge.JPG)
-![So up came the old carpet](no_carpet.JPG)
+#gallery
+old_back_boiler.JPG	old_back_boiler.JPG
+airing_cupboard.JPG	airing_cupboard.JPG
+airing_cupboard2.JPG	airing_cupboard2.JPG
+old_pipework.JPG	old_pipework.JPG
+study_cupboard.JPG	study_cupboard.JPG
+study_cupboard2.JPG	study_cupboard2.JPG
+new_parts.JPG	new_parts.JPG
+gasman_cometh.JPG	gasman_cometh.JPG
+danger.JPG	danger.JPG
+stairs.JPG	stairs.JPG
+new_boiler.JPG	new_boiler.JPG
+new_boiler2.JPG	new_boiler2.JPG
+new_cylinder.JPG	new_cylinder.JPG
+scrap.JPG	scrap.JPG
+effects.JPG	effects.JPG
+plenty.JPG	plenty.JPG
+ceiling.JPG	ceiling.JPG
+drop.JPG	drop.JPG
+installed.JPG	installed.JPG
+ceiling_repair.JPG	ceiling_repair.JPG
+artex_above.JPG	artex_above.JPG
+covered.JPG	covered.JPG
+artexed.JPG	artexed.JPG
+splodge.JPG	splodge.JPG
+no_carpet.JPG	no_carpet.JPG

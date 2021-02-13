@@ -1,17 +1,5 @@
----
-title: Beefeater at Girton
-anchors:
-- Beefeater Travellers Rest - Cambridge
-images:
-- path: IMG_2724.JPG
-  tag: Main entrance to the Beefeater in Girton
-- path: IMG_2729.JPG
-  tag: Upstairs tables
-- path: IMG_2730.JPG
-  tag: The kitchens
-- path: IMG_2732.JPG
-  tag: The conservatory
----
+#title Beefeater at Girton
+#markdown
 We go to the [Beefeater](https://www.beefeater.co.uk/steak-restaurant/Cambridge/Travellers-Rest.html)
 in Girton so much the staff know us, and we know them.  It's nice
 to be known, to feel one's among friends to some extent.
@@ -33,7 +21,8 @@ and admire the fuchsias.
 
 Beefeater's reward card looks like someone took a bite out of it.
 
-![Main entrance to the Beefeater in Girton](IMG_2724.JPG)
-![Upstairs tables](IMG_2729.JPG)
-![The kitchens](IMG_2730.JPG)
-![The conservatory](IMG_2732.JPG)
+#gallery
+IMG_2724.JPG	IMG_2724.JPG
+IMG_2729.JPG	IMG_2729.JPG
+IMG_2730.JPG	IMG_2730.JPG
+IMG_2732.JPG	IMG_2732.JPG

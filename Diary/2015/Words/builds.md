@@ -1,3 +1,4 @@
+#markdown
 The latest build is available at [Words](/Users/peter/Sites/Games/Memoriam/build/index.html).
 
 *Version 1.0*: First draft of game.

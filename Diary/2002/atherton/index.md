@@ -1,45 +1,12 @@
----
-date: 25 May 2002
-anchors:
-- Lake Barrine
-- Mount Hypipamee Crater
-- Curtain Fig Tree
-- Millaa-Millaa Falls
-- Ellinjaa Falls
-- Zillie Falls
-- Chambers Wildlife Rainforest Lodges
-images:
-- path: curtain_fig_tree_sign.JPG
-  tag: Curtain Fig Tree
-- path: curtain_fig_tree.JPG
-  tag: It's two trees in fact
-- path: cauliflory.JPG
-  tag: Cauliflory
-- path: more_cauliflory.JPG
-  tag: More cauliflory (nothing to do with cauliflowers)
-- path: dusky_robin.JPG
-  tag: A bird which may be a dusky robin
-- path: green_catbird.JPG
-  tag: Green catbird
-- path: kookaburra.JPG
-  tag: Kookaburra
-- path: scrub_turkey.JPG
-  tag: Scrub turkey
-- path: pademelon.JPG
-  tag: Pademelon waiting for a bit of orange
-- path: millaa_millaa.JPG
-  tag: Millaa Millaa falls
-- path: ellinjaa.JPG
-  tag: Ellinjaa Falls
-- path: zillie.JPG
-  tag: Zillie Falls
----
-![Curtain Fig Tree](curtain_fig_tree_sign.JPG)
+#date 25 May 2002
+#image curtain_fig_tree_sign.JPG
+#markdown
 The Atherton Tablelands are a good bit higher than the coastal area and so have quite a different climate. A very agricultural area but whereas sugar-cane dominates the coastal areas here it's cattle country.
 
 There is a lot to see here. Volcanic activity has left lakes like Lake Barrine or Lake Eacham, and vents like [Hypipamee Crater](https://parks.des.qld.gov.au/parks/mount-hypipamee/). There's wonders of nature like the [Curtain Fig Tree](https://parks.des.qld.gov.au/parks/curtain-fig/) (the strangler figs seemed like plants from another planet.) Strangler figs literally strangle whatever they grow up, leaving shapes out of Doctor Who. Came across trees which have flowers on their trunk rather than branches (called cauliflory.) Weird.
 
-![Millaa Millaa falls](millaa_millaa.JPG)
+#image millaa_millaa.JPG
+#markdown
 Among the other attractions in the Tablelands are the waterfalls. There is a loop you can do which takes in three of them (*Millaa-Millaa Falls*, *Ellinjaa Falls*,
 and *Zillie Falls*.)
 It's all pleasantly rural and as yet denied the chance to catch up with the rat race.

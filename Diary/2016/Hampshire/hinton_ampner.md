@@ -1,17 +1,6 @@
----
-date: March 12th 2016
-anchors:
-- National Trust - Hinton Ampner
-- Jane Austen's House Museum
-images:
-- path: hinton.JPG
-  tag: Hinton Ampner
-- path: hinton_garden.JPG
-  tag: Hinton Ampner gardens
-- path: chawton.JPG
-  tag: Jane Austen's home at Chawton
----
-![Hinton Ampner](hinton.JPG)
+#date March 12th 2016
+#image hinton.JPG
+#markdown
 The next day after breakfast (Ginny did the eggs well done) we went to
 [Hinton Ampner](https://www.nationaltrust.org.uk/hinton-ampner), a National Trust place. Georgian style place built in the 1960s, not massive
 but full of eclectic beauty and porcelain and semi-precious stones embedded into wood. Plenty

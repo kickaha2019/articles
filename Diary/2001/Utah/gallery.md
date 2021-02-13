@@ -1,9 +1,10 @@
-![Sunrise Point Bryce Canyon](sunrise_point1.JPG)
-![Small furry animal inside radiator grille](small_furry.JPG)
-![Sunrise Point Bryce Canyon](sunrise_point2.JPG)
-![Sunrise Point Bryce Canyon](sunrise_point3.JPG)
-![Ponderosa Point Bryce Canyon](ponderosa_point1.JPG)
-![Bryce Canyon](bryce_canyon.JPG)
-![Cedar Breaks](cedar_breaks.JPG)
-![Kolob Canyons](kolob_canyons.JPG)
-![Zion Canyon](zion_canyon.JPG)
+#gallery
+sunrise_point1.JPG	sunrise_point1.JPG
+small_furry.JPG	small_furry.JPG
+sunrise_point2.JPG	sunrise_point2.JPG
+sunrise_point3.JPG	sunrise_point3.JPG
+ponderosa_point1.JPG	ponderosa_point1.JPG
+bryce_canyon.JPG	bryce_canyon.JPG
+cedar_breaks.JPG	cedar_breaks.JPG
+kolob_canyons.JPG	kolob_canyons.JPG
+zion_canyon.JPG	zion_canyon.JPG

@@ -1,3 +1,4 @@
+#markdown
 If you've got anything on a computer it needs to be backed up.
 There's a lot of accidents waiting to happen from disk problems
 (and SSD disks can lose data worse than hard drives) through

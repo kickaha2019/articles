@@ -1,10 +1,6 @@
----
-date: September 1st 2020
-images:
-- path: Quizzes.png
-  tag: Quizzes
----
-![Quizzes](Quizzes.png)
+#date September 1st 2020
+#image Quizzes.png
+#markdown
 2020 is the year of the Covid19 pandemic. A microscopic virus invisible to the naked eye has impacted
 the whole world. Suddenly we're all living at arms length, crossing over the road to avoid people,
 not seeing face to face our friends and family. Happily software like [Zoom](https://zoom.us/) means

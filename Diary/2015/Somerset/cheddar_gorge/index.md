@@ -1,24 +1,6 @@
----
-date: October 23rd 2015
-anchors:
-- Gough's Cave
-images:
-- path: cheddar_gorge.JPG
-  tag: Cheddar Gorge
-- path: cheddar_cave1.JPG
-  tag: Inside cave at Cheddar Gorge
-- path: cheddar_cave2.JPG
-  tag: Inside cave at Cheddar Gorge
-- path: cheddar_cave3.JPG
-  tag: Inside cave at Cheddar Gorge
-- path: cheddar_cave4.JPG
-  tag: Inside cave at Cheddar Gorge
-- path: cheddar_cave5.JPG
-  tag: Inside cave at Cheddar Gorge
-- path: hunting_lodge.JPG
-  tag: King John's Hunting Lodge
----
-![Cheddar Gorge](cheddar_gorge.JPG)
+#date October 23rd 2015
+#image cheddar_gorge.JPG
+#markdown
 The next day (23rd October)
 after a good full English breakfast we survived the stress of weird road systems to get to
 Cheddar Gorge, and the purse survived the stress of the sizeable entrance fee for
@@ -36,7 +18,8 @@ of cheese for &pound;340 but it would take us years to eat it! Odd was a politic
 museum which argued that cannibalism is quite reasonable really. Roast leg of insurance
 salesman anyone?
 
-![King John's Hunting Lodge](hunting_lodge.JPG)
+#image hunting_lodge.JPG
+#markdown
 Our lunch was less adventurous but pleasant in the nicely old
 [Almshouse Teashop](http://thealmshouseteashop.co.uk/). We did a bit more history in the
 [King John Hunting Lodge](https://www.nationaltrust.org.uk/king-johns-hunting-lodge) which

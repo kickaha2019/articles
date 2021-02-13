@@ -1,46 +1,7 @@
----
-title: Getting to know Tokyo
-anchors:
-- Tokyo Tower
-- Meiji Jingu
-- Ghibli Museum
-- Grand Prince Hotel New Takanawa
-date: March 23rd 2013
-images:
-- path: p07_tower.JPG
-  tag: Tokyo Tower
-- path: p08_view.JPG
-  tag: View from Tokyo Tower
-- path: p09_barrels.JPG
-  tag: Sake barrels at Meiji Shrine in Tokyo
-- path: p10_wedding.JPG
-  tag: Shinto wedding at Meiji Shrine in Tokyo
-- path: p11_tokens.JPG
-  tag: Good luck tokens at Meiji Shrine in Tokyo
-- path: p12_drum.JPG
-  tag: Big drum at Meiji Shrine in Tokyo
-- path: p13_wedding.JPG
-  tag: Shinto wedding process at Meiji Shrine in Tokyo
-- path: p14_wall.JPG
-  tag: Wall at Imperial Palace in Tokyo
-- path: p15_gardens.JPG
-  tag: East Gardens in Imperial Palace in Tokyo
-- path: p16_teahouse.JPG
-  tag: Teahouse in Imperial Palace in Tokyo
-- path: p17_skyline.JPG
-  tag: Tokyo grows skyward like a forest
-- path: p18_lamp.JPG
-  tag: Narnia-like lamp in Imperial Palace in Tokyo
-- path: p19_cleaner.JPG
-  tag: Cleaner at work in Tokyo Metro
-- path: p20_train.JPG
-  tag: Tokyo train interior
-- path: p21_museum.JPG
-  tag: Ghibli Museum in Mitaka Tokyo
-- path: p22_station.JPG
-  tag: Mitaka Station entrance in Tokyo
----
-![Tokyo Tower](p07_tower.JPG)
+#title Getting to know Tokyo
+#date March 23rd 2013
+#image p07_tower.JPG
+#markdown
 My room knows I'm English.  So the wake up call setting on the
 phone talks to me in Anglo-Saxon.  There was a Herald Tribune
 in a letter rack outside (close).  I tried breakfast in the
@@ -68,7 +29,8 @@ service.). A colleague kindly took me down from the Observation
 deck to a floor with windows one could look down through the
 ironwork.
 
-![Shinto wedding at Meiji Shrine in Tokyo](p10_wedding.JPG)
+#image p10_wedding.JPG
+#markdown
 We next visited the Meiji shrine in Tokyo where seemingly
 Shinto style weddings were being held for the tourists.  Ceremonies
 are performances to some extent but it felt an intrusion.  Perhaps
@@ -91,7 +53,8 @@ good luck charms are called "Emma"s.  Yuko showed us one her
 daughter had made - not as effective as the real temple
 article of course.
 
-![East Gardens in Imperial Palace in Tokyo](p15_gardens.JPG)
+#image p15_gardens.JPG
+#markdown
 The last stop of the morning tour was the Palace gardens.  Very
 pretty with the cherry blossom out.  Yuko explained one reason
 for the masks was an allergy to cedar pollen.  I was dropped
@@ -114,7 +77,8 @@ had barriers between the platform and line, the trains stop
 precisely aligning doors to gates in those barriers.  Cleaners were
 at work helping to keep Japan as clean as it is.
 
-![Ghibli Museum in Mitaka Tokyo](p21_museum.JPG)
+#image p21_museum.JPG
+#markdown
 I next got myself to Mitaka, this time using the
 JR railway as well.  This took a long time and I learnt I didn't
 know how to reckon how long getting from A to B takes when A and

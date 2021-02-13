@@ -1,6 +1,5 @@
----
-title: Ruby
----
+#title Ruby
+#markdown
 [Ruby](https://www.ruby-lang.org/en/) is currently the computing language I first reach
 for when I want to implement something.  I'm not going to claim
 it's the greatest language, that's both subjective and depends on

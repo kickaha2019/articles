@@ -1,53 +1,54 @@
-![Waterbeach](Waterbeach.JPG)
-![Train ticket](train_ticket.png)
-![St Pancras](StPancras.JPG)
-![Interior of Eurostar train](EurostarInterior.JPG)
-![ICE train](IceTrain.JPG)
-![Cologne train station](DSCF5403.JPG)
-![Train station cariage map](GermanEfficiency.JPG)
-![Hotel Berg](HotelBerg.JPG)
-![The Dom cathedral](DSCF5404.jpg)
-![The Dom](KolnDom.JPG)
-![The Dom](KolnDom2.JPG)
-![Historic cafe sign](Cafe1.JPG)
-![Historic cafe](Cafe2.JPG)
-![Historic cafe interior](Cafe3.JPG)
-![Hohenzollern Bridge](HohenzollernBridge.JPG)
-![Love padlocks](LovePadlocks.JPG)
-![My GameBoomers business card](Business_card.png)
-![Press pass](press_pass.png)
-![Approaching Gamescom](GamescomApproach.JPG)
-![Gamescom entrance](GamescomEntrance.JPG)
-![Gamescom entrance](GamescomSouthEntrance.JPG)
-![Crowds waiting at South Entrance](DSCF5424.JPG)
-![Queue to get into Gamescom](PublicQueue.JPG)
-![Gamescom steps](DSCF5411.JPG)
-![Business area](Business1.JPG)
-![Inside business hall](BusinessArea1.JPG)
-![Fruit bar at Gamescom](FruitBar.JPG)
-![Sushi Bar](SushiBar.JPG)
-![Massage in business halls](Massage.JPG)
-![Nordic Games booth](DSCF5413.JPG)
-![Daedalic Games booth](DSCF5415.JPG)
-![Daedalic Games booth](DSCF5416.JPG)
-![Public exhibition hall](Hell1.JPG)
-![Public exhibition hall](Hell4.JPG)
-![Public exhibition hall](Hell5.JPG)
-![Public exhibition hall](Hell6.JPG)
-![Public exhibition hall](Hell7.JPG)
-![Dance game in public hall](HellDance.JPG)
-![Shop in public hall](HellShop.JPG)
-![Public hall when not so busy](DSCF5418.JPG)
-![Beer Garden](BeerGarden.JPG)
-![Agustin Cordes](AgustinCordes.JPG)
-![Charles Cecil](CharlesCecil.JPG)
-![Jan Kavan](JanKavan.JPG)
-![Jan Theysen](JanTheysen.JPG)
-![Jonas Kyratzes](JonasKyratzes.JPG)
-![Kevin Mentz](KevinMentz.JPG)
-![Kresimir Spes](KresimirSpes.JPG)
-![Laney Berry](LaneyBerry.JPG)
-![Mike Huber](MichaelHuber.JPG)
-![Ragnar Tornquist](RagnarTornquist.JPG)
-![ZSoftware](ZSoftware.JPG)
-![Leaving Cologne](LeavingCologne.JPG)
+#gallery
+Waterbeach.JPG	Waterbeach.JPG
+train_ticket.png	train_ticket.png
+StPancras.JPG	StPancras.JPG
+EurostarInterior.JPG	EurostarInterior.JPG
+IceTrain.JPG	IceTrain.JPG
+DSCF5403.JPG	DSCF5403.JPG
+GermanEfficiency.JPG	GermanEfficiency.JPG
+HotelBerg.JPG	HotelBerg.JPG
+DSCF5404.jpg	DSCF5404.jpg
+KolnDom.JPG	KolnDom.JPG
+KolnDom2.JPG	KolnDom2.JPG
+Cafe1.JPG	Cafe1.JPG
+Cafe2.JPG	Cafe2.JPG
+Cafe3.JPG	Cafe3.JPG
+HohenzollernBridge.JPG	HohenzollernBridge.JPG
+LovePadlocks.JPG	LovePadlocks.JPG
+Business_card.png	Business_card.png
+press_pass.png	press_pass.png
+GamescomApproach.JPG	GamescomApproach.JPG
+GamescomEntrance.JPG	GamescomEntrance.JPG
+GamescomSouthEntrance.JPG	GamescomSouthEntrance.JPG
+DSCF5424.JPG	DSCF5424.JPG
+PublicQueue.JPG	PublicQueue.JPG
+DSCF5411.JPG	DSCF5411.JPG
+Business1.JPG	Business1.JPG
+BusinessArea1.JPG	BusinessArea1.JPG
+FruitBar.JPG	FruitBar.JPG
+SushiBar.JPG	SushiBar.JPG
+Massage.JPG	Massage.JPG
+DSCF5413.JPG	DSCF5413.JPG
+DSCF5415.JPG	DSCF5415.JPG
+DSCF5416.JPG	DSCF5416.JPG
+Hell1.JPG	Hell1.JPG
+Hell4.JPG	Hell4.JPG
+Hell5.JPG	Hell5.JPG
+Hell6.JPG	Hell6.JPG
+Hell7.JPG	Hell7.JPG
+HellDance.JPG	HellDance.JPG
+HellShop.JPG	HellShop.JPG
+DSCF5418.JPG	DSCF5418.JPG
+BeerGarden.JPG	BeerGarden.JPG
+AgustinCordes.JPG	AgustinCordes.JPG
+CharlesCecil.JPG	CharlesCecil.JPG
+JanKavan.JPG	JanKavan.JPG
+JanTheysen.JPG	JanTheysen.JPG
+JonasKyratzes.JPG	JonasKyratzes.JPG
+KevinMentz.JPG	KevinMentz.JPG
+KresimirSpes.JPG	KresimirSpes.JPG
+LaneyBerry.JPG	LaneyBerry.JPG
+MichaelHuber.JPG	MichaelHuber.JPG
+RagnarTornquist.JPG	RagnarTornquist.JPG
+ZSoftware.JPG	ZSoftware.JPG
+LeavingCologne.JPG	LeavingCologne.JPG

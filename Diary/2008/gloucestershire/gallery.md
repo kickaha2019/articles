@@ -1,15 +1,16 @@
-![Lindors Hotel](lindors.JPG)
-![Moor hen at Forest of Dean centre](moor_hen.JPG)
-![Foxgloves on a pond walk](foxgloves.JPG)
-![Ducks out of water](ducks_on_board.JPG)
-![Festooned boat we cruised down the Wye on](festooned_boat.JPG)
-![View from Symonds Yat rock](symonds_yat.JPG)
-![Clearwell Caves](clearwell_caves.JPG)
-![Cave roof in Clearwell Caves](clearwell_cave_roof.JPG)
-![Virginia at Tintern Abbey](tintern_ginny.JPG)
-![Tintern Abbey](tintern.JPG)
-![Narrow boat odyssey](narrow_boat.JPG)
-![Heron taking off](heron.JPG)
-![Narrow boat convention](narrow_boats.JPG)
-![Chepstow Castle](chepstow_castle.JPG)
-![Seagull at Chepstow Castle](seagull.JPG)
+#gallery
+lindors.JPG	lindors.JPG
+moor_hen.JPG	moor_hen.JPG
+foxgloves.JPG	foxgloves.JPG
+ducks_on_board.JPG	ducks_on_board.JPG
+festooned_boat.JPG	festooned_boat.JPG
+symonds_yat.JPG	symonds_yat.JPG
+clearwell_caves.JPG	clearwell_caves.JPG
+clearwell_cave_roof.JPG	clearwell_cave_roof.JPG
+tintern_ginny.JPG	tintern_ginny.JPG
+tintern.JPG	tintern.JPG
+narrow_boat.JPG	narrow_boat.JPG
+heron.JPG	heron.JPG
+narrow_boats.JPG	narrow_boats.JPG
+chepstow_castle.JPG	chepstow_castle.JPG
+seagull.JPG	seagull.JPG

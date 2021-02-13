@@ -1,20 +1,6 @@
----
-title: Thursford Christmas Show
-anchors:
-- Thursford Collection
-date: December 5th 2014
-images:
-- path: santaland.JPG
-  tag: Where Santa lives
-- path: virginia_and_friend.JPG
-  tag: Virginia and friend
-- path: food.JPG
-  tag: Food to keep you going
-- path: shop.JPG
-  tag: Helping you spend that loose money
-- path: stage.JPG
-  tag: Waiting for the show to start
----
+#title Thursford Christmas Show
+#date December 5th 2014
+#markdown
 We went again to see the Christmas Show at the
 [Thursford Collection](https://www.thursford.com),
 a long drive but worth it. We get there early to at least
@@ -27,8 +13,9 @@ this year we had a Norfolk bor comic and a circus performer),
 it was sensibly choreographed and performed but it just didn't
 thrill me as it did the first year we went. I'm jaded I know.
 
-![Where Santa lives](santaland.JPG)
-![Virginia and friend](virginia_and_friend.JPG)
-![Food to keep you going](food.JPG)
-![Helping you spend that loose money](shop.JPG)
-![Waiting for the show to start](stage.JPG)
+#gallery
+santaland.JPG	santaland.JPG
+virginia_and_friend.JPG	virginia_and_friend.JPG
+food.JPG	food.JPG
+shop.JPG	shop.JPG
+stage.JPG	stage.JPG

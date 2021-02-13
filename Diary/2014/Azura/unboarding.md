@@ -1,29 +1,7 @@
----
-title: Off boarding
-date: October 1st 2014
-images:
-- path: glass_house.JPG
-  tag: Glass House bar and eaterie on Azura
-- path: java_bar.JPG
-  tag: Java bar
-- path: bar_appliances.JPG
-  tag: Appliances behind a bar
-- path: our_table.JPG
-  tag: Our table in the Oriental Restaurant on Azura
-- path: dispensers.JPG
-  tag: Dispensers for salt and pepper and sugar
-- path: atrium_repair.JPG
-  tag: The Azura atrium floor needed repair by the end of the cruise
-- path: flowers.JPG
-  tag: It's all about money from one angle
-- path: library.JPG
-  tag: The miniscule library on Azura
-- path: oriental.JPG
-  tag: The Oriental Restaurant on Azura
-- path: stairwell.JPG
-  tag: The art adorned stairwells
----
-![Our table in the Oriental Restaurant on Azura](our_table.JPG)
+#title Off boarding
+#date October 1st 2014
+#image our_table.JPG
+#markdown
 There's good and bad about this cruise and the *Azura*.  The staff work very hard, and
 are very friendly.  [P&amp;O](https://www.pocruises.com/) went the extra mile for Virginia. She's avoiding dairy and each
 day got the menu for the next day so the chefs could prepare suitable versions of the dishes.
@@ -35,7 +13,8 @@ where you sit if you eat in the formal restaurants, and one day we sat with a pr
 instructor.  He had been involved with the [BBC](https://www.bbc.co.uk/)'s "Strictly Come Dancing", and was very
 interesting on that topic.
 
-![Java bar](java_bar.JPG)
+#image java_bar.JPG
+#markdown
 I did quite a bit of time reading, and want to read more of [Brandon Sanderson](https://brandonsanderson.com).  His
 "Rithmatist" I really enjoyed, an imaginative magical system.
 
@@ -44,7 +23,8 @@ have muzak blaring away.  The Planet Bar might have done but Virginia found it t
 for her Kindle, and during the day golf or other activities like choir practice took it over.
 So we never really found anywhere decent to sit where I could just sip sherry and sip a book.
 
-![The miniscule library on Azura](library.JPG)
+#image library.JPG
+#markdown
 The library was vestigial - perhaps killed off by the Kindle?  The entertainment felt dumbed down,
 there was no classical music for instance.
 

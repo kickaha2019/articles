@@ -1,5 +1,6 @@
-![The snowdrops themselves](P1380527.JPG)
-![Border on the winter walk](P1380530.JPG)
-![Virginia clad for winter](P1380531.JPG)
-![The winter walk](P1380532.JPG)
-![The silver birch nice and clean](P1380533.JPG)
+#gallery
+P1380527.JPG	P1380527.JPG
+P1380530.JPG	P1380530.JPG
+P1380531.JPG	P1380531.JPG
+P1380532.JPG	P1380532.JPG
+P1380533.JPG	P1380533.JPG

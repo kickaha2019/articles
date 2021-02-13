@@ -1,10 +1,7 @@
----
-icon: "/Users/peter/Synch/Website/Articles/Computing/imac.jpg"
-anchors:
-- Capelle
-title: Calling on Capelle
-date: Sunday, 25 May 2008
----
+#title Calling on Capelle
+#icon /Users/peter/Synch/Website/Articles/Computing/imac.jpg
+#date Sunday, 25 May 2008
+#markdown
 I found myself in my firm's offices in Capelle near Rotterdam for a 3-day course this last week.   A little last minute - not sure why I got sent or what that means.
 
 Decided to try with just carry on luggage, and checked in over the Internet.   The resulting bits of paper worked to my surprise.   I had worried about the size of my bag, but mine was small.   Took plenty of reading matter with me, and that cushioned being on a plane.   EasyJet I flew with have a scramble for seats like RyanAir do.

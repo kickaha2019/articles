@@ -1,3 +1,4 @@
+#markdown
 The latest build is available at [Journeys](/Users/peter/Sites/Games/Journeys/build/index.html).
 
 *Build 9*: Avoided displaying incomplete images by using image load

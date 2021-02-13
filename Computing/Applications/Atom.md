@@ -1,3 +1,4 @@
+#markdown
 I'm using the
 [Atom](https://atom.io/) for editing *Markdown* documents
 on the iMac. For a free bit of software it works quite well,

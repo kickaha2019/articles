@@ -1,36 +1,6 @@
----
-date: June 10th 2016
-anchors:
-- Swan's Nest Hotel
-- Stratford Butterfly Farm
-- The Fourteas
-- Stratford-upon-Avon Baptist Church
-- Stratford MAD museum
-images:
-- path: hotel.jpg
-  tag: Swan's Nest Hotel
-- path: farm_entrance.jpg
-  tag: Entrance to Buttefly Farm
-- path: mayan_pool.jpg
-  tag: Hot and humid Mayan-ish pool
-- path: butterfly.jpg
-  tag: One of the many butterflies
-- path: fourteas_menu.jpg
-  tag: Menu at Fourteas
-- path: fourteas_timer.jpg
-  tag: Timer for when tea ready at Fourteas
-- path: mad1.jpg
-  tag: MAD museum exhibit
-- path: mad2.jpg
-  tag: MAD museum exhibit
-- path: countess.jpg
-  tag: Countess of Evesham
-- path: countess_interior.jpg
-  tag: Countess of Evesham interior
-- path: countess_us.jpg
-  tag: Us on board Countess of Evesham
----
-![Swan's Nest Hotel](hotel.jpg)
+#date June 10th 2016
+#image hotel.jpg
+#markdown
 The long weekend started with another telephone call from a carer about Dad managing to fall out
 of bed despite having a bar fitted by Phillip last night (who I envy being so good at practical things).
 I went to Milton Tesco after seeing Mum's grave on the anniversary of her death four years ago,
@@ -46,7 +16,8 @@ Which happily had parking (I like to worry about things). The hotel was very wel
 we could walk everywhere we needed to go! It was good enough but I wouldn't give it four stars.
 The hotel had wifi - to make this work one had to register / login each time.
 
-![Entrance to Buttefly Farm](farm_entrance.jpg)
+#image farm_entrance.jpg
+#markdown
 We ate at the French bistro restaurant in the hotel, I had French onion soup then chicken
 which were richly cooked perhaps too richly cooked for me. The chef was rather too fond of salt.
 
@@ -60,7 +31,8 @@ and also a colony of leaf cutter ants commuting over ropes - the previous colony
 chewing their way through power cables and the queen getting electrocuted. Well patronised by
 those ignoring the signs about touching the butterflies.
 
-![Menu at Fourteas](fourteas_menu.jpg)
+#image fourteas_menu.jpg
+#markdown
 When we emerged it was raining, but only light rain and we were within a stones throw of the hotel.
 We had sandwiches at the charming [Fourteas](http://thefourteas.co.uk/) -
 a forties themed tea room where the waitresses were
@@ -70,7 +42,8 @@ kinetic sculptures - vibrant and eye catching.
 Made me miss the ball bearing clock I had once - and remember a visit to see work by the artist
 Jean Tinguely.
 
-![Countess of Evesham](countess.jpg)
+#image countess.jpg
+#markdown
 Hotel laid on a fire alarm for us, then we went for an evening cruise on the
 [Countess of Evesham](https://countessofevesham.co.uk/)
 down and up the River Avon. They steered the long boat with skill through the three locks,

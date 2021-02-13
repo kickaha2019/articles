@@ -1,37 +1,38 @@
-![Anhinga](anhinga.jpg)
-![Brolgas - large storks](brolgas.jpg)
-![Birds taking to the air](taking_to_air.jpg)
-![Juvenile sea eagle](juvenile_sea_eagle.jpg)
-![Jabiru](jabiru.jpg)
-![Jacana or Jesus bird](jacana.jpg)
-![Male jacana and chicks](jacana_and_chicks.jpg)
-![Lorikeet](lorikeet.jpg)
-![Pelicans of Australia](pelicans.jpg)
-![Purple swamp hens](purple_swamp_hens.jpg)
-![White parrots](white_parrots.jpg)
-![Ants weaving leaves together](ants_weaving.jpg)
-![Arboreal termites](arboreal_termites.jpg)
-![Freshwater crocodile](freshwater_crocodile.jpg)
-![Dwarf green tree frog](dwarf_tree_frog.jpg)
-![Dwarf green tree frog](dwarf_tree_frog2.jpg)
-![Unwanted feral pig](feral_pig.jpg)
-![Me holding a file snake](me_holding_file_snake.jpg)
-![Goana](goana.jpg)
-![Leichardt's grasshopper 1](grasshoppers1.jpg)
-![Leichardt's grasshopper 2](grasshopper2.jpg)
-![Magnetic termite mounds](magnetic_termite_mounds.jpg)
-![A spider](spider.jpg)
-![Crabs eye - poison used by Aborigines](crabs_eye.jpg)
-![Firecracker plant](firecracker.jpg)
-![Edible sap of a tree](edible_sap.jpg)
-![Pandanus](pandanus.jpg)
-![A billabong](billabong.jpg)
-![In the dry season the waterholes shrink](dry_season.jpg)
-![Jeep used to get around safari area](jeep.jpg)
-![My tent at the safari base camp](tent.jpg)
-![The safari canteen](kitchen.jpg)
-![Art of a ship the dingoes might have come on](rock_art_ship.jpg)
-![Aboriginal stone tools](aboriginal_tools.jpg)
-![The rainbow serpent - vital Aboriginal myth](rainbow_serpent.jpg)
-![Aboriginal wall art using Reckitts Blue](rock_art_hands.jpg)
-![Sunset over Arnhemland](sunset.jpg)
+#gallery
+anhinga.jpg	anhinga.jpg
+brolgas.jpg	brolgas.jpg
+taking_to_air.jpg	taking_to_air.jpg
+juvenile_sea_eagle.jpg	juvenile_sea_eagle.jpg
+jabiru.jpg	jabiru.jpg
+jacana.jpg	jacana.jpg
+jacana_and_chicks.jpg	jacana_and_chicks.jpg
+lorikeet.jpg	lorikeet.jpg
+pelicans.jpg	pelicans.jpg
+purple_swamp_hens.jpg	purple_swamp_hens.jpg
+white_parrots.jpg	white_parrots.jpg
+ants_weaving.jpg	ants_weaving.jpg
+arboreal_termites.jpg	arboreal_termites.jpg
+freshwater_crocodile.jpg	freshwater_crocodile.jpg
+dwarf_tree_frog.jpg	dwarf_tree_frog.jpg
+dwarf_tree_frog2.jpg	dwarf_tree_frog2.jpg
+feral_pig.jpg	feral_pig.jpg
+me_holding_file_snake.jpg	me_holding_file_snake.jpg
+goana.jpg	goana.jpg
+grasshoppers1.jpg	grasshoppers1.jpg
+grasshopper2.jpg	grasshopper2.jpg
+magnetic_termite_mounds.jpg	magnetic_termite_mounds.jpg
+spider.jpg	spider.jpg
+crabs_eye.jpg	crabs_eye.jpg
+firecracker.jpg	firecracker.jpg
+edible_sap.jpg	edible_sap.jpg
+pandanus.jpg	pandanus.jpg
+billabong.jpg	billabong.jpg
+dry_season.jpg	dry_season.jpg
+jeep.jpg	jeep.jpg
+tent.jpg	tent.jpg
+kitchen.jpg	kitchen.jpg
+rock_art_ship.jpg	rock_art_ship.jpg
+aboriginal_tools.jpg	aboriginal_tools.jpg
+rainbow_serpent.jpg	rainbow_serpent.jpg
+rock_art_hands.jpg	rock_art_hands.jpg
+sunset.jpg	sunset.jpg

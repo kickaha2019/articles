@@ -1,6 +1,5 @@
----
-title: 7:Builds
----
+#title 7:Builds
+#markdown
 The latest build is available at [Card 2013](/Users/peter/Sites/Games/Card2013/build/index.html).
 
 *Build 1*: The start and about pages implemented, time

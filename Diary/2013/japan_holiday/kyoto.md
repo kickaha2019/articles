@@ -1,47 +1,7 @@
----
-title: Kyoto by itself
-anchors:
-- Ryoanji
-- Higashiyama Jisho-ji
-- Philosopher's Path
-- Nishiki Market
-- Gion Corner
-date: March 27th 2013
-images:
-- path: p76_zen.JPG
-  tag: Zen garden at Ryoanji Temple in Kyoto
-- path: p77_temple.JPG
-  tag: Ryoanji Temple in Kyoto
-- path: p78_masonry.JPG
-  tag: Monument masons in Kyoto
-- path: p79_warden.JPG
-  tag: Traffic warden in Kyoto
-- path: p80_stall.JPG
-  tag: Second-hand umbrellas stall in Kyoto
-- path: p81_zen.JPG
-  tag: Zen garden at Silver Pavilion in Kyoto
-- path: p82_silver.JPG
-  tag: Silver Pavilion
-- path: p83_stall.JPG
-  tag: Food stall in Kyoto
-- path: p84_octopus.JPG
-  tag: Food shop in Kyoto with moving octopus
-- path: p85_teddies.JPG
-  tag: Teddy bears fishing along Philosophers Walk
-- path: p86_roof.JPG
-  tag: Figures on roof along Philosophers Walk
-- path: p87_walk.JPG
-  tag: Philosophers Walk in Kyoto
-- path: p88_shop.JPG
-  tag: Bear shop in Kyoto
-- path: p89_food.JPG
-  tag: Nishiki Food Market shop in Kyoto
-- path: p90_food.JPG
-  tag: Nishiki Food Market shop
-- path: p91_food.JPG
-  tag: Nishiki Food Market shop
----
-![Zen garden at Ryoanji Temple in Kyoto](p76_zen.JPG)
+#title Kyoto by itself
+#date March 27th 2013
+#image p76_zen.JPG
+#markdown
 ikio Yomoda a volunteer [Goodwill Guide](https://www.japan.travel/en/plan/list-of-volunteer-guides/) kindly helped me
 see a number of places in Kyoto today.  Without his help I
 wouldn't haved dared enter a bus for fear of ending up I knew
@@ -59,7 +19,8 @@ never made myself well enough understood.  Nearby was a place
 where they made stone lanterns for temples and other very un-Japanese
 looking statuary.
 
-![Silver Pavilion](p82_silver.JPG)
+#image p82_silver.JPG
+#markdown
 I was despondent to learn that Nijo Castle just means 2nd Street
 Castle - how unromantic.  I also learnt that the "mi" component
 of many girl's names is the Chinese "mei" character for beautiful.
@@ -83,7 +44,8 @@ presentos, how cheap.  Mikio had coffee there, and got a tiny thimble
 of milk like Burt did.  Apparently that's the way Japanese take
 coffee!
 
-![Teddy bears fishing along Philosophers Walk](p85_teddies.JPG)
+#image p85_teddies.JPG
+#markdown
 We then took the [Philosopher's Walk](https://www.japan-guide.com/e/e3906.html), which was very beautiful with
 trees in blossom.  At one place people were gaga over a gathering of
 cats, a feline knows how to twist a human around its little claw.
@@ -99,7 +61,8 @@ asked Mikio to take me to the [Heian Shrine](http://www.heianjingu.or.jp/), but 
 beginning to be saturated with seeing temples and castles.  So instead
 we headed for the [Nishiki Food Street](https://www.japan-guide.com/e/e3931.html)!
 
-![Nishiki Food Market shop in Kyoto](p89_food.JPG)
+#image p89_food.JPG
+#markdown
 This is a long long covered arcade of food stalls.  Not just food.
 An assault of colours and shapes and tastes!  Mikio treated me to
 a sticky syrupy dessert but we had to wait until we reached a department

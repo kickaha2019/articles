@@ -1,11 +1,6 @@
----
-title: Shadowrun Returns
-images:
-- path: Shadowrun_Returns.jpg
-  tag: Shadowrun Returns
----
-![Shadowrun Returns](Shadowrun_Returns.jpg)
-
+#title Shadowrun Returns
+#image	Shadowrun_Returns.jpg
+#markdown
 [Shadowrun Returns](http://harebrained-schemes.com/games/)
 ([Harebrained Schemes](http://harebrained-schemes.com/) 2013) is a traditional
 turn-based isometric 3rd person RPG game. The game is not as glossy as some

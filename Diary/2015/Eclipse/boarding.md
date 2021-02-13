@@ -1,56 +1,6 @@
----
-anchors:
-- National Motor Museum, Beaulieu
-date: March 9th 2015
-images:
-- path: soton_hi.JPG
-  tag: Holiday Inn in Southampton where we stayed overnight
-- path: beau_cars.JPG
-  tag: Beaulieu Motor Museum
-- path: beau_chitty.JPG
-  tag: Chitty Chitty Bang Bang car
-- path: beau_caravan.JPG
-  tag: Royal Caravan
-- path: beau_monorail.JPG
-  tag: Monorail round Beaulieu
-- path: beau_gardens.JPG
-  tag: Approach to Palace House at Beaulieu
-- path: beau_house1.JPG
-  tag: Palace House
-- path: beau_house2.JPG
-  tag: Palace House
-- path: beau_kitchen.JPG
-  tag: Palace House kitchen
-- path: soton_laby1.JPG
-  tag: Labyrinth to board the Boudicca
-- path: soton_laby2.JPG
-  tag: Labyrinth to board the Boudicca
-- path: soton_laby3.JPG
-  tag: Labyrinth to board the Boudicca
-- path: soton_laby4.JPG
-  tag: Labyrinth to board the Boudicca
-- path: soton_laby5.JPG
-  tag: Labyrinth to board the Boudicca
-- path: soton_laby6.JPG
-  tag: Labyrinth to board the Boudicca
-- path: boud_gangway.JPG
-  tag: Gangway to board Boudicca in port
-- path: boud_entry.JPG
-  tag: Entrance to Boudicca
-- path: boud_promenade.JPG
-  tag: Boudicca promenade deck
-- path: boud_promenade2.JPG
-  tag: Boudicca promenade deck
-- path: boud_bow.JPG
-  tag: Boudicca's bow (the front bit)
-- path: boud_bow2.JPG
-  tag: Boudicca's bow
-- path: boud_lifeboat.JPG
-  tag: Boudicca lifeboat
-- path: boud_winch.JPG
-  tag: Winch
----
-![Holiday Inn in Southampton where we stayed overnight](soton_hi.JPG)
+#date March 9th 2015
+#image soton_hi.JPG
+#markdown
 We checked out of the [Holiday Inn Southampton City](https://www.ihg.com/holidayinn/hotels/gb/en/southampton/soahp/hoteldetail) hotel (&pound;7 to rescue the car from the car park,
 another incentive to not use that hotel), then had breakfast at the nearby
 [Frankie and Bennys Southampton](https://www.frankieandbennys.com/restaurant/frankie-bennys-southampton).
@@ -65,7 +15,8 @@ Virginia braved the vintage monorail system too, and we saw the staff in costume
 Palace House (period kitchen, portraits on walls, stuffed birds), dipped into the
 Abbey, and had soup at the Brabazon Restaurant. Worth visiting once.
 
-![Gangway to board Boudicca in port](boud_gangway.JPG)
+#image boud_gangway.JPG
+#markdown
 Time to venture to the cruise terminal. A confusing process of stop car in one place,
 lose the luggage, then guess one was meant to move the car to another place where one handed over
 car keys in exchange for a piece of paper. Impressively our luggage all made to our cabin
@@ -85,7 +36,8 @@ restaurant.  We met our dining companions Roy and Margaret and Shirley and Barba
 who made a a good table to be on. One of the plusses of the Boudicca being a smaller ship is
 we more often bumped into them onboard.
 
-![Entrance to Boudicca](boud_entry.JPG)
+#image boud_entry.JPG
+#markdown
 Went to the Neptune Lounge for the resident theatre company to dance and sing
 songs by Queen, Elton John, etc.  They were lively and energetic and not pretentious. The
 Neptune Lounge isn't ideal for shows as few people have a clear view of the stage.

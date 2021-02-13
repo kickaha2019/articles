@@ -1,3 +1,1 @@
----
-blurb: Places we like eating at
----
+#blurb Places we like eating at

@@ -1,11 +1,6 @@
----
-title: 'Egypt 3: The Egyptian Prophecy'
-images:
-- path: Egypt3.jpg
-  tag: 'Egypt 3: The Egyptian Prophecy'
----
-![Egypt 3: The Egyptian Prophecy](Egypt3.jpg)
-
+#title Egypt 3: The Egyptian Prophecy
+#image	Egypt3.jpg
+#markdown
 "Egypt 3: The Egyptian Prophecy" (2004) is the third game in the Egypt series
 from the French game developer Cryo.  You play a young magician Maya
 charged with making sure an obelisk is erected for Amun-Re, so that
