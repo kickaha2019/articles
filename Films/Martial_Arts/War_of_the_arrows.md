@@ -1,20 +1,13 @@
----
-title: War of the Arrows
-images:
-- path: War_of_the_arrows.jpg
-  tag: War of the Arrows
----
-![War of the Arrows](War_of_the_arrows.jpg)
-
-| | |
-|-|-|
-Film|[War of the Arrows](https://www.imdb.com/title/tt2025526/)
-Country|South Korea
-Director|Kim Han-min
-Year|2011
-Cast|Park Hae-il, Ryu Seung-Ryong, Moon Chae-won
-Details|Colour 122 mins
-
+#title War of the Arrows
+#image	War_of_the_arrows.jpg
+#list
+Film	[War of the Arrows](https://www.imdb.com/title/tt2025526/)
+Country	South Korea
+Director	Kim Han-min
+Year	2011
+Cast	Park Hae-il, Ryu Seung-Ryong, Moon Chae-won
+Details	Colour 122 mins
+#markdown
 The best archer in Korea has to fight Chinese invaders to rescue his sister.  But
 if films had complicated plots they would be incomprehensible?
 

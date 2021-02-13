@@ -1,22 +1,16 @@
----
-images:
-- path: duck_soup.jpg
-  tag: Duck Soup
----
-![Duck Soup](duck_soup.jpg)
-
-| | |
-|-|-|
-Film|[Duck Soup](https://www.imdb.com/title/tt0023969/)
-Country|USA
-Director|Leo McCarey
-Year|1933
-Cast|Groucho Marx, Harpo Marx, Chico Marx
-Details|B&W 68 mins
+#image	duck_soup.jpg
+#markdown
 Image:
 duck_soup.jpg
 Duck Soup
-
+#list
+Film	[Duck Soup](https://www.imdb.com/title/tt0023969/)
+Country	USA
+Director	Leo McCarey
+Year	1933
+Cast	Groucho Marx, Harpo Marx, Chico Marx
+Details	B&W 68 mins
+#markdown
 A Marx Bros comedy lampooning governments and nationalism and war.
 Groucho Marx plays Rufus T. Firefly who becomes president of
 noble country Freedonia, and leads that country to a gag-filled victory

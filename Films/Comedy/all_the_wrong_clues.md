@@ -1,19 +1,12 @@
----
-images:
-- path: all_the_wrong_clues.jpg
-  tag: All the Wrong Clues
----
-![All the Wrong Clues](all_the_wrong_clues.jpg)
-
-| | |
-|-|-|
-Film|&#39740;&#39340;&#26234;&#22810;&#26143; (All the Wrong Clues)
-Country|Hong Kong
-Director|Tsui Hark
-Year|1981
-Cast|George Lam, Teddy Robin, Karl Maka
-Details|Colour 94 minutes
-
+#image	all_the_wrong_clues.jpg
+#list
+Film	&#39740;&#39340;&#26234;&#22810;&#26143; (All the Wrong Clues)
+Country	Hong Kong
+Director	Tsui Hark
+Year	1981
+Cast	George Lam, Teddy Robin, Karl Maka
+Details	Colour 94 minutes
+#markdown
 Plot: gangsters swindlers comic police private
 detectives femme fatales ingenues homocidal
 killers mayhem Al Capone in Hong Kong.

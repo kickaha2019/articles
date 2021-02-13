@@ -1,20 +1,13 @@
----
-title: Police Story
-images:
-- path: police_story.jpg
-  tag: Police Story
----
-![Police Story](police_story.jpg)
-
-| | |
-|-|-|
-Film|[Police Story](https://www.imdb.com/title/tt0089374/)
-Country|Hong Kong
-Director|Jackie Chan
-Year|1985
-Cast|Jackie Chan, Maggie Cheung, Brigitte Lin
-Details|Colour 99 mins
-
+#title Police Story
+#image	police_story.jpg
+#list
+Film	[Police Story](https://www.imdb.com/title/tt0089374/)
+Country	Hong Kong
+Director	Jackie Chan
+Year	1985
+Cast	Jackie Chan, Maggie Cheung, Brigitte Lin
+Details	Colour 99 mins
+#markdown
 Directed by and stars Jackie Chan in full flow action. The plot (films tend to be saddled with them) is about a lone Hong Kong cop taking on a drug king-pin. The story provides enough excuses for great action sequences interleaved with comedy.
 
 There are many memorable innovative sequences, from the car chase through a shanty town, through Jackie clinging onto a double decker bus by umbrella, to the glass smashing finale in a department store where our hero wins out against officialdom and the drug lord. The film is tongue-in-cheek, but the action sequences are played full on. Serious injuries were taken making this film.

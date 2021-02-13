@@ -1,20 +1,13 @@
----
-title: Dead Sushi
-images:
-- path: dead_sushi.jpg
-  tag: Dead Sushi
----
-![Dead Sushi](dead_sushi.jpg)
-
-| | |
-|-|-|
-Film|[Dead Sushi](https://www.imdb.com/title/tt2396429/)
-Country|Japan
-Director|Noboru Iguchi
-Year|2012
-Cast|Rina Takeda, Kentaro Shimazu, Takamasa Suga
-Details|Colour 92 mins
-
+#title Dead Sushi
+#image	dead_sushi.jpg
+#list
+Film	[Dead Sushi](https://www.imdb.com/title/tt2396429/)
+Country	Japan
+Director	Noboru Iguchi
+Year	2012
+Cast	Rina Takeda, Kentaro Shimazu, Takamasa Suga
+Details	Colour 92 mins
+#markdown
 Tasteless comic film exploitation.  The plot has a disgraced
 company chemist seeking revenge by turning sushi into flying
 homocidal delicacies with teeth and nerves.  The karate idol

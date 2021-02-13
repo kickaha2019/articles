@@ -1,25 +1,12 @@
----
-links:
-- path: 2007/Norway
-  tag: 2007 Norway
-- path: 2009/eastern_med
-  tag: 2009 Eastern Med
-- path: 2011/black_watch
-  tag: 2011 Baltics
-- path: 2012/azores_cruise
-  tag: 2012 Azores
-- path: 2013/rhine_cruise
-  tag: 2013 Rhine
-- path: 2014/Azura
-  tag: 2014 Western Med
-- path: 2015/Eclipse
-  tag: 2015 Norway and Eclipse
-- path: 2016/Arcadia
-  tag: 2016 Western Med
-- path: 2017/Baltics
-  tag: 2017 Baltics
-- path: 2018/Columbus
-  tag: 2018 British Isles
-- path: 2019/Iceland
-  tag: 2019 Iceland
----
+#links
+2007/Norway 2007 Norway
+2009/eastern_med 2009 Eastern Med
+2011/black_watch 2011 Baltics
+2012/azores_cruise 2012 Azores
+2013/rhine_cruise 2013 Rhine
+2014/Azura 2014 Western Med
+2015/Eclipse 2015 Norway and Eclipse
+2016/Arcadia 2016 Western Med
+2017/Baltics 2017 Baltics
+2018/Columbus 2018 British Isles
+2019/Iceland 2019 Iceland

@@ -1,20 +1,13 @@
----
-title: The 39 Steps
-images:
-- path: 39_steps.jpg
-  tag: The 39 Steps
----
-![The 39 Steps](39_steps.jpg)
-
-| | |
-|-|-|
-Film|The 39 Steps
-Country|UK
-Director|Alfred Hitchcock
-Year|1935
-Cast|Robert Donat, Madeleine Carroll
-Details|B/W 86 minutes
-
+#title The 39 Steps
+#image	39_steps.jpg
+#list
+Film	The 39 Steps
+Country	UK
+Director	Alfred Hitchcock
+Year	1935
+Cast	Robert Donat, Madeleine Carroll
+Details	B/W 86 minutes
+#markdown
 Plot: loose adaptation of the Buchan espionage
 thriller.  Colonial Richard Hannay finds himself
 embroiled in a melodramatic spy story - is pursued

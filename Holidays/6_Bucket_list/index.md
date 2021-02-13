@@ -1,7 +1,6 @@
----
-no_index: true
-icon: bucket.jpg
----
+#icon bucket.jpg
+#no_index true
+#markdown
 Area|Attraction|Comments
 -|-|-
 America|[UC San Diego](https://library.ucsd.edu/)|

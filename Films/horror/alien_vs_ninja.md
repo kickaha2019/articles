@@ -1,20 +1,13 @@
----
-title: Alien vs. Ninja
-images:
-- path: alien_vs_ninja.jpg
-  tag: Alien vs. Ninja
----
-![Alien vs. Ninja](alien_vs_ninja.jpg)
-
-| | |
-|-|-|
-Film|[Alien vs. Ninja](https://www.imdb.com/title/tt1592503/)
-Country|Japan
-Director|Seiji Chiba
-Year|2010
-Cast|Shuji Kashiwabara, Mika Hijii, Ben Hiura
-Details|Colour 80 mins
-
+#title Alien vs. Ninja
+#image	alien_vs_ninja.jpg
+#list
+Film	[Alien vs. Ninja](https://www.imdb.com/title/tt1592503/)
+Country	Japan
+Director	Seiji Chiba
+Year	2010
+Cast	Shuji Kashiwabara, Mika Hijii, Ben Hiura
+Details	Colour 80 mins
+#markdown
 A collision between "Alien" and "Predator" and
 Japanese Ninja films which is
 so bad and risible and tacky and lacking in sense that it merits

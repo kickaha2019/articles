@@ -1,20 +1,13 @@
----
-title: The Kick
-images:
-- path: the_kick.jpg
-  tag: The Kick
----
-![The Kick](the_kick.jpg)
-
-| | |
-|-|-|
-Film|[The Kick](https://www.imdb.com/title/tt2020110/)
-Country|Thailand
-Director|Prachya Pinkaew
-Year|2011
-Cast|Jae-hyeon Jo, Ji-won Ye, Petchtai Wongkamlao
-Details|Colour 94 mins
-
+#title The Kick
+#image	the_kick.jpg
+#list
+Film	[The Kick](https://www.imdb.com/title/tt2020110/)
+Country	Thailand
+Director	Prachya Pinkaew
+Year	2011
+Cast	Jae-hyeon Jo, Ji-won Ye, Petchtai Wongkamlao
+Details	Colour 94 mins
+#markdown
 A film directed by Prachya Pinkaew of "Ong Bak" and "Chocolate" renown.  Instead of Muy Thai the fighting style featured is Taekwondo, but apart from that this is another varied martial arts film.
 
 The plot has a Korean family who are into Taekwondo who by chance foil the theft of a valuable ceremonial knife.  The robbers kidnap the young son, the family have to steal the knife to get the son back.  That's enough to justify plenty of fight scenes.  The final battle takes place in a zoo so we also get elephants and crocodiles.

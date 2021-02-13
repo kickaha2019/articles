@@ -1,19 +1,12 @@
----
-images:
-- path: CityOfLostChildren.jpg
-  tag: City of Lost Children
----
-![City of Lost Children](CityOfLostChildren.jpg)
-
-| | |
-|-|-|
-Film|[City of Lost Children](https://www.imdb.com/title/tt0112682/)
-Country|France
-Director|Marc Caro, Jean-Pierre Jeunet
-Year|1995
-Cast|Ron Perlman, Daniel Emilfork, Judith Vittet
-Details|Colour 112 mins
-
+#image CityOfLostChildren.jpg
+#list
+Film [City of Lost Children](https://www.imdb.com/title/tt0112682/)
+Country France
+Director Marc Caro, Jean-Pierre Jeunet
+Year 1995
+Cast Ron Perlman, Daniel Emilfork, Judith Vittet
+Details Colour 112 mins
+#markdown
 Another film from the directoring team of Jeunet and Caro who did "Delicatessen". It stars the American actor Ron Perlman, and a very confident performance by by an 11-year Judith Vittet.
 
 "City of Lost Children" is set in a run-down steampunk future more than worthy of Jules Verne. A mad scientist Krank is kidnapping children so he can steal their dreams. An ex-whaler played by Perlman starts on a strange odyssey to rescue his adopted son. The son has been kidnapped by a cult in league with Krank. The whaler's quest involves him with a gang of orphans who steal for a sinister Siamese couple.

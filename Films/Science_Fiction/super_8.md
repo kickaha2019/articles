@@ -1,19 +1,12 @@
----
-images:
-- path: Super8.jpg
-  tag: Super 8
----
-![Super 8](Super8.jpg)
-
-| | |
-|-|-|
-Film|[Super 8](https://www.imdb.com/title/tt1650062/)
-Country|USA
-Director|J.J. Abrams
-Year|2011
-Cast|Elle Fanning, AJ Michalka, Kyle Chandler
-Details|Colour 112 mins
-
+#image	Super8.jpg
+#list
+Film	[Super 8](https://www.imdb.com/title/tt1650062/)
+Country	USA
+Director	J.J. Abrams
+Year	2011
+Cast	Elle Fanning, AJ Michalka, Kyle Chandler
+Details	Colour 112 mins
+#markdown
 A movie whose
 parentage is obvious.  Cross "The Goonies" with "ET" and "Close Encounters"
 and "Jaws" and you've just about got it.  The plot has this group of

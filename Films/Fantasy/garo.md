@@ -1,20 +1,13 @@
----
-title: Garo and the Wailing Dragon
-images:
-- path: garo.jpg
-  tag: Garo and the Wailing Dragon
----
-![Garo and the Wailing Dragon](garo.jpg)
-
-| | |
-|-|-|
-Film|&#29273;&#29436;&#12296;GARO&#12297;&#65374;&#33980;&#21741;&#12494;&#39764;&#31452;&#65374; ([Garo and the Wailing Dragon](https://www.imdb.com/title/tt2476436/))
-Country|Japan
-Director|Keita Amemiya
-Year|2012
-Cast|Ryosei Konishi, Yuki Kubota, Keiko Matsuzaka
-Details|Colour 96 mins
-
+#title Garo and the Wailing Dragon
+#image	garo.jpg
+#list
+Film	&#29273;&#29436;&#12296;GARO&#12297;&#65374;&#33980;&#21741;&#12494;&#39764;&#31452;&#65374; ([Garo and the Wailing Dragon](https://www.imdb.com/title/tt2476436/))
+Country	Japan
+Director	Keita Amemiya
+Year	2012
+Cast	Ryosei Konishi, Yuki Kubota, Keiko Matsuzaka
+Details	Colour 96 mins
+#markdown
 A fantasy film about this heroic guy Kouga who makes a deal with
 a demon to protect mankind, only the demon sets him a quest to get
 a magical item from a magical land.  If heroes didn't have quests

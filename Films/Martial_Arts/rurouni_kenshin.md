@@ -1,19 +1,12 @@
----
-images:
-- path: rurouni_kenshin.jpg
-  tag: Rurouni Kenshin
----
-![Rurouni Kenshin](rurouni_kenshin.jpg)
-
-| | |
-|-|-|
-Film|[Rurouni Kenshin](https://www.imdb.com/title/tt1979319/)
-Country|Japan
-Director|Keishi Ohtomo
-Year|2012
-Cast|Yu Aoi, Takeru Sato, Teruyuki Kagawa
-Details|Colour 134 mins
-
+#image	rurouni_kenshin.jpg
+#list
+Film	[Rurouni Kenshin](https://www.imdb.com/title/tt1979319/)
+Country	Japan
+Director	Keishi Ohtomo
+Year	2012
+Cast	Yu Aoi, Takeru Sato, Teruyuki Kagawa
+Details	Colour 134 mins
+#markdown
 A Japanese film in a well-established vein.  A
 wandering hero with a mysterious past goes around helping the
 down-trodden people who are unprotected by the police and

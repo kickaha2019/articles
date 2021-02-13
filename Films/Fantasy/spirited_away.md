@@ -1,18 +1,11 @@
----
-images:
-- path: spirited_away.jpg
-  tag: Spirited Away
----
-![Spirited Away](spirited_away.jpg)
-
-| | |
-|-|-|
-Film|&#21315;&#12392;&#21315;&#23563;&#12398;&#31070;&#38560;&#12375; ([Spirited Away](https://www.imdb.com/title/tt0245429/))
-Country|Japan
-Director|Hayao Miyazaki
-Year|2001
-Details|Colour 125 mins
-
+#image	spirited_away.jpg
+#list
+Film	&#21315;&#12392;&#21315;&#23563;&#12398;&#31070;&#38560;&#12375; ([Spirited Away](https://www.imdb.com/title/tt0245429/))
+Country	Japan
+Director	Hayao Miyazaki
+Year	2001
+Details	Colour 125 mins
+#markdown
 An
 animated film created by Hayao Miyazaki.  A Japanese family move
 from the city into the suburbs, and blunder through a tunnel into
