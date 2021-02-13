@@ -1,7 +1,6 @@
----
-date: September 30th 2014
-icon: altar.JPG
----
+@icon		altar.JPG
+@date		September 30th 2014
+@markdown
 Both Sundays the Azura was in port, and so didn't have the Sunday morning service
 there would have been on a sea day. To our surprise there appeared in the Horizon
 bulletin an entry for *Christian Fellowship* in the Karmala Room at 10am

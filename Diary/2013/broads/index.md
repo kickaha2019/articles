@@ -1,54 +1,7 @@
----
-title: The Norfolk Broads
-anchors:
-- Acle
-- St. Benet's Abbey
-- Toad Hole Cottage Museum
-- Stokesby
-date: May 20th 2013
-images:
-- path: p01_moored.JPG
-  tag: Moored by ruined Abbey
-- path: p02_abbey.JPG
-  tag: Walking to ruined Abbey
-- path: p03_broads.JPG
-  tag: Looking over the Broads
-- path: p04_abbey.JPG
-  tag: The ruined Abbey of St Benets
-- path: p05_supplies.JPG
-  tag: Water and electric supplies
-- path: p06_cruising.JPG
-  tag: Cruising down the Broads
-- path: p07_swans.JPG
-  tag: Nesting pair of swans
-- path: p08_river.JPG
-  tag: Typical view of Broads
-- path: p09_potter.JPG
-  tag: Potter in Sutton
-- path: p10_pottery.JPG
-  tag: Pottery on display
-- path: p11_wheel.JPG
-  tag: Potter at his wheel
-- path: p12_river.JPG
-  tag: View up river
-- path: p13_pump.JPG
-  tag: Old drainage pump
-- path: p14_duck.JPG
-  tag: Close encounter with nature
-- path: p15_acle.JPG
-  tag: Moored at Acle
-- path: p16_tools.JPG
-  tag: Olden tools
-- path: p17_eel.JPG
-  tag: Skin of eel
-- path: p18_sunset.JPG
-  tag: Sunset over the Broads
-- path: p19_pump.JPG
-  tag: Modern drainage pump
-- path: p20_pump.JPG
-  tag: Modern drainage pump
----
-![Moored at Acle](p15_acle.JPG)
+@title		The Norfolk Broads
+@date		May 20th 2013
+@inset		p15_acle.JPG
+@markdown
 Virginia and I together with her parents hired a boat from
 [Richardsons](https://www.richardsonsboatingholidays.co.uk/) in Acle
 to do a one week cruise on the Norfolk Broads in late May.
@@ -70,7 +23,8 @@ or scalding showers on
 the boat made noises like a dentist's drills.  It was eerie and
 wrong when the boat wasn't noisy.
 
-![Water and electric supplies](p05_supplies.JPG)
+@inset		p05_supplies.JPG
+@markdown
 We only used the mudweight once on the cruise when we stern moored - the
 weight was too heavy for me to lift alone.  The stern mooring ropes were
 meant to be left lying along the sides of the boat, once we didn't do this
@@ -89,7 +43,8 @@ blue kingfishers and nesting swans and herons - ducks clambered all over
 the boat as it suited them.  Drainage pumps of different eras were
 scattered around like the remains of dinosaurs.
 
-![Walking to ruined Abbey](p02_abbey.JPG)
+@inset		p02_abbey.JPG
+@markdown
 We wandered to a few places as tourists.  There wasn't a lot to see
 at [St Benet's Abbey](https://www.norfarchtrust.org.uk/project/st-benets-abbey/) itself.
 [Toad Hole Cottage](http://howhilltrust.org.uk/toad-hole-cottage-museum/)
@@ -112,7 +67,8 @@ skilled at handling such boats, who knew how to use the fact a boat is
 very different to a car.  You can pivot a boat on a spot which you
 can't with a car.
 
-![Cruising down the Broads](p06_cruising.JPG)
+@inset		p06_cruising.JPG
+@markdown
 Most of the people we met were very helpful, aiding us by taking our
 mooring lines and tying up for us making it look like second nature.
 A few of the people we

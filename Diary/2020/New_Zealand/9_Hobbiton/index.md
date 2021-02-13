@@ -1,39 +1,6 @@
----
-date: January 14th 2020
-anchors:
-- Shire's Rest
-- Hobbiton Village
-images:
-- path: IMG_0989.jpg
-  tag: At the Shires Rest
-- path: IMG_0994.jpg
-  tag: Time of my tour
-- path: IMG_0992.jpg
-  tag: Coach for Hobbiton
-- path: IMG_0996.jpg
-  tag: Hobbiton
-- path: IMG_1001.jpg
-  tag: Hobbiton
-- path: IMG_1005.jpg
-  tag: Hobbiton
-- path: IMG_1018.jpg
-  tag: Hobbiton
-- path: IMG_1032.jpg
-  tag: Only hobbit hole one can step into
-- path: IMG_1039.jpg
-  tag: Hobbiton
-- path: IMG_1043.jpg
-  tag: Bag End
-- path: IMG_1068.jpg
-  tag: The mill
-- path: IMG_1070.jpg
-  tag: Green Dragon
-- path: IMG_1075.jpg
-  tag: Green Dragon inglenook
-- path: IMG_1078.jpg
-  tag: Hobbiton
----
-![At the Shires Rest](IMG_0989.jpg)
+@date		January 14th 2020
+@inset		IMG_0989.jpg
+@markdown
 Got to [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/)
 in plenty of time for the tour of Hobbiton. The car park was
 pretty full, the gift shop full of expensive models one could buy. They get a lot
@@ -50,7 +17,8 @@ they change the clothes on washing lines once a month. The tour finishes at the 
 Dragon where you have a choice of ale cider stout and ginger beer. I may have been unwise
 to choose and drink the cider based on my accident later.
 
-![Only hobbit hole one can step into](IMG_1032.jpg)
+@inset		IMG_1032.jpg
+@markdown
 I decided to have a lamb burger, and another long black for lunch at the [The Shire's Rest](https://www.hobbitontours.com/en/the-shires-rest/).
 To start with the waitress gave me the drink for another table.
 Clumsily I knocked over the long black when I got it as I tried to catch the receipt as the wind

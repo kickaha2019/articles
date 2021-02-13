@@ -1,11 +1,6 @@
----
-title: Hannah Green and her unfeasibly mundane existence
-images:
-- path: hannah.jpg
-  tag: Hannah Green and her unfeasibly mundane existence
----
-![Hannah Green and her unfeasibly mundane existence](hannah.jpg)
-
+@title		Hannah Green and her unfeasibly mundane existence
+@image		hannah.jpg
+@markdown
 It was the title that grabbed me, and made me try this book.
 And the book itself didn't disappoint. The plot itself,
 about Hannah and how her existence becomes anything but

@@ -1,3 +1,4 @@
+@markdown
 The [Netbeans](https://netbeans.org/) debugger refused to start.
 
 > One possible cause is that the */etc/hosts* needs to contain the hostname for the computer mapped to

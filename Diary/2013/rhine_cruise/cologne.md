@@ -1,53 +1,7 @@
----
-anchors:
-- Cologne Cathedral
-icon: DSCF4661.JPG
-date: 14th October 2013
-images:
-- path: DSCF4651.JPG
-  tag: Restaurant on the MV Virginia
-- path: DSCF4702.JPG
-  tag: Water at waist height in the MV Virginia's restaurant
-- path: DSCF4652.JPG
-  tag: Our hallway on the MV Virginia
-- path: DSCF4653.JPG
-  tag: Virginia in our cabin
-- path: DSCF4654.JPG
-  tag: Me in our cabin
-- path: DSCF4655.JPG
-  tag: Library on the MV Virginia
-- path: DSCF4684.JPG
-  tag: Top deck on the MV Virginia
-- path: DSCF4686.JPG
-  tag: Bridge on the MV Virginia
-- path: DSCF4687.JPG
-  tag: Lounge bar on the MV Virginia
-- path: DSCF4695.JPG
-  tag: Our bathroom
-- path: DSCF4659.JPG
-  tag: They know their ropes on the MV Virginia
-- path: DSCF4661.JPG
-  tag: The Cathedral in Cologne
-- path: DSCF4665.JPG
-  tag: Inside the Cologne Cathedral
-- path: DSCF4666.JPG
-  tag: Inside the Cologne Cathedral
-- path: DSCF4667.JPG
-  tag: Modernist looking stained glass in the Cologne Cathedral
-- path: DSCF4669.JPG
-  tag: Inside the Cologne Cathedral
-- path: DSCF4674.JPG
-  tag: Stream and stepping stones in the concrete age
-- path: DSCF4680.JPG
-  tag: Blankets on seats for the outside diner
-- path: DSCF4681.JPG
-  tag: Photogenic buildings in old Cologne
-- path: DSCF4697.JPG
-  tag: Aft view cruising up the Rhine
-- path: DSCF4698.JPG
-  tag: Bow view cruising up the Rhine
----
-![Blue coaches ready for the tours](DSCF4645.JPG)
+@icon		DSCF4661.JPG
+@date		14th October 2013
+@inset		DSCF4645.JPG
+@markdown
 Most of us had advanced our clocks
 so we made breakfast before re-boarding our blue coach.  The plates
 for breakfast were rectangular with 3 sections, the scrambled eggs
@@ -67,7 +21,8 @@ an accountant of [National Holidays](https://www.nationalholidays.com)
 bungled paying the tax, and the German Zoll impounded a coach
 leaving drivers and passengers high and dry!
 
-![Virginia in our cabin](DSCF4653.JPG)
+@inset		DSCF4653.JPG
+@markdown
 We boarded the [MV Virginia](http://www.transriverline.com/our-ships/mv-virginia/)
 safely, not being given the cabin we had booked.  Cabin not very wide,
 twin beds.  At lunchtime had to make a big decision - what table should
@@ -88,7 +43,8 @@ with stepping stones in concrete, and some of old style Cologne where
 the outside cafes were putting blankets on chairs so patrons could
 wrap up if they felt cold!
 
-![Restaurant on the MV Virginia](DSCF4651.JPG)
+@inset		DSCF4651.JPG
+@markdown
 Dinner was four courses, the main having chicory smothered in cheese sauce,
 I guessed leek and others aubergine.  Again to my surprise at certain times
 beer and wine and soft drinks were free on the ship, including dinner

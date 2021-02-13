@@ -1,11 +1,6 @@
----
-title: 'Atlantis 3: The New World'
-images:
-- path: Atlantis3.jpg
-  tag: 'Atlantis 3: The New World'
----
-![Atlantis 3: The New World](Atlantis3.jpg)
-
+@title		Atlantis 3: The New World
+@image		Atlantis3.jpg
+@markdown
 "Atlantis 3: The New World" (2001) is the third game in the Atlantis series from the now defunct French game developer Cryo.  The story is again written by Jehan K. Robson so (for me) is imaginative and outside the box.
 
 There's these interstellar dolphins with a mysterious gift for humankind which will take us to the next level of evolution.  Three dream-like game chapters set in the paleolithic, Egyptian, and Arabian nights enable your character of a French archaeologist to reach Shambala and the promised gift.  The framing story is set at an ancient Egyptian site in the Hoggar desert where you must outwit the baddie who has found the crystal skull.

@@ -1,18 +1,16 @@
----
-title: The Ghost Bride
-image: the_ghost_bride.jpg
-details:
-  Drama: The Ghost Bride
-  Country: Taiwan, Malaysia
-  Director: Quek Shio-chuan, Ho Yu-hang
-  Writer: " Kai-yu Wu, Yasmin Yaacob, Dan Hamamura"
-  Released: 23rd January 2020
-  Cast: Huang Pei-jia, Wu Kang-jen, Ludi Lin, Kuang Tian
-  Details: 6 episodes
-  Themes: Fantasy, mystery
-  Links: "[Netflix](https://www.netflix.com/title/80241234)"
-layout: review
----
+@title		The Ghost Bride
+@image		the_ghost_bride.jpg
+@list
+Drama		The Ghost Bride
+Country		Taiwan, Malaysia
+Director		Quek Shio-chuan, Ho Yu-hang
+Writer		 Kai-yu Wu, Yasmin Yaacob, Dan Hamamura
+Released		23rd January 2020
+Cast		Huang Pei-jia, Wu Kang-jen, Ludi Lin, Kuang Tian
+Details		6 episodes
+Themes		Fantasy, mystery
+Links		[Netflix](https://www.netflix.com/title/80241234)
+@markdown
 A six part series about poor Pan Li Lan who becomes enmeshed
 with the dead son of a rich family in 1890s Malacca. This dead son Lim Tian Ching from
 a Chinese Buddhist netherworld interferes in the world of the living, and

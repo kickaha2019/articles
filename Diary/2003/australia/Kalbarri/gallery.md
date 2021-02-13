@@ -1,7 +1,8 @@
-![Pink Lake](pink_lake.jpg)
-![West coast of Australia](west_coast.jpg)
-![Kalbarri flower](flower1.jpg)
-![Kalbarri flower](flower2.jpg)
-![Kalbarri flower](flower3.jpg)
-![Geraldton cathedral](geraldton.jpg)
-![Geraldton cathedral](cathedral_inside.jpg)
+@gallery
+pink_lake.jpg		Pink Lake
+west_coast.jpg		West coast of Australia
+flower1.jpg		Kalbarri flower
+flower2.jpg		Kalbarri flower
+flower3.jpg		Kalbarri flower
+geraldton.jpg		Geraldton cathedral
+cathedral_inside.jpg		Geraldton cathedral

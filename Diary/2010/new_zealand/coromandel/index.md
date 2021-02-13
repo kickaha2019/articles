@@ -1,16 +1,6 @@
----
-date: 26th November 2010
-anchors:
-- Cathedral Cove
-images:
-- path: cath1.JPG
-  tag: Cathedral Cove
-- path: cath2.JPG
-  tag: Cathedral Cove
-- path: cath3.JPG
-  tag: Cathedral Cove
----
-![Cathedral Cove](cath1.JPG)
+@date		26th November 2010
+@inset		cath1.JPG
+@markdown
 My tourism finished with a limited detour up into the Coromandel pensinsula (I did learn that Coromandel is said Coromandle rather than my attempt of Cor-ro-man-del.) As Cathedral Cove was used in the second Narnia film I felt I ought to go and see it. I walked from the carpark near Hahei, but it would have been interesting to do the boat trip. By then I was running out of stamina for more tourism, not only physically but also mentally. Cathedral Cove has very eye catching scenery, a good place to have a picnic and just be. I have trouble just being.
 
 As I explored a little more of New Zealand I also explored the fantasy world of

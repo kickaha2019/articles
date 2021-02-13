@@ -1,6 +1,5 @@
----
-title: Deleting from iBooks
----
+@title		Deleting from iBooks
+@markdown
 Apple re-engineered *iBooks* in Mavericks, but it's a little
 under-implemented. One omission is that you can't delete from
 *iBooks* books and PDFs you manually added into *iBooks*

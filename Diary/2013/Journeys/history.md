@@ -1,6 +1,5 @@
----
-title: History of Journeys development
----
+@title		History of Journeys development
+@markdown
 As a result of comments by kind people who checked out my
 game I made some changes.  Other people who come to a game fresh
 notice things one misses, or challenge the assumptions one has

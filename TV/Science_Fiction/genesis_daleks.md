@@ -1,15 +1,13 @@
----
-title: Genesis of the Daleks
-image: genesis_daleks.jpg
-details:
-  Serial: Genesis of the Daleks
-  Doctor: Tom Baker
-  Writer: Terry Nation
-  Year: '1975'
-  Cast: Tom Baker, Ian Marter, Elisabeth Sladen, Michael Wisher
-  Length: 6 25 minute episodes
-layout: review
----
+@title		Genesis of the Daleks
+@image		genesis_daleks.jpg
+@list
+Serial		Genesis of the Daleks
+Doctor		Tom Baker
+Writer		Terry Nation
+Year		1975
+Cast		Tom Baker, Ian Marter, Elisabeth Sladen, Michael Wisher
+Length		6 25 minute episodes
+@markdown
 Plot: the Time Lords send the Doctor back in
 time to Skaro to stop the Daleks being created,
 fearing they will come to dominate the universe.

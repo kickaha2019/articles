@@ -1,3 +1,4 @@
+@markdown
 |Useful links for OGS|
 |-|
 |[Documentation and FAQ](https://github.com/online-go/online-go.com/wiki)|

@@ -1,47 +1,7 @@
----
-title: Day trip to Nikko
-anchors:
-- Tamozawa Imperial Villa
-- Kegon waterfall
-- Toshugu shrine
-date: March 24th 2013
-images:
-- path: p23_breakfast.JPG
-  tag: Breakfast congee at the Tokyo hotel
-- path: p24_hotel.JPG
-  tag: Tokyo hotel
-- path: p25_bell.JPG
-  tag: Ringing the bell at Toshugu Shrine in Nikko
-- path: p26_tokens.JPG
-  tag: Good luck tokens at Toshugu Shrine
-- path: p27_washing.JPG
-  tag: Ceremonial washing howto at Toshugu Shrine
-- path: p28_shrine.JPG
-  tag: Buildings at Toshugu Shrine
-- path: p29_frieze.JPG
-  tag: Part of Monkey frieze at Toshugu Shrine
-- path: p30_charms.JPG
-  tag: Good luck charms on sale at Toshugu Shrine
-- path: p31_gate.JPG
-  tag: Torii gate at Toshugu Shrine
-- path: p32_lanterns.JPG
-  tag: Ceremonial lanterns at Toshugu Shrine
-- path: p33_shrine.JPG
-  tag: Buildings at Toshugu Shrine
-- path: p34_tree.JPG
-  tag: Old tree at Toshugu Shrine
-- path: p35_villa.JPG
-  tag: Tamozawa Imperial Villa in Nikko
-- path: p36_villa.JPG
-  tag: Tamozawa Imperial Villa
-- path: p37_kegon.JPG
-  tag: Kegon Waterfall in Nikko
-- path: p38_fish.JPG
-  tag: Fish snacks at Kegon Waterfall
-- path: p39_loop.JPG
-  tag: Yamanote Loop Line in Tokyo
----
-![Breakfast congee at the Tokyo hotel](p23_breakfast.JPG)
+@title		Day trip to Nikko
+@date		March 24th 2013
+@inset		p23_breakfast.JPG
+@markdown
 More of a scrum this morning at the Marmolada, a throng of
 Chinese tourists who even had vouchers!  But I can learn from the
 budget travellers, the convenience store in the hotel was very
@@ -61,7 +21,8 @@ me some things, the much prized cherry blossom bloomed in Tokyo
 unusually early thanks to an unexpected warm period.  Sake the drink
 and the Japanese for salmon are homophones.
 
-![Torii gate at Toshugu Shrine](p31_gate.JPG)
+@inset		p31_gate.JPG
+@markdown
 Our first stop was the
 [Toshugu shrine](https://www.japan.travel/en/spot/1482) which is a major temple complex
 based on the founder of the Tokugawa shogunate.  It was a very
@@ -83,7 +44,8 @@ products.  A guess.  Another temple priest with gusto rang a
 giant drum using a suspended wooden bar.  May have been to mark
 the hours.
 
-![Tamozawa Imperial Villa in Nikko](p35_villa.JPG)
+@inset		p35_villa.JPG
+@markdown
 We had udon noodles for lunch, with the components of the meal
 in different pots.  I was bemused by what we had to do with that.
 The duck plus noodles in the heated pot one ate, the shrimp and
@@ -98,7 +60,8 @@ the floor was definitely without underfloor heating.  A lovely
 garden, and there was an intriguing chain of small cups hanging
 from the eaves down which raindrops apparently cascade.
 
-![Fish snacks at Kegon Waterfall](p38_fish.JPG)
+@inset		p38_fish.JPG
+@markdown
 We saw [Kegon waterfall](https://www.japan-guide.com/e/e3812.html) which wasn't a certain sighting because of the
 general fogginess.  Amiko encouraged us by saying we could hear
 the waterfall even if we couldn't see it.  And there would always be the

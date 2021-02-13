@@ -1,3 +1,4 @@
+@markdown
 I have spent numerous hours tinkering with my personal website,
 perhaps more on the way it is defined and generated than on the
 actual content!

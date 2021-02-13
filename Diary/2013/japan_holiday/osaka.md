@@ -1,47 +1,6 @@
----
-date: March 29th 2013
-anchors:
-- New Hankyu Hotel Osaka
-- Osaka Castle
-- Osaka Aquarium Kaiyukan
-- Kuchu Teien Observatory
-images:
-- path: p122_platform.JPG
-  tag: Osaka platform markings
-- path: p123_tempura.JPG
-  tag: Tempura lunch in Osaka Gourmet Museum
-- path: p124_dog.JPG
-  tag: Woman with dog in Osaka underground
-- path: p125_cockpit.JPG
-  tag: Osaka train cockpit
-- path: p126_castle.JPG
-  tag: Osaka Castle
-- path: p127_aquarium.JPG
-  tag: Osaka Kaiyukan Aquarium
-- path: p128_aquarium.JPG
-  tag: Kaiyukan Aquarium
-- path: p129_rays.JPG
-  tag: Kaiyukan Aquarium
-- path: p130_shoal.JPG
-  tag: Kaiyukan Aquarium
-- path: p131_aquarium.JPG
-  tag: Kaiyukan Aquarium
-- path: p132_crabs.JPG
-  tag: Kaiyukan Aquarium
-- path: p133_tank.JPG
-  tag: Kaiyukan Aquarium
-- path: p134_station.JPG
-  tag: Osaka JR station
-- path: p135_meal.JPG
-  tag: Last proper meal in Japan
-- path: p135_model.JPG
-  tag: Model of Umeda Sky Building in Osaka
-- path: p137_sky_tower.JPG
-  tag: Umeda Sky Building
-- path: p138_roof.JPG
-  tag: Roof of Umeda Sky Building
----
-![Osaka Castle](p126_castle.JPG)
+@date		March 29th 2013
+@inset		p126_castle.JPG
+@markdown
 Made my way to Osaka on the first funicular railway out of
 Koyasan, and after some fun finding my way to the hotel in
 the labyrinth by JR Osaka station was reunited with my luggage.
@@ -68,7 +27,8 @@ had buttons to get the menus in English.  At one point a woman
 was trailing a Peanuts themed bag on wheels which was squeaking -
 it proved to be a dog!
 
-![Umeda Sky Building](p137_sky_tower.JPG)
+@inset		p137_sky_tower.JPG
+@markdown
 In the evening went back to the Gourmet Museum for another food
 intake.  I had to nerve myself to plunge into a restaurant
 where I could communicate by pointing.  I have no idea of

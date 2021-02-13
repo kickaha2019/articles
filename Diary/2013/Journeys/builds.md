@@ -1,3 +1,4 @@
+@markdown
 The latest build is available at [Journeys](https://alofmethbin.com/Games/Journeys/build/index.html).
 
 *Build 9*: Avoided displaying incomplete images by using image load

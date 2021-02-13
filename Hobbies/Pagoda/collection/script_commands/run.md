@@ -1,3 +1,4 @@
+@markdown
 The *run* command executes a sub-branch, then restores
 	the original context and executes the following commands
 	in the script.  So the script lines:

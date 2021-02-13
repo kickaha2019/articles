@@ -1,7 +1,8 @@
-![Entrance to the retreat](entrance.JPG)
-![Rear garden](rear_garden.JPG)
-![Apple tree](apple_tree.JPG)
-![Marrows](marrows.JPG)
-![Lovely beetroot](beetroot.JPG)
-![Reflective spot by the river](by_river.JPG)
-![Cross at reflective spot](cross.JPG)
+@gallery
+entrance.JPG		Entrance to the retreat
+rear_garden.JPG		Rear garden
+apple_tree.JPG		Apple tree
+marrows.JPG		Marrows
+beetroot.JPG		Lovely beetroot
+by_river.JPG		Reflective spot by the river
+cross.JPG		Cross at reflective spot

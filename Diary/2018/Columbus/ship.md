@@ -1,18 +1,6 @@
----
-title: 2:The ship
-images:
-- path: ship3.jpg
-  tag: Columbus ship
-- path: ship1.jpg
-  tag: Grill restaurant
-- path: ship2.jpg
-  tag: Waterfront restaurant
-- path: ship4.jpg
-  tag: Hemingways
-- path: ship5.jpg
-  tag: Palladium Lounge
----
-![Columbus ship](ship3.jpg)
+@title		2:The ship
+@inset		ship3.jpg
+@markdown
 What shall we say about the good and bad ship [Columbus](https://www.cruiseandmaritime.com/our-ships/columbus)?
 
 The muster drill started the cruise off badly for us - unlike any other
@@ -25,7 +13,8 @@ was a UK electrical socket, the kettle was plugged into an European style socket
 Water did drain away rather slowly in the shower unit. I confess I spilt water
 on the floor and blanket one night while watching a film on my iPad, sorry.
 
-![Grill restaurant](ship1.jpg)
+@inset		ship1.jpg
+@markdown
 The staff work very hard and very long - our cabin steward Florian was pleasant
 and spoke to us, the entertainers were energetic, waiters talked as well as waited.
 We enjoyed eating in the Grill restaurant twice (a supplement was required) I'm a
@@ -40,7 +29,8 @@ Virginia and me - towards the end of the cruise we were bemused by a couple we
 hadn't seen who sat down with us, they had transferred from the second sitting. The
 first sitting was too early at 5.45pm, the second sitting too late at 8.30pm.
 
-![Hemingways](ship4.jpg)
+@inset		ship4.jpg
+@markdown
 Hemingways on deck 5 wasn't a bad place to sit and have a chocolate and almond
 muffin and read a book - though one waiter was over-talkative. We tried our hand at
 the quizzes, not winning anything but once or twice being within one point of the
@@ -52,7 +42,8 @@ The laundrettes are a decent size with plenty of space to be in. Unlike
 some cruise lines which shrink the laundrettes to get more cabins for more
 passengers.
 
-![Palladium Lounge](ship5.jpg)
+@inset		ship5.jpg
+@markdown
 The evening shows were held in the Palladium lounge but to get a decent view you
 had to be there an hour beforehand, otherwise you just saw the back of other
 people's heads. The shows we saw were average, pass the time, less staged than

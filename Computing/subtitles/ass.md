@@ -1,6 +1,5 @@
----
-title: Advanced SubStation Alpha
----
+@title		Advanced SubStation Alpha
+@markdown
 A format popular among Anime and Karaoke fans according to a
 [Multimedia Wiki](https://wiki.multimedia.cx/index.php?title=SubStation_Alpha).
 There's another page on it at

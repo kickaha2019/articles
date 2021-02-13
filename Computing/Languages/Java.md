@@ -1,3 +1,4 @@
+@markdown
 [Java](https://www.java.com/en/) is what I've been doing most of my programming
 in over recent years.  At home I use it for more heavyweight
 applications than I would tackle in *Ruby*.

@@ -1,16 +1,7 @@
----
-title: Forde Abbey and Seaton
-anchors:
-- Forde Abbey
-- Seaton Tramway
-date: 4th May 2010
-images:
-- path: forde.JPG
-  tag: Forde Abbey
-- path: tram.JPG
-  tag: Seaton tram
----
-![Forde Abbey](forde.JPG)
+@title		Forde Abbey and Seaton
+@date		4th May 2010
+@inset		forde.JPG
+@markdown
 Tuesday took us to
 [Forde Abbey](https://www.fordeabbey.co.uk/),
 quite a long drive through the country lanes of Devon. Forde Abbey is another stately home, but unlike Killerton still owned by the upper classes. Gardens were purposeful, a builder's van spoiled the front view of the house a bit. They lined up old cars on the lawn as another expression of their nature.

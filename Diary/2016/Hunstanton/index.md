@@ -1,30 +1,6 @@
----
-date: September 9th 2016
-anchors:
-- Hunstanton Sea Life
-images:
-- path: P1000016.jpg
-  tag: The holiday cottage
-- path: P1000006.jpg
-  tag: Garden of the holiday cottage
-- path: P1000007.jpg
-  tag: Lounge of the cottage
-- path: P1000008.jpg
-  tag: Entrance to Sea Life
-- path: P1000009.jpg
-  tag: Inside Sea Life
-- path: P1000010.jpg
-  tag: Tunnel under the tank
-- path: P1000011.jpg
-  tag: Tank at Sea Life
-- path: P1000012.jpg
-  tag: The inevitable shop at Sea Life
-- path: P1000013.jpg
-  tag: Arts and Crafts place
-- path: P1000014.jpg
-  tag: Gin Trap pub
----
-![The holiday cottage](P1000016.jpg)
+@date		September 9th 2016
+@inset		P1000016.jpg
+@markdown
 We dropped off Tabs and Amelia (who hid in my cupboard as the spare room bed was shut) at
 *Grange Cattery*. This took longer than normal as there were roadworks in Waterbeach near the
 new housing being built on the old Army barracks there. It may be even slower next time
@@ -39,7 +15,8 @@ We had to enter a number on a keypad to get the keys, using the keys was fiddly 
 were a bit stiff. There was a bottle of wine left for us which we had a glass of to accompany the
 Chinese meal in our quiet evening in.
 
-![Entrance to Sea Life](P1000008.jpg)
+@inset		P1000008.jpg
+@markdown
 A dismal start to the Saturday - the rain was heavy enough to wake me, and kept on pretty
 much relentlessly during the day. The bathroom mirror has a blue ghostly LCD clock in it,
 we couldn't find the egg cups so had to improvise tearing up an egg box!
@@ -49,7 +26,8 @@ having paid - the branding was readable the next day despite several acts of han
 Sea Life wasn't that big, but a variety of stuff to see including creepy-crawlies and
 adorable otters. I almost lost the lens cap off my new camera and had to search for it.
 
-![Arts and Crafts place](P1000013.jpg)
+@inset		P1000013.jpg
+@markdown
 We also strayed to see an [Lestrange Old Barns](https://www.lestrangeoldbarns.com/) arts and crafts place which was hard to park at, and which was
 without a cafe and facilities we thought it might have. More interesting was the Village Stores
 across the road from our cottage which also sold old things, Virginia got a glass fruit bowl

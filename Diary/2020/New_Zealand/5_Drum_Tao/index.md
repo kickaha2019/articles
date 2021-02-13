@@ -1,23 +1,7 @@
----
-date: January 8th 2020
-anchors:
-- Alternative Theatre
-icon: IMG_0794.jpg
-images:
-- path: IMG_0783.jpg
-  tag: Statue of Godzilla
-- path: IMG_0786.jpg
-  tag: Old style eaterie in Yurakucho
-- path: IMG_0788.jpg
-  tag: Lift to Alternative Theatre
-- path: IMG_0789.jpg
-  tag: Alternative Theatre foyer
-- path: IMG_0794.jpg
-  tag: Encore
-- path: drum_tao.jpg
-  tag: Encore
----
-![Alternative Theatre foyer](IMG_0789.jpg)
+@icon		IMG_0794.jpg
+@date		January 8th 2020
+@inset		IMG_0789.jpg
+@markdown
 After the Tempura lunch I had too much time to kill before seeing the
 [Drum Tao](http://www.drum-tao.com/main/english)
 [Mangekyo](https://mangekyo-tokyo.com/en/) show at the
@@ -35,7 +19,8 @@ instruments also used) but with modern theatrics and staging and athleticism.
 Mainly male performers but also three women laying into a range of drums. During the
 show I made use of a power-pack to recharge my phone, worth taking it on this trip.
 
-![Encore](drum_tao.jpg)
+@inset		drum_tao.jpg
+@markdown
 We were allowed to take pictures during an encore which was kind. To show my
 appreciation of such a bravura event I purchased a DVD souvenir. The show was powerful
 sorry they didn't have more people to see it.

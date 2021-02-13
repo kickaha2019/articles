@@ -1,6 +1,7 @@
-![Burghley House](house.JPG)
-![The bottom of Hell Staircase in the House](stairwell.JPG)
-![Carp pond at the House](pond.JPG)
-![A maze - one of the modern sculptures](maze.JPG)
-![The Copper Tree Fountain in the Gardens of Surprise](metal_tree.JPG)
-![Water column in the Gardens of Surprise](water_pendulum.JPG)
+@gallery
+house.JPG		Burghley House
+stairwell.JPG		The bottom of Hell Staircase in the House
+pond.JPG		Carp pond at the House
+maze.JPG		A maze - one of the modern sculptures
+metal_tree.JPG		The Copper Tree Fountain in the Gardens of Surprise
+water_pendulum.JPG		Water column in the Gardens of Surprise

@@ -1,25 +1,26 @@
-![The old back boiler was behind the lounge gas fire](old_back_boiler.JPG)
-![The airing cupboard](airing_cupboard.JPG)
-![The old hot water cylinder inside the airing cupboard](airing_cupboard2.JPG)
-![Hot water cylinder pipework](old_pipework.JPG)
-![The study cupboard - sadly the site of the new boiler](study_cupboard.JPG)
-![Well organised inside the study cupboard](study_cupboard2.JPG)
-![The new boiler and cylinder and parts](new_parts.JPG)
-![The gasman cometh](gasman_cometh.JPG)
-![Our house is now a danger zone](danger.JPG)
-![The stairs with dust cover](stairs.JPG)
-![The study cupboard with its new occupant](new_boiler.JPG)
-![The inside of the new boiler](new_boiler2.JPG)
-![The new hot water cylinder](new_cylinder.JPG)
-![The old faithfuls now just scrap](scrap.JPG)
-![A loose joint caused water through the lounge ceiling](effects.JPG)
-![Plenty of dirty water fell](plenty.JPG)
-![The stained lounge ceiling](ceiling.JPG)
-![Drop by horrible drop](drop.JPG)
-![The new boiler now installed](installed.JPG)
-![The ceiling gets attended to](ceiling_repair.JPG)
-![That's what is above all that nice Artex](artex_above.JPG)
-![Ceiling covered up again](covered.JPG)
-![Artex back again](artexed.JPG)
-![But a slight splodge on the carpet!](splodge.JPG)
-![So up came the old carpet](no_carpet.JPG)
+@gallery
+old_back_boiler.JPG		The old back boiler was behind the lounge gas fire
+airing_cupboard.JPG		The airing cupboard
+airing_cupboard2.JPG		The old hot water cylinder inside the airing cupboard
+old_pipework.JPG		Hot water cylinder pipework
+study_cupboard.JPG		The study cupboard - sadly the site of the new boiler
+study_cupboard2.JPG		Well organised inside the study cupboard
+new_parts.JPG		The new boiler and cylinder and parts
+gasman_cometh.JPG		The gasman cometh
+danger.JPG		Our house is now a danger zone
+stairs.JPG		The stairs with dust cover
+new_boiler.JPG		The study cupboard with its new occupant
+new_boiler2.JPG		The inside of the new boiler
+new_cylinder.JPG		The new hot water cylinder
+scrap.JPG		The old faithfuls now just scrap
+effects.JPG		A loose joint caused water through the lounge ceiling
+plenty.JPG		Plenty of dirty water fell
+ceiling.JPG		The stained lounge ceiling
+drop.JPG		Drop by horrible drop
+installed.JPG		The new boiler now installed
+ceiling_repair.JPG		The ceiling gets attended to
+artex_above.JPG		That's what is above all that nice Artex
+covered.JPG		Ceiling covered up again
+artexed.JPG		Artex back again
+splodge.JPG		But a slight splodge on the carpet!
+no_carpet.JPG		So up came the old carpet

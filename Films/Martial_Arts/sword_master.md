@@ -1,15 +1,13 @@
----
-title: Sword Master
-image: sword_master.jpg
-details:
-  Film: "[Sword Master](https://www.imdb.com/title/tt5269396/)"
-  Country: China
-  Director: Derek Yee
-  Year: '2016'
-  Cast: Kenny Lin, Peter Ho, Yiyan Jiang
-  Details: Colour 108 mins
-layout: review
----
+@title		Sword Master
+@image		sword_master.jpg
+@list
+Film		[Sword Master](https://www.imdb.com/title/tt5269396/)
+Country		China
+Director		Derek Yee
+Year		2016
+Cast		Kenny Lin, Peter Ho, Yiyan Jiang
+Details		Colour 108 mins
+@markdown
 A 'remake' of a Shaw Bros film "Death Duel", both based on
 a Gu Long wuxia fantasy novel. At times the film does have
 the feel of a studio lot bound film. But it is a modern

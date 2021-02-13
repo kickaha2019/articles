@@ -1,16 +1,6 @@
----
-date: January 26th 2020
-title: Wet behind the ears
-images:
-- path: baptism1.jpg
-  tag: A testimony of sorts
-- path: baptism2.jpg
-  tag: The answer is yes
-- path: baptism3.jpg
-  tag: I get dunked
-- path: baptism4.jpg
-  tag: Damp all over but alive
----
+@title		Wet behind the ears
+@date		January 26th 2020
+@markdown
 This day I got baptised as an adult, by total immersion as it is put. Which describes it well
 as I got toally wet. I had been christened as an infant, long long ago now. One reason
 I didn't get baptised as an adult was that my parents, well my mother wouldn't have
@@ -45,7 +35,8 @@ remember to not wear my watch and phone?
 Did it change me myself? No, but it was something I needed to do for
 completeness, for harmony.
 
-![A testimony of sorts](baptism1.jpg)
-![The answer is yes](baptism2.jpg)
-![I get dunked](baptism3.jpg)
-![Damp all over but alive](baptism4.jpg)
+@gallery
+baptism1.jpg		A testimony of sorts
+baptism2.jpg		The answer is yes
+baptism3.jpg		I get dunked
+baptism4.jpg		Damp all over but alive

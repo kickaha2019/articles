@@ -1,10 +1,7 @@
----
-title: Greymouth to Christchurch
-anchors:
-- Kura Tawhiti
-date: 28th February 2006
----
-![Arthur's Pass: Kura Tawhiti](kura_tawhiti.jpg)
+@title		Greymouth to Christchurch
+@date		28th February 2006
+@inset		kura_tawhiti.jpg
+@markdown
 Washout day. Left vouchers behind at Oak Lodge in Greymouth - only realised this when I got to Kaikoura so back we went for nine hours of solid driving. So I did Lewis Pass twice!
 
 Pretty low and worn out. The people at Oak Lodge were really super, letting me stay in the blue room again. Such kindness I wouldn't expect in the UK or felt I deserved.

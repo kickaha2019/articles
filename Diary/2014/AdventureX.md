@@ -1,8 +1,7 @@
----
-icon: "/Games/dragon.jpg"
-title: AdventureX convention
-date: December 6th 2014
----
+@title		AdventureX convention
+@icon		/Games/dragon.jpg
+@date		December 6th 2014
+@markdown
 I went up to London for the day to see some of the fourth
 [AdventureX](http://adventurexpo.org/welcome-to-adventurex/) computer games convention.
 There's a writeup on [GameBoomers](http://www.gameboomers.com/Editorial/2014AdventureX/2014AdventureX.htm).

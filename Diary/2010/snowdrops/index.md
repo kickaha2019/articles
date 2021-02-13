@@ -1,25 +1,12 @@
----
-date: Wednesday, 10 February 2010
-anchors:
-- Anglesey Abbey
-images:
-- path: winter_walk.JPG
-  tag: Winter Walk at Anglesey Abbey
-- path: tree.JPG
-  tag: A curlicued tree
-- path: snowdrops.JPG
-  tag: Only 30% of snowdrops were out amidst the snows
-- path: silver_birch.JPG
-  tag: The washing-up liquid cleaned silver birches
-- path: mill.JPG
-  tag: Lode Mill undergoing refurbishment
----
+@date		Wednesday, 10 February 2010
+@markdown
 We went to see the snowdrops at
 [Anglesey Abbey](https://www.nationaltrust.org.uk/anglesey-abbey-gardens-and-lode-mill)
 again.
 
-![Winter Walk at Anglesey Abbey](winter_walk.JPG)
-![A curlicued tree](tree.JPG)
-![Only 30% of snowdrops were out amidst the snows](snowdrops.JPG)
-![The washing-up liquid cleaned silver birches](silver_birch.JPG)
-![Lode Mill undergoing refurbishment](mill.JPG)
+@gallery
+winter_walk.JPG		Winter Walk at Anglesey Abbey
+tree.JPG		A curlicued tree
+snowdrops.JPG		Only 30% of snowdrops were out amidst the snows
+silver_birch.JPG		The washing-up liquid cleaned silver birches
+mill.JPG		Lode Mill undergoing refurbishment

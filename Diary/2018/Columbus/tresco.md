@@ -1,17 +1,7 @@
----
-date: September 9th 2018
-anchors:
-- Tresco Abbey Garden
-title: Tresco
-images:
-- path: tresco1.jpg
-  tag: Tresco
-- path: tresco2.jpg
-  tag: Tresco Abbey Garden
-- path: tresco3.jpg
-  tag: Tresco Abbey Garden
----
-![Tresco Abbey Garden](tresco2.jpg)
+@title		Tresco
+@date		September 9th 2018
+@inset		tresco2.jpg
+@markdown
 Local watermen ferried us in open boats from our ship at anchor to
 the island of Tresco as I admired the numerous rocks around, Virginia
 much preferred the lifeboats that the Columbus normally used as tenders.

@@ -1,15 +1,7 @@
----
-title: 1:Getting there
-date: March 17th 2017
-images:
-- path: P1000485.JPG
-  tag: The cats new holiday home
-- path: P1000486.JPG
-  tag: Tabitha reluctant to leave the carrier
-- path: P1000487.JPG
-  tag: The rooms in the cat hotel
----
-![The cats new holiday home](P1000485.JPG)
+@title		1:Getting there
+@date		March 17th 2017
+@inset		P1000485.JPG
+@markdown
 Tabitha and Amelia were delivered safely to their new cattery in Hardwick,
 the [Angelite Cats Hotel](https://www.angelitecatshotel.co.uk/)! No pond but bird feeders
 and the owner's cats strolling around for them to look at. Larger 'chalets' than at

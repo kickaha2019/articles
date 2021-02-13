@@ -1,3 +1,4 @@
+@markdown
 Site|Year|Game
 -|-|-
 [Quandary](http://metzomagic.com/showArticle.php?index=328)|2000|China: Intrigue in the Forbidden City

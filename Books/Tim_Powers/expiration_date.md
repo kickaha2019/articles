@@ -1,10 +1,5 @@
----
-images:
-- path: expiration_date.jpg
-  tag: Expiration Date
----
-![Expiration Date](expiration_date.jpg)
-
+@image		expiration_date.jpg
+@markdown
 "Expiration Date" (Tim Powers 1996) is a strange strange tale of ghosts and
 those who feed on ghosts.  Powers weaves a world in which addicts sniff ghosts
 as they might snort cocaine or inject heroin.  A subworld of suppliers trap

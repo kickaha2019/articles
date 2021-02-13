@@ -1,11 +1,6 @@
----
-anchors:
-- Dunedin
-- Taiaroa Head
-- Otago Peninsula
-date: 20th February 2006
----
-![Yellow eyed penguin colony at Otago Peninsula](penguin_colony.jpg)
+@date		20th February 2006
+@inset		penguin_colony.jpg
+@markdown
 Most of my trip was arranged for me by
 [Nature Quest](https://www.naturequest.co.nz/).
 I would go with them again for wildlife and nature tours.

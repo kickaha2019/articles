@@ -1,62 +1,6 @@
----
-date: January 15th 2020
-anchors:
-- Bolton Hotel Wellington
-- Weta Workshop
-- ZEALANDIA Ecosanctuary
-- Wellington Botanic Garden
-- Museum of New Zealand Te Papa Tongarewa
-images:
-- path: IMG_1257.jpg
-  tag: Smaug at Wellington airport
-- path: IMG_1174.jpg
-  tag: Bolton Hotel
-- path: IMG_1171.jpg
-  tag: Bolton Hotel room
-- path: IMG_1172.jpg
-  tag: Bolton Hotel room
-- path: IMG_1173.jpg
-  tag: Bolton Hotel room
-- path: IMG_1175.jpg
-  tag: Wellington seafront
-- path: IMG_1183.jpg
-  tag: Charley Nobles
-- path: IMG_1179.jpg
-  tag: Charley Nobles
-- path: IMG_1181.jpg
-  tag: Dessert
-- path: IMG_1192.jpg
-  tag: Weta Workshop
-- path: IMG_1193.jpg
-  tag: Weta Workshop
-- path: IMG_1202.jpg
-  tag: Wellington cable car
-- path: IMG_1212.jpg
-  tag: Wellington cable car
-- path: IMG_1221.jpg
-  tag: Wellington cable car
-- path: IMG_1210.jpg
-  tag: Botanical gardens
-- path: IMG_1211.jpg
-  tag: Looking over Wellington
-- path: IMG_1226.jpg
-  tag: Te Papa
-- path: IMG_1228.jpg
-  tag: Alice in Wonderland exhibition
-- path: IMG_1236.jpg
-  tag: Alice in Wonderland tea party
-- path: IMG_1246.jpg
-  tag: Chinese dumplings place
-- path: IMG_1245.jpg
-  tag: Chinese dumplings
-- path: IMG_1248.jpg
-  tag: Zealandia
-- path: IMG_1249.jpg
-  tag: Zealandia
-- path: IMG_1252.jpg
-  tag: Zealandia tuatara
----
-![Smaug at Wellington airport](IMG_1257.jpg)
+@date		January 15th 2020
+@inset		IMG_1257.jpg
+@markdown
 Took a taxi (expensive but simpler) from [Wellington Airport](https://www.wellingtonairport.co.nz/)
 to the [Bolton Hotel](https://www.boltonhotel.co.nz/) which was really
 upmarket! I didn't have a room I had a suite of bedroom large bathroom lounge and
@@ -69,7 +13,8 @@ paper. To keep the waitress happy I had a Kahlua sponge which I didn't really ne
 Wellington has steep slopes, and a good range of restaurants.
 
 # January 16th 2020
-![Weta Workshop](IMG_1192.jpg)
+@inset		IMG_1192.jpg
+@markdown
 Caught the shuttle from Wakefield Street to [Weta Workshop](https://www.wetanz.com/) for the tour which was
 the main reason for coming to Wellington. I'm impressed by the work [Weta Workshop](https://www.wetaworkshop.com/visit-us/workshop-tours/) have done,
 we did see one guy working on something for a new Jurassic Park film.
@@ -88,7 +33,8 @@ the [Chinese Dumpling Company](http://www.thedumplingco.co.nz/) place
 near the hotel on 16 dumplings with oolong tea. A little guesswork
 on what I was going to get.
 
-![Zealandia](IMG_1248.jpg)
+@inset		IMG_1248.jpg
+@markdown
 Went to do a night tour at [Zealandia](https://www.visitzealandia.com/),
 the taxi drivers wanted cash but not the NZD100
 bill I had. I left my water at the hotel, almost had to buy water container

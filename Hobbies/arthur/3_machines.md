@@ -1,6 +1,5 @@
----
-title: '3: Components'
----
+@title		3: Components
+@markdown
 Machine classes besides wrapping a tree of *components* also implement logic
 for training the tree of components to return desirable evaluations.
 

@@ -1,22 +1,6 @@
----
-date: March 11th 2016
-anchors:
-- East Meon
-- National Trust - Hinton Ampner
-- Jane Austen's House Museum
-images:
-- path: Amelia.JPG
-  tag: A reluctant Amelia
-- path: Tabitha.JPG
-  tag: Tabitha is too tired to care
-- path: cottage_exterior.JPG
-  tag: Outside of holiday cottage
-- path: cottage_interior.JPG
-  tag: Inside of holiday cottage
-- path: sheep.JPG
-  tag: Our neighbours at the farm
----
-![A reluctant Amelia](Amelia.JPG)
+@date		March 11th 2016
+@inset		Amelia.JPG
+@markdown
 The day started cold and very foggy - by the time we had packed clothes into suitcases and cats into
 baskets the fog had mostly gone, but where the fields were turned earth they steamed as if they were
 cauldrons. Ginny left her coat as we went to drop off Tabitha and Amelia at
@@ -33,7 +17,8 @@ and weren't sure how to gain admittance to our holiday cottage. A dog on a plast
 and two cats, looked at us but refused to help.  We didn't have to wait long to be advised
 that we needed to park round the side, and the door of the cottage had been left open for us!
 
-![Inside of holiday cottage](cottage_interior.JPG)
+@inset		cottage_interior.JPG
+@markdown
 And a very nice cottage it was too! Complete with towels and toilet rolls and tea and coffee and
 Scrabble and Skribble and shortbread biscuits and bottle of wine! And comfortable sofas to read Tim
 Powers' "Medusa's Web" on. It is a working farm, and as neighbours we had several barns of

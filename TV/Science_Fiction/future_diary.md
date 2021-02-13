@@ -1,19 +1,16 @@
----
-title: Future Diary
-image: future_diary.jpg
-details:
-  Drama: "&#26410;&#26469;&#26085;&#35352;: Another World / Future Diary: Another
-    World"
-  Country: Japan
-  Director: Michiko Namiki, Shogo Miyaki
-  Writer: Sakae Esuno, Yusuke Watanabe, Kaeko Hayafune, Sayaka Kuwamura
-  Transmitted: 21st April to 30th June 2012
-  Cast: Masaki Okada, Ayame Gouriki, Kanata Hongo, Mayuko Fukuda
-  Details: 11 episodes
-  Themes: Mystery, virtual reality
-  Links: "[Official website](http://www.ntv.co.jp/akumu/) [Asian Wiki](http://asianwiki.com/Future_Diary_(Mirai_Nikki))"
-layout: review
----
+@title		Future Diary
+@image		future_diary.jpg
+@list
+Drama		&#26410;&#26469;&#26085;&#35352;: Another World / Future Diary: Another World
+Country		Japan
+Director		Michiko Namiki, Shogo Miyaki
+Writer		Sakae Esuno, Yusuke Watanabe, Kaeko Hayafune, Sayaka Kuwamura
+Transmitted		21st April to 30th June 2012
+Cast		Masaki Okada, Ayame Gouriki, Kanata Hongo, Mayuko Fukuda
+Details		11 episodes
+Themes		Mystery, virtual reality
+Links		[Official website](http://www.ntv.co.jp/akumu/) [Asian Wiki](http://asianwiki.com/Future_Diary_(Mirai_Nikki))
+@markdown
 A lackadaisical student has his life turned upside down when he
 receives a strange phone with a diary that tells the future. He finds
 himself in a game to the death with six other people, driven by a

@@ -1,6 +1,5 @@
----
-title: Universal Hint System
----
+@title		Universal Hint System
+@markdown
 The whole script
 
 ~~~

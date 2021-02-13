@@ -1,23 +1,7 @@
----
-title: Salerno
-anchors:
-- Herculaneum
-date: October 11th 2016
-images:
-- path: salerno.jpg
-  tag: Salerno
-- path: herculaneum.jpg
-  tag: Herculaneum
-- path: herculaneum2.jpg
-  tag: Herculaneum
-- path: herculaneum3.jpg
-  tag: Herculaneum
-- path: herculaneum4.jpg
-  tag: Herculaneum
-- path: herculaneum5.jpg
-  tag: Herculaneum
----
-![Herculaneum](herculaneum.jpg)
+@title		Salerno
+@date		October 11th 2016
+@inset		herculaneum.jpg
+@markdown
 As elsewhere the ship docked at a container port - on the dockside were
 artistic piles of aluminium railway sleepers. We were on bus 4 for the Herculaneum
 tour, the stickers are not very adhesive and a fellow guest lost theirs almost

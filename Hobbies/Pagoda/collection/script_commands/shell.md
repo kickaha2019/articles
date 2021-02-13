@@ -1,3 +1,4 @@
+@markdown
 The *shell* command runs a command to generate a HTML page, and
 	loads that page into the context, positioning at the first
 	element on the page.

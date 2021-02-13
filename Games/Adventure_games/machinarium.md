@@ -1,10 +1,5 @@
----
-images:
-- path: Machinarium.jpg
-  tag: Machinarium
----
-![Machinarium](Machinarium.jpg)
-
+@image		Machinarium.jpg
+@markdown
 [Machinarium](http://amanita-design.net/games/machinarium.html)
 ([Amanita Games](http://amanita-design.net/)
 2009) is set in a wonderful mechanical city of robots. There's no spoken dialogue, but none is needed as you help your robot save the day. The imaginative setting offers a reflection on our world and foibles. The game is worth playing for the scenes you see alone.

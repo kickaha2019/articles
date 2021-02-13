@@ -1,18 +1,19 @@
-![Anne Hathaway had a cottage](cottage.JPG)
-![A bare bedroom](cottage_bedroom.JPG)
-![Kitchen](cottage_kitchen.JPG)
-![The cats went for a long weekend too](cat_baskets.JPG)
-![Their accommodation was slightly cheaper than ours](cat_cell.JPG)
-![Tabitha was not impressed](tabitha.JPG)
-![Kenilworth](kenil1.JPG)
-![Kenilworth slighted](kenil2.JPG)
-![Packwood House](pack_house.JPG)
-![A period bathroom](pack_bathroom.JPG)
-![Stately garden](pack_garden.JPG)
-![Baddesley Clinton](badd.JPG)
-![How the last owner knew things](badd_owner.JPG)
-![Coughton Court](coug.JPG)
-![Formal gardens](coug_garden.JPG)
-![Bell-ringers' gallery](bell_ringers.JPG)
-![Ragley Hall](ragley.JPG)
-![I think it's meant to be art](ragley_art.JPG)
+@gallery
+cottage.JPG		Anne Hathaway had a cottage
+cottage_bedroom.JPG		A bare bedroom
+cottage_kitchen.JPG		Kitchen
+cat_baskets.JPG		The cats went for a long weekend too
+cat_cell.JPG		Their accommodation was slightly cheaper than ours
+tabitha.JPG		Tabitha was not impressed
+kenil1.JPG		Kenilworth
+kenil2.JPG		Kenilworth slighted
+pack_house.JPG		Packwood House
+pack_bathroom.JPG		A period bathroom
+pack_garden.JPG		Stately garden
+badd.JPG		Baddesley Clinton
+badd_owner.JPG		How the last owner knew things
+coug.JPG		Coughton Court
+coug_garden.JPG		Formal gardens
+bell_ringers.JPG		Bell-ringers' gallery
+ragley.JPG		Ragley Hall
+ragley_art.JPG		I think it's meant to be art

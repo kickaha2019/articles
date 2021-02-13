@@ -1,55 +1,7 @@
----
-title: Koblenz and Rudesheim
-anchors:
-- Cologne Cathedral
-- Koblenz
-- Rudesheim
-date: 15th October 2013
-images:
-- path: DSCF4703.JPG
-  tag: MV Virginia docked in Koblenz
-- path: DSCF4706.JPG
-  tag: Koblenz buildings
-- path: DSCF4707.JPG
-  tag: Closeup of figure on wall
-- path: DSCF4709.JPG
-  tag: Koblenz buildings
-- path: DSCF4715.JPG
-  tag: Old mooring bollard in Koblenz?
-- path: DSCF4719.JPG
-  tag: Lahnstein Castle is a cable car ride away
-- path: DSCF4722.JPG
-  tag: Church in Koblenz
-- path: DSCF4724.JPG
-  tag: History fountain in Koblenz
-- path: DSCF4728.JPG
-  tag: Trains along side of Rhine - vineyards on the hills
-- path: DSCF4731.JPG
-  tag: Building in Rudesheim
-- path: DSCF4732.JPG
-  tag: Building in Rudesheim
-- path: DSCF4736.JPG
-  tag: Building in Rudesheim
-- path: DSCF4745.JPG
-  tag: Virginia outside Christmas shop in Rudesheim
-- path: DSCF4746.JPG
-  tag: Drosselgasse street in Rudesheim
-- path: DSCF4734.JPG
-  tag: German post box
-- path: DSCF4743.JPG
-  tag: German public toilet
-- path: DSCF4750.JPG
-  tag: Toy museum in Rudesheim
-- path: DSCF4752.JPG
-  tag: Siegfried's Mechanical Music Cabinets museum
-- path: DSCF4753.JPG
-  tag: Siegfried's Mechanical Music Cabinets museum
-- path: DSCF4754.JPG
-  tag: Siegfried's Mechanical Music Cabinets museum
-- path: DSCF4756.JPG
-  tag: Siegfried's Mechanical Music Cabinets museum
----
-![MV Virginia docked in Koblenz](DSCF4703.JPG)
+@title		Koblenz and Rudesheim
+@date		15th October 2013
+@inset		DSCF4703.JPG
+@markdown
 On the Tuesday (15th) it was an odd day so sausages rather than
 bacon on offer for breakfast.  I didn't sleep well, there was
 activity on past midnight and the cabin walls were thin so I could
@@ -67,7 +19,8 @@ out, still need to take on water, still need to find moorings.
 Virginia and I wandered round Koblenz on our own, seeing an odd
 layered [fountain](https://www.koblenz-touristik.de/kultur/plaetze-in-koblenz/goerresplatz.html) representing different ages.
 
-![Toy museum in Rudesheim](DSCF4750.JPG)
+@inset		DSCF4750.JPG
+@markdown
 During the evening meal Dennis set me puzzles which I disappointed
 him by answering.  They were enigmas I had come across before like
 the coin swapping where you have only one free space.  We also

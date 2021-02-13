@@ -1,6 +1,5 @@
----
-title: '7: Debugging points in the code'
----
+@title		7: Debugging points in the code
+@markdown
 Debugging the code is a challenge. To help there are a number of inspection points
 in the code which can be turned on by parameters when running evolutions.
 These inspection points if turned on may just log to a file, or generate

@@ -1,4 +1,2 @@
----
-blurb: Australia
-icon: uluru/sunrise3.JPG
----
+@icon		uluru/sunrise3.JPG
+@blurb		Australia

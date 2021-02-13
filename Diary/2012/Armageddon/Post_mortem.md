@@ -1,3 +1,4 @@
+@markdown
 The questions needed more polishing, I had intended to do crude cartoon animations for the disasters but that was never on, I wasted a lot of time trying to embed SWF files into Flex.  But those weren't the major problem.
 
 *Armageddon* could have worked just as a joke, and even if the disasters you got were totally random and the answers you gave didn't matter.  A joke needing a lot of effort to implement, but still a joke.  Late in the date I decided to add a puzzle to avoid world meltdown.

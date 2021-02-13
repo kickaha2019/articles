@@ -1,11 +1,7 @@
----
-title: Mug. Missing.
-date: 20th May 2019
-images:
-- path: start.jpg
-  tag: Mug. Missing.
----
-![Mug. Missing.](start.jpg)
+@title		Mug. Missing.
+@date		20th May 2019
+@inset		start.jpg
+@markdown
 [Mug. Missing.](https://alofmethbin.com/Games/MugMissing/index.html) is a text based, CYOA (choose your own
 adventure) style game. The plot has you searching for your coffee
 mug across a range of locations and times, hence the name of the

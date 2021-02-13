@@ -1,3 +1,4 @@
+@markdown
 *Italy* - Sort by the initial letters of each clue
 *New Zealand* - The numbers "one" through "twelve" are embedded in the clues
 *China* - In each clue there is embedded a palindromic sequence, sort by the centre of the palindrome

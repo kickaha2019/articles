@@ -1,3 +1,4 @@
+@markdown
 "Words" has been tested on the following browser and
 operating system combinations:
 

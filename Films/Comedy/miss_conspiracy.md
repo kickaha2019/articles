@@ -1,14 +1,12 @@
----
-image: miss_conspiracy.jpg
-details:
-  Film: "&#48120;&#50416; GO ([Miss Conspiracy](https://www.imdb.com/title/tt2384794/))"
-  Country: South Korea
-  Director: Park Chul Kwan
-  Year: '2012'
-  Cast: Go Hyun-jung, Yoo Hae-jin, Ha Jae-suk
-  Details: Colour 115 mins
-layout: review
----
+@image		miss_conspiracy.jpg
+@list
+Film		&#48120;&#50416; GO ([Miss Conspiracy](https://www.imdb.com/title/tt2384794/))
+Country		South Korea
+Director		Park Chul Kwan
+Year		2012
+Cast		Go Hyun-jung, Yoo Hae-jin, Ha Jae-suk
+Details		Colour 115 mins
+@markdown
 A comedy thriller about a withdrawn young woman who suffers
 from panic attacks.  When her friend / helper leaves her for a few days
 she gets accidentally caught up in a drug deal involving double-crossing

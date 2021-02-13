@@ -1,3 +1,1 @@
----
-title: This website
----
+@title		This website

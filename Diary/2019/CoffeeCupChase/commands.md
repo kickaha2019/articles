@@ -1,3 +1,4 @@
+@markdown
 The following commands are used to define the logic and text in
 *'Mug. Missing.*. The DSL for the game is simple-minded
 so not a general-purpose language. It was designed for this

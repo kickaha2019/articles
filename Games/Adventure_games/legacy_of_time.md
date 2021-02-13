@@ -1,11 +1,6 @@
----
-title: 'Journeyman Project 3: Legacy of Time'
-images:
-- path: legacy_of_time.jpg
-  tag: 'Journeyman Project 3: Legacy of Time'
----
-![Journeyman Project 3: Legacy of Time](legacy_of_time.jpg)
-
+@title		Journeyman Project 3: Legacy of Time
+@image		legacy_of_time.jpg
+@markdown
 "Journeyman Project 3: Legacy of Time" is a 1998 Adventure game from the talented Presto Studios. Presto Studios have sadly shut their doors but Tommy Yune (art director) has put a lot of material up at
 [The Journeyman Project Trilogy](http://www.thejourneymanproject.com/).
 

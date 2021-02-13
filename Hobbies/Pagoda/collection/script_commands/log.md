@@ -1,3 +1,4 @@
+@markdown
 The *log* script command is used mostly for logging what a script is doing.
 	It's useful when developing or debugging a script to see how far it is
 	executing to.

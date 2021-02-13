@@ -1,24 +1,7 @@
----
-title: Amsterdam to Tokyo
-anchors:
-- Narita International Airport
-- Grand Prince Hotel New Takanawa
-date: March 22nd 2013
-images:
-- path: p01_welcome.JPG
-  tag: Welcome to Japan
-- path: p02_arch_art.JPG
-  tag: Cross between art and architecture in Tokyo
-- path: p03_toilet.JPG
-  tag: Controls on Tokyo hotel toilet seat
-- path: p04_cherry.JPG
-  tag: Cherry blossom fever in Tokyo
-- path: p05_view.JPG
-  tag: View from hotel room
-- path: p06_umbrellas.JPG
-  tag: Umbrella stands outside Tokyo hotel
----
-![Welcome to Japan](p01_welcome.JPG)
+@title		Amsterdam to Tokyo
+@date		March 22nd 2013
+@inset		p01_welcome.JPG
+@markdown
 My case appeared as soon as I got through immigration!
 A big relief.  Getting through immigration was different to my usual experience,
 they took a retinal scan and index fingerprints.
@@ -45,7 +28,8 @@ was the last hotel on the schedule of course.  But the
 [Grand Prince Hotel New Takanawa](https://www.princehotels.com:443/newtakanawa/) was a
 hot hotel, the poshest hotel I've ever stayed in.
 
-![Controls on Tokyo hotel toilet seat](p03_toilet.JPG)
+@inset		p03_toilet.JPG
+@markdown
 The hotel is full of well-dressed polite staff, one young damsel
 apologised as she left the lift I was to my and another
 Westerner's bemusement.  The rooms have digital signs outside
@@ -66,7 +50,8 @@ white glutinous rice ball containing black paste).  I had to
 contend with a very sophisticated water heater the room had been
 blessed with.  But in the end I did consume some noodles.
 
-![Cherry blossom fever in Tokyo](p04_cherry.JPG)
+@inset		p04_cherry.JPG
+@markdown
 As I went around this first night I passed through crowds
 admiring the cherry blossom in a garden between the three
 Grand Prince hotels on the site.  A camera

@@ -1,19 +1,7 @@
----
-icon: DSCF4641.JPG
-date: 13th October 2013
-images:
-- path: DSCF4640.JPG
-  tag: Cats at Country Cattery
-- path: DSCF4641.JPG
-  tag: A gold coach
-- path: DSCF4645.JPG
-  tag: Blue coaches ready for the tours
-- path: DSCF4643.JPG
-  tag: Shearings Hythe Interchange
-- path: DSCF4648.JPG
-  tag: Novotel at Lille
----
-![Cats at Country Cattery](DSCF4640.JPG)
+@icon		DSCF4641.JPG
+@date		13th October 2013
+@inset		DSCF4640.JPG
+@markdown
 It was unearthly quiet on the Saturday (12th)
 when we had dropped Tabitha and Amelia
 off at the Country Cattery in Waterbeach, at the end of a long
@@ -34,7 +22,8 @@ a bus shelter not too far away, but happily the
 **MV Virginia** so we could sample a river cruise as opposed to the ocean
 cruises we've done.
 
-![Shearings Hythe Interchange](DSCF4643.JPG)
+@inset		DSCF4643.JPG
+@markdown
 We drove down the M11 to 60s 70s hits like "Space Oddity" and
 "Pinball Wizard" and "Sunny Afternoon" and "I'll Never Fall
 In Love Again".  There was plenty of leg-room in the gold coloured
@@ -61,7 +50,8 @@ I started my intense session of reading Edgar Wallace novels on
 the iPad.  I got through nearly twenty in all by the end of the
 holiday.
 
-![Novotel at Lille](DSCF4648.JPG)
+@inset		DSCF4648.JPG
+@markdown
 Vance drove us through a sodden and depressing looking France
 to the [Novotel Lille hotel](https://www.accorhotels.com/gb/hotel-0427-novotel-lille-airport/index.shtml) at Lille Aeroport.  Room not bad though it felt odd to
 me having a separate toilet and bathroom.  They gave us a decent

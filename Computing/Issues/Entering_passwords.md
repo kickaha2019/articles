@@ -1,6 +1,5 @@
----
-title: Entering passwords in Safari
----
+@title		Entering passwords in Safari
+@markdown
 Recently I've been finding a number of webpages which want passwords to be entered, yet however they've done it the password fields prevents ordinary cut and paste from working.  This to me is a shame - I use passwords which are long and random so typing them correctly is difficult.  It's much more reliable not to mention quicker to be able to paste them.  Security-wise I would have thought not being able to paste them was bad too.
 
 Googling got to me to pages like

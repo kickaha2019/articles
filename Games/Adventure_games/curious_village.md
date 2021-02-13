@@ -1,11 +1,6 @@
----
-title: Professor Layton and the Curious Village
-images:
-- path: curious_village.jpg
-  tag: Professor Layton and the Curious Village
----
-![Professor Layton and the Curious Village](curious_village.jpg)
-
+@title		Professor Layton and the Curious Village
+@image		curious_village.jpg
+@markdown
 *Professor Layton and the Curious Village* is a 2007 game originally for the
 Nintendo DS that in 2018 was ported to iOS, I played it on an iPad. It's definitely
 old-school, 2D cartoon graphics with animated cut scenes. Random clicking required
@@ -29,4 +24,3 @@ picture and furnish rooms for Professor Layton and Luke for instance.
 All of that may seem negative. But in fact playing this game is a charming
 experience. Somehow the mix of elements melds well together into addictive
 winning gameplay. It is really quite cute fun!
-

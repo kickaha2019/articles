@@ -1,10 +1,5 @@
----
-images:
-- path: Children_of_the_Nameless.png
-  tag: Children of the Nameless
----
-![Children of the Nameless](Children_of_the_Nameless.png)
-
+@image		Children_of_the_Nameless.png
+@markdown
 [Children of the Nameless](https://brandonsanderson.com/a-christmas-present/) (2018)
 follows a young girl Tacenda who is the only survivor after
 a mysterious Lord destroys her village by summoning ghosts.

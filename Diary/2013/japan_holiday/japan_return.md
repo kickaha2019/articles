@@ -1,21 +1,7 @@
----
-title: Home again from Japan
-date: March 30th 2013
-images:
-- path: p139_lockers.JPG
-  tag: Lockers in Osaka
-- path: p140_kansai.JPG
-  tag: Kansai Airport in Osaka
-- path: p141_kansai.JPG
-  tag: Kansai Airport in Osaka
-- path: p142_plane.JPG
-  tag: Plane to Paris from Osaka
-- path: p143_spare.JPG
-  tag: Two spare seats next to me!
-- path: p144_sunset.JPG
-  tag: Into the sunset
----
-![Lockers in Osaka](p139_lockers.JPG)
+@title		Home again from Japan
+@date		March 30th 2013
+@inset		p139_lockers.JPG
+@markdown
 Time to leave Japan.  The worst scrum for breakfast so far
 in the New Hankyu.  Two together would mean one could hold a
 table while the other fetched stuff.  Dire.  Saw European women
@@ -29,7 +15,8 @@ the formalities with no fuss I went shopping.  Got a selection
 of biscuits to take to work then found a better selection so
 wasted some money there - but I was using up the Yen I had.
 
-![Kansai Airport in Osaka](p140_kansai.JPG)
+@inset		p140_kansai.JPG
+@markdown
 It was a good flight from Kansai to Paris - I had a row of three
 seats to myself!  The flight was perhaps 75% full.  And I could
 have the Japanese option on the meal.  Didn't need to

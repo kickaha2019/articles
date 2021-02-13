@@ -1,14 +1,12 @@
----
-image: the_four.jpg
-details:
-  Film: "&#22235;&#22823;&#21517; ([The Four](https://www.imdb.com/title/tt2204340/))"
-  Country: China
-  Director: Gordon Chan
-  Year: '2012'
-  Cast: " Chao Deng, Yifei Liu, Ronald Cheng"
-  Details: Colour 118 mins
-layout: review
----
+@image		the_four.jpg
+@list
+Film		&#22235;&#22823;&#21517; ([The Four](https://www.imdb.com/title/tt2204340/))
+Country		China
+Director		Gordon Chan
+Year		2012
+Cast		 Chao Deng, Yifei Liu, Ronald Cheng
+Details		Colour 118 mins
+@markdown
 A film loosely based on
 a 1970s wuxia series by Wen Ruian.  The film adds fantasy elements into the
 original stories, and is in the same area as Tsui Hark's "Detective Dee" film.

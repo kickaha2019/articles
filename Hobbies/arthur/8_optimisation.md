@@ -1,6 +1,5 @@
----
-title: '7: Optimisation'
----
+@title		7: Optimisation
+@markdown
 The evolutions take a considerable amount of time, making
 them run as fast as possible has been important.
 

@@ -1,13 +1,7 @@
----
-title: To the Lake District
-date: May 11th 2014
-images:
-- path: cattery.JPG
-  tag: The cat's hotel
-- path: DSCF5226.jpg
-  tag: Virginia at our hotel
----
-![The cat's hotel](cattery.JPG)
+@title		To the Lake District
+@date		May 11th 2014
+@inset		cattery.JPG
+@markdown
 The cats got delivered on the Saturday to Grange Cattery in Waterbeach, to be looked
 after by the reliable Phyllis.  There's at least a pond with fish in it for them to look at.  The road
 there is so uneven it's like driving over the sea if the sea were frozen in a split-second
@@ -18,7 +12,8 @@ novelette "Planetoid 127", a rare excursion into Science Fiction for him.  This 
 the idea there's a second Earth on the opposite side of the sun to us so we can't see it -
 an idea used later on.
 
-![Virginia at our hotel](DSCF5226.jpg)
+@inset		DSCF5226.jpg
+@markdown
 A long drive on the Sunday up to the Lake District, made more miserable by the cloudbursts, seeing dead
 foxes along the road, seeing sheep crammed like sardines into a lorry, by miles and miles of
 roadworks, by being ripped off for diesel at a service station.  The markup is extortionate.

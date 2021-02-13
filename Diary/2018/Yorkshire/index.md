@@ -1,87 +1,7 @@
----
-date: March 16th 2018
-anchors:
-- Aysgarth Falls Hotel
-- Jervaulx Abbey & Tearoom
-- Wensleydale Creamery
-- White Scar Cave
-- Ribblehead Viaduct
-- Richmond Georgian Theatre
-- Dales Countryside Museum
-- Bolton Castle
-- Middleham Castle
-title: A visit to North Yorkshire
-images:
-- path: P1380594.JPG
-  tag: Robin Hill holiday cottage
-- path: P1380583.JPG
-  tag: Robin Hill holiday cottage
-- path: P1380584.JPG
-  tag: View from the cottage
-- path: P1380554.JPG
-  tag: Aysgarth Falls
-- path: P1380559.JPG
-  tag: Aysgarth Falls
-- path: P1380566.JPG
-  tag: Aysgarth Falls
-- path: P1380678.JPG
-  tag: Aysgarth Falls Hotel
-- path: P1380695.JPG
-  tag: Aysgarth Falls Hotel
-- path: P1380610.JPG
-  tag: Jervaulx Abbey
-- path: P1380617.JPG
-  tag: Jervaulx Abbey
-- path: P1380601.JPG
-  tag: Wensleydale Creamery
-- path: P1380603.JPG
-  tag: Wensleydale Creamery
-- path: P1380605.JPG
-  tag: Wensleydale Creamery
-- path: P1380606.JPG
-  tag: Wensleydale Creamery
-- path: P1380676.JPG
-  tag: Ribblehead Viaduct
-- path: P1380638.JPG
-  tag: White Scar Cave
-- path: P1380641.JPG
-  tag: White Scar Cave
-- path: P1380649.JPG
-  tag: White Scar Cave
-- path: P1380656.JPG
-  tag: White Scar Cave
-- path: P1380660.JPG
-  tag: White Scar Cave
-- path: P1380664.JPG
-  tag: White Scar Cave
-- path: P1380669.JPG
-  tag: White Scar Cave
-- path: P1380681.JPG
-  tag: Richmond Georgian Theatre
-- path: P1380686.JPG
-  tag: Richmond Georgian Theatre
-- path: P1380688.JPG
-  tag: Richmond Georgian Theatre
-- path: P1380690.JPG
-  tag: Richmond Georgian Theatre
-- path: P1380609.JPG
-  tag: Dale Countryside Museum
-- path: P1380629.JPG
-  tag: Ceramic Inspirations
-- path: P1380630.JPG
-  tag: Ceramic Inspirations
-- path: P1380634.JPG
-  tag: Ceramic Inspirations
-- path: P1380637.JPG
-  tag: Inspired Chocolate
-- path: P1380575.JPG
-  tag: Bolton Castle
-- path: P1380577.JPG
-  tag: Bolton Castle
-- path: P1380586.JPG
-  tag: Middleham Castle
----
-![Aysgarth Falls](P1380554.JPG)
+@title		A visit to North Yorkshire
+@date		March 16th 2018
+@inset		P1380554.JPG
+@markdown
 We're just back from a visit to Aysgarth in North Yorkshire. A lovely
 area, pastoral and peaceful. Dry stone walls divided up the snow streaked hills.
 Sheep grazed the hills. Villages retained their age-old character. The Aysgarth
@@ -99,7 +19,8 @@ around. The weather smiled for once as we gave up, and instead saw the ruins of
 [Jervaulx Abbey](https://www.jervaulxabbey.com/), which were impressive hinting of when it was a major
 monastery.
 
-![Wensleydale Creamery](P1380601.JPG)
+@inset		P1380601.JPG
+@markdown
 Also worth seeing was the [Wensleydale Creamery](https://www.wensleydale.co.uk/), not just for its Wallace
 and Gromit connection. Cheese seemed to be an ingredient of all the dishes in the
 restaurant! The cheese production seemed to be a factory process, but they
@@ -113,7 +34,8 @@ the rocks beside the path. The Sword of Damocles stalactite was held up
 by string and glue as someone deliberately broke it on the first day of
 public access!
 
-![Richmond Georgian Theatre](P1380681.JPG)
+@inset		P1380681.JPG
+@markdown
 We also appreciated a visit to the [Richmond Georgian Theatre](http://www.georgiantheatreroyal.co.uk/), a bit of
 panicky rush getting there as parking was more than difficult in Richmond.
 The tour was enlightening about the revolting habits of theatre-goers in
@@ -122,7 +44,8 @@ a lot of detail about the history there. I was tempted and fell into the
 sin of buying a teapot at [Ceramic Inspirations in Leyburn](http://www.ceramicinspirations.co.uk/), and we also got
 a few chocolates at the [Inspired Chocolate](https://www.inspiredchocolate.co.uk/) place next door.
 
-![Bolton Castle](P1380575.JPG)
+@inset		P1380575.JPG
+@markdown
 We did see a couple of castles - [Bolton Castle](https://www.boltoncastle.co.uk/) and [Middleham Castle](https://www.english-heritage.org.uk/visit/places/middleham-castle/).
 The ruins weren't inspiring for us on our visit, though the
 muddy conditions and bird droppings didn't help.

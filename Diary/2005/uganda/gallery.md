@@ -1,40 +1,41 @@
-![Rural huts in Masindi](masindi.JPG)
-![Mosquito net](mosquito_nets.JPG)
-![English as she is wrote](lamenting_sign.jpg)
-![The drums will speak for miles and miles](drums.JPG)
-![Loofahs going cheap](loofahs.jpg)
-![Battery recharging](battery_charging.jpg)
-![Pots and pans for sale](pots_and_pans.jpg)
-![Phone kiosk](phone_kiosk.JPG)
-![Sewing shop](sewing_shop.JPG)
-![Chicken run - not only the humans have life tough here](chicken_run.jpg)
-![Brick kiln make your own bricks here](brick_kiln.JPG)
-![Charcoal stove - a hungry Molech-like demon](charcoal_stove.JPG)
-![Rural field with termite mound](field_with_termites.JPG)
-![Traditional beehive](traditional_beehive.JPG)
-![Child herders - it's not all play for children in Uganda](child_herders.JPG)
-![Water carrieress](girl_with_jerrycan.jpg)
-![The equator might not be here but shops certainly are](equator.JPG)
-![Village bell from a car inner wheel](village_bell.jpg)
-![Rwancerere Church - full past over-flowing](rwancerere_church.JPG)
-![Despite the conditions impeccably clean](clean_cassocks.JPG)
-![Drummer drumming](drummer_drumming.JPG)
-![Shuuku dance - an exhausting Acholi dance](school_dance.JPG)
-![Borehole at Masindi](masindi_borehole.JPG)
-![Pit toilet - this is important to the village](pit_toilet.jpg)
-![The Batwa (pygmies) were noted warriors once](batwa_archers.JPG)
-![Aid is providing the Batwa with better huts than these for accommodation](batwa_hut.JPG)
-![Brick carriers (young)](brick_carriers.jpg)
-![Kaharo trees](kaharo_trees.JPG)
-![Karuma Falls on the majestic White Nile](karuma_falls.JPG)
-![Tree in Masindi](masindi_tree.JPG)
-![Longhorn cattle traditionally herded by the Acholi](longhorn_cattle.jpg)
-![A field of papyrus](papyrus_field.JPG)
-![Rwanda volcano](rwanda_volcano.JPG)
-![Candelabra tree - not a cactus as I thought!](candelabra_tree.JPG)
-![A pipit?](pipit.JPG)
-![A ruffled pied crow](pied_crow.JPG)
-![Malibu stork on a waste tip](malibu_stork.JPG)
-![Butterfly dreaming](butterfly.jpg)
-![A species of kite](kite.jpg)
-![Weaver bird nests - entered from below](weaver_bird_nests.JPG)
+@gallery
+masindi.JPG		Rural huts in Masindi
+mosquito_nets.JPG		Mosquito net
+lamenting_sign.jpg		English as she is wrote
+drums.JPG		The drums will speak for miles and miles
+loofahs.jpg		Loofahs going cheap
+battery_charging.jpg		Battery recharging
+pots_and_pans.jpg		Pots and pans for sale
+phone_kiosk.JPG		Phone kiosk
+sewing_shop.JPG		Sewing shop
+chicken_run.jpg		Chicken run - not only the humans have life tough here
+brick_kiln.JPG		Brick kiln make your own bricks here
+charcoal_stove.JPG		Charcoal stove - a hungry Molech-like demon
+field_with_termites.JPG		Rural field with termite mound
+traditional_beehive.JPG		Traditional beehive
+child_herders.JPG		Child herders - it's not all play for children in Uganda
+girl_with_jerrycan.jpg		Water carrieress
+equator.JPG		The equator might not be here but shops certainly are
+village_bell.jpg		Village bell from a car inner wheel
+rwancerere_church.JPG		Rwancerere Church - full past over-flowing
+clean_cassocks.JPG		Despite the conditions impeccably clean
+drummer_drumming.JPG		Drummer drumming
+school_dance.JPG		Shuuku dance - an exhausting Acholi dance
+masindi_borehole.JPG		Borehole at Masindi
+pit_toilet.jpg		Pit toilet - this is important to the village
+batwa_archers.JPG		The Batwa (pygmies) were noted warriors once
+batwa_hut.JPG		Aid is providing the Batwa with better huts than these for accommodation
+brick_carriers.jpg		Brick carriers (young)
+kaharo_trees.JPG		Kaharo trees
+karuma_falls.JPG		Karuma Falls on the majestic White Nile
+masindi_tree.JPG		Tree in Masindi
+longhorn_cattle.jpg		Longhorn cattle traditionally herded by the Acholi
+papyrus_field.JPG		A field of papyrus
+rwanda_volcano.JPG		Rwanda volcano
+candelabra_tree.JPG		Candelabra tree - not a cactus as I thought!
+pipit.JPG		A pipit?
+pied_crow.JPG		A ruffled pied crow
+malibu_stork.JPG		Malibu stork on a waste tip
+butterfly.jpg		Butterfly dreaming
+kite.jpg		A species of kite
+weaver_bird_nests.JPG		Weaver bird nests - entered from below

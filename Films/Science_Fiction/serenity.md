@@ -1,14 +1,12 @@
----
-image: serenity.jpg
-details:
-  Film: "[Serenity](https://www.imdb.com/title/tt0379786/)"
-  Country: USA
-  Director: Joss Whedon
-  Year: '2005'
-  Cast: Nathan Fillion, Gina Torres, Chiwetel Ejiofor
-  Details: Colour 119 mins
-layout: review
----
+@image		serenity.jpg
+@list
+Film		[Serenity](https://www.imdb.com/title/tt0379786/)
+Country		USA
+Director		Joss Whedon
+Year		2005
+Cast		Nathan Fillion, Gina Torres, Chiwetel Ejiofor
+Details		Colour 119 mins
+@markdown
 "Serenity" is Joss Whedon's
 tying up of loose ends following the shameful cancellation of the "Firefly"
 TV series.  "Serenity" has less of the wonderful world Whedon created for "Firefly", and

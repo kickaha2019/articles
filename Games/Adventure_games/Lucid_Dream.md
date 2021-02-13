@@ -1,10 +1,6 @@
----
-title: Lucid Dream
-images:
-- path: Lucid_Dream.jpg
----
-![Lucid Dream](Lucid_Dream.jpg)
-
+@title		Lucid Dream
+@image		Lucid_Dream.jpg
+@markdown
 *Lucid Dream* ([Dali games](http://dali.games/)
 2018) is an Adventure game about a wheel-chair bound girl Lucy finding her
 way through worlds which are a cross between C.S. Lewis's "Narnia" and

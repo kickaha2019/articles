@@ -1,4 +1,2 @@
----
-icon: projector.jpg
-blurb: Films I like watching
----
+@icon		projector.jpg
+@blurb		Films I like watching

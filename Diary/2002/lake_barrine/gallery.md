@@ -1,6 +1,7 @@
-![Lake Barrine](lake_barrine.JPG)
-![Pair of Kauri pines](kauri_pines.JPG)
-![Umbrella tree](umbrella_tree.JPG)
-![Eel and pelican](pelican_eel.JPG)
-![Dusky moorhen](dusky_moorhen.JPG)
-![Some cormorants hanging loose](cormorants.JPG)
+@gallery
+lake_barrine.JPG		Lake Barrine
+kauri_pines.JPG		Pair of Kauri pines
+umbrella_tree.JPG		Umbrella tree
+pelican_eel.JPG		Eel and pelican
+dusky_moorhen.JPG		Dusky moorhen
+cormorants.JPG		Some cormorants hanging loose

@@ -1,28 +1,6 @@
----
-date: March 21st 2015
-anchors:
-- Runavik
-images:
-- path: faroes_runavik.JPG
-  tag: Runavik in the Faroes Islands
-- path: faroes_runavik2.JPG
-  tag: Runavik in the Faroes Islands
-- path: faroes_boudicca.JPG
-  tag: Boudicca moored at Runavik
-- path: faroes_braemar.JPG
-  tag: Braemar moored alongside Boudicca at Runavik
-- path: faroes_cleaning.JPG
-  tag: Cleaning the Boudicca at Runavik
-- path: faroes_road.JPG
-  tag: Runavik High Street
-- path: faroes_house.JPG
-  tag: House with fish drying
-- path: faroes_fish.JPG
-  tag: Fish drying closeup
-- path: faroes_birds.JPG
-  tag: Avian lifeforms at Runavik
----
-![Boudicca moored at Runavik](faroes_boudicca.JPG)
+@date		March 21st 2015
+@inset		faroes_boudicca.JPG
+@markdown
 We didn't do an excursion in the Faroe Islands, just wandered ashore and admired
 a petrol station bakers and fish hanging up to dry. Some people who did a
 coach ride said there was good scenery. The Boudicca was moored right by

@@ -1,4 +1,2 @@
----
-icon: web.png
-blurb: Links to various websites
----
+@icon		web.png
+@blurb		Links to various websites

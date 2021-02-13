@@ -1,3 +1,4 @@
+@markdown
 This is a list of possible changes to *Pagoda* which I'm
 putting online in the hope of getting comments from people.
 If you do have comments please [contact](contact) me.  I'd

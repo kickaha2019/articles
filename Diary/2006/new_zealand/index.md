@@ -1,4 +1,2 @@
----
-title: New Zealand trip
-date: 18th February 2006
----
+@title		New Zealand trip
+@date		18th February 2006

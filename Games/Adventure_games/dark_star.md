@@ -1,11 +1,6 @@
----
-title: 'Darkstar: The Interactive Movie'
-images:
-- path: DarkStar.jpg
-  tag: 'Darkstar: The Interactive Movie'
----
-![Darkstar: The Interactive Movie](DarkStar.jpg)
-
+@title		Darkstar: The Interactive Movie
+@image		DarkStar.jpg
+@markdown
 Darkstar: The Interactive Movie
 ([Parallax Studios](http://www.parallaxstudio.com/)
 2010) is a game that's taken its creator J. Allen Williams ten years to realise. The actors are largely from "Mystery Science Theater 3000", and the narration was done by Peter Graves as his last work.

@@ -1,25 +1,7 @@
----
-title: Quiet Waters
-anchors:
-- Quiet Waters
-date: Sunday, 27 April 2008
-images:
-- path: entrance.JPG
-  tag: Entrance to the retreat
-- path: rear_garden.JPG
-  tag: Rear garden
-- path: apple_tree.JPG
-  tag: Apple tree
-- path: marrows.JPG
-  tag: Marrows
-- path: beetroot.JPG
-  tag: Lovely beetroot
-- path: by_river.JPG
-  tag: Reflective spot by the river
-- path: cross.JPG
-  tag: Cross at reflective spot
----
-![Entrance to the retreat](entrance.JPG)
+@title		Quiet Waters
+@date		Sunday, 27 April 2008
+@inset		entrance.JPG
+@markdown
 Virginia and I went on a retreat to
 [Quiet Waters](https://www.quietwaters.org.uk/),
 which is just outside Bungay in Suffolk. We liked it so much we went on a second retreat in late August as well.

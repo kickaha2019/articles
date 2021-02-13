@@ -1,23 +1,7 @@
----
-title: Been to Burghley
-anchors:
-- Burghley House
-date: March 25th 2014
-images:
-- path: house.JPG
-  tag: Burghley House
-- path: stairwell.JPG
-  tag: The bottom of Hell Staircase in the House
-- path: pond.JPG
-  tag: Carp pond at the House
-- path: maze.JPG
-  tag: A maze - one of the modern sculptures
-- path: metal_tree.JPG
-  tag: The Copper Tree Fountain in the Gardens of Surprise
-- path: water_pendulum.JPG
-  tag: Water column in the Gardens of Surprise
----
-![The Copper Tree Fountain in the Gardens of Surprise](metal_tree.JPG)
+@title		Been to Burghley
+@date		March 25th 2014
+@inset		metal_tree.JPG
+@markdown
 After going to see my mother's gravestone in Histon Virginia and I
 then drove up to Stamford to see
 [Burghley House](https://www.burghley.co.uk/), only slightly held up by a A14 stop start standstill.
@@ -32,7 +16,8 @@ artistic water fountain themed displays.  There were devices you could
 actuate, trapped doorways which you risked a soaking going through,
 and eerie Roman busts which moved when you weren't looking.
 
-![Burghley House](house.JPG)
+@inset		house.JPG
+@markdown
 The modern sculptures we mostly passed on.  The house was
 over opulent - so many rooms had a surfeit of paintings or
 painted walls and ceilings.  The kitchen impressed with the array

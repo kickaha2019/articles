@@ -1,26 +1,7 @@
----
-title: Before the cruise
-date: Sunday, 27 May 2012
-anchors:
-- Holiday Inn Express Southampton
-- Mottisfont
-images:
-- path: p01_inn.JPG
-  tag: Holiday Inn in Southampton
-- path: p02_mottisfont.JPG
-  tag: Mottisfont House
-- path: p03_ginny.JPG
-  tag: Virginia at Mottisfont
-- path: p04_spring.JPG
-  tag: The Mottisfont font or spring
-- path: p05_flowers.JPG
-  tag: Flowers in the walled garden
-- path: p06_centre.JPG
-  tag: Centre of walled garden
-- path: p07_avenue.JPG
-  tag: Avenue of trees at Mottisfont
----
-![Holiday Inn in Southampton](p01_inn.JPG)
+@title		Before the cruise
+@date		Sunday, 27 May 2012
+@inset		p01_inn.JPG
+@markdown
 We travelled down on Sunday afternoon and stayed overnight at a
 [Holiday Inn Express Southampton M27](https://www.ihg.com/holidayinnexpress/hotels/us/en/southampton/soabr/hoteldetail).  This worked well, avoiding any panics
 travelling down on the day that the ship left itself.  Dined at a

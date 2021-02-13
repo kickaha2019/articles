@@ -1,45 +1,7 @@
----
-date: November 16th 2012
-anchors:
-- Willersley Castle
-- Masson Mills
-- Denby Pottery Village
-- Matlock Bath
-- Cromford Mill
-title: Derbyshire long weekend
-images:
-- path: p01_denby.JPG
-  tag: Denby pottery visitor centre
-- path: p02_showroom.JPG
-  tag: The showroom
-- path: p03_outlet.JPG
-  tag: The factory outlet
-- path: p04_outlet.JPG
-  tag: The factory outlet
-- path: p05_willersley.JPG
-  tag: Willersley Castle
-- path: p06_atrium.JPG
-  tag: Atrium
-- path: p07_dining.JPG
-  tag: Dining room
-- path: p08_view.JPG
-  tag: View from Willersley Castle
-- path: p09_walk.JPG
-  tag: Walking to Matlock Bath
-- path: p10_fountain.JPG
-  tag: Fountain in Derwent Gardens
-- path: p11_matlock.JPG
-  tag: Entering Matlock Bath
-- path: p12_aquarium.JPG
-  tag: The Aquarium
-- path: p13_ginny.JPG
-  tag: Virginia feeding koi carp in a swimming pool
-- path: p14_spring.JPG
-  tag: The thermal spring
-- path: p15_me.JPG
-  tag: Me, Richard Awkwright, and Santa Claus
----
-![The showroom](p02_showroom.JPG)
+@title		Derbyshire long weekend
+@date		November 16th 2012
+@inset		p02_showroom.JPG
+@markdown
 Leaving the cats in charge of the homestead we drove up the A14
 to Derbyshire.  We stopped at the
 [Little Chef](http://www.littlechef.co.uk/) Kettering West
@@ -60,7 +22,8 @@ factory shop rather than the showroom upstairs.  I
 admired the various displays as if they were exhibits in
 an art exhibition.
 
-![Willersley Castle](p05_willersley.JPG)
+@inset		p05_willersley.JPG
+@markdown
 The Satnav got us pretty close to
 [Willersley Castle](https://www.christianguild.co.uk/willersley/)
 where we were staying, but for the
@@ -89,7 +52,8 @@ proper.  Which was definitely end of
 season, most places shut up, cafes with chairs on tables
 and lights off.
 
-![The Aquarium](p12_aquarium.JPG)
+@inset		p12_aquarium.JPG
+@markdown
 Virginia suggested we try the
 [Aquarium](http://www.matlockbathaquarium.co.uk/)
 which had foreign fish imprisoned in tanks, a 'well' displaying

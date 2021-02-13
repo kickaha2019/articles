@@ -1,25 +1,26 @@
-![Virginia in our cabin](cabin.JPG)
-![Less carbon than a plane](sundeck.JPG)
-![More ship ornamentation](microwave.JPG)
-![Swim all the way to Norway?](pool.JPG)
-![Corridor outside our cabin](corridor.JPG)
-![Main passenger deck](passenger_deck.JPG)
-![The bar area on the ship](bar_area.JPG)
-![Stairwell on the Artemis](stairwell.JPG)
-![One of the ship's lounges](lounge.JPG)
-![On the main passenger deck](walkway.JPG)
-![Organ in Stavanger Cathedral](organ.JPG)
-![Old Stavanger](old_stavanger.JPG)
-![The Three Swords](three_swords.JPG)
-![Flam](flam.JPG)
-![Flam valley](flam_valley.JPG)
-![Nature reigns](waterfall.JPG)
-![Vatnalhausen Station](station.JPG)
-![Flamsbana](train.JPG)
-![Artemis docked at Flam](artemis_at_flam.JPG)
-![Rocks in Olden](olden_rocks.JPG)
-![Walk to the Glacier](walk_glacier.JPG)
-![A lot of ice cubes there](ice_cubes.JPG)
-![The ice blue with cold](ice_blue.JPG)
-![An ice gecko](ice_gecko.JPG)
-![Grieg and I get on](grieg.JPG)
+@gallery
+cabin.JPG		Virginia in our cabin
+sundeck.JPG		Less carbon than a plane
+microwave.JPG		More ship ornamentation
+pool.JPG		Swim all the way to Norway?
+corridor.JPG		Corridor outside our cabin
+passenger_deck.JPG		Main passenger deck
+bar_area.JPG		The bar area on the ship
+stairwell.JPG		Stairwell on the Artemis
+lounge.JPG		One of the ship's lounges
+walkway.JPG		On the main passenger deck
+organ.JPG		Organ in Stavanger Cathedral
+old_stavanger.JPG		Old Stavanger
+three_swords.JPG		The Three Swords
+flam.JPG		Flam
+flam_valley.JPG		Flam valley
+waterfall.JPG		Nature reigns
+station.JPG		Vatnalhausen Station
+train.JPG		Flamsbana
+artemis_at_flam.JPG		Artemis docked at Flam
+olden_rocks.JPG		Rocks in Olden
+walk_glacier.JPG		Walk to the Glacier
+ice_cubes.JPG		A lot of ice cubes there
+ice_blue.JPG		The ice blue with cold
+ice_gecko.JPG		An ice gecko
+grieg.JPG		Grieg and I get on

@@ -1,14 +1,12 @@
----
-image: Delicatessen.jpg
-details:
-  Film: "[Delicatessen](https://www.imdb.com/title/tt0101700/)"
-  Country: France
-  Director: Marc Caro, Jean-Pierre Jeunet
-  Year: '1991'
-  Cast: Marie-Laure Dougnac, Dominique Pinon, Pascal Benezech
-  Details: Colour 99 minutes
-layout: review
----
+@image		Delicatessen.jpg
+@list
+Film		[Delicatessen](https://www.imdb.com/title/tt0101700/)
+Country		France
+Director		Marc Caro, Jean-Pierre Jeunet
+Year		1991
+Cast		Marie-Laure Dougnac, Dominique Pinon, Pascal Benezech
+Details		Colour 99 minutes
+@markdown
 The film which made its directors Jeunet and Caro well-known. It stars Dominique Pinon who also appears in other films by the directors.
 
 "Delicatessen" is set in a Dickensian future, fog-shrouded streets hiding technological and moral decay. A circus clown mourning his lost partner comes to stay at a butcher's shop. What he doesn't know is where the butcher gets his choice cuts from, and that he's next on the list to supply his venal fellow lodgers. Will a romance with the myopic butcher's daughters, and the underground vegan rebels, save his bacon?

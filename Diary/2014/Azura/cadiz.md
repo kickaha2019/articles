@@ -1,22 +1,6 @@
----
-date: September 28th 2014
-anchors:
-- Cadiz
-images:
-- path: postbox.JPG
-  tag: Cadiz postbox
-- path: fountain.JPG
-  tag: A handy municipal fountain in Cadiz
-- path: area.JPG
-  tag: A pleasant open area in Cadiz
-- path: fountain2.JPG
-  tag: A water exhibit
-- path: church.JPG
-  tag: Cadiz church
-- path: hall.JPG
-  tag: Hall in Cadiz
----
-![A handy municipal fountain in Cadiz](fountain.JPG)
+@date		September 28th 2014
+@inset		fountain.JPG
+@markdown
 We used footpower to see Cadiz rather than go on an excursion.  To my
 surprise Cadiz was pretty and mostly clean - though I involuntarily side-stepped into
 something undesirable and had to use a municipal fountain to clean a sandal.

@@ -1,3 +1,1 @@
----
-blurb: Australia and Denmark
----
+@blurb		Australia and Denmark

@@ -1,13 +1,5 @@
----
-title: Bella Italia in Newnham
-images:
-- path: IMG_2737.JPG
-  tag: Tables ready for a party
-- path: IMG_2738.JPG
-  tag: Virginia waiting patiently
-- path: IMG_2739.JPG
-  tag: The mill wheel intruding into the restaurant
----
+@title		Bella Italia in Newnham
+@markdown
 We haven't been for a while but we did go regularly to the
 [Bella Italia](https://www.bellaitalia.co.uk/) in Newnham.  This
 is in what used to be a water-mill and still has the
@@ -24,6 +16,7 @@ does to cats.
 Nice ambience and an interesting setting. In 2016 this
 restaurant was moved to Bridge Street in Cambridge.
 
-![Tables ready for a party](IMG_2737.JPG)
-![Virginia waiting patiently](IMG_2738.JPG)
-![The mill wheel intruding into the restaurant](IMG_2739.JPG)
+@gallery
+IMG_2737.JPG		Tables ready for a party
+IMG_2738.JPG		Virginia waiting patiently
+IMG_2739.JPG		The mill wheel intruding into the restaurant

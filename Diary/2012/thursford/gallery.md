@@ -1,8 +1,9 @@
-![Entrance to the Thursford Collection](p01_entrance.JPG)
-![The wide stage](p02_stage.JPG)
-![The decorated premises](p03_carousel.JPG)
-![Fantasy Land](p04_fantasy.JPG)
-![The way to Santa](p05_santa.JPG)
-![One of the tableaux](p06_tableaux.JPG)
-![The magical decor](p07_decor.JPG)
-![The steam engines contrast to the tinsel](p08_tinsel.JPG)
+@gallery
+p01_entrance.JPG		Entrance to the Thursford Collection
+p02_stage.JPG		The wide stage
+p03_carousel.JPG		The decorated premises
+p04_fantasy.JPG		Fantasy Land
+p05_santa.JPG		The way to Santa
+p06_tableaux.JPG		One of the tableaux
+p07_decor.JPG		The magical decor
+p08_tinsel.JPG		The steam engines contrast to the tinsel

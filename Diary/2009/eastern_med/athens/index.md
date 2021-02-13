@@ -1,20 +1,6 @@
----
-anchors:
-- Acropolis Athens
-date: 28 November 2009
-images:
-- path: parthenon.JPG
-  tag: Parthenon
-- path: athens_acropolis.JPG
-  tag: Athens Acropolis
-- path: parthenon2.JPG
-  tag: Parthenon
-- path: parthenon3.JPG
-  tag: Parthenon
-- path: parthenon4.JPG
-  tag: Parthenon
----
-![Athens Acropolis](athens_acropolis.JPG)
+@date		28 November 2009
+@inset		athens_acropolis.JPG
+@markdown
 The excursion to the Acropolis started shambolically, for all their cultural heritage the Greeks had us waiting ages and walking miles to the coaches. They even let street hawkers onto the coaches which never happened in Egypt. (On the return we even left passengers behind.) Athens does have traffic problems - odd numberplates are allowed some days, even numberplates on other days.
 
 We did get to the Acropolis, along with gangs of youths from some Mediterranean country. The guide wasn't that audible in the chaos, but as she was on a long diatribe about how great the Greeks were, and how despicable it was for marbles to be in the British Museum, not hearing every word wasn't such of a loss. Such rants encourage me to think we should hang onto the friezes. The Parthenon is big, but not something I'd like to have in the back garden.

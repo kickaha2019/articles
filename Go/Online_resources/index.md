@@ -1,3 +1,4 @@
+@markdown
 There are a lot of Go related Internet sites out there. This table lists
 a few.
 

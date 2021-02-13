@@ -1,12 +1,7 @@
----
-title: New picture over fireplace
-date: Friday, 6 March 2009
-images:
-- path: new_picture.jpg
-  tag: Noonday Dreams
----
-![Noonday Dreams](new_picture.jpg)
-
+@title		New picture over fireplace
+@date		Friday, 6 March 2009
+@image		new_picture.jpg
+@markdown
 We had friends round earlier this year, and as we were sitting down to Sunday lunch there came a dire crash from the lounge. Fearing the worse (cats mixed up with broken glass cabinet) we dashed to see, Happily the cats were safe upstairs, but a framed print of Van Gogh's "Bridge At Arles" had tumbled down. Broken glass and frame littered the floor.
 
 Decided it was time for something different hanging there. Started surfing the web to see what was on offer. We like Thomas Kinkade, the painter of light, but his pictures are very expensive. After some deliberation we picked "Noonday Dreams" by Tadashi Asoma, a Japanese painter working in the US.

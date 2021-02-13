@@ -1,8 +1,7 @@
----
-icon: p41_mount.JPG
-title: 1:Introduction
-date: March 20th 2013
----
+@title		1:Introduction
+@icon		p41_mount.JPG
+@date		March 20th 2013
+@markdown
 My trip to Japan starts a long time ago.  Before the last minute
 panic with the iPad.  Before all the research I did on the
 web.  Before I booked the package tour in February.  Years before.

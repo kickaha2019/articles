@@ -1,15 +1,7 @@
----
-title: The hotel
-anchors:
-- Sidholme Hotel
-date: Sunday, 2 May 2010
-images:
-- path: hotel.JPG
-  tag: Sidholme Hotel
-- path: hotel_inside.JPG
-  tag: Sidholme Hotel
----
-![Sidholme Hotel](hotel.JPG)
+@title		The hotel
+@date		Sunday, 2 May 2010
+@inset		hotel.JPG
+@markdown
 Virginia and I had our holiday in Devon in the first week in May.
 
 Our trusty steed (car) struggled up the steep hills, and flinched at the narrow roads, but brought us safely to the

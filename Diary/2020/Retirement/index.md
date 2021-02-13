@@ -1,9 +1,6 @@
----
-date: September 18th 2020
-images:
-- path: IMG_1417.jpeg
----
-![My old office](IMG_1417.jpeg)
+@date		September 18th 2020
+@inset		IMG_1417.jpeg
+@markdown
 I'm now retired. Perhaps a silly time to retire, working from home was quite easy for me, and the frequent IT issues made it easier. Whenever I was unable to connect to my desktop at work I would have to wait until there was someone in the office to reboot it - they hand-picked those who were allowed into the office. I could have stayed on some months longer and got some more money in the bank - that would have been wise and sensible. But I retired instead.
 
 I didn't have the retirement farewell I hoped for, with everyone gathered round my desk, speeches there, and someone gift-wrapped presents to investigate. Instead I got the very generous collection straight into my bank account (which I preferred as I can spend it how I would like rather than worry what to do with bottles of drink when we don't really drink ourselves). There was a very nice

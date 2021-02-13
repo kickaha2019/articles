@@ -1,6 +1,5 @@
----
-title: '5: Evolution'
----
+@title		5: Evolution
+@markdown
 The *machines* are evolved in an involved stack of processes.
 At the top-level an *evolution* consists of one or more *generations*.
 Each *generation* starts with either the base machine (first

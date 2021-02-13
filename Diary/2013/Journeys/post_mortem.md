@@ -1,3 +1,4 @@
+@markdown
 "Journeys" has been another learning experience, learning of
 what not to do.  Even changes I've made to improve the
 game for players have turned out to be unwise.  Towards the

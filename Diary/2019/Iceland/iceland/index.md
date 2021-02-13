@@ -1,35 +1,6 @@
----
-date: 26th July 2019
-anchors:
-- Hverir
-- Dimmuborgir
-- Godafoss
-- Hallgrim's Church
-- Hellisheidi
-- Thingvellir Visitor Center
-images:
-- path: hverir.jpg
-  tag: Hverir
-- path: hverir1.jpg
-  tag: Hverir
-- path: dimmuborgir.jpg
-  tag: Dimmuborgir
-- path: godafoss.jpg
-  tag: Godafoss
-- path: hallgrim.jpg
-  tag: Halligrims Church in Reykjavik
-- path: power_station.jpg
-  tag: Hellisheidi power station
-- path: kitchen.jpg
-  tag: Kj&ouml;t &amp; K&uacute;nst
-- path: park.jpg
-  tag: Geothermal park
-- path: cleft.jpg
-  tag: One side America one side Eurasia
-- path: th_lake.jpg
-  tag: Thingvellir Lake
----
-![Hverir](hverir.jpg)
+@date		26th July 2019
+@inset		hverir.jpg
+@markdown
 Iceland is an island sitting on the rift between the American and Eurasian
 tectonic plates. It grows as those plates move apart, it is active volcanically,
 much of the terrain is lava fields more or less colonised by nature with first
@@ -46,7 +17,8 @@ where with imagination you can see petrified trolls in the curlicued lava mounds
 Lunch on this excursion was diabolical and I had to buy something edible at a
 nearby shop.
 
-![Godafoss](godafoss.jpg)
+@inset		godafoss.jpg
+@markdown
 The highlight of the Akureyri excursion was
 [Godafoss](https://www.northiceland.is/en/other/place/godafoss-waterfall), literally
 God Waterfall where the guy who made Christianity official in 1000AD threw his
@@ -59,7 +31,8 @@ and there were services. We dipped into some souvenir shops to find stuff
 to take back to prove we had been to Iceland, I almost got a tin
 of mountain air as a present.
 
-![Hellisheidi power station](power_station.jpg)
+@inset		power_station.jpg
+@markdown
 The second day we did the "Ring of Fire" excursion.
 Icelanders have harnessed geothermal energy thanks to the thinness of the
 crust. They generate
@@ -79,7 +52,8 @@ walking in a park with creatures - there are steaming craters in the park but
 it's more of a backyard scale. Less impressive on the bubble toil and trouble front
 than Hverir.
 
-![One side America one side Eurasia](cleft.jpg)
+@inset		cleft.jpg
+@markdown
 The highlight of the Reykjavik excursion was [Thingvellir](https://www.thingvellir.is/en/) where you can walk between
 the American and Eurasian plates. The plates are moving apart so I wasn't
 afraid of being crushed. A good view over the lake here. Thingvellir is

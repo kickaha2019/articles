@@ -1,15 +1,13 @@
----
-title: The Hidden Fortress
-image: hidden_fortress.jpg
-details:
-  Film: "&#38560;&#12375;&#30758;&#12398;&#19977;&#24746;&#20154; (The Hidden Fortress)"
-  Country: Japan
-  Director: Akira Kurosawa
-  Year: '1958'
-  Cast: Toshiro Mifune, Misa Uehara
-  Details: B&amp;W 138 minutes
-layout: review
----
+@title		The Hidden Fortress
+@image		hidden_fortress.jpg
+@list
+Film		&#38560;&#12375;&#30758;&#12398;&#19977;&#24746;&#20154; (The Hidden Fortress)
+Country		Japan
+Director		Akira Kurosawa
+Year		1958
+Cast		Toshiro Mifune, Misa Uehara
+Details		B&amp;W 138 minutes
+@markdown
 Plot: in feudal Japan a loyal general tries to see
 a princess and a gold treasure to safety, after a rival
 state invades.  Two squabbling greedy peasants find

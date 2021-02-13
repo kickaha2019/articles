@@ -1,11 +1,6 @@
----
-title: The Changeling Sea
-images:
-- path: changeling_sea.jpg
-  tag: The Changeling Sea
----
-![The Changeling Sea](changeling_sea.jpg)
-
+@title		The Changeling Sea
+@image		changeling_sea.jpg
+@markdown
 *The Changeling Sea* (1988) is a small book with a rich large
 story in it.  Peri lives her life by the sea, working at an
 inn cleaning on her hands and knees.  The sea has taken her

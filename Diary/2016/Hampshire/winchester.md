@@ -1,18 +1,5 @@
----
-date: March 13th 2016
-anchors:
-- Marwell Zoo
-- Winchester Science Museum
-images:
-- path: science_park.JPG
-  tag: Winchester Science Park
-- path: marwell_zoo.JPG
-  tag: Marwell Zoo
-- path: thomas_lord.JPG
-  tag: Thomas Lord pub
-- path: dessert.JPG
-  tag: Thomas Lord pub dessert
----
+@date		March 13th 2016
+@markdown
 On the Sunday we navigated to a car park in Winchester with only a hiccup or two, but were baffled
 how to enter [Winchester Baptist Church](http://winbap.org.uk/) until one of the congregation took pity on us. Most of the
 people were away but there were still enough there for a good service. I found it difficult to cope
@@ -22,7 +9,8 @@ Virginia and I made a big mistake for lunch, going into an Art Cafe. The student
 as if we were stupid, and didn't help at all - we should have walked out but instead got mugged for a
 miserable sandwich unaccompanied by crisps or salad. Silly us.
 
-![Winchester Science Park](science_park.JPG)
+@inset		science_park.JPG
+@markdown
 We also shouldn't have gone to the [Winchester Science Museum](https://www.winchestersciencecentre.org/) - really one for the kids. We sat through
 a show on the creation of the universe from a Big Bang theory - most people get what they believe
 from what they hear most often, they couldn't derive what they believe from first principles. For us
@@ -32,7 +20,8 @@ We then had a lot of exercise walking around the extensive [Marwell Zoo](https:/
 and leopards, all perhaps bored witless but at least at less risk than in their native habitats. Our
 feet were sore afterwards.
 
-![Thomas Lord pub](thomas_lord.JPG)
+@inset		thomas_lord.JPG
+@markdown
 In the evening we dined at the [Thomas Lord](https://www.thethomaslord.co.uk/) pub in West Meon.
 He was the Lord of Lord's cricket ground, explaining the cricket themed adornment.
 Upmarket fare, the desserts were more artistic than filling. A dog friendly place,

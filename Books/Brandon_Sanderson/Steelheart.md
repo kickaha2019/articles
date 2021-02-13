@@ -1,10 +1,5 @@
----
-images:
-- path: Steelheart.jpg
-  tag: Steelheart
----
-![Steelheart](Steelheart.jpg)
-
+@image		Steelheart.jpg
+@markdown
 [Steelheart](https://brandonsanderson.com/books/steelheart/steelheart/) (2014)
 follows young David Charleston as he seeks revenge for his father's death.
 He has the slight problem his father was killed by an invincible

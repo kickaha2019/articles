@@ -1,13 +1,14 @@
-![Sidholme Hotel](hotel.JPG)
-![Sidholme Hotel](hotel_inside.JPG)
-![Killerton House](killerton.JPG)
-![Bicton Park Gardens](bicton.JPG)
-![Budleigh Salterton](budleigh.JPG)
-![Budleigh Salterton](budleigh_street.JPG)
-![Forde Abbey](forde.JPG)
-![Seaton tram](tram.JPG)
-![Greenway](greenway.JPG)
-![Us at Greenway](greenway_us.JPG)
-![Cave lit by lights cavemen would have used](cave_light.JPG)
-![Babbacombe Model Village](babbacombe.JPG)
-![Our hotel](sidmouth.jpg)
+@gallery
+hotel.JPG		Sidholme Hotel
+hotel_inside.JPG		Sidholme Hotel
+killerton.JPG		Killerton House
+bicton.JPG		Bicton Park Gardens
+budleigh.JPG		Budleigh Salterton
+budleigh_street.JPG		Budleigh Salterton
+forde.JPG		Forde Abbey
+tram.JPG		Seaton tram
+greenway.JPG		Greenway
+greenway_us.JPG		Us at Greenway
+cave_light.JPG		Cave lit by lights cavemen would have used
+babbacombe.JPG		Babbacombe Model Village
+sidmouth.jpg		Our hotel

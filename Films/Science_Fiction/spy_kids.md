@@ -1,15 +1,13 @@
----
-title: Spy Kids
-image: spy_kids.jpg
-details:
-  Film: Spy Kids
-  Country: USA
-  Director: Robert Rodriguez
-  Year: '2001'
-  Cast: Antonio Banderas, Carla Guigino, Alexa Vega, Daryl Sabara
-  Details: Colour 88 minutes
-layout: review
----
+@title		Spy Kids
+@image		spy_kids.jpg
+@list
+Film		Spy Kids
+Country		USA
+Director		Robert Rodriguez
+Year		2001
+Cast		Antonio Banderas, Carla Guigino, Alexa Vega, Daryl Sabara
+Details		Colour 88 minutes
+@markdown
 Plot: Carmen and Juni Cortez have no idea their
 parents are master spies.  But when their parents
 are captured by Fegan Floop, who plans to take

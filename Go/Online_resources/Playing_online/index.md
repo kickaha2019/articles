@@ -1,3 +1,4 @@
+@markdown
 I didn't play Go online until 2020, and the start of the Covid pandemic. But deprived of Thursday night Go meetings in Cambridge I have started to play online. Fortunately there are a number of websites around where one can play over the Internet. They work quite well with a little getting used to or setup required.
 
 One has to register on the websites to use them, and if one uses more than one website it's convenient to have a common username. (This I have failed to do because of different restrictions on usernames.)

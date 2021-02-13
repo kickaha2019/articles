@@ -1,11 +1,6 @@
----
-title: 'Torment: Tides of Numenera'
-images:
-- path: Numenera.jpg
-  tag: 'Torment: Tides of Numenera'
----
-![Torment: Tides of Numenera](Numenera.jpg)
-
+@title		Torment: Tides of Numenera
+@image		Numenera.jpg
+@markdown
 [Torment: Tides of Numenera](https://www.inxile-entertainment.com/torment)
 ([InXile Entertainment](https://www.inxile-entertainment.com/) 2017) is a
 turn-based RPG set in a far far distant future. You're the last

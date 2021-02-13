@@ -1,20 +1,21 @@
-![Moored by ruined Abbey](p01_moored.JPG)
-![Walking to ruined Abbey](p02_abbey.JPG)
-![Looking over the Broads](p03_broads.JPG)
-![The ruined Abbey of St Benets](p04_abbey.JPG)
-![Water and electric supplies](p05_supplies.JPG)
-![Cruising down the Broads](p06_cruising.JPG)
-![Nesting pair of swans](p07_swans.JPG)
-![Typical view of Broads](p08_river.JPG)
-![Potter in Sutton](p09_potter.JPG)
-![Pottery on display](p10_pottery.JPG)
-![Potter at his wheel](p11_wheel.JPG)
-![View up river](p12_river.JPG)
-![Old drainage pump](p13_pump.JPG)
-![Close encounter with nature](p14_duck.JPG)
-![Moored at Acle](p15_acle.JPG)
-![Olden tools](p16_tools.JPG)
-![Skin of eel](p17_eel.JPG)
-![Sunset over the Broads](p18_sunset.JPG)
-![Modern drainage pump](p19_pump.JPG)
-![Modern drainage pump](p20_pump.JPG)
+@gallery
+p01_moored.JPG		Moored by ruined Abbey
+p02_abbey.JPG		Walking to ruined Abbey
+p03_broads.JPG		Looking over the Broads
+p04_abbey.JPG		The ruined Abbey of St Benets
+p05_supplies.JPG		Water and electric supplies
+p06_cruising.JPG		Cruising down the Broads
+p07_swans.JPG		Nesting pair of swans
+p08_river.JPG		Typical view of Broads
+p09_potter.JPG		Potter in Sutton
+p10_pottery.JPG		Pottery on display
+p11_wheel.JPG		Potter at his wheel
+p12_river.JPG		View up river
+p13_pump.JPG		Old drainage pump
+p14_duck.JPG		Close encounter with nature
+p15_acle.JPG		Moored at Acle
+p16_tools.JPG		Olden tools
+p17_eel.JPG		Skin of eel
+p18_sunset.JPG		Sunset over the Broads
+p19_pump.JPG		Modern drainage pump
+p20_pump.JPG		Modern drainage pump

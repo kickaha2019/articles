@@ -1,28 +1,7 @@
----
-title: To Kyoto via Mount Fuji and Hakone
-anchors:
-- Mount Fuji
-- Owakudani
-- Hankone Pirate Cruise
-- Karasuma Kyoto Hotel
-date: March 25th 2013
-images:
-- path: p40_fuji.JPG
-  tag: Best view of Mount Fuji we got
-- path: p41_mount.JPG
-  tag: Mount Fuji from as far as coach went
-- path: p42_cable.JPG
-  tag: Owakudani Boiling Valley on a very foggy day
-- path: p43_pirate.JPG
-  tag: Pirate boat cruise on Lake Ashi
-- path: p44_tearooms.JPG
-  tag: Odawara tea rooms
-- path: p45_coffee.JPG
-  tag: Note miniscule thimble of milk for coffee
-- path: p46_train.JPG
-  tag: Trains including the bullet train in Japan run to time
----
-![Mount Fuji from as far as coach went](p41_mount.JPG)
+@title		To Kyoto via Mount Fuji and Hakone
+@date		March 25th 2013
+@inset		p41_mount.JPG
+@markdown
 This would have been Mum's birthday.  I could have told her of
 how I was doing in Japan, of how appreciative I was for all she
 did for me.
@@ -46,7 +25,8 @@ never got good results doing that.  If people around me are
 talking in English I can't ignore what they're saying, but
 if they talk in Hungarian or Basque it's just background noise.
 
-![Best view of Mount Fuji we got](p40_fuji.JPG)
+@inset		p40_fuji.JPG
+@markdown
 As we approached Mount Fuji fog reduced visibility, and then as the coach
 ascended upwards snow flurries started.  It was a white-out as
 far as we could go.  Snow was lying around Station 5.  By a
@@ -63,7 +43,8 @@ beneath.  They boil eggs in the hot springs there, and the
 sulphur content blackens the eggs.  Not sure I would eat the
 result.
 
-![Pirate boat cruise on Lake Ashi](p43_pirate.JPG)
+@inset		p43_pirate.JPG
+@markdown
 Keiko then got us onto the last [Hankone Pirate Cruise](https://www.hakone-kankosen.co.jp/foreign/en/index.php) (she like the other
 guides kept thanking us for punctuality with bows when in fact some people held
 up coach departure by ten or so minutes).  Pirates aren't what
@@ -77,7 +58,8 @@ by visiting a local 'tea room' which was on the rural side.  Burt's
 cup of tea came with a toy thimble of milk which was smaller than
 the container of syrup I had with the pancakes.
 
-![Trains including the bullet train in Japan run to time](p46_train.JPG)
+@inset		p46_train.JPG
+@markdown
 More time was killed before we ventured onto the platform.  The
 bullet trains really whizz pass, not enough time for me to get a camera
 out and be ready to snap!  Travelling with a large case only just worked,

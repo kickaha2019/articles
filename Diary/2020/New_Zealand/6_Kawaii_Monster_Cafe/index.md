@@ -1,28 +1,6 @@
----
-date: January 8th 2020
-anchors:
-- Kawaii Monster Cafe
-images:
-- path: IMG_0806.jpg
-  tag: Entrance to Kawaii Monster Cafe
-- path: IMG_0808.jpg
-  tag: Area in Kawaii Monster Cafe
-- path: IMG_0810.jpg
-  tag: Area in Kawaii Monster Cafe
-- path: IMG_0811.jpg
-  tag: Area in Kawaii Monster Cafe
-- path: IMG_0812.jpg
-  tag: Area in Kawaii Monster Cafe
-- path: IMG_0834.jpg
-  tag: Toilets in Kawaii Monster Cafe
-- path: IMG_0830.jpg
-  tag: Part of menu
-- path: IMG_0816.jpg
-  tag: The mushroom stage
-- path: IMG_0826.jpg
-  tag: The floor show
----
-![Entrance to Kawaii Monster Cafe](IMG_0806.jpg)
+@date		January 8th 2020
+@inset		IMG_0806.jpg
+@markdown
 It was hard finding the right entrance to Shinjuku Station (Shinjuku Station
 is like a multiple train station wreck) but then found my way to the
 [Kawaii Monster Cafe](http://kawaiimonster.jp/) in time thanks to [Google Maps](https://www.google.com/maps).
@@ -34,7 +12,8 @@ up food-wise with a combo for 2 people and too much meat! I also stupidly
 tried a dessert claiming to be poison cake which was a waste of money. But the food
 is not the reason one comes here.
 
-![Toilets in Kawaii Monster Cafe](IMG_0834.jpg)
+@inset		IMG_0834.jpg
+@markdown
 There's a number of areas (including the toilets) each with their own distinctive
 absurd almost nightmare style. When I went I was able to photograph everywhere,
 the place wasn't packed. There were locals here as well as foreign tourists like me,

@@ -1,11 +1,6 @@
----
-title: 'Atlantis 4: Evolution'
-images:
-- path: Atlantis4.jpg
-  tag: 'Atlantis 4: Evolution'
----
-![Atlantis 4: Evolution](Atlantis4.jpg)
-
+@title		Atlantis 4: Evolution
+@image		Atlantis4.jpg
+@markdown
 "Atlantis 4: Evolution" (2004) is the fourth game in the Atlantis series originally
 from the French game developer Cryo.  An American off a sinking tramp steamer gets
 sucked through a whirlpool into a world inside the Earth.  Here survivors of

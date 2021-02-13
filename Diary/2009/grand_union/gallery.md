@@ -1,20 +1,21 @@
-![Narrow boats in a lock](narrow_boats_in_lock.JPG)
-![Narrow boats on canal](narrow_boats_on_canal.JPG)
-![Closing lock gates](closing_lock_gates.JPG)
-![Stretch of the canal](canal_stretch.JPG)
-![Swan resenting other canal users](swan_ruffled.JPG)
-![Virginia inside the narrow boat](virginia_inside.JPG)
-![Looking from front of narrow boat](front_view.JPG)
-![Interior of narrow boat](interior.JPG)
-![Power control](power.JPG)
-![Approaching lock](approaching_lock.JPG)
-![Entering lock](entering_lock.JPG)
-![Nearly inside lock](nearly_in_lock.JPG)
-![Lock full](lock_full.JPG)
-![Lock two thirds full](two_thirds_full.JPG)
-![Lock one third full](one_third_full.JPG)
-![Lock empty](lock_empty.JPG)
-![Leaving lock](leaving_lock.JPG)
-![Inside another lock](inside_another_lock.JPG)
-![The tiller - like a swan](tiller.JPG)
-![The narrow boat glides on](gliding_away.JPG)
+@gallery
+narrow_boats_in_lock.JPG		Narrow boats in a lock
+narrow_boats_on_canal.JPG		Narrow boats on canal
+closing_lock_gates.JPG		Closing lock gates
+canal_stretch.JPG		Stretch of the canal
+swan_ruffled.JPG		Swan resenting other canal users
+virginia_inside.JPG		Virginia inside the narrow boat
+front_view.JPG		Looking from front of narrow boat
+interior.JPG		Interior of narrow boat
+power.JPG		Power control
+approaching_lock.JPG		Approaching lock
+entering_lock.JPG		Entering lock
+nearly_in_lock.JPG		Nearly inside lock
+lock_full.JPG		Lock full
+two_thirds_full.JPG		Lock two thirds full
+one_third_full.JPG		Lock one third full
+lock_empty.JPG		Lock empty
+leaving_lock.JPG		Leaving lock
+inside_another_lock.JPG		Inside another lock
+tiller.JPG		The tiller - like a swan
+gliding_away.JPG		The narrow boat glides on

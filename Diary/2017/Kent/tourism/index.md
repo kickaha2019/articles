@@ -1,34 +1,6 @@
----
-anchors:
-- Bodiam Castle
-- Bateman's
-- Sissinghurst Castle Gardens
-- Groombridge Place
-- Scotney Castle - National Trust
-title: 3:Places we visited
-images:
-- path: P1380003.JPG
-  tag: Bodiam Castle
-- path: P1380005.JPG
-  tag: Bodiam Castle well
-- path: P1380006.JPG
-  tag: Kipling's home Bateman's
-- path: P1380007.JPG
-  tag: Me at Bateman's
-- path: P1380008.JPG
-  tag: Virginia with Kipling at Bateman's
-- path: P1380020.JPG
-  tag: Sissinghurst gardens
-- path: P1380021.JPG
-  tag: Sissinghurst gardens
-- path: P1380025.JPG
-  tag: Groombridge Place
-- path: P1380029.JPG
-  tag: Groombridge Place
-- path: P1380032.JPG
-  tag: Scotney Castle mansion
----
-![Bodiam Castle](P1380003.JPG)
+@title		3:Places we visited
+@inset		P1380003.JPG
+@markdown
 We made full use of our [National Trust](https://www.nationaltrust.org.uk/) membership -
 we saw [Bodiam Castle](https://www.nationaltrust.org.uk/bodiam-castle) (a fine castle ruin
 with a decent sized moat where Virginia used to be taken by
@@ -49,7 +21,8 @@ where we had baked potatoes for lunch. The gardens were ornate and styled - the 
 owned by socialites. Interesting seeing book repairers at work. One day it just tipped
 down constantly and we stayed indoors apart from venturing out for food.
 
-![Groombridge Place](P1380025.JPG)
+@inset		P1380025.JPG
+@markdown
 It was a fine day however, a nice sunny day and warm when we navigated through Tunbridge
 Wells to get to [Groombridge Place](https://www.groombridgeplace.com/), which was seemingly
 in its off season, or not open to visitors. Neat formal gardens, we also had a long walk

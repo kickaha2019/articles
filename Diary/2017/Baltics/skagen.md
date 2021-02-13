@@ -1,17 +1,6 @@
----
-date: July 26th 2017
-anchors:
-- Voergaard Slot
-- Den Tilsandede Kirke
-images:
-- path: skagen_ent.JPG
-  tag: Wannabee Ent in Skagen area
-- path: skagen_castle.JPG
-  tag: Voergaard Castle
-- path: skagen_buried.JPG
-  tag: Buried Church in Skagen
----
-![Voergaard Castle](skagen_castle.JPG)
+@date		July 26th 2017
+@inset		skagen_castle.JPG
+@markdown
 Skagen (said more like skein) is an attractive small seaside town at the tip of
 Denmark. It attracted a school of artists in the past, it now attracts a lot of
 visitors including ships like ours and cars which make for traffic jams.
@@ -28,7 +17,8 @@ Ingeborg Skeel - her crime was being a single woman in an age
 which didn't appreciate single women. So she has been transmogrified into
 a witch who drowned architects and cut peasants' fingers off.
 
-![Buried Church in Skagen](skagen_buried.JPG)
+@inset		skagen_buried.JPG
+@markdown
 ([Voergaard Castle](https://voergaardslot.dk/english/) had signs for no photographs inside but that didn't stop
 some in our tour group filming away because they felt justified - the human race is very good at
 self-justification.)

@@ -1,19 +1,16 @@
----
-title: Big
-image: big.jpg
-details:
-  Drama: "&#48709; / Big"
-  Country: South Korea
-  Director: Ji Byung-Hyun, Kim Sung-Yoon
-  Writer: Hong Jung-Eun, Hong Mi-Ran
-  Transmitted: 4th June to 24th July 2012
-  Cast: Gong Yoo, Lee Min-jung, Bae Suzy
-  Details: 16 episodes
-  Themes: Body swap, sham marriage
-  Links: "[Official website](http://program.kbs.co.kr/2tv/drama/big/mobile/) [Asian
-    Wiki](http://asianwiki.com/Big_(Korean_Drama)) [Korean Drama](https://www.koreandrama.org/big/)"
-layout: review
----
+@title		Big
+@image		big.jpg
+@list
+Drama		&#48709; / Big
+Country		South Korea
+Director		Ji Byung-Hyun, Kim Sung-Yoon
+Writer		Hong Jung-Eun, Hong Mi-Ran
+Transmitted		4th June to 24th July 2012
+Cast		Gong Yoo, Lee Min-jung, Bae Suzy
+Details		16 episodes
+Themes		Body swap, sham marriage
+Links		[Official website](http://program.kbs.co.kr/2tv/drama/big/mobile/) [Asian Wiki](http://asianwiki.com/Big_(Korean_Drama)) [Korean Drama](https://www.koreandrama.org/big/)
+@markdown
 A teacher is engaged to be married to a doctor who caused her to
 have an accident when she tried to retrieve a bouquet of flowers
 delivered to the wrong bride.  An accident causes a student's soul

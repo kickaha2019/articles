@@ -1,19 +1,16 @@
----
-title: The Greatest Love
-image: greatest_love.jpg
-details:
-  Drama: "&#52572;&#44256;&#51032; &#49324;&#46993; / The Greatest Love"
-  Country: South Korea
-  Director: Park Hong-Kyun, Lee Dong-Yoon
-  Writer: Hong Mi-Ran, Hong Jung-Eun
-  Transmitted: 4th May to 23rd June 2011
-  Cast: Kong Hyo-Jin, Cha Seung-Won, Yoon Kye-Sang, Yoo In-Na
-  Details: 16 episodes
-  Themes: Reality shows, idol groups, Internet rumours, love square
-  Links: "[Official website](http://www.imbc.com/broad/tv/drama/greatestlove/) [Asian
-    Wiki](http://asianwiki.com/The_Greatest_Love_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/the-greatest-love/)"
-layout: review
----
+@title		The Greatest Love
+@image		greatest_love.jpg
+@list
+Drama		&#52572;&#44256;&#51032; &#49324;&#46993; / The Greatest Love
+Country		South Korea
+Director		Park Hong-Kyun, Lee Dong-Yoon
+Writer		Hong Mi-Ran, Hong Jung-Eun
+Transmitted		4th May to 23rd June 2011
+Cast		Kong Hyo-Jin, Cha Seung-Won, Yoon Kye-Sang, Yoo In-Na
+Details		16 episodes
+Themes		Reality shows, idol groups, Internet rumours, love square
+Links		[Official website](http://www.imbc.com/broad/tv/drama/greatestlove/) [Asian Wiki](http://asianwiki.com/The_Greatest_Love_-_Korean_Drama) [Korean Drama](https://www.koreandrama.org/the-greatest-love/)
+@markdown
 "The Greatest Love"
 is a TV mini-series written by the Hong sisters, perhaps their best.
 It's about the tangled romantic relationships between an arrogant self-centred

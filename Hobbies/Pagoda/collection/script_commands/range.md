@@ -1,3 +1,4 @@
+@markdown
 The *range* script command sets a given variable to a sequence of numbers,
 	defined by a start, increment, and end.  The *range* command can be
 	stopped before the end using a *Prune* command in the following

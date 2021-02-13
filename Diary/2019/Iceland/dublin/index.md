@@ -1,15 +1,6 @@
----
-date: 1st August 2019
-anchors:
-- St Patrick's Cathedral
-- Arlington Hotel
-images:
-- path: cathedral.jpg
-  tag: St Patrick's Cathedral
-- path: dancing.jpg
-  tag: Celtic Nights show
----
-![Celtic Nights show](dancing.jpg)
+@date		1st August 2019
+@inset		dancing.jpg
+@markdown
 We did an excursion in Dublin which took us round some of Dublin including a stop
 to snap St Patrick's Cathedral, together with narration about various statues.
 There's history here, the Irish are very conscious of their history.

@@ -1,14 +1,12 @@
----
-image: all_night_long.jpg
-details:
-  Film: "&#22812;&#30219;&#29378; (All Night Long)"
-  Country: Hong Kong
-  Director: Tai Kit Mak
-  Year: '1989'
-  Cast: Cheng Yu-Ling, Fung Shiu-Fan, Kwok Kam-Yan
-  Details: Colour 90 minutes
-layout: review
----
+@image		all_night_long.jpg
+@list
+Film		&#22812;&#30219;&#29378; (All Night Long)
+Country		Hong Kong
+Director		Tai Kit Mak
+Year		1989
+Cast		Cheng Yu-Ling, Fung Shiu-Fan, Kwok Kam-Yan
+Details		Colour 90 minutes
+@markdown
 Plot: an ill-assorted group of women suddenly find
 themselves with a pile of stolen money.  And the dead
 body of a bank robber who expired in the convenience

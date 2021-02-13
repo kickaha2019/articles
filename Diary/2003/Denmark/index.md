@@ -1,22 +1,6 @@
----
-date: Friday, 6 June 2003
-anchors:
-- R&aring;jberg Mile
-- Skagen Peninsula
-- Lindholm H&oslash;je
-images:
-- path: burial_field.jpg
-  tag: Viking burial field
-- path: dune_sign.jpg
-  tag: The evil monster sand
-- path: dune.jpg
-  tag: dune crossing Denmark
-- path: skagen_peninsula.jpg
-  tag: Skagen peninsula
-- path: brodies.jpg
-  tag: The friendly Brodies
----
-![Skagen peninsula](skagen_peninsula.jpg)
+@date		Friday, 6 June 2003
+@inset		skagen_peninsula.jpg
+@markdown
 I visited friends I knew from Waterbeach who were now living in Denmark. I will go a long way to see friends.
 
 Spent a very pleasant time seeing the evil monster sand dune which is crossing the tip of Denmark at *R&aring;jberg Mile*,

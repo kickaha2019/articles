@@ -1,3 +1,1 @@
----
-blurb: Our wedding
----
+@blurb		Our wedding

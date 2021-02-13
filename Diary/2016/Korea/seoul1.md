@@ -1,21 +1,7 @@
----
-title: Arrival in Seoul
-anchors:
-- Aventree Hotel
-date: May 9th 2016
-images:
-- path: bidet.jpg
-  tag: Toilets at the Aventree Hotel in Seoul
-- path: bidet_control.jpg
-  tag: Toilet control panel
-- path: seoul_laundry.jpg
-  tag: Coin laundry in the Aventree Hotel
-- path: seoul_jongno_tower.jpg
-  tag: Jongno Tower near the Aventree Hotel
-- path: seoul_brushes.jpg
-  tag: Shop selling calligraphy paper and brushes
----
-![Jongno Tower near the Aventree Hotel](seoul_jongno_tower.jpg)
+@title		Arrival in Seoul
+@date		May 9th 2016
+@inset		seoul_jongno_tower.jpg
+@markdown
 We landed late, immigration took a time as there were loads of Chinese tourists (who viewed the queueing
 system as more guidance than something to follow 100%). A driver was waiting for me, and it took an hour
 from Incheon to the [Aventree Hotel](https://www.aventreehotel.com/) in Seoul. I tipped the driver 10,000 won, not sure whether that was too

@@ -1,11 +1,6 @@
----
-title: Eschalon Book 2
-images:
-- path: Eschalon2.jpg
-  tag: Eschalon Book 2
----
-![Eschalon Book 2](Eschalon2.jpg)
-
+@title		Eschalon Book 2
+@image		Eschalon2.jpg
+@markdown
 [Eschalon Book 2](http://basiliskgames.com/eschalon-book-ii/)
 ([Basilisk Games](http://basiliskgames.com/) 2010) is a traditional turn-based RPG game. You can play either a male or female character, and choose between playing as a fighter or mage or thief. The game is presented as an isometric third-person view, with dynamic weather which affects gameplay (so firebolts don't work so well when it's raining.) Dialogue is text-based rather than spoken.
 

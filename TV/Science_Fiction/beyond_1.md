@@ -1,13 +1,11 @@
----
-image: beyond_1.jpg
-details:
-  Series: "[Beyond](https://freeform.go.com/shows/beyond)"
-  Creator: Adam Nussdorf
-  Broadcast: '2017'
-  Cast: Burkely Duffield, Dilan Gwyn, Romy Rosemont, Jordan Calloway
-  Length: 10 42 minute episodes
-layout: review
----
+@image		beyond_1.jpg
+@list
+Series		[Beyond](https://freeform.go.com/shows/beyond)
+Creator		Adam Nussdorf
+Broadcast		2017
+Cast		Burkely Duffield, Dilan Gwyn, Romy Rosemont, Jordan Calloway
+Length		10 42 minute episodes
+@markdown
 Young guy wakes up from a 12-year coma with super-powers.
 Mysterious organisation pursues him to use those super-powers.
 

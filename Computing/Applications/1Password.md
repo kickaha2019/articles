@@ -1,7 +1,6 @@
----
-title: 1Password
-icon: 1Password.png
----
+@title		1Password
+@icon		1Password.png
+@markdown
 I'm using
 [1Password](https://1password.com/) now for holding passwords and secure data
 on the iMac and iPad and iPhone that I use. The product has an iCloud based synching

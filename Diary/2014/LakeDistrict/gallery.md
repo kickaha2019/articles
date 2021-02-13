@@ -1,12 +1,13 @@
-![The cat's hotel](cattery.JPG)
-![Virginia at our hotel](DSCF5226.jpg)
-![Holker Hall](holker_hall.JPG)
-![Holker Hall gardens](holker_gardens.JPG)
-![Hill Top](beatrix_house.JPG)
-![Flowers at Hill Top](beatrix_flowers.JPG)
-![Lake Windermere cruiser](windermere_boat.JPG)
-![Boat house on Lake Windermere](boat_house.JPG)
-![Lake Windermere](lake.JPG)
-![Lake Windermere hills](windermere_hills.JPG)
-![Lakeland Motor Museum](motor_museum.JPG)
-![Swarthmoor Hall](swarthmoor_hall.JPG)
+@gallery
+cattery.JPG		The cat's hotel
+DSCF5226.jpg		Virginia at our hotel
+holker_hall.JPG		Holker Hall
+holker_gardens.JPG		Holker Hall gardens
+beatrix_house.JPG		Hill Top
+beatrix_flowers.JPG		Flowers at Hill Top
+windermere_boat.JPG		Lake Windermere cruiser
+boat_house.JPG		Boat house on Lake Windermere
+lake.JPG		Lake Windermere
+windermere_hills.JPG		Lake Windermere hills
+motor_museum.JPG		Lakeland Motor Museum
+swarthmoor_hall.JPG		Swarthmoor Hall

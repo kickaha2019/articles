@@ -1,10 +1,7 @@
----
-date: September 7th 2018
-icon: dublin.jpg
-anchors:
-- National Museum of Ireland - Natural History Museum
-title: Dublin
----
+@title		Dublin
+@icon		dublin.jpg
+@date		September 7th 2018
+@markdown
 We caught the shuttle bus into Dublin and walked around a
 little, seeing a statue of Molly Malone, seeing how long the
 queues were for the Book of Kells in Trinity College Dublin,

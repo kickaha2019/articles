@@ -1,10 +1,5 @@
----
-images:
-- path: LillyLookingThrough.jpg
-  tag: Lilly Looking Through
----
-![Lilly Looking Through](LillyLookingThrough.jpg)
-
+@image		LillyLookingThrough.jpg
+@markdown
 [Lilly Looking Through](https://www.kickstarter.com/projects/516151670/lilly-looking-through-an-animated-adventure-game)
 ([Geeta Games](http://geetagames.com)
 2013) is the first Kickstarter funded Adventure game I've played!  And a great

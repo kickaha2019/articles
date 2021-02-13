@@ -1,54 +1,7 @@
----
-date: September 25th 2019
-title: Three nights in Norfolk
-anchors:
-- Grime's Graves
-- Peter Beales Roses
-- Gooderstone Water Gardens
-- Oxburgh Hall
-- Banham Zoo
-- Dads Army Museum
-images:
-- path: IMG_0564.jpg
-  tag: View from holiday cottage
-- path: IMG_0502.jpg
-  tag: Grime's Graves
-- path: IMG_0506.jpg
-  tag: Grime's Graves
-- path: IMG_0499.jpg
-  tag: Grime's Graves
-- path: IMG_0492.jpg
-  tag: Grime's Graves
-- path: IMG_0500.jpg
-  tag: Grime's Graves
-- path: IMG_0501.jpg
-  tag: Grime's Graves
-- path: IMG_0511.jpg
-  tag: Peter Beale's Roses
-- path: IMG_0512.jpg
-  tag: Peter Beale's Roses
-- path: IMG_0517.jpg
-  tag: Peter Beale's Roses
-- path: IMG_0526.jpg
-  tag: Gooderstone Water Gardens
-- path: IMG_0534.jpg
-  tag: Gooderstone Water Gardens
-- path: IMG_0537.jpg
-  tag: Oxburgh Hall
-- path: IMG_0539.jpg
-  tag: Oxburgh Hall
-- path: IMG_0541.jpg
-  tag: Oxburgh Hall
-- path: IMG_0542.jpg
-  tag: Banham Zoo
-- path: IMG_0559.jpg
-  tag: Banham Zoo
-- path: IMG_0566.jpg
-  tag: Dad's Army Museum
-- path: IMG_0567.jpg
-  tag: Dad's Army Museum
----
-![View from holiday cottage](IMG_0564.jpg)
+@title		Three nights in Norfolk
+@date		September 25th 2019
+@inset		IMG_0564.jpg
+@markdown
 Virginia and I have spent three nights in Norfolk, staying at a 'cottage'
 in Caston. To get the downside out of the way first this was the worst
 'cottage' we've stayed in. It was really a grungy annexe facing what could
@@ -74,7 +27,8 @@ which in their day were much more valuable than gold would have been?
 There was small gift shop and exhibition there, the unreliable Satnav took us
 down into MOD land with barred roads.
 
-![Peter Beale's Roses](IMG_0511.jpg)
+@inset		IMG_0511.jpg
+@markdown
 We then went to [Peter Beales Roses](http://www.classicroses.co.uk/) where we spent a long time catching up
 with my cousin Pat and husband, so long I felt for the staff trying to clean in the
 Rosarium Cafe. It's a very nice place, the gardens seem designed for taking
@@ -97,7 +51,8 @@ has plenty of pictures and upper-class prejudices like the symmetry in the libra
 This requires a concealed door of sham fake books with titles expressing family contempt
 and disdain at money-grubbing son-in-laws and Kings who fail to reward.
 
-![Banham Zoo](IMG_0542.jpg)
+@inset		IMG_0542.jpg
+@markdown
 Really tipped down that Friday, including as we took in [Banham Zoo](http://www.banhamzoo.co.uk/). Packed with young adults
 in the cafe when we went to have a bite to eat to wait for the rain to relent.
 [Banham Zoo](http://www.banhamzoo.co.uk/) is a zoo. The animals (apart from the human animals) are in enclosures. You could

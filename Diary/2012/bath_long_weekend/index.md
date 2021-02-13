@@ -1,70 +1,6 @@
----
-date: 28th September 2012
-anchors:
-- The Roman Baths
-- The Jane Austen Centre
-- The Royal Crescent
-- Bathampton
-- Dyrham Park
-images:
-- path: p01_baths.JPG
-  tag: Outside the Roman baths
-- path: p02_abbey.JPG
-  tag: Bath Abbey
-- path: p03_diagram.JPG
-  tag: Inside the Roman baths
-- path: p04_pool.JPG
-  tag: Inside the Roman baths
-- path: p05_pool.JPG
-  tag: Inside the Roman baths
-- path: p06_abbey.JPG
-  tag: Looking out from the Roman baths
-- path: p07_statue.JPG
-  tag: Inside the Roman baths
-- path: p08_temple.JPG
-  tag: Minerva temple in the Roman baths
-- path: p09_channels.JPG
-  tag: Inside the Roman baths
-- path: p10_ochre.JPG
-  tag: Inside the Roman baths
-- path: p11_pool.JPG
-  tag: Inside the Roman baths
-- path: p12_pool.JPG
-  tag: Inside the Roman baths
-- path: p13_green.JPG
-  tag: Inside the Roman baths
-- path: p14_stream.JPG
-  tag: Inside the Roman baths
-- path: p15_pool.JPG
-  tag: Inside the Roman baths
-- path: p16_square.JPG
-  tag: Queen Square
-- path: p17_square.JPG
-  tag: Queen Square
-- path: p18_ginny.JPG
-  tag: Virginia outside Jane Austen exhibition
-- path: p19_circus.JPG
-  tag: Circus
-- path: p20_assembly.JPG
-  tag: Assembly Rooms
-- path: p21_me.JPG
-  tag: Me at the Royal Crescent
-- path: p22_crescent.JPG
-  tag: Royal Crescent
-- path: p23_weir.JPG
-  tag: River Avon weir
-- path: p24_bridge.JPG
-  tag: Bridge over River Avon
-- path: p25_weir.JPG
-  tag: Bathampton Weir
-- path: p26_weir.JPG
-  tag: Bathampton Weir
-- path: p27_dyrham.JPG
-  tag: Dyrham Park
-- path: p28_dyrham.JPG
-  tag: Dyrham Park
----
-![Bath Abbey](p02_abbey.JPG)
+@date		28th September 2012
+@inset		p02_abbey.JPG
+@markdown
 The [Albany Guest House](https://www.albanybath.co.uk/) was easy to get to thanks to the Satnav.
 Less sure about getting to the car park behind the guest house
 which was two spaces in what had been a sloping garden.
@@ -81,7 +17,8 @@ nuisance of the bathroom being separate it was fine, the
 downstairs breakfast area was nice and the cooked breakfast
 set one up for a day's exploring.
 
-![Outside the Roman baths](p01_baths.JPG)
+@inset		p01_baths.JPG
+@markdown
 Bath feels like it hasn't changed much since Jane Austen's days,
 perhaps our guest house was around then?  Perhaps it was, but
 free wi-fi certainly wasn't.  The iPad proved useful for
@@ -93,7 +30,8 @@ The guest house kindly armed us with maps and guides and we set
 off for the
 [Roman baths](https://www.romanbaths.co.uk/) on the Friday afternoon.
 
-![Inside the Roman baths](p03_diagram.JPG)
+@inset		p03_diagram.JPG
+@markdown
 The presentation of the hot springs of Aqua Sulis has changed over
 the years.  The displays and audio-guide did a good job of trying
 to suggest what the Roman baths were like for the Romans.  They
@@ -118,7 +56,8 @@ nutritional value) and abysmally laid out tables where it was hard
 to tell which table I was sitting at.  So avoid anything
 saying modern English.
 
-![Virginia outside Jane Austen exhibition](p18_ginny.JPG)
+@inset		p18_ginny.JPG
+@markdown
 On the Saturday we found Bath receiving a flood of tourists
 disgorged from coaches.  The younger element seemed content to
 relax in the grassy park below the Royal Crescent rather than
@@ -132,7 +71,8 @@ We had tea and muffins in the sweet Regency tea-rooms
 upstairs, genteel!  They were kind to replace the toasted bun I
 ordered forgetting it would contain raisins with a cheese scone.
 
-![Assembly Rooms](p20_assembly.JPG)
+@inset		p20_assembly.JPG
+@markdown
 We saw a missable fashion display at the
 [Assembly Rooms](https://www.nationaltrust.org.uk/bath-assembly-rooms)
 but not the Assembly Rooms themselves as a Book Fair was in
@@ -153,7 +93,8 @@ at the
 [Pizza Express Bath Theatre Royal](https://www.pizzaexpress.com/bath-theatre-royal)
 which suited me better than nouvelle cuisine.
 
-![Dyrham Park](p27_dyrham.JPG)
+@inset		p27_dyrham.JPG
+@markdown
 On the Sunday we dropped in on [Dyrham Park](https://www.nationaltrust.org.uk/dyrham-park) stupidly
 trusting the National Trust recommended postcode for the
 Satnav.  Mistake, went down one-track road only to find

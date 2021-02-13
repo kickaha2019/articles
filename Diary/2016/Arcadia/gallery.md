@@ -1,69 +1,70 @@
-![Our lounge pre-departure](lounge.jpg)
-![Harvester we stopped at in Portsmouth](harvester.jpg)
-![Our Portsmouth Hotel](portsmouth_hotel.jpg)
-![Mary Rose in Portsmouth](mary_rose.jpg)
-![Portsmouth Dockyard Boathouse](workshop.jpg)
-![The Arcadia](arcadia.jpg)
-![Our cabin](cabin.jpg)
-![Muster drill](muster.jpg)
-![Art gallery on the Arcadia](art_gallery.jpg)
-![The Arcadia atrium](atrium.jpg)
-![Coffee bar](caffe_vivo.jpg)
-![Crows Nest bar](crows_nest.jpg)
-![The gallant captain](captain.jpg)
-![Ocean Grill](ocean_grill.jpg)
-![Ocean Grill](ocean_grill2.jpg)
-![Palladium Theatre](palladium.jpg)
-![Promenade deck](promenade.jpg)
-![Promenade deck](promenade2.jpg)
-![Sindhu](sindhu.jpg)
-![Sindhu](sindhu2.jpg)
-![Sindhu](sindhu3.jpg)
-![Arcadia stairwell](stairwell.jpg)
-![Sun deck](sun_deck.jpg)
-![Sun deck](sun_deck2.jpg)
-![Cape Trafalgar](trafalgar.jpg)
-![Vejer](vejer.jpg)
-![Vejer](vejer2.jpg)
-![Vejer](vejer3.jpg)
-![Vejer](vejer4.jpg)
-![Cagliari](cagliari.jpg)
-![Cagliari](cagliari2.jpg)
-![Salerno](salerno.jpg)
-![Herculaneum](herculaneum.jpg)
-![Herculaneum](herculaneum2.jpg)
-![Herculaneum](herculaneum3.jpg)
-![Herculaneum](herculaneum4.jpg)
-![Herculaneum](herculaneum5.jpg)
-![Messina](messina.jpg)
-![Messina](messina2.jpg)
-![Messina](messina3.jpg)
-![La Spezia](la_spezia.jpg)
-![La Spezia](la_spezia2.jpg)
-![Elba](elba.jpg)
-![Elba](elba2.jpg)
-![Aix En Provence](aix.jpg)
-![Cezanne's path in Aix](aix2.jpg)
-![Aix cathedral](aix3.jpg)
-![Aix biscuit shop](aix4.jpg)
-![Aix cafe](aix5.jpg)
-![Building facade in Barcelona](barcelona.jpg)
-![Gaudi buildings in Barcelona](gaudi.jpg)
-![Gaudi buildings in Barcelona](gaudi2.jpg)
-![Park Guell in Barcelona](gueill.jpg)
-![Park Guell](gueill2.jpg)
-![Park Guell](gueill3.jpg)
-![Park Guell](gueill4.jpg)
-![Park Guell](gueill5.jpg)
-![Park Guell](gueill6.jpg)
-![Park Guell](gueill7.jpg)
-![Park Guell](gueill8.jpg)
-![Sagrada Familia](sagrada.jpg)
-![Sagrada Familia](sagrada2.jpg)
-![Sagrada Familia](sagrada3.jpg)
-![Sagrada Familia](sagrada4.jpg)
-![Sagrada Familia](sagrada5.jpg)
-![Sagrada Familia](sagrada6.jpg)
-![Ceuta](ceuta.jpg)
-![Ceuta](ceuta2.jpg)
-![Ceuta](ceuta3.jpg)
+@gallery
+lounge.jpg		Our lounge pre-departure
+harvester.jpg		Harvester we stopped at in Portsmouth
+portsmouth_hotel.jpg		Our Portsmouth Hotel
+mary_rose.jpg		Mary Rose in Portsmouth
+workshop.jpg		Portsmouth Dockyard Boathouse
+arcadia.jpg		The Arcadia
+cabin.jpg		Our cabin
+muster.jpg		Muster drill
+art_gallery.jpg		Art gallery on the Arcadia
+atrium.jpg		The Arcadia atrium
+caffe_vivo.jpg		Coffee bar
+crows_nest.jpg		Crows Nest bar
+captain.jpg		The gallant captain
+ocean_grill.jpg		Ocean Grill
+ocean_grill2.jpg		Ocean Grill
+palladium.jpg		Palladium Theatre
+promenade.jpg		Promenade deck
+promenade2.jpg		Promenade deck
+sindhu.jpg		Sindhu
+sindhu2.jpg		Sindhu
+sindhu3.jpg		Sindhu
+stairwell.jpg		Arcadia stairwell
+sun_deck.jpg		Sun deck
+sun_deck2.jpg		Sun deck
+trafalgar.jpg		Cape Trafalgar
+vejer.jpg		Vejer
+vejer2.jpg		Vejer
+vejer3.jpg		Vejer
+vejer4.jpg		Vejer
+cagliari.jpg		Cagliari
+cagliari2.jpg		Cagliari
+salerno.jpg		Salerno
+herculaneum.jpg		Herculaneum
+herculaneum2.jpg		Herculaneum
+herculaneum3.jpg		Herculaneum
+herculaneum4.jpg		Herculaneum
+herculaneum5.jpg		Herculaneum
+messina.jpg		Messina
+messina2.jpg		Messina
+messina3.jpg		Messina
+la_spezia.jpg		La Spezia
+la_spezia2.jpg		La Spezia
+elba.jpg		Elba
+elba2.jpg		Elba
+aix.jpg		Aix En Provence
+aix2.jpg		Cezanne's path in Aix
+aix3.jpg		Aix cathedral
+aix4.jpg		Aix biscuit shop
+aix5.jpg		Aix cafe
+barcelona.jpg		Building facade in Barcelona
+gaudi.jpg		Gaudi buildings in Barcelona
+gaudi2.jpg		Gaudi buildings in Barcelona
+gueill.jpg		Park Guell in Barcelona
+gueill2.jpg		Park Guell
+gueill3.jpg		Park Guell
+gueill4.jpg		Park Guell
+gueill5.jpg		Park Guell
+gueill6.jpg		Park Guell
+gueill7.jpg		Park Guell
+gueill8.jpg		Park Guell
+sagrada.jpg		Sagrada Familia
+sagrada2.jpg		Sagrada Familia
+sagrada3.jpg		Sagrada Familia
+sagrada4.jpg		Sagrada Familia
+sagrada5.jpg		Sagrada Familia
+sagrada6.jpg		Sagrada Familia
+ceuta.jpg		Ceuta
+ceuta2.jpg		Ceuta
+ceuta3.jpg		Ceuta

@@ -1,9 +1,5 @@
----
-images:
-  - path: 2014/Azura/ship.JPG
-    tag:  Azura
----
-![Azura](../../Diary/2014/Azura/ship.JPG)
+@inset		../../Diary/2014/Azura/ship.JPG
+@markdown
 The [Azura](https://www.pocruises.com/cruise-ships/azura/) is a [P&O](P&O)
 ship with a a capacity of 3,100 passengers.
 

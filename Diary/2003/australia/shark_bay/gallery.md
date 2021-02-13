@@ -1,11 +1,12 @@
-![Denham - where I stayed in Shark Bay area](denham.jpg)
-![Birrida - dried up salt lake](birrida.jpg)
-![Peron peninsula](peninsula_coast.jpg)
-![Peron peninsula beach](beach.jpg)
-![Peron shoreline](shoreline.jpg)
-![The sea on the Peron peninsula](peron_sea.jpg)
-![Monkey Mia - the dolphin watchers](monkey_mia.jpg)
-![Monkey Mia - the dolphins are semi-tame](dolphins.jpg)
-![Emu at Shell Beach](emu.jpg)
-![Stromatolites](stromatolites.jpg)
-![Coquina quarry](coquina.jpg)
+@gallery
+denham.jpg		Denham - where I stayed in Shark Bay area
+birrida.jpg		Birrida - dried up salt lake
+peninsula_coast.jpg		Peron peninsula
+beach.jpg		Peron peninsula beach
+shoreline.jpg		Peron shoreline
+peron_sea.jpg		The sea on the Peron peninsula
+monkey_mia.jpg		Monkey Mia - the dolphin watchers
+dolphins.jpg		Monkey Mia - the dolphins are semi-tame
+emu.jpg		Emu at Shell Beach
+stromatolites.jpg		Stromatolites
+coquina.jpg		Coquina quarry

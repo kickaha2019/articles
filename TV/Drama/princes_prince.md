@@ -1,19 +1,16 @@
----
-title: Prince of Prince
-image: princes_prince.jpg
-details:
-  Drama: "&#54532;&#47536;&#49828;&#51032; &#50773;&#51088; / Prince of Prince"
-  Country: South Korea
-  Director: Choi Hyung Joon, Shin Joo Hwan
-  Writer: Kim Min Hye
-  Transmitted: 8th June 2015 to 19th June 2015
-  Cast: Choi Jong Hoon, Im Yoon Ho, Yuna
-  Themes: Not sure
-  Details: 10 15-minute episodes
-  Links: "[Official website](https://tv.naver.com/sim2005) [Korean Drama](https://www.koreandrama.org/prince-of-prince/)
-    [Han Cinema](https://www.hancinema.net/korean_drama_Prince_of_Prince.php)"
-layout: review
----
+@title		Prince of Prince
+@image		princes_prince.jpg
+@list
+Drama		&#54532;&#47536;&#49828;&#51032; &#50773;&#51088; / Prince of Prince
+Country		South Korea
+Director		Choi Hyung Joon, Shin Joo Hwan
+Writer		Kim Min Hye
+Transmitted		8th June 2015 to 19th June 2015
+Cast		Choi Jong Hoon, Im Yoon Ho, Yuna
+Themes		Not sure
+Details		10 15-minute episodes
+Links		[Official website](https://tv.naver.com/sim2005) [Korean Drama](https://www.koreandrama.org/prince-of-prince/) [Han Cinema](https://www.hancinema.net/korean_drama_Prince_of_Prince.php)
+@markdown
 This is based on a web cartoon, and perhaps if I could read Korean and had read
 that cartoon I might understand it a bit more. Set in the world of a fantasy game
 developer, a rich guy forces his way into the game company to save his younger

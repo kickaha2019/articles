@@ -1,28 +1,6 @@
----
-date: 19th July 2019
-anchors:
-- Mottisfont
-images:
-- path: bags_packed.jpg
-  tag: Our bags packed in the boot of the car
-- path: tossed.jpg
-  tag: Tossed at South Mimms
-- path: holiday_inn.jpg
-  tag: Holiday Inn Express
-- path: pizza_hut.jpg
-  tag: Pizza Hut
-- path: pizzas.jpg
-  tag: Pizzas in Pizza Hut
-- path: house.jpg
-  tag: Mottisfont house
-- path: font.jpg
-  tag: The font of Mottisfont
-- path: gardens.jpg
-  tag: Mottisfont gardens
-- path: unloading.jpg
-  tag: Unloading bags at the Cruise Terminal
----
-![Our bags packed in the boot of the car](bags_packed.jpg)
+@date		19th July 2019
+@inset		bags_packed.jpg
+@markdown
 Virginia and I drove down the day before the cruise started, packing
 the bags into the back of Virginia's Kia estate (larger than my Kia). The
 boot of the Kia estate is smaller than the Skoda she used to drive, we
@@ -45,7 +23,8 @@ they could be.
 We had an evening meal at a nearby [Pizza Hut](https://www.pizzahut.co.uk/)
 (I do like a pepperoni pizza).
 
-![The font of Mottisfont](font.jpg)
+@inset		font.jpg
+@markdown
 On the Saturday morning we went to [Mottisfont](https://www.nationaltrust.org.uk/mottisfont) a [National Trust](https://www.nationaltrust.org.uk/) place.
 An interesting place for the trompe d'oeil work inside tricking the eye.
 Doors which aren't real doors, doors where there seem to be doors.

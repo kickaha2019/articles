@@ -1,11 +1,6 @@
----
-date: May 31st 2015
-images:
-- path: words.jpg
-  tag: Words
----
-![Words](words.jpg)
-
+@date		May 31st 2015
+@image		words.jpg
+@markdown
 My mother died on June 10th, 2012.  We had the funeral service, and
 I found tears to weep.  We had her ashes interred at a local
 cemetery.  So there's now a patch of earth with a wooden cross

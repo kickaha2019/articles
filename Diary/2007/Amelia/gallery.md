@@ -1,11 +1,12 @@
-![Amelia and her litter-mates when just twelve hours old](litter.jpg)
-![Amelia at seven weeks of age](7_weeks.jpg)
-![Playing with her sister Enya](with_enya.JPG)
-![Nine weeks old and starting to colouring](9_weeks.JPG)
-![Resting with her sister after the exertions of play](resting_after_play.JPG)
-![Tabitha rests on her fleece unsuspectingly](tabitha.JPG)
-![Amelia arrives in Histon! But Tabitha isn't sure about it](arrival.JPG)
-![Exploring the lounge](exploring.JPG)
-![On top of the cat-tree in the lounge](on_cat_tree.JPG)
-![Tabitha lurking uncertain what to do!](tabitha_hides.JPG)
-![Amelia having a cuddle with Virginia](cuddle.JPG)
+@gallery
+litter.jpg		Amelia and her litter-mates when just twelve hours old
+7_weeks.jpg		Amelia at seven weeks of age
+with_enya.JPG		Playing with her sister Enya
+9_weeks.JPG		Nine weeks old and starting to colouring
+resting_after_play.JPG		Resting with her sister after the exertions of play
+tabitha.JPG		Tabitha rests on her fleece unsuspectingly
+arrival.JPG		Amelia arrives in Histon! But Tabitha isn't sure about it
+exploring.JPG		Exploring the lounge
+on_cat_tree.JPG		On top of the cat-tree in the lounge
+tabitha_hides.JPG		Tabitha lurking uncertain what to do!
+cuddle.JPG		Amelia having a cuddle with Virginia

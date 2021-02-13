@@ -1,3 +1,4 @@
+@markdown
 The content on most of the pages on this website is
 written in [Markdown](http://daringfireball.net/projects/markdown/), in particular
 [Github Flavoured Markdown](https://github.github.com/gfm/) with

@@ -1,3 +1,4 @@
+@markdown
 Because testing "Journeys" is tedious and repetitive I decided
 to try some automated testing using [Cucumber](https://cucumber.io/) which I've been
 using at work.
@@ -58,7 +59,7 @@ definitions.  For the step:
 
 ~~~
   Given menu page is displayed in browser
-  
+
 ~~~
 The step definition is:
 
@@ -75,7 +76,7 @@ For the step:
 
 ~~~
   Then I see text "The journey of a thousand miles"
-          
+
 ~~~
 The step definition is:
 
@@ -97,7 +98,7 @@ is implemented as:
 	@@x_offset = mask.location.x
 	@@y_offset = mask.location.y
   end
-  
+
 ~~~
 where we pass the file location of the game's index.html
 page as an environment variable.

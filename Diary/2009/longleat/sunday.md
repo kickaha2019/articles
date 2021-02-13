@@ -1,19 +1,7 @@
----
-title: Avebury Stone Circle
-anchors:
-- Avebury Stone Circle
-date: 10th May 2009
-images:
-- path: avebury1.JPG
-  tag: Avebury Stone Circle
-- path: avebury2.JPG
-  tag: Avebury Stone Circle
-- path: avebury3.JPG
-  tag: Avebury Stone Circle
-- path: avebury4.JPG
-  tag: Avebury Stone Circle
----
-![Avebury Stone Circle](avebury1.JPG)
+@title		Avebury Stone Circle
+@date		10th May 2009
+@inset		avebury1.JPG
+@markdown
 On the way back from the Longleat area to Cambridge on the Sunday we went round
 [Avebury Stone Circle](https://www.english-heritage.org.uk/visit/places/avebury/),
 which for me is more impressive than Stonehenge. The re-erected stones are ghosts of the past, still making their presence felt as they stand in their circles like petrified cricketeers. Sheep graze in among the stones, a road bisects the circle, the village has squatted on what the site used to be. Yet this monolithic procession still hints at an unseen and unknown, beyond our mundane today. A focus.

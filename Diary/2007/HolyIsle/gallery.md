@@ -1,7 +1,8 @@
-![Causeway to Holy Isle](Causeway.JPG)
-![On the Beach](beach.JPG)
-![Window to nowhere from nowhere](Window.JPG)
-![The Castle](Castle.JPG)
-![Our little group](Group.JPG)
-![The lunar eclipse](lunar_eclipse.JPG)
-![Eider ducks honest](eider_ducks.JPG)
+@gallery
+Causeway.JPG		Causeway to Holy Isle
+beach.JPG		On the Beach
+Window.JPG		Window to nowhere from nowhere
+Castle.JPG		The Castle
+Group.JPG		Our little group
+lunar_eclipse.JPG		The lunar eclipse
+eider_ducks.JPG		Eider ducks honest

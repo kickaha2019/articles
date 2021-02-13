@@ -1,86 +1,7 @@
----
-title: Buddha's birthday and Busan
-anchors:
-- Unmunsa
-- Jagalchi Market
-- Lotte Department Store Busan
-- Busan Tower
-date: May 14th 2016
-images:
-- path: unmun_lake.jpg
-  tag: The dammed Lake Unmun
-- path: unmun_lake1.jpg
-  tag: Villages forced to move by the dam
-- path: unmunsa.jpg
-  tag: Approach to Unmunsa Buddhist nun's temple
-- path: unmunsa_gate.jpg
-  tag: Unmunsa gate
-- path: unmunsa_tree.jpg
-  tag: Old tree at Unmunsa
-- path: unmunsa2.jpg
-  tag: Lanterns at Unmunsa
-- path: unmunsa_lanterns.jpg
-  tag: Lanterns at Unmunsa
-- path: unmunsa3.jpg
-  tag: Washing baby Buddha at Unmunsa
-- path: unmunsa4.jpg
-  tag: Elaborate panelling at Unmunsa
-- path: unmunsa5.jpg
-  tag: Unmunsa Buddhist nun's temple
-- path: unmunsa6.jpg
-  tag: Unmunsa Buddhist nun's temple
-- path: unmunsa7.jpg
-  tag: Unmunsa Buddhist nun's temple
-- path: unmunsa_f1.jpg
-  tag: Feeding the pilgrims on Buddha's birthday
-- path: unmunsa_f2.jpg
-  tag: What each pilgrim gets
-- path: unmunsa_f3.jpg
-  tag: The washers uppers ready
-- path: unmunsa_shoes.jpg
-  tag: Shoes of the pilgrims
-- path: unmunsa_statue.jpg
-  tag: Goddess of mercy with donations
-- path: unmunsa_wash.jpg
-  tag: Ceremonial washing at Unmunsa
-- path: tongdosa.jpg
-  tag: Tongdosa service station
-- path: tongdosa_menu.jpg
-  tag: Tongdosa menu
-- path: udon.jpg
-  tag: Udon and fried tofu
-- path: jagalchi1.jpg
-  tag: Jagalchi fish market
-- path: jagalchi2.jpg
-  tag: Jagalchi fish market
-- path: jagalchi3.jpg
-  tag: One man band
-- path: jagalchi4.jpg
-  tag: Jagalchi fish market
-- path: jagalchi5.jpg
-  tag: Jagalchi fish market
-- path: jagalchi6.jpg
-  tag: Jagalchi fish market
-- path: jagalchi7.jpg
-  tag: Busan street
-- path: busan_tower.jpg
-  tag: Busan Tower
-- path: busan_tower2.jpg
-  tag: View from Busan Tower
-- path: busan_tower3.jpg
-  tag: Dragon at Busan Tower
-- path: busan_hotel.jpg
-  tag: Tower Hill Hotel at Busan
-- path: busan_foot_massage.jpg
-  tag: What you can have done to your feet
-- path: busan_mall.jpg
-  tag: Busan Mall
-- path: shabu_shabu2.jpg
-  tag: Shabu Shabu restaurant in the mall
-- path: shabu_shabu.jpg
-  tag: Shabu Shabu dish before self-cooking
----
-![The dammed Lake Unmun](unmun_lake.jpg)
+@title		Buddha's birthday and Busan
+@date		May 14th 2016
+@inset		unmun_lake.jpg
+@markdown
 Buddha's birthday today and [Unmunsa Buddhist Nun's temple](http://www.unmunsa.or.kr/) was packed! But before that we
 stopped at a dammed Lake Unmun which cost hundreds of villagers their homes. It was dammed for
 irrigation. The coach got caught up in a massive tailback to the temple, and we had to
@@ -96,7 +17,8 @@ kind of garden with Buddhist sculptures on which coins had lodged. I feel embarr
 there as a tourist, somehow diluting the moment for the worshippers - perhaps though many
 were there for the experience not as devout believers.
 
-![Tongdosa service station](tongdosa.jpg)
+@inset		tongdosa.jpg
+@markdown
 Onto a service station at Tongdosa where I had udon noodles with fried tofu - another job
 where you order at a counter and get a number. I also tried (with the guide's help)
 walnut balls which proved to be warm (best warm) pastry covered bean curd with walnut
@@ -122,7 +44,8 @@ clear day over Busan. Then we walked to the
 routers in each room) and waited for the coach to be able to reach us with our
 baggage. We only found one lift in the Tower Hill hotel to start with which was inconvenient.
 
-![Shabu Shabu restaurant in the mall](shabu_shabu2.jpg)
+@inset		shabu_shabu2.jpg
+@markdown
 In the evening (it was in the evening when we eventually reached our rooms) I walked to the
 [Lotte Department Store Busan](http://english.visitkorea.or.kr/enu/SHP/SH_EN_7_2.jsp?cid=273787) and
 got too close to a Shabu Shabu bar, letting myself be talked into trying one of the

@@ -1,19 +1,7 @@
----
-date: September 11th 2018
-anchors:
-- Fondation Monet in Giverny
-title: Honfleur
-images:
-- path: honfleur2.jpg
-  tag: Inside Monet's house
-- path: honfleur1.jpg
-  tag: The gardens
-- path: honfleur3.jpg
-  tag: The Japanese garden
-- path: honfleur4.jpg
-  tag: The inexorable shop
----
-![The gardens](honfleur1.jpg)
+@title		Honfleur
+@date		September 11th 2018
+@inset		honfleur1.jpg
+@markdown
 A long pilgrimage by coach to worship at Monet's house and garden
 in Giverny. This is a very popular
 [site](http://giverny.org/gardens/fcm/visitgb.htm), and the narrow
@@ -25,7 +13,8 @@ Japanese gardens over the road (accessed by an underpass sponsored
 by a Japanese) are very photogenic. In the house you see shadows
 left by Monet.
 
-![The Japanese garden](honfleur3.jpg)
+@inset		honfleur3.jpg
+@markdown
 I did wonder why everyone had come to this temple of Art. Was it
 in the hope that some greatness might rub off, like people visit
 temples in the hope holiness will rub off? Or was it on the official

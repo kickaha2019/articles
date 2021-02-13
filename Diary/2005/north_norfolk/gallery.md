@@ -1,8 +1,9 @@
-![Classical merry go round at the Thursford Collection](merrygoround.jpg)
-![Old fairground organ](fairground_organ.jpg)
-![Blakeney point](blakeney_point.jpg)
-![An oyster catcher nesting (as they do) in the rough](oyster_catcher.jpg)
-![Not much of a nest eh?](nest.jpg)
-![We took a boat ride to see seals at Blakeney Point](seals.jpg)
-![A single seal](single_seal.jpg)
-![Sandringham](sandringham.jpg)
+@gallery
+merrygoround.jpg		Classical merry go round at the Thursford Collection
+fairground_organ.jpg		Old fairground organ
+blakeney_point.jpg		Blakeney point
+oyster_catcher.jpg		An oyster catcher nesting (as they do) in the rough
+nest.jpg		Not much of a nest eh?
+seals.jpg		We took a boat ride to see seals at Blakeney Point
+single_seal.jpg		A single seal
+sandringham.jpg		Sandringham

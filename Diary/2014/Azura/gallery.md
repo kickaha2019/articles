@@ -1,125 +1,126 @@
-![The terminal in Southampton with the huge Azura behind it](terminal.JPG)
-![Cars being unloaded](unloading.JPG)
-![Baggage waiting to be shipped onboard](cases.JPG)
-![Waiting to go to a desk to be processed](processing.JPG)
-![The end of the maze and onto the ship!](end_of_maze.JPG)
-![The impressive atrium on the Azura](atrium.JPG)
-![The muster drill - a dress rehearsal for abandoning ship](muster.JPG)
-![Laundrette on our deck on Azura](laund_door.JPG)
-![Inside the laundrette on Azura](laund_inside.JPG)
-![Laundrette washers](washers.JPG)
-![Plumbing for the washer dryers](laund_plumbing.JPG)
-![Laundrette sink](laund_sink.JPG)
-![Wiring diagram for laundrette](laund_diagram.JPG)
-![Line dancing in the atrium on Azura](line_dancing1.JPG)
-![Individuals yet a group](line_dancing2.JPG)
-![800 seat Playhouse on the Azura - not big enough for a 3000 passenger ship!](playhouse.JPG)
-![Malabar used for some entertainments](malabar.JPG)
-![The stages had professional lighting and sound systems](stage_lighting.JPG)
-![People filing off the ship in Gibraltar](leaving_ship.JPG)
-![Scoops for dredging?](scoops1.JPG)
-![They resembled monstrous metal spiders](scoops2.JPG)
-![Our second visit to Gibraltar](gibraltar.JPG)
-![Gate into Casemates Square in Gibraltar](casemates_gate.JPG)
-![Gibraltar invaded by tourists](invasion.JPG)
-![Busker blowing big bubbles in Gibraltar](bubbles.JPG)
-![Chimney stacks at a port factory at Gibraltar](towers.JPG)
-![Our coach to Mt Etna](coach.JPG)
-![Coach certificate](certificate.JPG)
-![Hills around Mt Etna](hills.JPG)
-![Volcanic debris at Mt Etna](debris.JPG)
-![Grass trying to recolonise the volcanic soil](grass.JPG)
-![Twisted rock from lava flow at Mt Etna](lava_flow.JPG)
-![One of the Silvestri craters at Mt Etna](crater.JPG)
-![Volcanoes leave almost a moonscape](crater2.JPG)
-![Colours from inside the earth](sulphur.JPG)
-![Looking towards the summit of Mt Etna](summit.JPG)
-![Corfu: metal sculpture or derelict sign? Perhaps both!](sign.JPG)
-![Might not pass the MOT in the UK](car.JPG)
-![Parade of scooters in Corfu](scooters.JPG)
-![A factory which has seen better days in Corfu](factory.JPG)
-![Our good ship Azura at Corfu](ship.JPG)
-![Approaching Dubrovnik from sea](approaching.JPG)
-![Dubrovnik's walls facing the sea](seawalls.JPG)
-![Glass ornaments on sale](ornaments.JPG)
-![Dubrovnik city square](square.JPG)
-![Lady clad in traditional costume](traditional.JPG)
-![Dalmatian dogs come from the Dubrovnik area](dog.JPG)
-![Food stall to attract the tourists in Dubrovnik](food.JPG)
-![Refreshment shoppe in Dubrovnik](shop.JPG)
-![Ice cream to relieve the heat](ice_cream.JPG)
-![The Ventura moored behind us at Dubrovnik](ventura.JPG)
-![St Marks Square Venice from Azura sailing in](st_marks_square.JPG)
-![Bridge of Sighs in Venice](bridge_of_sighs.JPG)
-![Lion on pedestal at St Marks Square](lion.JPG)
-![15 was our tour party](parties.JPG)
-![Doge's Palace in Venice exterior](doge_palace1.JPG)
-![Doge's Palace interior](doge_palace.JPG)
-![Where to post denunciations in the Doge's Palace](denounce.JPG)
-![24-hour clock in Doge's Palace](venice_clock.JPG)
-![Zodiac clock in Doge's Palace](zodiac.JPG)
-![Gondolas for the gondola ride in Venice](gondolas1.JPG)
-![Us on our gondola](gondolas2.JPG)
-![Our gondolier](gondolier.JPG)
-![Gondola ride](canal1.JPG)
-![Gondola ride](canal2.JPG)
-![Gondola ride passing restaurant](ristorante.JPG)
-![Gondola ride on Grand Canal](canal3.JPG)
-![St Marks Basilica in Venice](basilica.JPG)
-![Entering Malta harbour](entering.JPG)
-![Tug for refuelling Azura at Malta](tug.JPG)
-![Entering Mdina in Malta](mdina1.JPG)
-![Mdina street](mdina2.JPG)
-![Mdina street](mdina4.JPG)
-![Mdina street](mdina5.JPG)
-![Mdina cathedral](mdina3.JPG)
-![Gravestone floor](gravestones.JPG)
-![Picture in the cathedral](malta_church.JPG)
-![Cathedral altar](altar.JPG)
-![Palazzo Paradiso in Malta](palazzo0.JPG)
-![Palazzo ceiling](palazzo1.JPG)
-![Palazzo dining room](palazzo2.JPG)
-![Palazzo hall](palazzo3.JPG)
-![Palazzo decoration](palazzo4.JPG)
-![Seventeen entrance on Azura](entrance.JPG)
-![The reception desk at Seventeen](desk.JPG)
-![Menus ready to be presented](menus.JPG)
-![Seventeen tables](tables.JPG)
-![Us at our table](us.JPG)
-![The menu](menu.JPG)
-![Warm bread to start the meal](bread.JPG)
-![Virginia's crayfish cocktail starter](crayfish_cocktail.JPG)
-![My ravioli starter](ravioli.JPG)
-![Gratuitous soup](soup.JPG)
-![We both had the lamb](lamb.JPG)
-![A gratuitous wobbly thingy](thingy.JPG)
-![Virginia had the brulee trio dessert](brulees.JPG)
-![I had the terrine dessert](terrine.JPG)
-![A post meal treat](coup_de_grace.JPG)
-![A good meal at Seventeen on Azura!](good_meal.JPG)
-![Cadiz postbox](postbox.JPG)
-![A handy municipal fountain in Cadiz](fountain.JPG)
-![A pleasant open area in Cadiz](area.JPG)
-![A water exhibit](fountain2.JPG)
-![Cadiz church](church.JPG)
-![Hall in Cadiz](hall.JPG)
-![Promenade deck side clock](clock.JPG)
-![Deck chairs](deck_chairs.JPG)
-![Hoses](hoses.JPG)
-![Ladder](ladder.JPG)
-![Lamp](lamp.JPG)
-![Life jackets](life_jackets.JPG)
-![Lifebelt](lifebelt.JPG)
-![Painter of the rope variety](painter.JPG)
-![Wet floor indicator](wet_floor.JPG)
-![Wire](wire.JPG)
-![Glass House bar and eaterie on Azura](glass_house.JPG)
-![Java bar](java_bar.JPG)
-![Appliances behind a bar](bar_appliances.JPG)
-![Our table in the Oriental Restaurant on Azura](our_table.JPG)
-![Dispensers for salt and pepper and sugar](dispensers.JPG)
-![The Azura atrium floor needed repair by the end of the cruise](atrium_repair.JPG)
-![It's all about money from one angle](flowers.JPG)
-![The miniscule library on Azura](library.JPG)
-![The Oriental Restaurant on Azura](oriental.JPG)
-![The art adorned stairwells](stairwell.JPG)
+@gallery
+terminal.JPG		The terminal in Southampton with the huge Azura behind it
+unloading.JPG		Cars being unloaded
+cases.JPG		Baggage waiting to be shipped onboard
+processing.JPG		Waiting to go to a desk to be processed
+end_of_maze.JPG		The end of the maze and onto the ship!
+atrium.JPG		The impressive atrium on the Azura
+muster.JPG		The muster drill - a dress rehearsal for abandoning ship
+laund_door.JPG		Laundrette on our deck on Azura
+laund_inside.JPG		Inside the laundrette on Azura
+washers.JPG		Laundrette washers
+laund_plumbing.JPG		Plumbing for the washer dryers
+laund_sink.JPG		Laundrette sink
+laund_diagram.JPG		Wiring diagram for laundrette
+line_dancing1.JPG		Line dancing in the atrium on Azura
+line_dancing2.JPG		Individuals yet a group
+playhouse.JPG		800 seat Playhouse on the Azura - not big enough for a 3000 passenger ship!
+malabar.JPG		Malabar used for some entertainments
+stage_lighting.JPG		The stages had professional lighting and sound systems
+leaving_ship.JPG		People filing off the ship in Gibraltar
+scoops1.JPG		Scoops for dredging?
+scoops2.JPG		They resembled monstrous metal spiders
+gibraltar.JPG		Our second visit to Gibraltar
+casemates_gate.JPG		Gate into Casemates Square in Gibraltar
+invasion.JPG		Gibraltar invaded by tourists
+bubbles.JPG		Busker blowing big bubbles in Gibraltar
+towers.JPG		Chimney stacks at a port factory at Gibraltar
+coach.JPG		Our coach to Mt Etna
+certificate.JPG		Coach certificate
+hills.JPG		Hills around Mt Etna
+debris.JPG		Volcanic debris at Mt Etna
+grass.JPG		Grass trying to recolonise the volcanic soil
+lava_flow.JPG		Twisted rock from lava flow at Mt Etna
+crater.JPG		One of the Silvestri craters at Mt Etna
+crater2.JPG		Volcanoes leave almost a moonscape
+sulphur.JPG		Colours from inside the earth
+summit.JPG		Looking towards the summit of Mt Etna
+sign.JPG		Corfu: metal sculpture or derelict sign? Perhaps both!
+car.JPG		Might not pass the MOT in the UK
+scooters.JPG		Parade of scooters in Corfu
+factory.JPG		A factory which has seen better days in Corfu
+ship.JPG		Our good ship Azura at Corfu
+approaching.JPG		Approaching Dubrovnik from sea
+seawalls.JPG		Dubrovnik's walls facing the sea
+ornaments.JPG		Glass ornaments on sale
+square.JPG		Dubrovnik city square
+traditional.JPG		Lady clad in traditional costume
+dog.JPG		Dalmatian dogs come from the Dubrovnik area
+food.JPG		Food stall to attract the tourists in Dubrovnik
+shop.JPG		Refreshment shoppe in Dubrovnik
+ice_cream.JPG		Ice cream to relieve the heat
+ventura.JPG		The Ventura moored behind us at Dubrovnik
+st_marks_square.JPG		St Marks Square Venice from Azura sailing in
+bridge_of_sighs.JPG		Bridge of Sighs in Venice
+lion.JPG		Lion on pedestal at St Marks Square
+parties.JPG		15 was our tour party
+doge_palace1.JPG		Doge's Palace in Venice exterior
+doge_palace.JPG		Doge's Palace interior
+denounce.JPG		Where to post denunciations in the Doge's Palace
+venice_clock.JPG		24-hour clock in Doge's Palace
+zodiac.JPG		Zodiac clock in Doge's Palace
+gondolas1.JPG		Gondolas for the gondola ride in Venice
+gondolas2.JPG		Us on our gondola
+gondolier.JPG		Our gondolier
+canal1.JPG		Gondola ride
+canal2.JPG		Gondola ride
+ristorante.JPG		Gondola ride passing restaurant
+canal3.JPG		Gondola ride on Grand Canal
+basilica.JPG		St Marks Basilica in Venice
+entering.JPG		Entering Malta harbour
+tug.JPG		Tug for refuelling Azura at Malta
+mdina1.JPG		Entering Mdina in Malta
+mdina2.JPG		Mdina street
+mdina4.JPG		Mdina street
+mdina5.JPG		Mdina street
+mdina3.JPG		Mdina cathedral
+gravestones.JPG		Gravestone floor
+malta_church.JPG		Picture in the cathedral
+altar.JPG		Cathedral altar
+palazzo0.JPG		Palazzo Paradiso in Malta
+palazzo1.JPG		Palazzo ceiling
+palazzo2.JPG		Palazzo dining room
+palazzo3.JPG		Palazzo hall
+palazzo4.JPG		Palazzo decoration
+entrance.JPG		Seventeen entrance on Azura
+desk.JPG		The reception desk at Seventeen
+menus.JPG		Menus ready to be presented
+tables.JPG		Seventeen tables
+us.JPG		Us at our table
+menu.JPG		The menu
+bread.JPG		Warm bread to start the meal
+crayfish_cocktail.JPG		Virginia's crayfish cocktail starter
+ravioli.JPG		My ravioli starter
+soup.JPG		Gratuitous soup
+lamb.JPG		We both had the lamb
+thingy.JPG		A gratuitous wobbly thingy
+brulees.JPG		Virginia had the brulee trio dessert
+terrine.JPG		I had the terrine dessert
+coup_de_grace.JPG		A post meal treat
+good_meal.JPG		A good meal at Seventeen on Azura!
+postbox.JPG		Cadiz postbox
+fountain.JPG		A handy municipal fountain in Cadiz
+area.JPG		A pleasant open area in Cadiz
+fountain2.JPG		A water exhibit
+church.JPG		Cadiz church
+hall.JPG		Hall in Cadiz
+clock.JPG		Promenade deck side clock
+deck_chairs.JPG		Deck chairs
+hoses.JPG		Hoses
+ladder.JPG		Ladder
+lamp.JPG		Lamp
+life_jackets.JPG		Life jackets
+lifebelt.JPG		Lifebelt
+painter.JPG		Painter of the rope variety
+wet_floor.JPG		Wet floor indicator
+wire.JPG		Wire
+glass_house.JPG		Glass House bar and eaterie on Azura
+java_bar.JPG		Java bar
+bar_appliances.JPG		Appliances behind a bar
+our_table.JPG		Our table in the Oriental Restaurant on Azura
+dispensers.JPG		Dispensers for salt and pepper and sugar
+atrium_repair.JPG		The Azura atrium floor needed repair by the end of the cruise
+flowers.JPG		It's all about money from one angle
+library.JPG		The miniscule library on Azura
+oriental.JPG		The Oriental Restaurant on Azura
+stairwell.JPG		The art adorned stairwells

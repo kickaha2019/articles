@@ -1,18 +1,16 @@
----
-title: Shannara Chronicles (Series 1)
-image: shannara_chronicles.jpg
-details:
-  Drama: Shannara Chronicles (Series 1)
-  Country: USA
-  Director: Various
-  Writer: Terry Brooks adapted by  Alfred Gough and Miles Millar
-  Transmitted: '2016'
-  Cast: Poppy Drayton, Austin Butler, Ivana Baquero
-  Details: 10 episodes
-  Themes: Fantasy, Young Adult, Adventure, Romance
-  Links: ''
-layout: review
----
+@title		Shannara Chronicles (Series 1)
+@image		shannara_chronicles.jpg
+@list
+Drama		Shannara Chronicles (Series 1)
+Country		USA
+Director		Various
+Writer		Terry Brooks adapted by  Alfred Gough and Miles Millar
+Transmitted		2016
+Cast		Poppy Drayton, Austin Butler, Ivana Baquero
+Details		10 episodes
+Themes		Fantasy, Young Adult, Adventure, Romance
+Links		
+@markdown
 Three young adults in a fantasy world find themselves on a quest
 to stop a dark power returning to kill everyone. They have a
 varied series of cliffhanger adventures while working out their

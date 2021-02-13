@@ -1,15 +1,13 @@
----
-title: Total Recall
-image: TotalRecall.jpg
-details:
-  Film: "[Total Recall](https://www.imdb.com/title/tt0100802/)"
-  Country: USA
-  Director: Paul Verhoeven
-  Year: '1990'
-  Cast: Arnold Schwarzenegger, Sharon Stone, Michael Ironside
-  Details: Colour 113 mins
-layout: review
----
+@title		Total Recall
+@image		TotalRecall.jpg
+@list
+Film		[Total Recall](https://www.imdb.com/title/tt0100802/)
+Country		USA
+Director		Paul Verhoeven
+Year		1990
+Cast		Arnold Schwarzenegger, Sharon Stone, Michael Ironside
+Details		Colour 113 mins
+@markdown
 A film inspired by a story by Philip K.
 Dick.  Arnold Schwarzenegger's role suits his
 acting style.

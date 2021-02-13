@@ -1,3 +1,4 @@
+@markdown
 The latest build is available at [Present Hunt](https://alofmethbin.com/Games/Maps/build/index.html).
 
 *Version 0.2*: First draft of game.

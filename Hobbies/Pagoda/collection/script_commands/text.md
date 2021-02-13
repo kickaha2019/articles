@@ -1,3 +1,4 @@
+@markdown
 The *text* command sets a variable to the text for the
 	current element on the HTML page.  An example:
 

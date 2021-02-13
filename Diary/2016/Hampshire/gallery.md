@@ -1,21 +1,22 @@
-![A reluctant Amelia](Amelia.JPG)
-![Tabitha is too tired to care](Tabitha.JPG)
-![Outside of holiday cottage](cottage_exterior.JPG)
-![Inside of holiday cottage](cottage_interior.JPG)
-![Our neighbours at the farm](sheep.JPG)
-![Hinton Ampner](hinton.JPG)
-![Hinton Ampner gardens](hinton_garden.JPG)
-![Jane Austen's home at Chawton](chawton.JPG)
-![Winchester Science Park](science_park.JPG)
-![Marwell Zoo](marwell_zoo.JPG)
-![Thomas Lord pub](thomas_lord.JPG)
-![Thomas Lord pub dessert](dessert.JPG)
-![Winchester Cathedral](cathedral.JPG)
-![Green Flag van for the punctured tyre](green_flag.JPG)
-![Tyre repair place](pets.JPG)
-![HMS Warrior](warrior.JPG)
-![HMS Warrior engines](warrior_engines.JPG)
-![HMS Warrior signal flags](signal_flags.JPG)
-![HMS Victory](victory.JPG)
-![Uppark](uppark.JPG)
-![Butser Ancient Farm](butser.JPG)
+@gallery
+Amelia.JPG		A reluctant Amelia
+Tabitha.JPG		Tabitha is too tired to care
+cottage_exterior.JPG		Outside of holiday cottage
+cottage_interior.JPG		Inside of holiday cottage
+sheep.JPG		Our neighbours at the farm
+hinton.JPG		Hinton Ampner
+hinton_garden.JPG		Hinton Ampner gardens
+chawton.JPG		Jane Austen's home at Chawton
+science_park.JPG		Winchester Science Park
+marwell_zoo.JPG		Marwell Zoo
+thomas_lord.JPG		Thomas Lord pub
+dessert.JPG		Thomas Lord pub dessert
+cathedral.JPG		Winchester Cathedral
+green_flag.JPG		Green Flag van for the punctured tyre
+pets.JPG		Tyre repair place
+warrior.JPG		HMS Warrior
+warrior_engines.JPG		HMS Warrior engines
+signal_flags.JPG		HMS Warrior signal flags
+victory.JPG		HMS Victory
+uppark.JPG		Uppark
+butser.JPG		Butser Ancient Farm

@@ -1,16 +1,13 @@
----
-title: Young Detective Dee
-image: young_detective_dee.jpg
-details:
-  Film: "&#29380;&#20161;&#20625;&#20043;&#31070;&#37117;&#40845;&#29579; ([Young
-    Detective Dee: Rise of the Sea Dragon](https://www.imdb.com/title/tt2992146/))"
-  Country: Hong Kong
-  Director: Tsui Hark
-  Year: '2013'
-  Cast: Angelababy, Mark Chao, Kun Chen
-  Details: Colour 134 mins
-layout: review
----
+@title		Young Detective Dee
+@image		young_detective_dee.jpg
+@list
+Film		&#29380;&#20161;&#20625;&#20043;&#31070;&#37117;&#40845;&#29579; ([Young Detective Dee: Rise of the Sea Dragon](https://www.imdb.com/title/tt2992146/))
+Country		Hong Kong
+Director		Tsui Hark
+Year		2013
+Cast		Angelababy, Mark Chao, Kun Chen
+Details		Colour 134 mins
+@markdown
 Prequel to [Detective Dee And The Phantom Menace](https://www.imdb.com/title/tt1123373/).
 The rule of the Empress Wu is threatened by a sinister conspiracy
 involving a sea dragon.  She handles the situation by assigning Detective

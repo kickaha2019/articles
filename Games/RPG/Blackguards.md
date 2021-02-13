@@ -1,10 +1,5 @@
----
-images:
-- path: Blackguards.jpg
-  tag: Blackguards
----
-![Blackguards](Blackguards.jpg)
-
+@image		Blackguards.jpg
+@markdown
 *Blackguards*
 ([Daedalic Entertainment](https://www.daedalic.com/?lang_new=en) 1993)
 is a turn-based RPG set in

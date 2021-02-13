@@ -1,6 +1,5 @@
----
-title: 6:Titles and icons for pages
----
+@title		6:Titles and icons for pages
+@markdown
 Most of the generated webpages will have on them a set of links
 either to their child pages, or to their sibling pages if there
 are no children. These links are displayed as an icon with a

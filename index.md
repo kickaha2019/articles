@@ -1,3 +1,1 @@
----
-title: Peter's Pages
----
+@title		Peter's Pages

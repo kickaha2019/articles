@@ -1,35 +1,36 @@
-![A kangaroo family](kangaroos.JPG)
-![An old dingo](dingo.JPG)
-![A freshwater crocodile](freshie.JPG)
-![A monitor lizard](monitor.JPG)
-![A jumping spider](jumping_spider.JPG)
-![Leichardt's grasshopper](leichardts.JPG)
-![Another Leichardt's grasshopper](leichardts2.JPG)
-![Masked plover](masked_plover.JPG)
-![Sulphur-crested cockatoo](sulphur_crested_cockatoo.JPG)
-![Comb-crested magpie geese](comb_crested_magpie_geese.JPG)
-![A crowd scene](crowd_scene.JPG)
-![Glossy ibis](glossy_ibis.JPG)
-![A jacana (or Jesus bird)](jacana.JPG)
-![Australian pratincole](pratincole.JPG)
-![White ibis](white_ibis.JPG)
-![Jabiru taking off](jabiru.JPG)
-![Yellow-billed spoonbill](spoonbill.JPG)
-![Grass prints Wall Art](grass_prints.JPG)
-![Running men Wall Art](running_men.JPG)
-![The rainbow serpent is a key dreamtime figure](rainbow_serpent.JPG)
-![Much more recent art - perhaps a Macassan ship](macassan_ship.JPG)
-![A picture of a thylacine or Tasmanian tiger](thylacine.JPG)
-![Forest burnt 2-3 weeks ago](recent_burning.JPG)
-![Paperbark swamp](paperbark.JPG)
-![Quinine tree](quinine.JPG)
-![River pandanus](river_pandanus.JPG)
-![Soapbush nibbled by leaf-cutter bees](soapbush.JPG)
-![The plane which brought me to the camp](plane.JPG)
-![The Rock country](rock_country.JPG)
-![The safari camp at Mount Borradaile](safari_camp.JPG)
-![My tent at the safari camp](my_tent.JPG)
-![Skinks on tent wall](skinks.JPG)
-![Billabong boat](billabong_boat.JPG)
-![A swimming hole used by the camp](swimming_pool.JPG)
-![Looking over a billabong in Arnhemland](billabong.JPG)
+@gallery
+kangaroos.JPG		A kangaroo family
+dingo.JPG		An old dingo
+freshie.JPG		A freshwater crocodile
+monitor.JPG		A monitor lizard
+jumping_spider.JPG		A jumping spider
+leichardts.JPG		Leichardt's grasshopper
+leichardts2.JPG		Another Leichardt's grasshopper
+masked_plover.JPG		Masked plover
+sulphur_crested_cockatoo.JPG		Sulphur-crested cockatoo
+comb_crested_magpie_geese.JPG		Comb-crested magpie geese
+crowd_scene.JPG		A crowd scene
+glossy_ibis.JPG		Glossy ibis
+jacana.JPG		A jacana (or Jesus bird)
+pratincole.JPG		Australian pratincole
+white_ibis.JPG		White ibis
+jabiru.JPG		Jabiru taking off
+spoonbill.JPG		Yellow-billed spoonbill
+grass_prints.JPG		Grass prints Wall Art
+running_men.JPG		Running men Wall Art
+rainbow_serpent.JPG		The rainbow serpent is a key dreamtime figure
+macassan_ship.JPG		Much more recent art - perhaps a Macassan ship
+thylacine.JPG		A picture of a thylacine or Tasmanian tiger
+recent_burning.JPG		Forest burnt 2-3 weeks ago
+paperbark.JPG		Paperbark swamp
+quinine.JPG		Quinine tree
+river_pandanus.JPG		River pandanus
+soapbush.JPG		Soapbush nibbled by leaf-cutter bees
+plane.JPG		The plane which brought me to the camp
+rock_country.JPG		The Rock country
+safari_camp.JPG		The safari camp at Mount Borradaile
+my_tent.JPG		My tent at the safari camp
+skinks.JPG		Skinks on tent wall
+billabong_boat.JPG		Billabong boat
+swimming_pool.JPG		A swimming hole used by the camp
+billabong.JPG		Looking over a billabong in Arnhemland

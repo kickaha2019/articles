@@ -1,3 +1,4 @@
+@markdown
 The *prune* script command stops looping over elements from an *Every* or
 	similar command.  It's used to abandon a search when certain conditions have
 	been satisfied.

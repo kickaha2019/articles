@@ -1,19 +1,16 @@
----
-title: My Girl
-image: my_girl.jpg
-details:
-  Drama: "&#47560;&#51060; &#44152; / My Girl"
-  Country: South Korea
-  Director: Jeon Ki-Sang, Bae Tae-Sub
-  Writer: Hong Jung-Eun, Hong Mi-Ran
-  Transmitted: 14th December 2005 to 2nd February 2006
-  Cast: Lee Dong-Wook, Lee Da-Hae, Lee Joon-Gi, Park Si-Yeon
-  Details: 16 episodes
-  Themes: Love triangles, impersonation
-  Links: "[Official website](http://allvod.sbs.co.kr/allvod/vodProgramDetail.do?pgmId=00000322657)
-    [Asian Wiki](http://asianwiki.com/My_Girl_(Korean_Drama))"
-layout: review
----
+@title		My Girl
+@image		my_girl.jpg
+@list
+Drama		&#47560;&#51060; &#44152; / My Girl
+Country		South Korea
+Director		Jeon Ki-Sang, Bae Tae-Sub
+Writer		Hong Jung-Eun, Hong Mi-Ran
+Transmitted		14th December 2005 to 2nd February 2006
+Cast		Lee Dong-Wook, Lee Da-Hae, Lee Joon-Gi, Park Si-Yeon
+Details		16 episodes
+Themes		Love triangles, impersonation
+Links		[Official website](http://allvod.sbs.co.kr/allvod/vodProgramDetail.do?pgmId=00000322657) [Asian Wiki](http://asianwiki.com/My_Girl_(Korean_Drama))
+@markdown
 The confidence trickster daughter of a gambling swindler is persuaded
 to pretend to be the long-lost granddaughter of a rich tycoon who's on
 his deathbed. Unfortunately her impersonation isn't a one night gig,

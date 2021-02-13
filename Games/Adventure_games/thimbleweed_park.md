@@ -1,10 +1,5 @@
----
-images:
-- path: thimbleweed_park.jpg
-  tag: Thimbleweed Park
----
-![Thimbleweed Park](thimbleweed_park.jpg)
-
+@image		thimbleweed_park.jpg
+@markdown
 [Thimbleweed Park](https://thimbleweedpark.com/) (2017) is a Kickstarted
 retro Adventure game created by Ron Gilbert and Gary Winnick.
 It is retro in its look (pixelated and limited colour palette), and also

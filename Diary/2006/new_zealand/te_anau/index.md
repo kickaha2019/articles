@@ -1,13 +1,7 @@
----
-title: Te Anau to Greymouth
-anchors:
-- Cascade Creek
-- Milford Sound
-- Mirror Lake
-- The Chasm
-date: 23rd February 2006
----
-![Lake near Te Anau](te_anau_lakes.jpg)
+@title		Te Anau to Greymouth
+@date		23rd February 2006
+@inset		te_anau_lakes.jpg
+@markdown
 Snow has fallen on the high hills. Rippled mirrors at Mirror Lakes. At Cascade Creek saw Robin and a small bird white fantail black stripe and needle tail single high pitched note. Cascade Creek had a wondrous beech (not true European beech) forest where green moss covered everything like unearthly snow. IPad recharged at Stewart Island not Te Anau. Robin is the white black striped fantails. Saw Kea at Chasm - albeit in the car park scrounging! This on the way from Te Anau to Milford Sound where I did a cruise.
 
 Fiordland is majestic - Doubtful Sound may have been less tourist infested but Milford Sound had stunning scenery. Homer Tunnel on way like mine, poorly lit and rough sided.

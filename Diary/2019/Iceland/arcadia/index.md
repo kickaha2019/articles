@@ -1,36 +1,6 @@
----
-date: July 20th 2019
-images:
-- path: beatrice.jpg
-  tag: Our soft toy Beatrice in the cabin
-- path: cabin_view.jpg
-  tag: View from our cabin complete with painter
-- path: meridian.jpg
-  tag: Meridian restaurant where we mostly dined in the evenings
-- path: belvedere.jpg
-  tag: The Belvedere buffet area
-- path: ocean_grill.jpg
-  tag: Ocean Grill restaurant
-- path: ocean_grill1.jpg
-  tag: Virginia in Ocean Grill
-- path: ocean_grill2.jpg
-  tag: My main in the Ocean Grill tasty
-- path: sindhu1.jpg
-  tag: Sindhu restaurant
-- path: bar.jpg
-  tag: Bar area on the Arcadia
-- path: jaws_mat.jpg
-  tag: Jaws mat for boarding tenders
-- path: promenade.jpg
-  tag: Promenade deck
-- path: prow.jpg
-  tag: Crew only prow area
-- path: theatre.jpg
-  tag: Palladium Theatre
-- path: farewell.jpg
-  tag: View of Arcadia after we disembarked
----
-![View from our cabin complete with painter](cabin_view.jpg)
+@date		July 20th 2019
+@inset		cabin_view.jpg
+@markdown
 We were in the same cabin E89 on the [Arcadia](https://www.pocruises.com/cruise-ships/arcadia/) as we had been before. [P&amp;O](https://www.pocruises.com/)
 laid on some special touches to welcome us back. To help us get going
 in the mornings when we were in port there could be enthusiastic banging
@@ -61,7 +31,8 @@ Britain cruise, but one before the [cruise](2018/Columbus) we did. The
 Columbus had problems and they didn't get to 3 ports of call! And only
 &pound;50 compensation per cabin.
 
-![Palladium Theatre](theatre.jpg)
+@inset		theatre.jpg
+@markdown
 The [Arcadia](https://www.pocruises.com/cruise-ships/arcadia/) has a decent theatre so you don't need to be at the front
 to see something. The Headliners company of singers and dancers were as
 impressive as ever, for the energy and smiles and ability they put into the shows.

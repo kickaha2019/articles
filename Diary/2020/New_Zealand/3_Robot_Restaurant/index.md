@@ -1,42 +1,6 @@
----
-date: January 7th 2020
-anchors:
-- Robot Restaurant
-images:
-- path: IMG_0728.jpg
-  tag: Outside
-- path: IMG_0641.jpg
-  tag: The warm up bar
-- path: IMG_0643.jpg
-  tag: Merchandise for sale
-- path: IMG_0649.jpg
-  tag: First show
-- path: IMG_0650.jpg
-  tag: First show
-- path: IMG_0653.jpg
-  tag: First show
-- path: IMG_0654.jpg
-  tag: First show
-- path: IMG_0659.jpg
-  tag: First show
-- path: IMG_0674.jpg
-  tag: Second show
-- path: IMG_0691.jpg
-  tag: Second show
-- path: IMG_0699.jpg
-  tag: Second show
-- path: IMG_0703.jpg
-  tag: Second show
-- path: IMG_0714.jpg
-  tag: Third show
-- path: IMG_0719.jpg
-  tag: Third show
-- path: IMG_0722.jpg
-  tag: Third show
-- path: IMG_0724.jpg
-  tag: Third show
----
-![The warm up bar](IMG_0641.jpg)
+@date		January 7th 2020
+@inset		IMG_0641.jpg
+@markdown
 Finding the [Robot Restaurant](https://shinjuku-robot.com/sp/)
 in Shinjuku was a little difficult despite it only being
 3 minutes from my hotel. [Hotel Gracery](https://shinjuku.gracery.com/)
@@ -53,7 +17,8 @@ where the show is performed between two banks of seats. The people in the front 
 have the best view but have to keep clear of the performance antics. You can buy food and
 merchandise, a European girl was selling drinks in lit up light bulbs.
 
-![First show](IMG_0649.jpg)
+@inset		IMG_0649.jpg
+@markdown
 The show is in
 three sections, the first has two drum teams battling it out, the second has
 fantastic animals battling robotic armies, and the last was clever with lights

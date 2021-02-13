@@ -1,16 +1,13 @@
----
-title: 'Along with the Gods: The Two Worlds'
-image: the_two_worlds.jpg
-details:
-  Film: "&#49888;&#44284;&#54632;&#44760;-&#51396;&#50752; &#48268; ([Along with the
-    Gods: The Two Worlds](https://www.imdb.com/title/tt7160070/))"
-  Country: South Korea
-  Director: Kim Yong-hua
-  Year: '2017'
-  Cast: Ha Jung-woo, Cha Tae-Hyun, Ju J-Hoon
-  Details: Colour 139 mins
-layout: review
----
+@title		Along with the Gods: The Two Worlds
+@image		the_two_worlds.jpg
+@list
+Film		&#49888;&#44284;&#54632;&#44760;-&#51396;&#50752; &#48268; ([Along with the Gods: The Two Worlds](https://www.imdb.com/title/tt7160070/))
+Country		South Korea
+Director		Kim Yong-hua
+Year		2017
+Cast		Ha Jung-woo, Cha Tae-Hyun, Ju J-Hoon
+Details		Colour 139 mins
+@markdown
 A heroic firefighter dies, and finds himself facing seven trials in the Buddhist
 afterlife in order to be reincarnated. This film and its sequel are based on a
 webcomic series "Singwa Hamgge" by Joo Ho-Min. Which in its turn is based on a

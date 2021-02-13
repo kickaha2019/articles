@@ -1,11 +1,11 @@
----
-title: Synchronized Accessible Media Interchange
----
+@title		Synchronized Accessible Media Interchange
+@markdown
 A format somewhat inspired by HTML. The files in this format
 I've come across have for some reason been in a variety of text
 encodings. A sample extract:
 
 ~~~
+@text
 <SAMI>
 <HEAD>
 <HEAD>
@@ -44,4 +44,3 @@ A second example excerpt showing how variable the files are:
 <SYNC Start=24690>
 
 ~~~
-

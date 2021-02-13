@@ -1,4 +1,2 @@
----
-title: Gamescom 2014
-date: 12th August 2014
----
+@title		Gamescom 2014
+@date		12th August 2014

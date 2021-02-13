@@ -1,7 +1,6 @@
----
-title: 2:Load on demand
-date: 16th September 2013
----
+@title		2:Load on demand
+@date		16th September 2013
+@markdown
 One of Armageddon's faults was slow initial loading of the first
 screen.  To get to the first screen the browser has to load the
 Javascript code which was in one .js file.

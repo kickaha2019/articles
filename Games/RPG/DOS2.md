@@ -1,10 +1,6 @@
----
-title: 'Divinity: Original Sin 2'
-images:
-- path: DOS2.jpg
----
-![Divinity: Original Sin 2](DOS2.jpg)
-
+@title		Divinity: Original Sin 2
+@image		DOS2.jpg
+@markdown
 [Divinity: Original Sin 2](https://divinity.game/)
 ([Larian Studios](https://larian.com/) 2017) is a
 turn-based RPG set in the fantasy land of Rivellon. You play

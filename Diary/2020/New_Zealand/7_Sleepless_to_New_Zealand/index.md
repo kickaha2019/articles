@@ -1,45 +1,6 @@
----
-date: January 9th 2020
-anchors:
-- Narita International Airport
-- LynnMall
-- Arataki Visitor Centre
-- Karekare Beach
-- Murrays Bay Beach
-- Blockhouse Bay Community Church
-images:
-- path: IMG_0842.jpg
-  tag: Narita Limousine Bus
-- path: IMG_0849.jpg
-  tag: First Class Rice
-- path: IMG_0847.jpg
-  tag: Tempura lunch
-- path: IMG_0851.jpg
-  tag: Narita shops
-- path: IMG_0852.jpg
-  tag: Narita shops
-- path: IMG_0853.jpg
-  tag: Narita shops
-- path: IMG_0875.jpg
-  tag: Arataki Visitor Centre
-- path: IMG_0894.jpg
-  tag: Kauri dieback protection
-- path: IMG_0895.jpg
-  tag: Kare Kare beach
-- path: IMG_0897.jpg
-  tag: Kare Kare beach
-- path: IMG_0901.jpg
-  tag: Jellyfish
-- path: IMG_0905.jpg
-  tag: Kare Kare beach
-- path: IMG_0908.jpg
-  tag: Water nice and warm here
-- path: IMG_0912.jpg
-  tag: Late flowering pohutukawa
-- path: IMG_1265.jpg
-  tag: Murrays Bay area
----
-![Narita Limousine Bus](IMG_0842.jpg)
+@date		January 9th 2020
+@inset		IMG_0842.jpg
+@markdown
 I had a second sleepless night at [Hotel Gracery](https://shinjuku.gracery.com/) so decided I couldn't risk any more
 tourism. A big shame as I was looking forward to seeing
 [teamLab Borderless](https://borderless.teamlab.art/), and also
@@ -63,7 +24,8 @@ and [The Confidence Man JP](https://www.imdb.com/title/tt9552258/) to pass the t
 In the toilet I pressed the wrong button to flush and instead had to explain to a
 stewardess there was no problem! I asked for water and they offered snacks as well very welcome.
 
-![Arataki Visitor Centre](IMG_0875.jpg)
+@inset		IMG_0875.jpg
+@markdown
 A big reason for going to New Zealand was to see Virginia's sister Vicky who lives in
 Auckland. Vicky and her husband Bruce looked after me very well, ferrying me to and from the airport
 as needed. Bruce took me to [LynnMall](https://www.kiwiproperty.com/lynnmall/en/)

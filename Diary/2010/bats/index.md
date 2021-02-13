@@ -1,9 +1,6 @@
----
-icon: bat.jpg
-anchors:
-- WWT Welney
-date: Friday, 6 August 2010
----
+@icon		bat.jpg
+@date		Friday, 6 August 2010
+@markdown
 This Friday evening I did something different. Rather than sleep in a cosy bed I went out to wander in the dark and wetness of a rainy fen. [Welney WWT centre](https://www.wwt.org.uk/wetland-centres/welney/)
 were having a bat and barn owl evening where you wander round with a guide learning about bats and barn owls. The closest we got to owls were their pellets, impressively sized. On bats we had more luck. Pipistrelles were darting around the centre as we arrived. In one of the lookout points they had an infrared camera set up and you could see Daubentons flitting over the surface of the pond, and pipistrelles higher up. Pipistrelles need to eat their own body weight each night in insects, 3000 worth - rather them than me.
 

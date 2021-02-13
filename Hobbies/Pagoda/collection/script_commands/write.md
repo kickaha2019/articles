@@ -1,3 +1,4 @@
+@markdown
 The *write* script command writes out a series of values (normally
 	to a file).  
 

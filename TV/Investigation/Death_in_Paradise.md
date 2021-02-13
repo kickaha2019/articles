@@ -1,16 +1,14 @@
----
-image: Death_in_Paradise.jpg
-details:
-  Drama: Death in Paradise
-  Country: Britain / France co-production
-  Creator: Robert Thorogood
-  Transmitted: 25th October 2011 onwards
-  Cast: Ben Miller, Kris Marshall, etc
-  Details: 8 episodes per season
-  Themes: Police, investigation, crime, Carribean
-  Links: "[BBC](https://www.bbc.co.uk/programmes/b01pvmf6)"
-layout: review
----
+@image		Death_in_Paradise.jpg
+@list
+Drama		Death in Paradise
+Country		Britain / France co-production
+Creator		Robert Thorogood
+Transmitted		25th October 2011 onwards
+Cast		Ben Miller, Kris Marshall, etc
+Details		8 episodes per season
+Themes		Police, investigation, crime, Carribean
+Links		[BBC](https://www.bbc.co.uk/programmes/b01pvmf6)
+@markdown
 The setting for **Death in Paradise** is lovely, the sun battered beaches
 of the Carribean, topical rainforests, a different background.
 The chemistry of the cast (in the first seasons at least) worked

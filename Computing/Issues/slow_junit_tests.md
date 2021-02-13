@@ -1,3 +1,4 @@
+@markdown
 [JUnit4](JUnit4) tests inside [Netbeans](https://netbeans.org/) ran slowly. Seemed to be a 5-second
 overhead per test class.
 

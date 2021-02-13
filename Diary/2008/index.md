@@ -1,3 +1,1 @@
----
-blurb: Gloucestershire and a weekend in Norwich
----
+@blurb		Gloucestershire and a weekend in Norwich

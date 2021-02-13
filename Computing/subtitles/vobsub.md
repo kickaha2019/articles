@@ -1,6 +1,5 @@
----
-title: VobSub subtitle format
----
+@title		VobSub subtitle format
+@markdown
 A format used to hold bitmapped subtitles for films on DVD disks. After ripping
 a DVD film to disk using something like [makemkv](http://makemkv.com/), the subtitle track can be
 extracted to the VobSub format (a .idx / .sub pair of files) using

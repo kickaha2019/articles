@@ -1,15 +1,13 @@
----
-title: The Butterfly Murders
-image: butterfly_murders.jpg
-details:
-  Film: The Butterfly Murders
-  Country: Hong Kong
-  Director: Tsui Hark
-  Year: '1979'
-  Cast: Lau Siu Ming, Michelle Mee
-  Details: Colour 90 minutes
-layout: review
----
+@title		The Butterfly Murders
+@image		butterfly_murders.jpg
+@list
+Film		The Butterfly Murders
+Country		Hong Kong
+Director		Tsui Hark
+Year		1979
+Cast		Lau Siu Ming, Michelle Mee
+Details		Colour 90 minutes
+@markdown
 Plot: a writer seeks to record the happenings
 in war-torn medieval China.  He goes to investigate
 reports of homicidal butterflies at a remote castle.

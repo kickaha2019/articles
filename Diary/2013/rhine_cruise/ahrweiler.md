@@ -1,38 +1,7 @@
----
-title: Ahrweiler and Maasmechelen
-anchors:
-- Ahrweiler
-- Maasmechelen Village
-date: 17th October 2013
-images:
-- path: DSCF4762.JPG
-  tag: Ahrweiler town gates
-- path: DSCF4764.JPG
-  tag: Street in Ahrweiler
-- path: DSCF4770.JPG
-  tag: Building in Ahrweiler
-- path: DSCF4771.JPG
-  tag: Decorated window in Ahrweiler
-- path: DSCF4774.JPG
-  tag: Church in Ahrweiler
-- path: DSCF4775.JPG
-  tag: Garage door in Ahrweiler
-- path: DSCF4776.JPG
-  tag: Garage door closeup in Ahrweiler
-- path: DSCF4779.JPG
-  tag: Inside the church in Ahrweiler
-- path: DSCF4781.JPG
-  tag: Inside the church in Ahrweiler
-- path: DSCF4783.JPG
-  tag: Repel the demons sign
-- path: DSCF4784.JPG
-  tag: Our guide Toni for Ahrweiler
-- path: DSCF4787.JPG
-  tag: Virginia at the Maasmechelen Chic Shopping Centre
-- path: DSCF4790.JPG
-  tag: Cow outside Novotel in Valenciennes
----
-![Ahrweiler town gates](DSCF4762.JPG)
+@title		Ahrweiler and Maasmechelen
+@date		17th October 2013
+@inset		DSCF4762.JPG
+@markdown
 On Thursday (17th) we started our way back down the Rhine,
 dropping into Andernach where we had an excursion to the walled
 town of Ahrweiler.  Very pretty with a range of olden architectural
@@ -54,7 +23,8 @@ the gold coach with the late bookers fared much worse - the manager
 walked out apparently of their hotel because of having to deal
 with two coaches leaving a poor girl to do everything.
 
-![Cow outside Novotel in Valenciennes](DSCF4790.JPG)
+@inset		DSCF4790.JPG
+@markdown
 Saturday (19th) we had a relatively short trip to Calais after some
 frozen scrambled eggs for breakfast, took
 a long time to get through British passport control, then onto a

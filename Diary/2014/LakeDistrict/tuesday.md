@@ -1,15 +1,7 @@
----
-title: Beatrix Potter day
-anchors:
-- Hill Top Beatrix Potter House
-date: May 13th 2014
-images:
-- path: beatrix_house.JPG
-  tag: Hill Top
-- path: beatrix_flowers.JPG
-  tag: Flowers at Hill Top
----
-![Hill Top](beatrix_house.JPG)
+@title		Beatrix Potter day
+@date		May 13th 2014
+@inset		beatrix_house.JPG
+@markdown
 Tuesday and we ventured to see [Hill Top](https://www.nationaltrust.org.uk/hill-top), a house
 belonging to Beatrix Potter.  A place of pilgrimage for Japanese as much as for English, I
 don't know why.  The Satnav wasn't entirely to blame when it led us on a route which culminated

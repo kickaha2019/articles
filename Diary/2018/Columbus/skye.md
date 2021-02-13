@@ -1,20 +1,7 @@
----
-date: September 4th 2018
-anchors:
-- Dunvegan Castle
-- Old School Restaurant
-- Kilt Rock
-- The Roses B&B
-title: Skye
-images:
-- path: skye1.jpg
-  tag: Dunvegan Castle
-- path: skye2.jpg
-  tag: Dunvegan Castle
-- path: skye3.jpg
-  tag: Kilt Rock
----
-![Dunvegan Castle](skye1.jpg)
+@title		Skye
+@date		September 4th 2018
+@inset		skye1.jpg
+@markdown
 We had a very pleasant time with our friends Andy and Lianna on
 the Isle of Skye, they run [The Roses B&B](https://www.therosesbb.co.uk/en-GB) there.
 Skye seems to have a lot of B&Bs, it also has a lot of potholes in the
@@ -27,7 +14,8 @@ of the Skye Boat Song fame. The founders of the Macleod clan seemed to
 have Viking style names to me. Dunvegan also has a decent garden with
 a natural looking waterfall in it.
 
-![Kilt Rock](skye3.jpg)
+@inset		skye3.jpg
+@markdown
 We dined at the [Old School Restaurant](http://www.oldschoolrestaurant.co.uk/),
 which was a challenge for Andy to park at. Good place to eat at. Old school is
 good school to me.

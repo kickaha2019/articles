@@ -1,79 +1,6 @@
----
-date: March 15th 2015
-anchors:
-- Tromso
-- Arctic Cathedral
-images:
-- path: fjord1.JPG
-  tag: Crusing through the fjords
-- path: fjord2.JPG
-  tag: Crusing through the fjords
-- path: fjord3.JPG
-  tag: Crusing through the fjords
-- path: fjord4.JPG
-  tag: Crusing through the fjords
-- path: fjord5.JPG
-  tag: Crusing through the fjords
-- path: fjord6.JPG
-  tag: Crusing through the fjords
-- path: fjord_mount_hole.JPG
-  tag: Mountain with a hole in it
-- path: arctic_globe.JPG
-  tag: Arctic Globe
-- path: tromso_boud.JPG
-  tag: Boudicca moored in Tromso
-- path: tromso_bridge.JPG
-  tag: A Tromso bridge
-- path: tromso_bridge2.JPG
-  tag: A Tromso bridge
-- path: tromso_church.JPG
-  tag: Church in Tromso
-- path: tromso_church_fore1.JPG
-  tag: Church in Tromso
-- path: tromso_church_fore2.JPG
-  tag: Church in Tromso
-- path: tromso_gifts.JPG
-  tag: Gift shop we got postcards at in Tromso
-- path: tromso_hall.JPG
-  tag: Large building in Tromso
-- path: tromso_tents.JPG
-  tag: Not sure what this was for!
-- path: tromso_me.JPG
-  tag: Me in Tromso
-- path: tromso_ac.JPG
-  tag: Arctic Cathedral in Tromso
-- path: tromso_ac_candles.JPG
-  tag: Arctic Cathedral candles
-- path: tromso_ac_front.JPG
-  tag: Arctic Cathedral front
-- path: tromso_ac_inside.JPG
-  tag: Arctic Cathedral inside
-- path: tromso_ac_organ.JPG
-  tag: Arctic Cathedral organ
-- path: tromso_ac_outside.JPG
-  tag: Arctic Cathedral
-- path: tromso_rein1.JPG
-  tag: The reindeer
-- path: tromso_rein_party.JPG
-  tag: Reindeer sledging
-- path: tromso_rein_party2.JPG
-  tag: Reindeer sledging
-- path: tromso_rein_us.JPG
-  tag: Our reindeer pulling us along
-- path: tromso_rein_lasso.JPG
-  tag: An activity was lassooing reindeer horns
-- path: tromso_rein_tent.JPG
-  tag: Sami tent
-- path: tromso_rein_sami.JPG
-  tag: Traditional Sami dress
-- path: tromso_rein_tent_inside.JPG
-  tag: Inside the Sami tent
-- path: tromso_rein_tent_v.JPG
-  tag: Virginia in the Sami tent
-- path: tromso_rein_fire.JPG
-  tag: Fire in the larvvo
----
-![Crusing through the fjords](fjord1.JPG)
+@date		March 15th 2015
+@inset		fjord1.JPG
+@markdown
 We stayed two days in Tromso inside the Arctic Circle, reaching there by
 sailing through majestic fjords where trees cling surreptitiously to white capped
 mountains. Houses where houses should not be, a mountain with a hole in it
@@ -87,7 +14,8 @@ Nothing. And then I saw a faint wisp to the right . . . colourless vague just it
 shouldn't be there. Tick. Done. Not as impressive as when captured on camera,
 but auroras must vary in strength too.
 
-![Reindeer sledging](tromso_rein_party.JPG)
+@inset		tromso_rein_party.JPG
+@markdown
 Not content with gingerly walking around Tromso on foot (piles of snow and icy paths) and
 getting postcards to send off we also went reindeer sledging, getting there by a
 tunnel with subterranean roundabout. Disconcerting the way the
