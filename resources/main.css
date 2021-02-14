@@ -21,7 +21,8 @@ p {margin-top: 0px}
 .breadcrumbs {display: block}
 .right {float: right; margin: 0 0 10px 10px}
 .left {float: left; margin: 0 10px 10px 0}
-.centre {margin-left: auto; margin-right: auto; display: block;}
+.centre {margin-left: auto; margin-right: auto; display: block;
+         margin-top: 0px; margin-bottom: 1em;}
 
 .story {min-width: 185px; padding-left: 15px; padding-top: 10px;
         box-sizing: border-box; overflow: hidden}
@@ -102,7 +103,7 @@ table td {padding: 5px; border-style: solid;
 td p {margin: 0px}
 table.list th {text-align: left}
 
-table {margin-left: auto; margin-right: auto}
+table {margin-left: auto; margin-right: auto; margin-bottom: 1em}
 div.list, div.table {padding-bottom: 20px}
 
 @media all and (min-width: 768px) {

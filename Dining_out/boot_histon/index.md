@@ -15,4 +15,4 @@ P1380802.JPG		The front of the Boot
 P1380796.JPG		The back of the Boot
 P1380799.JPG		Part of the dining area
 P1380798.JPG		The kitchen area
-IMG_1759.jpeg		My favourite - a pistacho souffl&eacute; with chocolate ice cream
+IMG_1759.jpg		My favourite - a pistacho souffl&eacute; with chocolate ice cream
