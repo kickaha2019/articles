@@ -5,7 +5,6 @@ I've come across have for some reason been in a variety of text
 encodings. A sample extract:
 
 ~~~
-@text
 <SAMI>
 <HEAD>
 <HEAD>
@@ -28,8 +27,8 @@ Once every 120 years...
 <SYNC Start=40647><P Class=ENCC>
 <SYNC Start=42315><P Class=ENCC>
 A "shinigami" appears<br>from the eastern seas.
-
 ~~~
+
 A second example excerpt showing how variable the files are:
 
 ~~~
@@ -42,5 +41,4 @@ A second example excerpt showing how variable the files are:
 <SYNC Start=21690>
 <P Class=EN-AUCC><i>{\fs18}<font color=00ffff>I have X-ray eyes 
 <SYNC Start=24690>
-
 ~~~

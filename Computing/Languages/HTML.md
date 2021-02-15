@@ -15,7 +15,6 @@ can be absolutely positioned elements or a centred TABLE.
 So the HTML is like:
 
 ~~~
-@text
 <HTML>
     <BODY>
 	<CENTER>
@@ -25,8 +24,8 @@ So the HTML is like:
 	<CENTER>
     </BODY>
 </HTML>
-
 ~~~
+
 It's not fashionable but I use TABLEs a lot for layout.
 I just find them easier for me to work with.  Your
 mileage may vary.

@@ -16,7 +16,7 @@ the different websites are not consistent. People have tried
 to compare those ranks - see [Rank - worldwide comparison](https://senseis.xmp.net/?RankWorldwideComparison).
 
 There are some good lists of online Go servers on the Internet - for instance
-[Sensei'sLibrary](https://senseis.xmp.net/?GoServers) and [American Go Assocation](https://www.usgo.org/go-internet). *Real time* here is playing a game in real time,
+[Sensei's Library](https://senseis.xmp.net/?GoServers) and [American Go Assocation](https://www.usgo.org/go-internet). *Real time* here is playing a game in real time,
 *turn based* is more logging in every so often to see if your opponent
 has played a move, and being under no time pressure to play your next move.
 *Browser*, *Android*, etc
@@ -26,7 +26,7 @@ indicate what clients are available to play on the particular server.
 
 |Server|Real time|Turn based|Browser|Android|iOS|Mac|Windows|
 |-|-|-|-|-|-|-|-|
-|[Color Go Server](https://www.colorgoserver.com/|&check;||&check;|
+|[Color Go Server](https://www.colorgoserver.com/)|&check;||&check;|
 |[Dragon Go Server](https://www.dragongoserver.net/)||&check;|&check;|
 |[FoxGo](https://www.foxwq.com/soft/foreign.html)|&check;|||&check;|&check;||&check;|
 |[Go Quest](http://wars.fm/go9)|&check;||&check;|&check;|&check;|
